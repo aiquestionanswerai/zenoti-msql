@@ -50,7 +50,7 @@ if not all([SERVER, DATABASE, TABLE, CSV_FILE, DB_USER, DB_PASSWORD]):
 # Build Connection String
 # ==================================
 conn_str = (
-    f"DRIVER={{ODBC Driver 17 for SQL Server}};"
+    f"DRIVER={{ODBC Driver 18 for SQL Server}};"
     f"SERVER={SERVER};"
     f"DATABASE={DATABASE};"
     f"UID={DB_USER};"
