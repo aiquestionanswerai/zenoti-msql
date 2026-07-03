@@ -61,7 +61,15 @@ ORDER BY ORDINAL_POSITION
 cursor.execute(sql)
 sql_columns = [row[0] for row in cursor.fetchall()]
 
-print(f"Found {len(sql_columns)} SQL columns")
+identity_sql = f"""
+SELECT COLUMN_NAME
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = '{TABLE}' AND COLUMNPROPERTY(OBJECT_ID(TABLE_SCHEMA + '.' + TABLE_NAME), COLUMN_NAME, 'IsIdentity') = 1
+"""
+cursor.execute(identity_sql)
+identity_columns = [row[0] for row in cursor.fetchall()]
+
+print(f"Found {len(sql_columns)} SQL columns (identity: {', '.join(identity_columns) if identity_columns else 'none'})")
 
 # ==================================
 # Load CSV
@@ -249,7 +257,7 @@ data_to_insert = df.astype(object).where(df.notnull(), None).values.tolist()
 try:
     cursor.executemany(insert_sql, data_to_insert)
     conn.commit()
-    print(f"Inserted {len(df):,} rows successfully.")
+    print(f"Inserted {len(df):,} rows successfully from {os.path.basename(CSV_FILE)}.")
 except (pyodbc.DataError, pyodbc.ProgrammingError) as e:
     print(f"Data insertion failed: {e}")
     conn.rollback()

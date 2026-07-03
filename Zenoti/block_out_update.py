@@ -79,7 +79,8 @@ logging.basicConfig(
 # ==================================
 try:
     df = pd.read_csv(CSV_FILE, dtype=str, keep_default_na=False)
-    logging.info(f"Found {len(df):,} rows in {CSV_FILE}")
+    logging.info(f"Processing CSV: {CSV_FILE}")
+    logging.info(f"Found {len(df):,} rows in {os.path.basename(CSV_FILE)}")
 except FileNotFoundError:
     raise FileNotFoundError(f"The specified CSV file was not found: {CSV_FILE}")
 
