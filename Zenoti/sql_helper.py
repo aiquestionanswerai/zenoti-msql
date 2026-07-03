@@ -1,5 +1,6 @@
 import os
 import re
+import logging
 from datetime import datetime
 import pyodbc
 from dotenv import load_dotenv
@@ -26,6 +27,19 @@ conn_str = (
 )
 
 CSV_SOURCE = os.getenv("CSV_SOURCE", "local").lower()
+
+log_dir = os.path.join(os.path.dirname(__file__), "logs")
+os.makedirs(log_dir, exist_ok=True)
+log_file = os.path.join(log_dir, f"sql_helper_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt")
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.FileHandler(log_file),
+        logging.StreamHandler(),
+    ],
+)
 
 TABLE_CONFIG = [
     {
@@ -79,10 +93,15 @@ def delete_data_for_range(cursor, table, date_column, start_date, end_date):
 
 
 def main():
+    logging.info("sql_helper started")
+    logging.info(f"CSV source: {CSV_SOURCE}")
+    logging.info(f"Database: {SERVER}/{DATABASE}")
+
     credentials_json = os.getenv("GDRIVE_CREDENTIALS_JSON")
     credentials_file = os.getenv("GDRIVE_CREDENTIALS_FILE", "service_account.json")
 
     conn = pyodbc.connect(conn_str)
+    logging.info("Connected to database")
     cursor = conn.cursor()
 
     total_deleted = 0
@@ -90,17 +109,21 @@ def main():
     for config in TABLE_CONFIG:
         table = os.getenv(config["table_env"])
         if not table:
-            print(f"SKIP: {config['table_env']} not set in env")
+            logging.warning(f"SKIP: {config['table_env']} not set in env")
             continue
+
+        logging.info(f"Processing {config['table_env']} → {table}")
 
         folder_id = os.getenv(config["folder_env"])
 
         if CSV_SOURCE == "gdrive" and folder_id:
+            logging.info(f"Listing files from GDrive folder: {folder_id}")
             filenames = list_csv_filenames(
                 folder_id,
                 credentials_json=credentials_json,
                 credentials_file=credentials_file,
             )
+            logging.info(f"Found {len(filenames)} file(s): {filenames}")
         else:
             csv_path = os.getenv(f"CSV_FILE_{config['table_env'].replace('TABLE_', '')}")
             if csv_path and os.path.isdir(csv_path):
@@ -108,30 +131,39 @@ def main():
             elif csv_path:
                 filenames = [os.path.basename(csv_path)]
             else:
-                print(f"SKIP: No CSV source found for {config['table_env']}")
+                logging.warning(f"SKIP: No CSV source found for {config['table_env']}")
                 continue
+            logging.info(f"Local files: {filenames}")
 
         start_date, end_date = extract_date_range(filenames, config["csv_prefix"])
 
         if not start_date or not end_date:
-            print(f"SKIP: No date range found in filenames for {config['csv_prefix']}. Files: {filenames}")
+            logging.warning(f"SKIP: No date range found in filenames for prefix '{config['csv_prefix']}'. Files: {filenames}")
             continue
 
-        # Convert YYYY-MM-DD from filename to match each table's stored date format
+        logging.info(f"Extracted date range from filename: {start_date} to {end_date}")
+
         date_fmt = config["date_format"]
         start_date = datetime.strptime(start_date, "%Y-%m-%d").strftime(date_fmt)
         end_date = datetime.strptime(end_date, "%Y-%m-%d").strftime(date_fmt)
 
-        print(f"Deleting from {table} where [{config['date_column']}] between {start_date} and {end_date}...")
-        deleted = delete_data_for_range(cursor, table, config["date_column"], start_date, end_date)
-        print(f"Deleted {deleted:,} rows from {table}.")
-        total_deleted += deleted
+        logging.info(f"Deleting from {table} where [{config['date_column']}] between {start_date} and {end_date}...")
+
+        try:
+            deleted = delete_data_for_range(cursor, table, config["date_column"], start_date, end_date)
+            logging.info(f"Deleted {deleted:,} rows from {table}.")
+            total_deleted += deleted
+        except pyodbc.Error as e:
+            logging.error(f"DELETE failed for {table}: {e}")
+            conn.rollback()
+            raise
 
     conn.commit()
+    logging.info("Transaction committed.")
     cursor.close()
     conn.close()
 
-    print(f"\nsql_helper complete. Total rows deleted across all tables: {total_deleted:,}")
+    logging.info(f"sql_helper complete. Total rows deleted across all tables: {total_deleted:,}")
 
 
 if __name__ == "__main__":
