@@ -1,0 +1,125 @@
+2026-07-02 12:12:52,368 - INFO - Found 965 rows in C:\Users\esg\Downloads\Zenoti\blocks\Attendance_june.csv
+2026-07-02 12:12:54,768 - INFO - Successfully connected to the database.
+2026-07-02 12:12:54,977 - INFO - --- No match found for CSV row 0. Attempting to insert. ---
+2026-07-02 12:12:55,185 - INFO - SUCCESS: Inserted new record for 'Breana Ramsumair' on 06/10/2026.
+2026-07-02 12:12:55,185 - INFO - --------------------------------------------------
+2026-07-02 12:12:55,395 - INFO - --- No match found for CSV row 1. Attempting to insert. ---
+2026-07-02 12:12:55,609 - INFO - SUCCESS: Inserted new record for 'Gabriella Campisi' on 06/10/2026.
+2026-07-02 12:12:55,610 - INFO - --------------------------------------------------
+2026-07-02 12:12:55,819 - INFO - --- No match found for CSV row 2. Attempting to insert. ---
+2026-07-02 12:12:56,027 - INFO - SUCCESS: Inserted new record for 'Kristina Giakas' on 06/10/2026.
+2026-07-02 12:12:56,027 - INFO - --------------------------------------------------
+2026-07-02 12:12:56,231 - INFO - --- No match found for CSV row 3. Attempting to insert. ---
+2026-07-02 12:12:56,440 - INFO - SUCCESS: Inserted new record for 'Michelle Maddatu' on 06/10/2026.
+2026-07-02 12:12:56,441 - INFO - --------------------------------------------------
+2026-07-02 12:12:56,649 - INFO - --- No match found for CSV row 4. Attempting to insert. ---
+2026-07-02 12:12:56,858 - INFO - SUCCESS: Inserted new record for 'Annette Webson' on 06/10/2026.
+2026-07-02 12:12:56,860 - INFO - --------------------------------------------------
+2026-07-02 12:12:57,068 - INFO - --- No match found for CSV row 5. Attempting to insert. ---
+2026-07-02 12:12:57,276 - INFO - SUCCESS: Inserted new record for 'Ceyli Reyes' on 06/10/2026.
+2026-07-02 12:12:57,276 - INFO - --------------------------------------------------
+2026-07-02 12:12:57,483 - INFO - --- No match found for CSV row 6. Attempting to insert. ---
+2026-07-02 12:12:57,690 - INFO - SUCCESS: Inserted new record for 'Jessica Ramirez' on 06/10/2026.
+2026-07-02 12:12:57,691 - INFO - --------------------------------------------------
+2026-07-02 12:12:57,898 - INFO - --- No match found for CSV row 7. Attempting to insert. ---
+2026-07-02 12:12:58,108 - INFO - SUCCESS: Inserted new record for 'Leigh Ortiz' on 06/10/2026.
+2026-07-02 12:12:58,108 - INFO - --------------------------------------------------
+2026-07-02 12:12:58,317 - INFO - --- No match found for CSV row 8. Attempting to insert. ---
+2026-07-02 12:12:58,523 - INFO - SUCCESS: Inserted new record for 'Patricia Ashmore' on 06/10/2026.
+2026-07-02 12:12:58,523 - INFO - --------------------------------------------------
+2026-07-02 12:12:58,732 - INFO - --- No match found for CSV row 9. Attempting to insert. ---
+2026-07-02 12:12:58,938 - INFO - SUCCESS: Inserted new record for 'Allyson Koch' on 06/10/2026.
+2026-07-02 12:12:58,939 - INFO - --------------------------------------------------
+2026-07-02 12:12:59,146 - INFO - --- No match found for CSV row 10. Attempting to insert. ---
+2026-07-02 12:12:59,354 - INFO - SUCCESS: Inserted new record for 'Jessica Kestler' on 06/10/2026.
+2026-07-02 12:12:59,355 - INFO - --------------------------------------------------
+2026-07-02 12:12:59,564 - INFO - --- No match found for CSV row 11. Attempting to insert. ---
+2026-07-02 12:12:59,773 - INFO - SUCCESS: Inserted new record for 'Leah Roundtree' on 06/10/2026.
+2026-07-02 12:12:59,774 - INFO - --------------------------------------------------
+2026-07-02 12:12:59,982 - INFO - --- No match found for CSV row 12. Attempting to insert. ---
+2026-07-02 12:13:00,193 - INFO - SUCCESS: Inserted new record for 'Lana Patrick' on 06/10/2026.
+2026-07-02 12:13:00,194 - INFO - --------------------------------------------------
+2026-07-02 12:13:00,399 - INFO - --- No match found for CSV row 13. Attempting to insert. ---
+2026-07-02 12:13:00,608 - INFO - SUCCESS: Inserted new record for 'Sherin Panayil' on 06/10/2026.
+2026-07-02 12:13:00,609 - INFO - --------------------------------------------------
+2026-07-02 12:13:00,817 - INFO - --- No match found for CSV row 14. Attempting to insert. ---
+2026-07-02 12:13:01,030 - INFO - SUCCESS: Inserted new record for 'Breana Durrah' on 06/10/2026.
+2026-07-02 12:13:01,030 - INFO - --------------------------------------------------
+2026-07-02 12:13:01,254 - INFO - --- No match found for CSV row 15. Attempting to insert. ---
+2026-07-02 12:13:01,491 - INFO - SUCCESS: Inserted new record for 'Tylisha Cobb' on 06/10/2026.
+2026-07-02 12:13:01,491 - INFO - --------------------------------------------------
+2026-07-02 12:13:01,709 - INFO - --- No match found for CSV row 16. Attempting to insert. ---
+2026-07-02 12:13:01,921 - INFO - SUCCESS: Inserted new record for 'Brittany King' on 06/11/2026.
+2026-07-02 12:13:01,921 - INFO - --------------------------------------------------
+2026-07-02 12:13:02,131 - INFO - --- No match found for CSV row 17. Attempting to insert. ---
+2026-07-02 12:13:02,357 - INFO - SUCCESS: Inserted new record for 'Christine Eppes' on 06/11/2026.
+2026-07-02 12:13:02,358 - INFO - --------------------------------------------------
+2026-07-02 12:13:02,566 - INFO - --- No match found for CSV row 18. Attempting to insert. ---
+2026-07-02 12:13:02,784 - INFO - SUCCESS: Inserted new record for 'Laura Cardinal' on 06/11/2026.
+2026-07-02 12:13:02,784 - INFO - --------------------------------------------------
+2026-07-02 12:13:02,993 - INFO - --- No match found for CSV row 19. Attempting to insert. ---
+2026-07-02 12:13:03,198 - INFO - SUCCESS: Inserted new record for 'Shanon Snead' on 06/11/2026.
+2026-07-02 12:13:03,198 - INFO - --------------------------------------------------
+2026-07-02 12:13:03,406 - INFO - --- No match found for CSV row 20. Attempting to insert. ---
+2026-07-02 12:13:03,619 - INFO - SUCCESS: Inserted new record for 'Jessica Kestler' on 06/11/2026.
+2026-07-02 12:13:03,620 - INFO - --------------------------------------------------
+2026-07-02 12:13:03,830 - INFO - --- No match found for CSV row 21. Attempting to insert. ---
+2026-07-02 12:13:04,060 - INFO - SUCCESS: Inserted new record for 'Macarena Silvestri' on 06/11/2026.
+2026-07-02 12:13:04,061 - INFO - --------------------------------------------------
+2026-07-02 12:13:04,294 - INFO - --- No match found for CSV row 22. Attempting to insert. ---
+2026-07-02 12:13:04,527 - INFO - SUCCESS: Inserted new record for 'Joanna Machel' on 06/11/2026.
+2026-07-02 12:13:04,527 - INFO - --------------------------------------------------
+2026-07-02 12:13:04,761 - INFO - --- No match found for CSV row 23. Attempting to insert. ---
+2026-07-02 12:13:04,971 - INFO - SUCCESS: Inserted new record for 'Katlyn Cusack' on 06/11/2026.
+2026-07-02 12:13:04,971 - INFO - --------------------------------------------------
+2026-07-02 12:13:05,186 - INFO - --- No match found for CSV row 24. Attempting to insert. ---
+2026-07-02 12:13:05,396 - INFO - SUCCESS: Inserted new record for 'Kyra Jamison' on 06/11/2026.
+2026-07-02 12:13:05,397 - INFO - --------------------------------------------------
+2026-07-02 12:13:05,607 - INFO - --- No match found for CSV row 25. Attempting to insert. ---
+2026-07-02 12:13:05,815 - INFO - SUCCESS: Inserted new record for 'Lis Castro' on 06/11/2026.
+2026-07-02 12:13:05,816 - INFO - --------------------------------------------------
+2026-07-02 12:13:06,043 - INFO - --- No match found for CSV row 26. Attempting to insert. ---
+2026-07-02 12:13:06,245 - INFO - SUCCESS: Inserted new record for 'Nicole Larsen' on 06/11/2026.
+2026-07-02 12:13:06,245 - INFO - --------------------------------------------------
+2026-07-02 12:13:06,466 - INFO - --- No match found for CSV row 27. Attempting to insert. ---
+2026-07-02 12:13:06,671 - INFO - SUCCESS: Inserted new record for 'Carly Jones' on 06/11/2026.
+2026-07-02 12:13:06,671 - INFO - --------------------------------------------------
+2026-07-02 12:13:06,905 - INFO - --- No match found for CSV row 28. Attempting to insert. ---
+2026-07-02 12:13:07,119 - INFO - SUCCESS: Inserted new record for 'Geri Gan' on 06/11/2026.
+2026-07-02 12:13:07,120 - INFO - --------------------------------------------------
+2026-07-02 12:13:07,329 - INFO - --- No match found for CSV row 29. Attempting to insert. ---
+2026-07-02 12:13:07,539 - INFO - SUCCESS: Inserted new record for 'Caroline Swartz' on 06/11/2026.
+2026-07-02 12:13:07,539 - INFO - --------------------------------------------------
+2026-07-02 12:13:07,745 - INFO - --- No match found for CSV row 30. Attempting to insert. ---
+2026-07-02 12:13:07,949 - INFO - SUCCESS: Inserted new record for 'Giuliana Popolillo' on 06/11/2026.
+2026-07-02 12:13:07,949 - INFO - --------------------------------------------------
+2026-07-02 12:13:08,158 - INFO - --- No match found for CSV row 31. Attempting to insert. ---
+2026-07-02 12:13:08,372 - INFO - SUCCESS: Inserted new record for 'Jasmin Mendoza' on 06/11/2026.
+2026-07-02 12:13:08,373 - INFO - --------------------------------------------------
+2026-07-02 12:13:08,589 - INFO - --- No match found for CSV row 32. Attempting to insert. ---
+2026-07-02 12:13:08,811 - INFO - SUCCESS: Inserted new record for 'Lindsey Parker' on 06/11/2026.
+2026-07-02 12:13:08,812 - INFO - --------------------------------------------------
+2026-07-02 12:13:28,072 - ERROR - Database error occurred for row 33: 08S01
+2026-07-02 12:13:28,075 - ERROR - Problematic Row Data: 
+Date                             06/11/2026
+Employee Name               Scarlin Sanchez
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Block Out Hours Paid                   1.00
+Schedule                11:00 AM - 08:00 PM
+Scheduled Hours                         9.0
+Booked Hours                           5.75
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:45
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         11:00:00
+end_time                           20:00:00
+status                                    0
+Name: 33, dtype: object
+2026-07-02 12:13:28,076 - ERROR - Database connection failed: 08S01
+2026-07-02 12:13:28,076 - ERROR - Rows committed before failure — updated: 0, inserted: 33, deleted: N/A, failed: 1

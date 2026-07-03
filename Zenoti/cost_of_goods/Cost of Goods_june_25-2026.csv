@@ -1,0 +1,429 @@
+﻿Transaction Date,Center Code,Center Name,Consumption Type,Invoice No,Guest Name,Sold By,Service Code,Service Name,Product Code,Product Name,Product Type,Brand,Qty,Cost Of Goods,Business Unit
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15512,Maria Bloomer-Kaliush,Shanon Snead,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,192,182.87,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-30045,Silvana Rivas,Scarlin Sanchez,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,80.22,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-30045,Silvana Rivas,Scarlin Sanchez,N/A,N/A,1.111E+11,EltaMD UV Skin Recovery GREEN,Retail,EltaMD,3,78,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15983,Allison Schlett,Ceyli Reyes,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.96,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15983,Allison Schlett,Ceyli Reyes,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,62,102.94,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-6956,Samantha Pucci,Alyssa Nicol,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.93,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-6956,Samantha Pucci,Alyssa Nicol,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.93,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15526,Maria Bloomer-Kaliush,Shanon Snead,BelS-PD53396397,Restylane Lyft,GALD-RLYFT-001,Restylane LYFT,Consumable,Galderma,1,140.77,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15526,Maria Bloomer-Kaliush,Shanon Snead,BelS-PD55542305,Restylane Kysse,GALD-KYSSE-001,Restylane Kysse,Consumable,Galderma,1,131.9,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15526,Maria Bloomer-Kaliush,Shanon Snead,BelS-PD20910237,Restylane Refyne,GALD-REFYN-001,Restylane REFYNE,Consumable,Galderma,1,120.45,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15526,Maria Bloomer-Kaliush,Shanon Snead,BelS-PD53396397,Restylane Lyft,GALD-RLYFT-001,Restylane LYFT,Consumable,Galderma,1,140.77,Default
+6/25/2026,WAL,"Waldorf, MD",Service Consumption,Wal-3416,Ashley Parker,Breana Durrah,PRF Add-on,PRF Add-on,1.111E+11,PRF Blue Tubes,Consumable,BIO PRF,3,4.95,Default
+6/25/2026,WAL,"Waldorf, MD",Service Consumption,Wal-3416,Ashley Parker,Breana Durrah,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,49.49,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14548,Sara Gulick,Michelle Maddatu,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,50,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22950,Esmeralda Juarez,Paige Martin,BelS-NC99994929,Morpheus8 RF Microneedling (1 area),INMD-MORPH-004,Morpheus8 Tip,Consumable,Inmode,1,92,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-30029,Heather Lausi,Scarlin Sanchez,N/A,N/A,1.111E+11,Sample IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,0,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-30029,Heather Lausi,Scarlin Sanchez,N/A,N/A,1.111E+11,Sample IS Clinical Reparative Moisture Emulsion,Retail,IS CLINICAL,1,0.73,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-30029,Heather Lausi,Scarlin Sanchez,N/A,N/A,1.111E+11,Sample IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,0,Default
+6/25/2026,BWNJ,"Bridgewater, NJ",Service Consumption,2738,Gissel Galarza,Jessica Kestler,SerN013,Sculptra,GALD-SCULP-002,Sculptra,Consumable,Galderma,1,143.5,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-19128,Jenna Benjamin,Paige Martin,PRF Add-on,PRF Add-on,1.111E+11,PRF Blue Tubes,Consumable,BIO PRF,3,6.45,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-19128,Jenna Benjamin,Paige Martin,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,49.93,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-28996,Marri Gadner,Silvana Rivas,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,42,47.45,Default
+6/25/2026,FRE,"Frederick, MD",Sale,Fre-13064,Katherine Lopez,Geri Gan,N/A,N/A,1.111E+11,Sample IS Clinical Sheald Recovery Balm,Retail,IS CLINICAL,1,0,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-19128,Jenna Benjamin,Paige Martin,N/A,N/A,1.111E+11,IS Clinical Brightening Complex,Retail,IS CLINICAL,1,83,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-27054,Lauren Maquet,Giuliana Popolillo,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,50,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-13064,Katherine Lopez,Geri Gan,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,50,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14473,Tetris Tan,Kristina Giakas,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,44,70.54,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6933,Sophia Gallucci,Sherin Panayil,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,10.18,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-7140,Genevieve Flagello,Alyssa Nicol,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,40,66.2,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29578,Kelly Geant,Silvana Rivas,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,120,135.57,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15308,Sharika Saunders,Shanon Snead,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,86.64,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15039,Rosalie Nocket,Brittany King,BelS-PD2914475,Facial - LED Add-on,Bel-NC7381328,LED Add-On,Consumable,,1,0,Default
+6/25/2026,DEN,"Denville, NJ",Sale,Den-17774,Katie Fallone,Nicole Larsen,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,0,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-11245,Maria Late,Geri Gan,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,12,19.15,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-11245,Maria Late,Geri Gan,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,12,19.15,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-30011,Danielle Roehrich,Silvana Rivas,N/A,N/A,Bel-NC94685543,Upneeq (5-Pack),Retail,,1,0,Default
+6/25/2026,SHO,"Short Hills, NJ",Sale,Sho-16525,Jennifer Kobylakiewicz,Allyson Koch,N/A,N/A,1.111E+11,IS Clinical Hydra-Cool Serum,Retail,IS CLINICAL,1,50.91,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29022,Lucy Ruiz,Scarlin Sanchez,N/A,N/A,1.111E+11,IS Clinical Brightening Complex,Retail,IS CLINICAL,1,83,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6935,Mary Celentano,Sherin Panayil,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,10.18,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15957,Beth Phipps,Annette Webson,BelS-NC99433677,DiamondGlow Facial,SKMD-DGPPS-012,DiamondGlow - Pore Purifying Serum,Consumable,Allergan,1,25.35,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14463,Susan Milan,Kristina Giakas,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,75,120.24,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-13915,Emma Hurst,Domenica Fassari,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,26.4,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-27245,Gina Modero,Scarlin Sanchez,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22950,Esmeralda Juarez,Paige Martin,N/A,N/A,1.111E+11,IS Clinical Sheald Recovery Balm,Retail,IS CLINICAL,1,44.5,Default
+6/25/2026,DEN,"Denville, NJ",Sale,Den-19804,Kyra Jamison,Kyra Jamison,N/A,N/A,1.111E+11,EltaMD UV Skin Recovery GREEN,Retail,EltaMD,1,26,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-25379,Erica Repetto,Silvana Rivas,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,32,54.4,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6815,Arianna Marciano,Sherin Panayil,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,10.18,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16328,Danielle Struble,Karen Enriquez,BelS-PD53396397,Restylane Lyft,GALD-RLYFT-001,Restylane LYFT,Consumable,Galderma,1,130.4,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16328,Danielle Struble,Karen Enriquez,BelS-PD13320909,Restylane Defyne,GALD-DEFYN-001,Restylane DEFYNE,Consumable,Galderma,1,121.18,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16328,Danielle Struble,Karen Enriquez,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,150,163.01,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16328,Danielle Struble,Karen Enriquez,BelS-PD55542305,Restylane Kysse,GALD-KYSSE-001,Restylane Kysse,Consumable,Galderma,1,151.16,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15844,Jennifer Connelly,Deanna Dragone,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,85,141.13,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-11172,Faith Cohen,Kristina Giakas,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,64,102.61,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-6692,Wendy Evans,Alyssa Nicol,BelS-NC99994929,Morpheus8 RF Microneedling (1 area),INMD-MORPH-004,Morpheus8 Tip,Consumable,Inmode,1,91.77,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-25379,Erica Repetto,Silvana Rivas,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,95,161.49,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19243,Rachel Bellesheim,Katlyn Cusack,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,35,58.41,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14548,Sara Gulick,Michelle Maddatu,PDRNTU,PDRN Tone-Up Add-On,1.111E+11,Rejuran Tone Up,Consumable,Alphablue Medical,1,21.63,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22060,Alexis chlodnicki,Crystal Farinha,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.41,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21988,Anjum Chughtai,Sujita Brar,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,0,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6592,Jennie McCormick,Sherin Panayil,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,30,142.31,Default
+6/25/2026,MON,"Montclair, NJ",Sale,MON-21988,Anjum Chughtai,Sujita Brar,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,23.98,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15977,Lia Troupe,Deanna Dragone,BelS-NC28715013,Hylenex,HSCH-HYLEX-004,Hylenex,Consumable,McKesson,1,65.86,Default
+6/25/2026,LPA,"Lancaster, PA",Service Consumption,2184,Victoria Sage,Jessa Brooks,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,103.23,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22060,Alexis chlodnicki,Crystal Farinha,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,30,47.06,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-21382,Emily Beaman,Daylin Bastidas,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,2.11,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-21382,Emily Beaman,Daylin Bastidas,BelS-NC99433677,DiamondGlow Facial,SKMD-DGECS-012,DiamondGlow - Even & Correct Serum,Consumable,Allergan,1,22.61,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-27244,Brooke Ellentuck,Scarlin Sanchez,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-27124,Gabby Guzman,Caroline Swartz,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-27245,Gina Modero,Scarlin Sanchez,PDRNTU,PDRN Tone-Up Add-On,1.111E+11,Rejuran Tone Up,Consumable,Alphablue Medical,1,29.97,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19665,Marissa Pacheco,Katlyn Cusack,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,34,56.74,Default
+6/25/2026,MON,"Montclair, NJ",Sale,MON-21988,Anjum Chughtai,Sujita Brar,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,88.5,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29974,Savannah Curry,Jasmin Mendoza,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,24.5,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-13920,Taylor Walsh,Domenica Fassari,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14690,Justine Cruz,Kristina Giakas,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,2,269.56,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-7228,Melissa Sohnen,Alyssa Nicol,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.93,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-7227,Cynthia Wallerstein,Alyssa Nicol,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,58,95.99,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-7227,Cynthia Wallerstein,Alyssa Nicol,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.93,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16157,Melissa Maffei,Macarena Silvestri,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.75,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14490,Maureen Fiumara,Michelle Maddatu,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,26,41.68,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-7228,Melissa Sohnen,Alyssa Nicol,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,58,95.99,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-27261,Carissa Zito,Giuliana Popolillo,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,50,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19654,Harold Pacheco,Katlyn Cusack,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,114,128.53,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19297,Marisa Pecoraro,Nicole Larsen,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,15,16.91,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15812,Katherine Grossman,Ceyli Reyes,PRF Add-on,PRF Add-on,1.111E+11,PRF Blue Tubes,Consumable,BIO PRF,3,6.54,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15812,Katherine Grossman,Ceyli Reyes,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,50,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19297,Marisa Pecoraro,Nicole Larsen,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,12,13.53,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15486,Mason Milano,Brittany King,BelS-NC99433677,DiamondGlow Facial,SKMD-DGECS-012,DiamondGlow - Even & Correct Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-27124,Gabby Guzman,Caroline Swartz,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,24.5,Default
+6/25/2026,WAL,"Waldorf, MD",Service Consumption,Wal-3421,Kyle Swann,Breana Durrah,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,51,13.86,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22564,Jess Griffin,Paige Martin,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,52,253.47,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-21382,Emily Beaman,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Active Serum,Retail,IS CLINICAL,1,0,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15627,Evelyn Padilla,Annette Webson,BelS-NC99433677,DiamondGlow Facial,SKMD-DGPPS-012,DiamondGlow - Pore Purifying Serum,Consumable,Allergan,1,25.35,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-7222,Nicole Greeley,Alyssa Nicol,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.93,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21781,Alexa Caruso,Jessica Crawford,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,150,164.96,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-20655,Hannah Kraus,Crystal Farinha,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.41,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29809,Grace Aki,Silvana Rivas,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,19,88,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-28402,Gillian Kress,Giuliana Popolillo,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,50,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-13601,Shiquita Hutchinson,Geri Gan,B12-Injection,B12-Injection,OLYM-B12-30M,B-12,Consumable,Olympia,1,2.68,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19041,Alexa Garcia,Joanna Machel,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,42,250.51,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-12908,Colleen Ohm,Shanon Snead,New Quarterly Toxin Treatment,New Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,64,102.11,Default
+6/25/2026,DEN,"Denville, NJ",Sale,Den-19782,Megan Baker,Kyra Jamison,N/A,N/A,1.111E+11,IS Clinical Reparative Moisture Emulsion,Retail,IS CLINICAL,1,58,Default
+6/25/2026,DEN,"Denville, NJ",Sale,Den-19782,Megan Baker,Kyra Jamison,N/A,N/A,1.111E+11,EltaMD UV Skin Recovery GREEN,Retail,EltaMD,1,26,Default
+6/25/2026,DEN,"Denville, NJ",Sale,Den-19782,Megan Baker,Kyra Jamison,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,88.5,Default
+6/25/2026,FRE,"Frederick, MD",Sale,Fre-13680,Lindsy Frango,Carly Jones,N/A,N/A,1.111E+11,Sample IS Clinical Reparative Moisture Emulsion,Retail,IS CLINICAL,1,0,Default
+6/25/2026,FRE,"Frederick, MD",Sale,Fre-13680,Lindsy Frango,Carly Jones,N/A,N/A,1.111E+11,Sample IS Clinical Brightening Complex,Retail,IS CLINICAL,1,0,Default
+6/25/2026,FRE,"Frederick, MD",Sale,Fre-13680,Lindsy Frango,Carly Jones,N/A,N/A,1.111E+11,Sample IS Clinical Hydra-Cool Serum,Retail,IS CLINICAL,1,0,Default
+6/25/2026,FRE,"Frederick, MD",Sale,Fre-13680,Lindsy Frango,Carly Jones,N/A,N/A,1.111E+11,EltaMD UV Skin Recovery GREEN,Retail,EltaMD,1,26,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14685,Julie Martinez,Michelle Maddatu,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,24,152.83,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-20581,Laura Samuelsen,Paige Martin,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,49.93,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-11736,Brit Morris,Geri Gan,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,64,102.14,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-15913,Lauren Infante,Leah Roundtree,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19247,Jennifer Estevez,Lis Castro,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,24.4,Default
+6/25/2026,WAL,"Waldorf, MD",Service Consumption,Wal-3413,Vanita Miles,Breana Durrah,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,64,111.87,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22730,Ashleigh Webb,Crystal Farinha,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,75,117.66,Default
+6/25/2026,BWNJ,"Bridgewater, NJ",Service Consumption,3012,Raquel Viquez,Jessica Kestler,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,102,117.96,Default
+6/25/2026,BWNJ,"Bridgewater, NJ",Service Consumption,3197,Christine Walsh,Jessica Kestler,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,63,89.98,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16460,Deborah Millman,Karen Enriquez,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,31,50.38,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16460,Deborah Millman,Karen Enriquez,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,100,162.51,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16116,krystal badillo,Macarena Silvestri,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,95.77,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14561,Bogumila Pastwa,Kristina Giakas,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,4,6.41,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14159,Jaylyn Rugoff,Kristina Giakas,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,134.78,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-5838,Nicole Bannon,Alyssa Nicol,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,2,3.31,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-5838,Nicole Bannon,Alyssa Nicol,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,89.61,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29528,Jeanine Crysler,Silvana Rivas,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,75,347.37,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15499,Deborah Cristal,Shanon Snead,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,192,182.87,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15497,Jen Knoll,Shanon Snead,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,64,102.11,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-27442,Nicole Spyropoulos,Caroline Swartz,N/A,N/A,1.111E+11,PLATED Intense,Retail,"Rion Aesthetics, Inc.",1,129,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-27442,Nicole Spyropoulos,Caroline Swartz,N/A,N/A,1.111E+11,PLATED Daily,Retail,"Rion Aesthetics, Inc.",1,129,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-20581,Laura Samuelsen,Paige Martin,N/A,N/A,1.111E+11,IS Clinical Sheald Recovery Balm,Retail,IS CLINICAL,1,44.5,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19223,Cory Handler,Joanna Machel,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,120,135.29,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16116,krystal badillo,Macarena Silvestri,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,4,6.5,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6959,Julie Wallerstein,Sherin Panayil,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,1,1.7,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6959,Julie Wallerstein,Sherin Panayil,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,5,8.48,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21425,Danielle Curran,Sujita Brar,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,19.85,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19778,Pamela Marino,Nicole Larsen,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,22,36.72,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21290,Jessica Kudrick,Jessica Crawford,PDRNTU,PDRN Tone-Up Add-On,1.111E+11,Rejuran Tone Up,Consumable,Alphablue Medical,1,37.8,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19357,Suzy Hshimi,Katlyn Cusack,BelS-PD53396397,Restylane Lyft,GALD-RLYFT-001,Restylane LYFT,Consumable,Galderma,1,148.1,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19357,Suzy Hshimi,Katlyn Cusack,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,108.84,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22943,Ilse Super,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,24.5,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-13753,Dorothy Horgan,Deanna Dragone,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,5,8.3,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-13753,Dorothy Horgan,Deanna Dragone,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,64,106.26,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16405,Joseph Gordon,Macarena Silvestri,SerN013,Sculptra,GALD-SCULP-002,Sculptra,Consumable,Galderma,1,176.21,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15956,Angela Dragone,Deanna Dragone,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,2,197.08,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15671,Kristina Vandevrede,Ceyli Reyes,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,38,63.09,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14606,Laurel Brown,Kristina Giakas,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,4,6.41,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14608,Nurdan Zeren,Kristina Giakas,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,162,183.01,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-13649,Bella DeGregorio,Domenica Fassari,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-22202,Mary Cricco,Jessica Crawford,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,106.85,Default
+6/25/2026,FRE,"Frederick, MD",Sale,Fre-13667,Tricia Cornell,Carly Jones,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,82.13,Default
+6/25/2026,FRE,"Frederick, MD",Sale,Fre-13667,Tricia Cornell,Carly Jones,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,24.05,Default
+6/25/2026,WAL,"Waldorf, MD",Sale,Wal-3412,Danyela Rucker,Tylisha Cobb,N/A,N/A,1.111E+11,IS Clinical Brightening Complex,Retail,IS CLINICAL,1,70.67,Default
+6/25/2026,DEN,"Denville, NJ",Sale,Den-17758,Susan Smolinsky,Lis Castro,N/A,N/A,1.111E+11,IS Clinical Active Serum,Retail,IS CLINICAL,1,75.95,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15627,Evelyn Padilla,Annette Webson,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,2.07,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15876,Lauren Eckartz,Annette Webson,BelS-NC94281839,Dermaplaning,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,2.07,Default
+6/25/2026,LPA,"Lancaster, PA",Service Consumption,2263,Violet Smith,Jessa Brooks,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,103.23,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-28402,Gillian Kress,Giuliana Popolillo,PDRNTU,PDRN Tone-Up Add-On,1.111E+11,Rejuran Tone Up,Consumable,Alphablue Medical,1,29.97,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29764,Christine Moon,Caroline Swartz,BelS-NC99433677,DiamondGlow Facial,SKMD-DGECS-012,DiamondGlow - Even & Correct Serum,Consumable,Allergan,1,0,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-17758,Susan Smolinsky,Lis Castro,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,25.69,Default
+6/25/2026,FRE,"Frederick, MD",Sale,Fre-13665,Michele Blickenstaff,Carly Jones,N/A,N/A,1.111E+11,EltaMD UV Skin Recovery GREEN,Retail,EltaMD,1,26,Default
+6/25/2026,BWNJ,"Bridgewater, NJ",Service Consumption,3214,Molly Hartigan,Jessica Kestler,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,50,71.42,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14421,Alexandra Nies,Michelle Maddatu,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,44,70.54,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14671,Tracey Mcguire,Michelle Maddatu,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,4,6.41,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-15566,Kimberly Mancarella,Leah Roundtree,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,25.91,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-15913,Lauren Infante,Leah Roundtree,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,2.04,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14606,Laurel Brown,Kristina Giakas,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,75,120.24,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-26045,Carlin Kempt,Silvana Rivas,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,78,88.12,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-11734,Michele Blickenstaff,Geri Gan,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,64,102.14,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-18814,Meghan Dillon,Joanna Machel,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,183,206.32,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15523,Kathy Vaughan,Shanon Snead,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,86.64,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15264,Ranjana Devi,Shanon Snead,PRF Add-on,PRF Add-on,1.111E+11,PRF Blue Tubes,Consumable,BIO PRF,3,7.35,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15264,Ranjana Devi,Shanon Snead,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,50,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22929,Bianca Cavacini,Josephine Hernandez,N/A,N/A,1.111E+11,PLATED Daily,Retail,"Rion Aesthetics, Inc.",1,129,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-21352,Abby Murphy,Paige Martin,BelS-NC63148435,Lip Flip/Gummy Smile,ALLE-BOTOX-100,Botox,Consumable,Allergan,1,4.87,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22924,Selina Storz,Crystal Farinha,N/A,N/A,1.111E+11,PLATED Intense,Retail,"Rion Aesthetics, Inc.",1,129,Default
+6/25/2026,MON,"Montclair, NJ",Refund & Restock,MON-22294,Barbara Morini,Arileiny De La Cruz,N/A,N/A,Bel-NC60600861,Evolve Skin Protect SPF 44 + HA (Tinted),Retail,BRAND MD,-1,0,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6851,Jasmine Green,Sherin Panayil,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,72,122.17,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21838,Aisha Morris,Sujita Brar,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,25.02,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19667,brooke marino,Nicole Larsen,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,108.84,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15266,Deborah Cristal,Brittany King,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,TRI,"Tribeca, NY",Sale,Tri-6965,Yvonne Moore,Lana Patrick,N/A,N/A,Bel-NC60366508,Evolve Skin Growth Factor Cream,Retail,BRAND MD,1,0,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14654,Rebecca Zinsley,Kristina Giakas,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.62,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29792,Reni Stoll,Giuliana Popolillo,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,117,132.19,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15332,Melissa Torres,Deanna Dragone,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,52,86.34,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14589,Kendra Strachan,Michelle Maddatu,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,4,6.41,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22358,Sandra Castillo,Paige Martin,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,46,72.16,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16320,Jen Drechsler,Macarena Silvestri,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,52,84.5,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-13319,Ruby Kish,Deanna Dragone,New Quarterly Toxin Treatment,New Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,53,88,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15989,Ashley Cappiello,Ceyli Reyes,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,98.54,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14671,Tracey Mcguire,Michelle Maddatu,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,76,121.85,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14672,Rhonda Salem,Domenica Fassari,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22358,Sandra Castillo,Paige Martin,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.41,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-27372,Marysol Torres,Silvana Rivas,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,225,254.2,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29764,Christine Moon,Caroline Swartz,PDRNTU,PDRN Tone-Up Add-On,1.111E+11,Rejuran Tone Up,Consumable,Alphablue Medical,1,29.97,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-13354,Shannon Newton,Geri Gan,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,112.41,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19292,Karla Kline,Joanna Machel,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,108.84,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-12577,Sydney Huth,Shanon Snead,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,64,102.11,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22914,Abby Murphy,Josephine Hernandez,N/A,N/A,1.111E+11,IS Clinical Active Serum,Retail,IS CLINICAL,1,0,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-21125,Sruthi Akkineni,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,24.5,Default
+6/25/2026,MON,"Montclair, NJ",Sale,MON-22293,Barbara Morini,Arileiny De La Cruz,N/A,N/A,Bel-NC60600861,Evolve Skin Protect SPF 44 + HA (Tinted),Retail,BRAND MD,1,0,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-7136,Jacqueline DeLeo,Alyssa Nicol,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.93,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22563,Tahira Fardus,Crystal Farinha,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,30,47.06,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-15510,Kristine Ramos,Leah Roundtree,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29876,Cheryl Podhaizer,Caroline Swartz,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-22288,Nicole Romeo,Patricia Ashmore,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,19,112.85,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-22288,Nicole Romeo,Patricia Ashmore,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,39,231.64,Default
+6/25/2026,RED,"Red Bank, NJ",Sale,Red-14670,Steven Gachineiro,Domenica Fassari,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,22.05,Default
+6/25/2026,RED,"Red Bank, NJ",Sale,Red-14670,Steven Gachineiro,Domenica Fassari,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,84.14,Default
+6/25/2026,RED,"Red Bank, NJ",Sale,Red-14669,Gabriella Campisi,Breana Ramsumair,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,22.05,Default
+6/25/2026,DEN,"Denville, NJ",Sale,Den-19759,Jillian Batick,Kyra Jamison,N/A,N/A,1.111E+11,EltaMD UV Skin Recovery GREEN,Retail,EltaMD,1,26,Default
+6/25/2026,RED,"Red Bank, NJ",Sale,Red-14669,Gabriella Campisi,Breana Ramsumair,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,84.14,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14368,Erika Schnoor,Kristina Giakas,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,64,102.61,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16128,Iman Tadmori,Karen Enriquez,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,95.77,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14589,Kendra Strachan,Michelle Maddatu,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,56,89.78,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-7148,Faria Bonsi,Alyssa Nicol,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.93,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-22023,Laura Block,Patricia Ashmore,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,38,62.8,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-22254,Shannon Aldins,Jessica Crawford,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,168,184.76,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29759,bryah williams,Silvana Rivas,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,100,169.99,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-17758,Susan Smolinsky,Lis Castro,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,1.85,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22711,Bianca Diaz,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Active Serum,Retail,IS CLINICAL,1,0,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-13608,Melanie Umpierre,Geri Gan,BelS-NC63148435,Lip Flip/Gummy Smile,ALLE-BOTOX-100,Botox,Consumable,Allergan,1,5.58,Default
+6/25/2026,LPA,"Lancaster, PA",Service Consumption,2176,Yasmeen Ezz Eldin,Jessa Brooks,PRF Gel,PRF Gel,1.111E+11,PRF Blue Tubes,Consumable,BIO PRF,3,6.75,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-13386,Lisa Flees,Geri Gan,XEOLF,Xeomin - Lower Face Bundle,MERZ-XEOMN-100,Xeomin,Consumable,Merz,1,1.6,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-13386,Lisa Flees,Geri Gan,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,50,79.8,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-13386,Lisa Flees,Geri Gan,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,12,19.15,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-21824,Bianca Diaz,Paige Martin,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,38,185.23,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-13386,Lisa Flees,Geri Gan,3AreaXeomin,Wrinkle Relaxer-3 Areas (Xeomin),MERZ-XEOMN-100,Xeomin,Consumable,Merz,64,102.14,Default
+6/25/2026,BWNJ,"Bridgewater, NJ",Service Consumption,3026,Deidra O’Brien,Jessica Kestler,2AreaXeomin,Wrinkle Relaxer-2 Areas (Xeomin),MERZ-XEOMN-100,Xeomin,Consumable,Merz,37,52.85,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15069,Lisa Burke,Shanon Snead,2AreaXeomin,Wrinkle Relaxer-2 Areas (Xeomin),MERZ-XEOMN-100,Xeomin,Consumable,Merz,40,63.82,Default
+6/25/2026,MON,"Montclair, NJ",Sale,MON-22285,Leslie Sardinas,Sujita Brar,N/A,N/A,Bel-NC2484439,Evolve Skin Line Tamer Retinol Eye Cream,Retail,BRAND MD,1,49.26,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15862,Isabelle Sandler,Deanna Dragone,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,56,92.98,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29078,Jessica Dowd,Giuliana Popolillo,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,249,281.32,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-13317,Alicia Bernarducci,Deanna Dragone,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,60,99.62,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-13941,Yon Siciliano,Domenica Fassari,BelS-NC99433677,DiamondGlow Facial,SKMD-DGECS-012,DiamondGlow - Even & Correct Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21838,Aisha Morris,Sujita Brar,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,0,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-22281,Luz Moreno,Patricia Ashmore,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,32,52.88,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22711,Bianca Diaz,Daylin Bastidas,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,2.11,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22711,Bianca Diaz,Daylin Bastidas,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,16.51,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29413,Alexis Diaz,Silvana Rivas,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,195,220.31,Default
+6/25/2026,MON,"Montclair, NJ",Sale,MON-22285,Leslie Sardinas,Sujita Brar,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,88.5,Default
+6/25/2026,MON,"Montclair, NJ",Sale,MON-22285,Leslie Sardinas,Sujita Brar,N/A,N/A,1.111E+11,IS Clinical Youth Eye Complex,Retail,IS CLINICAL,1,60,Default
+6/25/2026,RED,"Red Bank, NJ",Sale,Red-13941,Yon Siciliano,Domenica Fassari,N/A,N/A,1.111E+11,IS Clinical Youth Eye Complex,Retail,IS CLINICAL,1,60,Default
+6/25/2026,RED,"Red Bank, NJ",Sale,Red-13941,Yon Siciliano,Domenica Fassari,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,84.14,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22898,Bianca Diaz,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,0,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-6494,Daniela Smith,Alyssa Nicol,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,50,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22544,Lauren Boyle,Paige Martin,SerN013,Sculptra,GALD-SCULP-002,Sculptra,Consumable,Galderma,2,167.42,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19649,Lia Verge,Joanna Machel,BelS-NC63148435,Lip Flip/Gummy Smile,GALD-DYSPR-100,Dysport,Consumable,Galderma,18,20.29,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15212,Nina Milanos,Annette Webson,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15212,Nina Milanos,Annette Webson,PDRNTU,PDRN Tone-Up Add-On,1.111E+11,Rejuran Tone Up,Consumable,Alphablue Medical,1,37.32,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19558,Amy Riena,Nicole Larsen,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,4,23.86,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-13479,Dianne Brown,Geri Gan,B12-Injection,B12-Injection,OLYM-B12-30M,B-12,Consumable,Olympia,1,2.68,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22878,Melissa Lilloo,Paige Martin,N/A,N/A,1.111E+11,IS Clinical Active Serum,Retail,IS CLINICAL,1,0,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22878,Melissa Lilloo,Paige Martin,N/A,N/A,1.111E+11,IS Clinical Sheald Recovery Balm,Retail,IS CLINICAL,1,44.5,Default
+6/25/2026,WAL,"Waldorf, MD",Service Consumption,Wal-3410,Danyela Rucker,Breana Durrah,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,4,24.65,Default
+6/25/2026,WAL,"Waldorf, MD",Service Consumption,Wal-3410,Danyela Rucker,Breana Durrah,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,71,437.49,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-13307,Ilana Kleinfeld,Deanna Dragone,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.96,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-22158,Isabella Mendoza,Patricia Ashmore,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.92,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-15888,Devon Strobel,Karen Enriquez,BelS-PD53396397,Restylane Lyft,GALD-RLYFT-001,Restylane LYFT,Consumable,Galderma,1,130.4,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-15888,Devon Strobel,Karen Enriquez,SerN013,Sculptra,GALD-SCULP-002,Sculptra,Consumable,Galderma,1,176.21,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-13307,Ilana Kleinfeld,Deanna Dragone,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,54,89.66,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-22158,Isabella Mendoza,Patricia Ashmore,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,15,24.79,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21414,Addisson Macrine,Sujita Brar,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,0,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21414,Addisson Macrine,Sujita Brar,BelS-NC99433677,DiamondGlow Facial,SKMD-DGECS-012,DiamondGlow - Even & Correct Serum,Consumable,Allergan,1,25.62,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29876,Cheryl Podhaizer,Caroline Swartz,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,2.13,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-27508,Beth Brinkman,Caroline Swartz,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22888,Alyssa Noto,Monique Snee,N/A,N/A,1.111E+11,IS Clinical Reparative Moisture Emulsion,Retail,IS CLINICAL,1,58,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29835,Kevin Jones,Scarlin Sanchez,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14653,Lilly Panitch,Michelle Maddatu,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,78,88.11,Default
+6/25/2026,OLDBR,"Old Bridge, NJ",Service Consumption,OldBr-6427,Vicki Gaffney,Alyssa Nicol,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,50,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22764,Austin Watts,Paige Martin,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,50,78.44,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6934,Rachel Beauregard,Sherin Panayil,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,2,3.39,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6934,Rachel Beauregard,Sherin Panayil,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,4,6.79,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-13730,Mariel Par,Domenica Fassari,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14574,Hana Ali,Kristina Giakas,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,32,51.3,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22562,Haidar Ahmad,Crystal Farinha,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,100,156.88,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15398,Kiera Hughes,Ceyli Reyes,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,98.54,Default
+6/25/2026,LPA,"Lancaster, PA",Service Consumption,2279,Linda Vataha,Jessa Brooks,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,26.32,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22387,Angie Tsangallis,Paige Martin,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,9,43.87,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-17967,Kiani Hernandez,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Active Serum,Retail,IS CLINICAL,1,0,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29896,Caroline Weber,Scarlin Sanchez,N/A,N/A,1.111E+11,PLATED Intense,Retail,"Rion Aesthetics, Inc.",1,129,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-17967,Kiani Hernandez,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,88.5,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-17967,Kiani Hernandez,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,24.5,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-17967,Kiani Hernandez,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Reparative Moisture Emulsion,Retail,IS CLINICAL,1,58,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-17967,Kiani Hernandez,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Brightening Complex,Retail,IS CLINICAL,1,83,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-17967,Kiani Hernandez,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Hydra-Cool Serum,Retail,IS CLINICAL,1,54,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29893,Jennifer Doss,Jasmin Mendoza,N/A,N/A,1.111E+11,PLATED Intense,Retail,"Rion Aesthetics, Inc.",1,129,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29893,Jennifer Doss,Jasmin Mendoza,N/A,N/A,1.111E+11,PLATED Daily,Retail,"Rion Aesthetics, Inc.",1,129,Default
+6/25/2026,WAL,"Waldorf, MD",Service Consumption,Wal-3405,Danyela Rucker,Breana Durrah,BelS-PD53396397,Restylane Lyft,GALD-RLYFT-001,Restylane LYFT,Consumable,Galderma,1,104.99,Default
+6/25/2026,WAL,"Waldorf, MD",Service Consumption,Wal-3405,Danyela Rucker,Breana Durrah,BelS-PD13320909,Restylane Defyne,GALD-DEFYN-001,Restylane DEFYNE,Consumable,Galderma,1,160.86,Default
+6/25/2026,WAL,"Waldorf, MD",Service Consumption,Wal-3405,Danyela Rucker,Breana Durrah,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,111.77,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-17967,Kiani Hernandez,Daylin Bastidas,BelS-PD2914475,Facial - LED Add-on,Bel-NC7381328,LED Add-On,Consumable,,1,0,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-17967,Kiani Hernandez,Daylin Bastidas,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,16.31,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-28215,Domenica Garcia,Giuliana Popolillo,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,85.35,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19025,Debi Perna,Lis Castro,PDRNTU,PDRN Tone-Up Add-On,1.111E+11,Rejuran Tone Up,Consumable,Alphablue Medical,1,21.74,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19025,Debi Perna,Lis Castro,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,25.69,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19221,Kelly Brown,Joanna Machel,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,28,46.73,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15267,Emily Tart,Shanon Snead,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,30,47.86,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15993,Jackie Williams,Annette Webson,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.59,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22764,Austin Watts,Paige Martin,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,50,78.44,Default
+6/25/2026,BWNJ,"Bridgewater, NJ",Service Consumption,3100,Alessia Wisniewski,Jessica Kestler,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,42,59.99,Default
+6/25/2026,BWNJ,"Bridgewater, NJ",Service Consumption,2981,Stefanie Cubala,Jessica Kestler,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,50,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14651,Gina Bransley,Michelle Maddatu,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,36,57.72,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29759,bryah williams,Silvana Rivas,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,2,170.71,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29275,Eve Mrozek,Caroline Swartz,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,2.13,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29275,Eve Mrozek,Caroline Swartz,BelS-NC99433677,DiamondGlow Facial,SKMD-DGECS-012,DiamondGlow - Even & Correct Serum,Consumable,Allergan,1,0,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6944,kiki fox,Sherin Panayil,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,17,28.85,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6944,kiki fox,Sherin Panayil,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,11,18.66,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16439,Abigail Hunter,Macarena Silvestri,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,50,81.25,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-15593,Carolina Vilchez,Ceyli Reyes,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,43,71.4,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14600,Amanda Reich,Domenica Fassari,BelS-NC99433677,DiamondGlow Facial,SKMD-DGECS-012,DiamondGlow - Even & Correct Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-22273,Shriya Kannan,Patricia Ashmore,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,25,41.31,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-22223,Hunter Mulfurd,Jessica Crawford,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,60,65.99,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22570,Maria Munoz,Paige Martin,BelS-PD13320909,Restylane Defyne,GALD-DEFYN-001,Restylane DEFYNE,Consumable,Galderma,1,53.81,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22760,Kathryn Maurer,Crystal Farinha,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,56,272.97,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19610,Alexa Skibitsky,Nicole Larsen,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,75,125.17,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15449,Maddy Foltz,Shanon Snead,3AreaDysport,Wrinkle Relaxer-3 Areas (Dysport),GALD-DYSPR-100,Dysport,Consumable,Galderma,192,182.87,Default
+6/25/2026,BEL,"Bel Air, MD",Sale,Bel-15388,Cecilia Gutwald,Brittany King,N/A,N/A,1.111E+11,IS Clinical Reparative Moisture Emulsion,Retail,IS CLINICAL,1,58,Default
+6/25/2026,BEL,"Bel Air, MD",Sale,Bel-15388,Cecilia Gutwald,Brittany King,N/A,N/A,1.111E+11,IS Clinical Brightening Complex,Retail,IS CLINICAL,1,83,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29275,Eve Mrozek,Caroline Swartz,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,24.5,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29275,Eve Mrozek,Caroline Swartz,N/A,N/A,1.111E+11,IS Clinical Reparative Moisture Emulsion,Retail,IS CLINICAL,1,57.47,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29275,Eve Mrozek,Caroline Swartz,N/A,N/A,1.111E+11,PLATED Intense,Retail,"Rion Aesthetics, Inc.",1,129,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19233,Courtney Ramos,Joanna Machel,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,40,66.76,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29275,Eve Mrozek,Caroline Swartz,N/A,N/A,1.111E+11,IS Clinical Hydra-Cool Serum,Retail,IS CLINICAL,1,53,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29884,Chenyang Lu,Jasmin Mendoza,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,24.5,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14604,Deliah Foster,Kristina Giakas,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,38,60.92,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29880,Phil Bozzo,Scarlin Sanchez,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,24.5,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-13324,Christine Crosby,Deanna Dragone,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,56,92.98,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22768,Erin Petrocelli,Crystal Farinha,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,50,78.44,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-19041,Christine Berry,Crystal Farinha,BelS-NC63148435,Lip Flip/Gummy Smile,ALLE-BOTOX-100,Botox,Consumable,Allergan,4,19.5,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6929,Brittany Hart,Sherin Panayil,PRF Gel,PRF Gel,1.111E+11,PRF Blue Tubes,Consumable,BIO PRF,3,2.3,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19412,Maggie Slawinski,Nicole Larsen,SerN013,Sculptra,GALD-SCULP-002,Sculptra,Consumable,Galderma,2,0,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-14483,Donna Alexander,Brittany King,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,1.84,Default
+6/25/2026,LPA,"Lancaster, PA",Service Consumption,2279,Linda Vataha,Jessa Brooks,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,1.86,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-18604,Monika Jozefowicz,Joanna Machel,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,174,196.18,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14648,Laura May,Michelle Maddatu,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,28,178.3,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22772,Kelsey Sanczyk,Paige Martin,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,120,135.77,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-13324,Christine Crosby,Deanna Dragone,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.96,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-12819,Heather Madison,Kristina Giakas,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,50,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14572,Carly Mauro,Kristina Giakas,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,75,477.59,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22082,Emily Hart,Paige Martin,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,144,162.92,Default
+6/25/2026,BWNJ,"Bridgewater, NJ",Service Consumption,3204,Anne Doherty,Jessica Kestler,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,53,75.7,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-21096,Erin Petrocelli,Daylin Bastidas,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,16.31,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-19041,Christine Berry,Crystal Farinha,BelS-NC63148435,Lip Flip/Gummy Smile,ALLE-BOTOX-100,Botox,Consumable,Allergan,2,9.75,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-27867,Ashlee Bessolo,Caroline Swartz,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19024,Brittny Perna,Lis Castro,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,25.69,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19025,Debi Perna,Lis Castro,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,1.85,Default
+6/25/2026,WAL,"Waldorf, MD",Sale,Wal-3391,Ciera Santoro,Tylisha Cobb,N/A,N/A,1.111E+11,EltaMD UV Skin Recovery GREEN,Retail,EltaMD,1,0,Default
+6/25/2026,WAL,"Waldorf, MD",Sale,Wal-3391,Ciera Santoro,Tylisha Cobb,N/A,N/A,1.111E+11,IS Clinical Reparative Moisture Emulsion,Retail,IS CLINICAL,1,58,Default
+6/25/2026,WAL,"Waldorf, MD",Sale,Wal-3391,Ciera Santoro,Tylisha Cobb,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,24.5,Default
+6/25/2026,FRE,"Frederick, MD",Sale,Fre-13640,Megan Labrozzi,Carly Jones,N/A,N/A,Bel-NC75400046,Evolve Skin Needle Free Serum,Retail,BRAND MD,1,49,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29338,Lasheba Stone,Scarlin Sanchez,N/A,N/A,1.111E+11,IS Clinical Brightening Complex,Retail,IS CLINICAL,1,83,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21943,Mikayla Liang,Patricia Ashmore,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,11,18.18,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16538,Jisha Hall,Karen Enriquez,BBL10,BBL - 10 Syringes,MERZ-RADIE-001,Radiesse (with Lidocaine),Consumable,Merz,10,1109.38,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14534,Alyssa Prevost,Michelle Maddatu,BelS-NC63148435,Lip Flip/Gummy Smile,ALLE-BOTOX-100,Botox,Consumable,Allergan,6,38.21,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21943,Mikayla Liang,Patricia Ashmore,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,26,42.97,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-13410,Marissa Bolouri-rad,Geri Gan,New Quarterly Toxin Treatment,New Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,64,102.14,Default
+6/25/2026,BWNJ,"Bridgewater, NJ",Service Consumption,2981,Stefanie Cubala,Jessica Kestler,PDRNTU,PDRN Tone-Up Add-On,1.111E+11,Rejuran Tone Up,Consumable,Alphablue Medical,1,20.67,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19501,Tarra Hansen,Joanna Machel,BelS-NC63148435,Lip Flip/Gummy Smile,GALD-DYSPR-100,Dysport,Consumable,Galderma,12,13.53,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22844,Erin Petrocelli,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Cleansing Complex,Retail,IS CLINICAL,1,24.5,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22844,Erin Petrocelli,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,88.5,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15355,Anne Marie Mcglumphy,Shanon Snead,BelS-NC63148435,Lip Flip/Gummy Smile,1.111E+11,Letybo,Consumable,BENEV,6,14.98,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22830,Amanda Elkhatib,Crystal Farinha,BelS-NC63148435,Lip Flip/Gummy Smile,ALLE-BOTOX-100,Botox,Consumable,Allergan,6,29.25,Default
+6/25/2026,BEL,"Bel Air, MD",Sale,Bel-14483,Donna Alexander,Brittany King,N/A,N/A,1.111E+11,IS Clinical Youth Eye Complex,Retail,IS CLINICAL,1,62,Default
+6/25/2026,BEL,"Bel Air, MD",Sale,Bel-14483,Donna Alexander,Brittany King,N/A,N/A,1.111E+11,IS Clinical Reparative Moisture Emulsion,Retail,IS CLINICAL,1,58,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22701,Claire Seferidis,Paige Martin,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,48,233.97,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29859,Jennifer Cohen,Giuliana Popolillo,N/A,N/A,1.111E+11,PLATED Intense,Retail,"Rion Aesthetics, Inc.",1,129,Default
+6/25/2026,MON,"Montclair, NJ",Sale,MON-21774,Laura Venezia,Sujita Brar,N/A,N/A,1.111E+11,IS Clinical Reparative Moisture Emulsion,Retail,IS CLINICAL,1,57.89,Default
+6/25/2026,MON,"Montclair, NJ",Sale,MON-21774,Laura Venezia,Sujita Brar,N/A,N/A,1.111E+11,IS Clinical Youth Eye Complex,Retail,IS CLINICAL,1,60,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29858,Emily Shrekgast,Lindsey Parker,N/A,N/A,1.111E+11,IS Clinical Hydra-Cool Serum,Retail,IS CLINICAL,1,53,Default
+6/25/2026,HOB,"Hoboken, NJ",Sale,Hob-29858,Emily Shrekgast,Lindsey Parker,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,80.22,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19624,Deyna Macri,Joanna Machel,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,9,10.15,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-13300,Megan Davis,Kristina Giakas,BelS-PD66782947,Restylane - L,GALD-RESTL-001,Restylane - L,Consumable,Galderma,1,187.21,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14087,Caroline Garguilo,Domenica Fassari,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,1.88,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14087,Caroline Garguilo,Domenica Fassari,BelS-NC99433677,DiamondGlow Facial,SKMD-DGTNS-012,DiamondGlow - TNS Serum,Consumable,Allergan,1,26.4,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21774,Laura Venezia,Sujita Brar,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,25.02,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-28311,Cara Pascarella,Caroline Swartz,BelS-NC99433677,DiamondGlow Facial,SKMD-DGECS-012,DiamondGlow - Even & Correct Serum,Consumable,Allergan,1,0,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29643,Renee levine Levine hamou,Silvana Rivas,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,147,166.08,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15136,Taylor Gischel,Brittany King,CHAMPFACE,Champagne Facial,1.111E+11,IS Clinical Foaming Enzyme Masque System (BB),Consumable,IS CLINICAL,1,0,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15325,Megan Manzari,Shanon Snead,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,86.64,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-13300,Megan Davis,Kristina Giakas,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,98,157.12,Default
+6/25/2026,FRE,"Frederick, MD",Sale,Fre-13302,Donna Ross,Geri Gan,N/A,N/A,1.111E+11,EltaMD UV Skin Recovery GREEN,Retail,EltaMD,1,26,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22828,Nicole Kenny,Josephine Hernandez,N/A,N/A,Bel-NC75378843,SkinMedica Retinol Complex 0.5,Retail,,1,24.1,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6925,Allie Huettel,Sherin Panayil,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,10.18,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-14950,Madeline Holtz,Leah Roundtree,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,2.04,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-14950,Madeline Holtz,Leah Roundtree,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-22038,Molly Hartman,Patricia Ashmore,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,4,6.61,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-22038,Molly Hartman,Patricia Ashmore,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,2,213.69,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22752,Neely Katz,Crystal Farinha,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,90,101.82,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-15477,Dasuni De Silva,Macarena Silvestri,PDRNTU,PDRN Tone-Up Add-On,1.111E+11,Rejuran Tone Up,Consumable,Alphablue Medical,1,43.95,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-15477,Dasuni De Silva,Macarena Silvestri,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,50,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-13296,Susan Pungitore,Deanna Dragone,SerN012,Versa,PROL-VERSA-002,Versa,Consumable,Prollenium,1,98.54,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22715,Mame Westbrook,Paige Martin,BelS-PD67554634,Radiesse (with Lidocaine),MERZ-RADIE-001,Radiesse (with Lidocaine),Consumable,Merz,1,130.4,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-21096,Erin Petrocelli,Daylin Bastidas,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,2.11,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22715,Mame Westbrook,Paige Martin,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,102,115.4,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29488,Jessica Pratt,Giuliana Popolillo,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,24,27.12,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-29714,Clare Daley,Silvana Rivas,SerN020,Botox,ALLE-BOTOX-100,Botox,Consumable,Allergan,16,74.11,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19024,Brittny Perna,Lis Castro,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,1.85,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-19532,Joanne Bjornson,Joanna Machel,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,20,33.38,Default
+6/25/2026,MON,"Montclair, NJ",Sale,MON-21403,Elissa Friedman,Sujita Brar,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,88.5,Default
+6/25/2026,MON,"Montclair, NJ",Sale,MON-22038,Molly Hartman,Patricia Ashmore,N/A,N/A,1.111E+11,PLATED Intense,Retail,"Rion Aesthetics, Inc.",1,129,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21403,Elissa Friedman,Sujita Brar,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,25.02,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-20874,Abigail Storz,Crystal Farinha,PRF Add-on,PRF Add-on,1.111E+11,PRF Blue Tubes,Consumable,BIO PRF,3,6.45,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-20874,Abigail Storz,Crystal Farinha,BelS-PD42701332,Microneedling (1 Area),1.111E+11,SkinPen Tip,Consumable,Revance,1,49.93,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6678,Julia Trull,Sherin Panayil,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,46,78.05,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-13601,Mia Herrel,Domenica Fassari,BelS-NC99433677,DiamondGlow Facial,SKMD-DGHAS-012,DiamondGlow - HA5 Serum,Consumable,Allergan,1,26.6,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-20848,Allison Fennik,Daylin Bastidas,BelS-NC99433677,DiamondGlow Facial,SKMD-DGECS-012,DiamondGlow - Even & Correct Serum,Consumable,Allergan,1,22.61,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-13179,Lindsey Brown,Deanna Dragone,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.96,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14601,Laura Friedman,Michelle Maddatu,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,60,96.19,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-28113,Stefani Schaechter,Silvana Rivas,SerN023,Xeomin,MERZ-XEOMN-100,Xeomin,Consumable,Merz,1,1.7,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-16325,Deirdre Tighe,Macarena Silvestri,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,9.75,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-13179,Lindsey Brown,Deanna Dragone,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,64,106.26,Default
+6/25/2026,RID,"Ridgewood, NJ",Service Consumption,Rid-13296,Susan Pungitore,Deanna Dragone,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,159,177.94,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-11748,Brittany Ericksen,Kristina Giakas,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,46,73.75,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-12201,Kim Hinz,Kristina Giakas,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,108,122,Default
+6/25/2026,HOB,"Hoboken, NJ",Service Consumption,Hob-28113,Stefani Schaechter,Silvana Rivas,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,10.2,Default
+6/25/2026,FRE,"Frederick, MD",Service Consumption,Fre-11423,Destiny Pryor,Geri Gan,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,50,79.8,Default
+6/25/2026,DEN,"Denville, NJ",Service Consumption,Den-16010,Jessica DeMichino,Joanna Machel,Quarterly Toxin Treatment,Quarterly Toxin Treatment,MERZ-XEOMN-100,Xeomin,Consumable,Merz,56,93.46,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22811,Allison Fennik,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Sheald Recovery Balm,Retail,IS CLINICAL,1,44.5,Default
+6/25/2026,JER,"Jersey City, NJ",Sale,Jer-22811,Allison Fennik,Daylin Bastidas,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+,Retail,IS CLINICAL,1,88.5,Default
+6/25/2026,TRI,"Tribeca, NY",Service Consumption,Tri-6916,Ingrid Duffy,Sherin Panayil,BelS-NC63148435,Lip Flip/Gummy Smile,MERZ-XEOMN-100,Xeomin,Consumable,Merz,6,10.18,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15494,Deborah Cristal,Shanon Snead,BelS-PD53396397,Restylane Lyft,GALD-RLYFT-001,Restylane LYFT,Consumable,Galderma,1,140.77,Default
+6/25/2026,SHO,"Short Hills, NJ",Service Consumption,Sho-15477,Dasuni De Silva,Macarena Silvestri,PDRNTU,PDRN Tone-Up Add-On,1.111E+11,Rejuran Tone Up,Consumable,Alphablue Medical,1,43.95,Default
+6/25/2026,RED,"Red Bank, NJ",Service Consumption,Red-14568,Monica Villaquiran,Michelle Maddatu,SerN021,Dysport,GALD-DYSPR-100,Dysport,Consumable,Galderma,156,176.23,Default
+6/25/2026,MON,"Montclair, NJ",Service Consumption,MON-21403,Elissa Friedman,Sujita Brar,BelS-PD13177751,Dermaplane Add-on,DERP-DERMP-050,Dermaplane Pro Blades,Consumable,Dermaplane Pro,1,0,Default
+6/25/2026,JER,"Jersey City, NJ",Service Consumption,Jer-22827,Mame Westbrook,Paige Martin,BelS-PD67554634,Radiesse (with Lidocaine),MERZ-RADIE-001,Radiesse (with Lidocaine),Consumable,Merz,1,130.4,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15494,Deborah Cristal,Shanon Snead,BelS-PD53396397,Restylane Lyft,GALD-RLYFT-001,Restylane LYFT,Consumable,Galderma,1,140.77,Default
+6/25/2026,BEL,"Bel Air, MD",Service Consumption,Bel-15494,Deborah Cristal,Shanon Snead,BelS-PD20910237,Restylane Refyne,GALD-REFYN-001,Restylane REFYNE,Consumable,Galderma,1,120.45,Default
+6/25/2026,BEL,"Bel Air, MD",Manual Consumption,N/A,N/A,N/A,N/A,N/A,1.111E+11,IS Clinical Pro-Heal Serum Advance+ (BB),Consumable,IS CLINICAL,1,110.58,Default
+6/25/2026,LPA,"Lancaster, PA",Service Consumption,2277,Jen Bauer,Jessa Brooks,PDRNTU,PDRN Tone-Up Add-On,1.111E+11,Rejuran Tone Up,Consumable,Alphablue Medical,1,25,Default

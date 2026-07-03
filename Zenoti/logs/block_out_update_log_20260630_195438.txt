@@ -1,0 +1,12 @@
+2026-06-30 19:54:38,806 - INFO - Found 903 rows in C:\Users\esg\Downloads\Zenoti\blocks\block_june1-27.csv
+2026-06-30 19:54:41,129 - INFO - Successfully connected to the database.
+2026-06-30 19:54:41,548 - INFO - SKIPPED: Row 0 for 'Joanna Machel' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-30 19:54:41,967 - INFO - SKIPPED: Row 1 for 'Katlyn Cusack' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-30 19:54:42,404 - INFO - SKIPPED: Row 2 for 'Lilian Joval' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-30 19:54:42,818 - INFO - SKIPPED: Row 3 for 'Nicole Larsen' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-30 19:54:43,244 - INFO - SKIPPED: Row 4 for 'Crystal Farinha' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-30 19:54:43,658 - INFO - SKIPPED: Row 5 for 'Daylin Bastidas' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-30 19:54:44,077 - INFO - SKIPPED: Row 6 for 'Josephine Hernandez' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-30 19:54:44,503 - INFO - SKIPPED: Row 7 for 'Monique Snee' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-30 19:54:44,920 - INFO - SKIPPED: Row 8 for 'Lana Patrick' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-30 19:54:45,338 - INFO - SKIPPED: Row 9 for 'Sherin Panayil' on 06/01/2026 already has block_out_hours_paid set.

@@ -1,0 +1,54 @@
+2026-06-30 17:49:02,580 - INFO - Found 15 rows in C:\Users\esg\AppData\Local\Temp\zenoti_gdrive_7qof42mk\attendance_2026-06-29_to_2026-06-29.csv
+2026-06-30 17:49:05,678 - INFO - Successfully connected to the database.
+2026-06-30 17:49:05,913 - INFO - --- No match found for CSV row 0. Attempting to insert. ---
+2026-06-30 17:49:06,134 - INFO - SUCCESS: Inserted new record for 'Joanna Machel' on 06/29/2026.
+2026-06-30 17:49:06,135 - INFO - --------------------------------------------------
+2026-06-30 17:49:06,333 - INFO - --- No match found for CSV row 1. Attempting to insert. ---
+2026-06-30 17:49:06,542 - INFO - SUCCESS: Inserted new record for 'Katlyn Cusack' on 06/29/2026.
+2026-06-30 17:49:06,542 - INFO - --------------------------------------------------
+2026-06-30 17:49:06,745 - INFO - --- No match found for CSV row 2. Attempting to insert. ---
+2026-06-30 17:49:06,952 - INFO - SUCCESS: Inserted new record for 'Lilian Joval' on 06/29/2026.
+2026-06-30 17:49:06,953 - INFO - --------------------------------------------------
+2026-06-30 17:49:07,154 - INFO - --- No match found for CSV row 3. Attempting to insert. ---
+2026-06-30 17:49:07,358 - INFO - SUCCESS: Inserted new record for 'Nicole Larsen' on 06/29/2026.
+2026-06-30 17:49:07,359 - INFO - --------------------------------------------------
+2026-06-30 17:49:07,565 - INFO - --- No match found for CSV row 4. Attempting to insert. ---
+2026-06-30 17:49:07,769 - INFO - SUCCESS: Inserted new record for 'Giuliana Popolillo' on 06/29/2026.
+2026-06-30 17:49:07,770 - INFO - --------------------------------------------------
+2026-06-30 17:49:07,975 - INFO - --- No match found for CSV row 5. Attempting to insert. ---
+2026-06-30 17:49:08,183 - INFO - SUCCESS: Inserted new record for 'Jasmin Mendoza' on 06/29/2026.
+2026-06-30 17:49:08,184 - INFO - --------------------------------------------------
+2026-06-30 17:49:08,386 - INFO - --- No match found for CSV row 6. Attempting to insert. ---
+2026-06-30 17:49:08,592 - INFO - SUCCESS: Inserted new record for 'Silvana Rivas' on 06/29/2026.
+2026-06-30 17:49:08,592 - INFO - --------------------------------------------------
+2026-06-30 17:49:08,797 - INFO - --- No match found for CSV row 7. Attempting to insert. ---
+2026-06-30 17:49:09,009 - INFO - SUCCESS: Inserted new record for 'Crystal Farinha' on 06/29/2026.
+2026-06-30 17:49:09,009 - INFO - --------------------------------------------------
+2026-06-30 17:49:09,212 - INFO - --- No match found for CSV row 8. Attempting to insert. ---
+2026-06-30 17:49:09,421 - INFO - SUCCESS: Inserted new record for 'Daylin Bastidas' on 06/29/2026.
+2026-06-30 17:49:09,421 - INFO - --------------------------------------------------
+2026-06-30 17:49:09,628 - INFO - --- No match found for CSV row 9. Attempting to insert. ---
+2026-06-30 17:49:09,832 - INFO - SUCCESS: Inserted new record for 'Josephine Hernandez' on 06/29/2026.
+2026-06-30 17:49:09,832 - INFO - --------------------------------------------------
+2026-06-30 17:49:10,037 - INFO - --- No match found for CSV row 10. Attempting to insert. ---
+2026-06-30 17:49:10,244 - INFO - SUCCESS: Inserted new record for 'Monique Snee' on 06/29/2026.
+2026-06-30 17:49:10,245 - INFO - --------------------------------------------------
+2026-06-30 17:49:10,447 - INFO - --- No match found for CSV row 11. Attempting to insert. ---
+2026-06-30 17:49:10,654 - INFO - SUCCESS: Inserted new record for 'Paige Martin' on 06/29/2026.
+2026-06-30 17:49:10,655 - INFO - --------------------------------------------------
+2026-06-30 17:49:10,862 - INFO - --- No match found for CSV row 12. Attempting to insert. ---
+2026-06-30 17:49:11,066 - INFO - SUCCESS: Inserted new record for 'Training Model' on 06/29/2026.
+2026-06-30 17:49:11,066 - INFO - --------------------------------------------------
+2026-06-30 17:49:11,266 - INFO - --- No match found for CSV row 13. Attempting to insert. ---
+2026-06-30 17:49:11,474 - INFO - SUCCESS: Inserted new record for 'Lana Patrick' on 06/29/2026.
+2026-06-30 17:49:11,474 - INFO - --------------------------------------------------
+2026-06-30 17:49:11,673 - INFO - --- No match found for CSV row 14. Attempting to insert. ---
+2026-06-30 17:49:11,880 - INFO - SUCCESS: Inserted new record for 'Sherin Panayil' on 06/29/2026.
+2026-06-30 17:49:11,881 - INFO - --------------------------------------------------
+2026-06-30 17:49:11,885 - INFO - 
+Orphan cleanup: scanning DB for records in date range 06/29/2026 — 06/29/2026 not found in CSV.
+2026-06-30 17:49:12,093 - INFO - Found 15 DB record(s) in date range.
+2026-06-30 17:49:12,106 - INFO - Orphan cleanup complete. Total rows deleted: 0
+2026-06-30 17:49:12,307 - INFO - 
+Transaction committed.
+2026-06-30 17:49:12,307 - INFO - Database update complete. Total rows updated: 0, Total rows inserted: 15, Total rows deleted: 0

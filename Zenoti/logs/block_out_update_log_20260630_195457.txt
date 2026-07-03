@@ -1,0 +1,24 @@
+2026-06-30 19:54:57,741 - INFO - Found 15 rows in C:\Users\esg\Downloads\Zenoti\blocks\attendance_2026-06-29_to_2026-06-29.csv
+2026-06-30 19:55:00,899 - INFO - Successfully connected to the database.
+2026-06-30 19:55:01,313 - INFO - SUCCESS: Updated row 0 for 'Joanna Machel' on 06/29/2026. Set block_out_hours_paid to 0.50.
+2026-06-30 19:55:01,726 - INFO - SUCCESS: Updated row 1 for 'Katlyn Cusack' on 06/29/2026. Set block_out_hours_paid to 0.00.
+2026-06-30 19:55:02,143 - INFO - SUCCESS: Updated row 2 for 'Lilian Joval' on 06/29/2026. Set block_out_hours_paid to 0.00.
+2026-06-30 19:55:02,562 - INFO - SUCCESS: Updated row 3 for 'Nicole Larsen' on 06/29/2026. Set block_out_hours_paid to 0.50.
+2026-06-30 19:55:02,980 - INFO - SUCCESS: Updated row 4 for 'Giuliana Popolillo' on 06/29/2026. Set block_out_hours_paid to 0.00.
+2026-06-30 19:55:03,392 - INFO - SUCCESS: Updated row 5 for 'Jasmin Mendoza' on 06/29/2026. Set block_out_hours_paid to 0.00.
+2026-06-30 19:55:03,809 - INFO - SUCCESS: Updated row 6 for 'Silvana Rivas' on 06/29/2026. Set block_out_hours_paid to 0.00.
+2026-06-30 19:55:04,227 - INFO - SUCCESS: Updated row 7 for 'Crystal Farinha' on 06/29/2026. Set block_out_hours_paid to 1.00.
+2026-06-30 19:55:04,645 - INFO - SUCCESS: Updated row 8 for 'Daylin Bastidas' on 06/29/2026. Set block_out_hours_paid to 0.50.
+2026-06-30 19:55:05,058 - INFO - SUCCESS: Updated row 9 for 'Josephine Hernandez' on 06/29/2026. Set block_out_hours_paid to 0.00.
+2026-06-30 19:55:05,471 - INFO - SUCCESS: Updated row 10 for 'Monique Snee' on 06/29/2026. Set block_out_hours_paid to 0.00.
+2026-06-30 19:55:05,892 - INFO - SUCCESS: Updated row 11 for 'Paige Martin' on 06/29/2026. Set block_out_hours_paid to 1.83.
+2026-06-30 19:55:06,318 - INFO - SUCCESS: Updated row 12 for 'Training Model' on 06/29/2026. Set block_out_hours_paid to 0.50.
+2026-06-30 19:55:06,733 - INFO - SUCCESS: Updated row 13 for 'Lana Patrick' on 06/29/2026. Set block_out_hours_paid to 0.00.
+2026-06-30 19:55:07,147 - INFO - SUCCESS: Updated row 14 for 'Sherin Panayil' on 06/29/2026. Set block_out_hours_paid to 0.00.
+2026-06-30 19:55:07,150 - INFO - 
+Orphan cleanup: scanning DB for records in date range 06/29/2026 — 06/29/2026 not found in CSV.
+2026-06-30 19:55:07,358 - INFO - Found 15 DB record(s) in date range.
+2026-06-30 19:55:07,368 - INFO - Orphan cleanup complete. Total rows deleted: 0
+2026-06-30 19:55:07,580 - INFO - 
+Transaction committed.
+2026-06-30 19:55:07,581 - INFO - Database update complete. Total rows updated: 15, Total rows inserted: 0, Total rows deleted: 0

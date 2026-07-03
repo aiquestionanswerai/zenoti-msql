@@ -1,0 +1,946 @@
+2026-06-28 17:44:17,187 - INFO - Found 903 rows in C:\Users\esg\Downloads\Zenoti\blocks\block_june1-27.csv
+2026-06-28 17:44:19,378 - INFO - Successfully connected to the database.
+2026-06-28 17:44:19,834 - INFO - SKIPPED: Row 0 for 'Joanna Machel' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:20,239 - INFO - SKIPPED: Row 1 for 'Katlyn Cusack' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:20,651 - INFO - SKIPPED: Row 2 for 'Lilian Joval' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:21,056 - INFO - SKIPPED: Row 3 for 'Nicole Larsen' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:21,472 - INFO - SKIPPED: Row 4 for 'Crystal Farinha' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:21,877 - INFO - SKIPPED: Row 5 for 'Daylin Bastidas' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:22,290 - INFO - SKIPPED: Row 6 for 'Josephine Hernandez' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:22,702 - INFO - SKIPPED: Row 7 for 'Monique Snee' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:23,115 - INFO - SKIPPED: Row 8 for 'Lana Patrick' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:23,526 - INFO - SKIPPED: Row 9 for 'Sherin Panayil' on 06/01/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:23,938 - INFO - SKIPPED: Row 10 for 'Brittany King' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:24,348 - INFO - SKIPPED: Row 11 for 'Laura Cardinal' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:24,753 - INFO - SKIPPED: Row 12 for 'Shanon Snead' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:25,165 - INFO - SKIPPED: Row 13 for 'Macarena Silvestri' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:25,570 - INFO - SKIPPED: Row 14 for 'Jackie Moyer' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:25,976 - INFO - SKIPPED: Row 15 for 'Joanna Machel' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:26,385 - INFO - SKIPPED: Row 16 for 'Kyra Jamison' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:26,789 - INFO - SKIPPED: Row 17 for 'Lilian Joval' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:27,194 - INFO - SKIPPED: Row 18 for 'Crystal Farinha' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:27,607 - INFO - SKIPPED: Row 19 for 'Karen Enriquez' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:28,013 - INFO - SKIPPED: Row 20 for 'Lindsey Parker' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:28,418 - INFO - SKIPPED: Row 21 for 'Monique Snee' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:28,829 - INFO - SKIPPED: Row 22 for 'Jessa Brooks' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:29,243 - INFO - SKIPPED: Row 23 for 'Aysia Lee' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:29,656 - INFO - SKIPPED: Row 24 for 'Jessica Crawford' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:30,067 - INFO - SKIPPED: Row 25 for 'Nicole Larsen' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:30,480 - INFO - SKIPPED: Row 26 for 'Sujita Brar' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:30,892 - INFO - SKIPPED: Row 27 for 'Alyssa Reed' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:31,303 - INFO - SKIPPED: Row 28 for 'Sandy Dalaris' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:31,716 - INFO - SKIPPED: Row 29 for 'Domenica Fassari' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:32,127 - INFO - SKIPPED: Row 30 for 'Gabriella Campisi' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:32,539 - INFO - SKIPPED: Row 31 for 'Kristina Giakas' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:32,945 - INFO - SKIPPED: Row 32 for 'Michelle Maddatu' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:33,351 - INFO - SKIPPED: Row 33 for 'Ceyli Reyes' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:33,757 - INFO - SKIPPED: Row 34 for 'Leigh Ortiz' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:34,162 - INFO - SKIPPED: Row 35 for 'Patricia Ashmore' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:34,568 - INFO - SKIPPED: Row 36 for 'Allyson Koch' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:34,974 - INFO - SKIPPED: Row 37 for 'Laila Chakib' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:35,378 - INFO - SKIPPED: Row 38 for 'Leah Roundtree' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:35,785 - INFO - SKIPPED: Row 39 for 'Macarena Silvestri' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:36,191 - INFO - SKIPPED: Row 40 for 'Breana Durrah' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:36,598 - INFO - SKIPPED: Row 41 for 'Tylisha Cobb' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:37,003 - INFO - SKIPPED: Row 42 for 'Brittany King' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:37,409 - INFO - SKIPPED: Row 43 for 'Laura Cardinal' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:37,814 - INFO - SKIPPED: Row 44 for 'Shanon Snead' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:38,219 - INFO - SKIPPED: Row 45 for 'Macarena Silvestri' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:38,624 - INFO - SKIPPED: Row 46 for 'Joanna Machel' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:39,030 - INFO - SKIPPED: Row 47 for 'Kyra Jamison' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:39,441 - INFO - SKIPPED: Row 48 for 'Lis Castro' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:39,846 - INFO - SKIPPED: Row 49 for 'Nicole Larsen' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:40,258 - INFO - SKIPPED: Row 50 for 'Christine Eppes' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:40,663 - INFO - SKIPPED: Row 51 for 'Jasmin Mendoza' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:41,075 - INFO - SKIPPED: Row 52 for 'Scarlin Sanchez' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:41,480 - INFO - SKIPPED: Row 53 for 'Silvana Rivas' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:41,886 - INFO - SKIPPED: Row 54 for 'Allyson Koch' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:42,291 - INFO - SKIPPED: Row 55 for 'Karen Enriquez' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:42,704 - INFO - SKIPPED: Row 56 for 'Alex Nixon' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:43,109 - INFO - SKIPPED: Row 57 for 'Jessa Brooks' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:43,317 - INFO - --- No match found for CSV row 58. Attempting to insert. ---
+2026-06-28 17:44:43,520 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/06/2026.
+2026-06-28 17:44:43,521 - INFO - --------------------------------------------------
+2026-06-28 17:44:43,926 - INFO - SKIPPED: Row 59 for 'Arwa Mahmoud' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:44,332 - INFO - SKIPPED: Row 60 for 'Jessica Crawford' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:44,738 - INFO - SKIPPED: Row 61 for 'Alyssa Reed' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:45,149 - INFO - SKIPPED: Row 62 for 'Domenica Fassari' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:45,555 - INFO - SKIPPED: Row 63 for 'Katlyn Cusack' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:45,960 - INFO - SKIPPED: Row 64 for 'Breana Ramsumair' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:46,366 - INFO - SKIPPED: Row 65 for 'Kristina Giakas' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:46,777 - INFO - SKIPPED: Row 66 for 'Annette Webson' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:47,191 - INFO - SKIPPED: Row 67 for 'Deanna Dragone' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:47,598 - INFO - SKIPPED: Row 68 for 'Jessica Ramirez' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:48,004 - INFO - SKIPPED: Row 69 for 'Leigh Ortiz' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:48,410 - INFO - SKIPPED: Row 70 for 'Patricia Ashmore' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:48,816 - INFO - SKIPPED: Row 71 for 'Jessica Kestler' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:49,225 - INFO - SKIPPED: Row 72 for 'Leah Roundtree' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:49,632 - INFO - SKIPPED: Row 73 for 'Breana Durrah' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:50,038 - INFO - SKIPPED: Row 74 for 'Tylisha Cobb' on 06/06/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:50,445 - INFO - SKIPPED: Row 75 for 'Katlyn Cusack' on 06/08/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:50,850 - INFO - SKIPPED: Row 76 for 'Lilian Joval' on 06/08/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:51,260 - INFO - SKIPPED: Row 77 for 'Crystal Farinha' on 06/08/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:51,665 - INFO - SKIPPED: Row 78 for 'Daylin Bastidas' on 06/08/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:52,075 - INFO - SKIPPED: Row 79 for 'Josephine Hernandez' on 06/08/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:52,485 - INFO - SKIPPED: Row 80 for 'Monique Snee' on 06/08/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:52,896 - INFO - SKIPPED: Row 81 for 'Paige Martin' on 06/08/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:53,299 - INFO - SKIPPED: Row 82 for 'Training Model' on 06/08/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:53,704 - INFO - SKIPPED: Row 83 for 'Allyson Koch' on 06/08/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:54,108 - INFO - SKIPPED: Row 84 for 'Laila Chakib' on 06/08/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:54,515 - INFO - SKIPPED: Row 85 for 'Lana Patrick' on 06/08/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:54,919 - INFO - SKIPPED: Row 86 for 'Brittany King' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:55,324 - INFO - SKIPPED: Row 87 for 'Laura Cardinal' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:55,738 - INFO - SKIPPED: Row 88 for 'Shanon Snead' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:56,149 - INFO - SKIPPED: Row 89 for 'Alyssa Reed' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:56,555 - INFO - SKIPPED: Row 90 for 'Macarena Silvestri' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:56,962 - INFO - SKIPPED: Row 91 for 'Joanna Machel' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:57,367 - INFO - SKIPPED: Row 92 for 'Lilian Joval' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:57,776 - INFO - SKIPPED: Row 93 for 'Lis Castro' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:58,182 - INFO - SKIPPED: Row 94 for 'Carly Jones' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:58,594 - INFO - SKIPPED: Row 95 for 'Geri Gan' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:58,999 - INFO - SKIPPED: Row 96 for 'Caroline Swartz' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:59,405 - INFO - SKIPPED: Row 97 for 'Deanna Dragone' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:44:59,819 - INFO - SKIPPED: Row 98 for 'Giuliana Popolillo' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:00,224 - INFO - SKIPPED: Row 99 for 'Jasmin Mendoza' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:00,629 - INFO - SKIPPED: Row 100 for 'Lindsey Parker' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:01,040 - INFO - SKIPPED: Row 101 for 'Osbert Fernandez' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:01,444 - INFO - SKIPPED: Row 102 for 'Scarlin Sanchez' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:01,850 - INFO - SKIPPED: Row 103 for 'Silvana Rivas' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:02,256 - INFO - SKIPPED: Row 104 for 'Crystal Farinha' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:02,662 - INFO - SKIPPED: Row 105 for 'Josephine Hernandez' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:03,068 - INFO - SKIPPED: Row 106 for 'Monique Snee' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:03,475 - INFO - SKIPPED: Row 107 for 'Paige Martin' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:03,878 - INFO - SKIPPED: Row 108 for 'Training Model' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:04,284 - INFO - SKIPPED: Row 109 for 'Jessa Brooks' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:04,488 - INFO - --- No match found for CSV row 110. Attempting to insert. ---
+2026-06-28 17:45:04,690 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/09/2026.
+2026-06-28 17:45:04,691 - INFO - --------------------------------------------------
+2026-06-28 17:45:05,096 - INFO - SKIPPED: Row 111 for 'Aysia Lee' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:05,501 - INFO - SKIPPED: Row 112 for 'Jessica Crawford' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:05,907 - INFO - SKIPPED: Row 113 for 'Sujita Brar' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:06,313 - INFO - SKIPPED: Row 114 for 'Domenica Fassari' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:06,721 - INFO - SKIPPED: Row 115 for 'Michelle Maddatu' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:07,139 - INFO - SKIPPED: Row 116 for 'Gabriella Campisi' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:07,543 - INFO - SKIPPED: Row 117 for 'Kristina Giakas' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:07,948 - INFO - SKIPPED: Row 118 for 'Annette Webson' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:08,352 - INFO - SKIPPED: Row 119 for 'Leigh Ortiz' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:08,757 - INFO - SKIPPED: Row 120 for 'Patricia Ashmore' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:09,164 - INFO - SKIPPED: Row 121 for 'Jessica Kestler' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:09,571 - INFO - SKIPPED: Row 122 for 'Karen Enriquez' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:09,976 - INFO - SKIPPED: Row 123 for 'Laila Chakib' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:10,383 - INFO - SKIPPED: Row 124 for 'Leah Roundtree' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:10,789 - INFO - SKIPPED: Row 125 for 'Lana Patrick' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:11,195 - INFO - SKIPPED: Row 126 for 'Sherin Panayil' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:11,600 - INFO - SKIPPED: Row 127 for 'Breana Durrah' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:12,010 - INFO - SKIPPED: Row 128 for 'Tylisha Cobb' on 06/09/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:12,416 - INFO - SKIPPED: Row 129 for 'Brittany King' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:12,825 - INFO - SKIPPED: Row 130 for 'Christine Eppes' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:13,229 - INFO - SKIPPED: Row 131 for 'Laura Cardinal' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:13,636 - INFO - SKIPPED: Row 132 for 'Shanon Snead' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:14,040 - INFO - SKIPPED: Row 133 for 'Training Model' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:14,446 - INFO - SKIPPED: Row 134 for 'Alyssa Reed' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:14,850 - INFO - SKIPPED: Row 135 for 'Macarena Silvestri' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:15,255 - INFO - SKIPPED: Row 136 for 'Joanna Machel' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:15,661 - INFO - SKIPPED: Row 137 for 'Kyra Jamison' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:16,069 - INFO - SKIPPED: Row 138 for 'Lilian Joval' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:16,475 - INFO - SKIPPED: Row 139 for 'Lis Castro' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:16,880 - INFO - SKIPPED: Row 140 for 'Carly Jones' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:17,285 - INFO - SKIPPED: Row 141 for 'Geri Gan' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:17,691 - INFO - SKIPPED: Row 142 for 'Caroline Swartz' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:18,096 - INFO - SKIPPED: Row 143 for 'Giuliana Popolillo' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:18,501 - INFO - SKIPPED: Row 144 for 'Jasmin Mendoza' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:18,904 - INFO - SKIPPED: Row 145 for 'Lindsey Parker' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:19,308 - INFO - SKIPPED: Row 146 for 'Silvana Rivas' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:19,712 - INFO - SKIPPED: Row 147 for 'Crystal Farinha' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:20,117 - INFO - SKIPPED: Row 148 for 'Daylin Bastidas' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:20,523 - INFO - SKIPPED: Row 149 for 'Josephine Hernandez' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:20,929 - INFO - SKIPPED: Row 150 for 'Monique Snee' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:21,334 - INFO - SKIPPED: Row 151 for 'Paige Martin' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:21,738 - INFO - SKIPPED: Row 152 for 'Jessa Brooks' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:21,942 - INFO - --- No match found for CSV row 153. Attempting to insert. ---
+2026-06-28 17:45:22,143 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/10/2026.
+2026-06-28 17:45:22,144 - INFO - --------------------------------------------------
+2026-06-28 17:45:22,552 - INFO - SKIPPED: Row 154 for 'Aysia Lee' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:22,957 - INFO - SKIPPED: Row 155 for 'Jessica Crawford' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:23,363 - INFO - SKIPPED: Row 156 for 'Nicole Larsen' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:23,767 - INFO - SKIPPED: Row 157 for 'Sujita Brar' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:24,174 - INFO - SKIPPED: Row 158 for 'Domenica Fassari' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:24,582 - INFO - SKIPPED: Row 159 for 'Lis Castro' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:24,991 - INFO - SKIPPED: Row 160 for 'Carly Jones' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:25,396 - INFO - SKIPPED: Row 161 for 'Geri Gan' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:25,803 - INFO - SKIPPED: Row 162 for 'Caroline Swartz' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:26,210 - INFO - SKIPPED: Row 163 for 'Deanna Dragone' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:26,617 - INFO - SKIPPED: Row 164 for 'Giuliana Popolillo' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:27,023 - INFO - SKIPPED: Row 165 for 'Jasmin Mendoza' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:27,428 - INFO - SKIPPED: Row 166 for 'Lindsey Parker' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:27,836 - INFO - SKIPPED: Row 167 for 'Osbert Fernandez' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:28,248 - INFO - SKIPPED: Row 168 for 'Scarlin Sanchez' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:28,652 - INFO - SKIPPED: Row 169 for 'Silvana Rivas' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:29,058 - INFO - SKIPPED: Row 170 for 'Crystal Farinha' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:29,463 - INFO - SKIPPED: Row 171 for 'Daylin Bastidas' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:29,868 - INFO - SKIPPED: Row 172 for 'Josephine Hernandez' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:30,278 - INFO - SKIPPED: Row 173 for 'Monique Snee' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:30,684 - INFO - SKIPPED: Row 174 for 'Paige Martin' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:31,091 - INFO - SKIPPED: Row 175 for 'Aysia Lee' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:31,500 - INFO - SKIPPED: Row 176 for 'Patricia Ashmore' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:31,908 - INFO - SKIPPED: Row 177 for 'Sujita Brar' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:32,321 - INFO - SKIPPED: Row 178 for 'Alyssa Nicol' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:32,730 - INFO - SKIPPED: Row 179 for 'Alyssa Reed' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:33,137 - INFO - SKIPPED: Row 180 for 'Domenica Fassari' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:33,542 - INFO - SKIPPED: Row 181 for 'Gabriella Campisi' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:33,947 - INFO - SKIPPED: Row 182 for 'Kristina Giakas' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:34,351 - INFO - SKIPPED: Row 183 for 'Michelle Maddatu' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:34,759 - INFO - SKIPPED: Row 184 for 'Annette Webson' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:35,165 - INFO - SKIPPED: Row 185 for 'Ceyli Reyes' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:35,570 - INFO - SKIPPED: Row 186 for 'Leigh Ortiz' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:35,977 - INFO - SKIPPED: Row 187 for 'Allyson Koch' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:36,388 - INFO - SKIPPED: Row 188 for 'Jessica Kestler' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:36,793 - INFO - SKIPPED: Row 189 for 'Karen Enriquez' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:37,208 - INFO - SKIPPED: Row 190 for 'Leah Roundtree' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:37,614 - INFO - SKIPPED: Row 191 for 'Lana Patrick' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:38,020 - INFO - SKIPPED: Row 192 for 'Sherin Panayil' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:38,426 - INFO - SKIPPED: Row 193 for 'Breana Durrah' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:38,832 - INFO - SKIPPED: Row 194 for 'Tylisha Cobb' on 06/02/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:39,243 - INFO - SKIPPED: Row 195 for 'Brittany King' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:39,648 - INFO - SKIPPED: Row 196 for 'Laura Cardinal' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:40,057 - INFO - SKIPPED: Row 197 for 'Shanon Snead' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:40,463 - INFO - SKIPPED: Row 198 for 'Alyssa Reed' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:40,870 - INFO - SKIPPED: Row 199 for 'Macarena Silvestri' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:41,276 - INFO - SKIPPED: Row 200 for 'Joanna Machel' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:41,682 - INFO - SKIPPED: Row 201 for 'Kyra Jamison' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:42,088 - INFO - SKIPPED: Row 202 for 'Lilian Joval' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:42,495 - INFO - SKIPPED: Row 203 for 'Lis Castro' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:42,900 - INFO - SKIPPED: Row 204 for 'Carly Jones' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:43,305 - INFO - SKIPPED: Row 205 for 'Christine Eppes' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:43,713 - INFO - SKIPPED: Row 206 for 'Geri Gan' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:44,123 - INFO - SKIPPED: Row 207 for 'Caroline Swartz' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:44,531 - INFO - SKIPPED: Row 208 for 'Deanna Dragone' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:44,937 - INFO - SKIPPED: Row 209 for 'Giuliana Popolillo' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:45,340 - INFO - SKIPPED: Row 210 for 'Jasmin Mendoza' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:45,747 - INFO - SKIPPED: Row 211 for 'Lindsey Parker' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:46,152 - INFO - SKIPPED: Row 212 for 'Silvana Rivas' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:46,563 - INFO - SKIPPED: Row 213 for 'Austin Marie Jacobus' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:46,977 - INFO - SKIPPED: Row 214 for 'Crystal Farinha' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:47,387 - INFO - SKIPPED: Row 215 for 'Daylin Bastidas' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:47,792 - INFO - SKIPPED: Row 216 for 'Josephine Hernandez' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:48,198 - INFO - SKIPPED: Row 217 for 'Karen Enriquez' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:48,604 - INFO - SKIPPED: Row 218 for 'Monique Snee' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:49,010 - INFO - SKIPPED: Row 219 for 'Jessa Brooks' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:49,414 - INFO - SKIPPED: Row 220 for 'Aysia Lee' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:49,819 - INFO - SKIPPED: Row 221 for 'Nicole Larsen' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:50,224 - INFO - SKIPPED: Row 222 for 'Alyssa Nicol' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:50,629 - INFO - SKIPPED: Row 223 for 'Alyssa Reed' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:51,034 - INFO - SKIPPED: Row 224 for 'Domenica Fassari' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:51,439 - INFO - SKIPPED: Row 225 for 'Breana Ramsumair' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:51,845 - INFO - SKIPPED: Row 226 for 'Gabriella Campisi' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:52,250 - INFO - SKIPPED: Row 227 for 'Kristina Giakas' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:52,657 - INFO - SKIPPED: Row 228 for 'Paige Martin' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:53,062 - INFO - SKIPPED: Row 229 for 'Annette Webson' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:53,466 - INFO - SKIPPED: Row 230 for 'Ceyli Reyes' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:53,872 - INFO - SKIPPED: Row 231 for 'Leigh Ortiz' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:54,277 - INFO - SKIPPED: Row 232 for 'Patricia Ashmore' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:54,682 - INFO - SKIPPED: Row 233 for 'Jessica Kestler' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:55,088 - INFO - SKIPPED: Row 234 for 'Laila Chakib' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:55,493 - INFO - SKIPPED: Row 235 for 'Leah Roundtree' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:55,905 - INFO - SKIPPED: Row 236 for 'Michelle Maddatu' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:56,309 - INFO - SKIPPED: Row 237 for 'Lana Patrick' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:56,715 - INFO - SKIPPED: Row 238 for 'Sherin Panayil' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:57,139 - INFO - SKIPPED: Row 239 for 'Breana Durrah' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:57,545 - INFO - SKIPPED: Row 240 for 'Tylisha Cobb' on 06/03/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:57,950 - INFO - SKIPPED: Row 241 for 'Brittany King' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:58,357 - INFO - SKIPPED: Row 242 for 'Laura Cardinal' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:58,764 - INFO - SKIPPED: Row 243 for 'Shanon Snead' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:59,168 - INFO - SKIPPED: Row 244 for 'Alyssa Reed' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:59,575 - INFO - SKIPPED: Row 245 for 'Jessica Kestler' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:45:59,983 - INFO - SKIPPED: Row 246 for 'Kyra Jamison' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:00,389 - INFO - SKIPPED: Row 247 for 'Lis Castro' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:00,797 - INFO - SKIPPED: Row 248 for 'Nicole Larsen' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:01,205 - INFO - SKIPPED: Row 249 for 'Carly Jones' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:01,610 - INFO - SKIPPED: Row 250 for 'Christine Eppes' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:02,015 - INFO - SKIPPED: Row 251 for 'Geri Gan' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:02,419 - INFO - SKIPPED: Row 252 for 'Caroline Swartz' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:02,825 - INFO - SKIPPED: Row 253 for 'Jasmin Mendoza' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:03,233 - INFO - SKIPPED: Row 254 for 'Lindsey Parker' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:03,639 - INFO - SKIPPED: Row 255 for 'Scarlin Sanchez' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:04,045 - INFO - SKIPPED: Row 256 for 'Silvana Rivas' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:04,450 - INFO - SKIPPED: Row 257 for 'Daylin Bastidas' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:04,855 - INFO - SKIPPED: Row 258 for 'Josephine Hernandez' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:05,260 - INFO - SKIPPED: Row 259 for 'Karen Enriquez' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:05,665 - INFO - SKIPPED: Row 260 for 'Monique Snee' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:06,072 - INFO - SKIPPED: Row 261 for 'Paige Martin' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:06,479 - INFO - SKIPPED: Row 262 for 'Aysia Lee' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:06,883 - INFO - SKIPPED: Row 263 for 'Jessica Crawford' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:07,289 - INFO - SKIPPED: Row 264 for 'Patricia Ashmore' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:07,695 - INFO - SKIPPED: Row 265 for 'Alyssa Nicol' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:08,100 - INFO - SKIPPED: Row 266 for 'Alyssa Reed' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:08,504 - INFO - SKIPPED: Row 267 for 'Breana Ramsumair' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:08,910 - INFO - SKIPPED: Row 268 for 'Domenica Fassari' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:09,316 - INFO - SKIPPED: Row 269 for 'Gabriella Campisi' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:09,722 - INFO - SKIPPED: Row 270 for 'Kristina Giakas' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:10,127 - INFO - SKIPPED: Row 271 for 'Michelle Maddatu' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:10,533 - INFO - SKIPPED: Row 272 for 'Annette Webson' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:10,937 - INFO - SKIPPED: Row 273 for 'Ceyli Reyes' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:11,342 - INFO - SKIPPED: Row 274 for 'Deanna Dragone' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:11,748 - INFO - SKIPPED: Row 275 for 'Leigh Ortiz' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:12,153 - INFO - SKIPPED: Row 276 for 'Allyson Koch' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:12,563 - INFO - SKIPPED: Row 277 for 'Laila Chakib' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:12,986 - INFO - SKIPPED: Row 278 for 'Leah Roundtree' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:13,409 - INFO - SKIPPED: Row 279 for 'Macarena Silvestri' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:13,815 - INFO - SKIPPED: Row 280 for 'Lana Patrick' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:14,220 - INFO - SKIPPED: Row 281 for 'Sherin Panayil' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:14,627 - INFO - SKIPPED: Row 282 for 'Breana Durrah' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:15,031 - INFO - SKIPPED: Row 283 for 'Tylisha Cobb' on 06/04/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:15,436 - INFO - SKIPPED: Row 284 for 'Brittany King' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:15,841 - INFO - SKIPPED: Row 285 for 'Laura Cardinal' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:16,246 - INFO - SKIPPED: Row 286 for 'Shanon Snead' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:16,652 - INFO - SKIPPED: Row 287 for 'Jessica Kestler' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:17,059 - INFO - SKIPPED: Row 288 for 'Laila Chakib' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:17,464 - INFO - SKIPPED: Row 289 for 'Joanna Machel' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:17,869 - INFO - SKIPPED: Row 290 for 'Katlyn Cusack' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:18,275 - INFO - SKIPPED: Row 291 for 'Kyra Jamison' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:18,679 - INFO - SKIPPED: Row 292 for 'Lis Castro' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:19,085 - INFO - SKIPPED: Row 293 for 'Carly Jones' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:19,489 - INFO - SKIPPED: Row 294 for 'Christine Eppes' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:19,897 - INFO - SKIPPED: Row 295 for 'Geri Gan' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:20,305 - INFO - SKIPPED: Row 296 for 'Caroline Swartz' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:20,710 - INFO - SKIPPED: Row 297 for 'Deanna Dragone' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:21,116 - INFO - SKIPPED: Row 298 for 'Jasmin Mendoza' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:21,521 - INFO - SKIPPED: Row 299 for 'Scarlin Sanchez' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:21,926 - INFO - SKIPPED: Row 300 for 'Silvana Rivas' on 06/05/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:22,333 - INFO - SKIPPED: Row 301 for 'Breana Ramsumair' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:22,738 - INFO - SKIPPED: Row 302 for 'Gabriella Campisi' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:23,143 - INFO - SKIPPED: Row 303 for 'Kristina Giakas' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:23,552 - INFO - SKIPPED: Row 304 for 'Michelle Maddatu' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:23,956 - INFO - SKIPPED: Row 305 for 'Annette Webson' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:24,362 - INFO - SKIPPED: Row 306 for 'Ceyli Reyes' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:24,769 - INFO - SKIPPED: Row 307 for 'Jessica Ramirez' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:25,173 - INFO - SKIPPED: Row 308 for 'Leigh Ortiz' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:25,582 - INFO - SKIPPED: Row 309 for 'Patricia Ashmore' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:25,991 - INFO - SKIPPED: Row 310 for 'Allyson Koch' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:26,397 - INFO - SKIPPED: Row 311 for 'Jessica Kestler' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:26,801 - INFO - SKIPPED: Row 312 for 'Leah Roundtree' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:27,210 - INFO - SKIPPED: Row 313 for 'Lana Patrick' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:27,617 - INFO - SKIPPED: Row 314 for 'Sherin Panayil' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:28,023 - INFO - SKIPPED: Row 315 for 'Breana Durrah' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:28,427 - INFO - SKIPPED: Row 316 for 'Tylisha Cobb' on 06/10/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:28,832 - INFO - SKIPPED: Row 317 for 'Brittany King' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:29,237 - INFO - SKIPPED: Row 318 for 'Christine Eppes' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:29,642 - INFO - SKIPPED: Row 319 for 'Laura Cardinal' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:30,047 - INFO - SKIPPED: Row 320 for 'Shanon Snead' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:30,454 - INFO - SKIPPED: Row 321 for 'Jessica Kestler' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:30,862 - INFO - SKIPPED: Row 322 for 'Macarena Silvestri' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:31,267 - INFO - SKIPPED: Row 323 for 'Joanna Machel' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:31,674 - INFO - SKIPPED: Row 324 for 'Katlyn Cusack' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:32,078 - INFO - SKIPPED: Row 325 for 'Kyra Jamison' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:32,482 - INFO - SKIPPED: Row 326 for 'Lis Castro' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:32,889 - INFO - SKIPPED: Row 327 for 'Nicole Larsen' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:33,298 - INFO - SKIPPED: Row 328 for 'Carly Jones' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:33,703 - INFO - SKIPPED: Row 329 for 'Geri Gan' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:34,111 - INFO - SKIPPED: Row 330 for 'Caroline Swartz' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:34,516 - INFO - SKIPPED: Row 331 for 'Giuliana Popolillo' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:34,920 - INFO - SKIPPED: Row 332 for 'Jasmin Mendoza' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:35,325 - INFO - SKIPPED: Row 333 for 'Lindsey Parker' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:35,730 - INFO - SKIPPED: Row 334 for 'Scarlin Sanchez' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:36,138 - INFO - SKIPPED: Row 335 for 'Silvana Rivas' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:36,553 - INFO - SKIPPED: Row 336 for 'Daylin Bastidas' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:36,968 - INFO - SKIPPED: Row 337 for 'Monique Snee' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:37,382 - INFO - SKIPPED: Row 338 for 'Paige Martin' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:37,788 - INFO - SKIPPED: Row 339 for 'Jessa Brooks' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:37,992 - INFO - --- No match found for CSV row 340. Attempting to insert. ---
+2026-06-28 17:46:38,192 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/11/2026.
+2026-06-28 17:46:38,193 - INFO - --------------------------------------------------
+2026-06-28 17:46:38,598 - INFO - SKIPPED: Row 341 for 'Aysia Lee' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:39,003 - INFO - SKIPPED: Row 342 for 'Jessica Crawford' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:39,408 - INFO - SKIPPED: Row 343 for 'Patricia Ashmore' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:39,815 - INFO - SKIPPED: Row 344 for 'Sujita Brar' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:40,220 - INFO - SKIPPED: Row 345 for 'Alyssa Nicol' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:40,624 - INFO - SKIPPED: Row 346 for 'Alyssa Reed' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:41,030 - INFO - SKIPPED: Row 347 for 'Breana Ramsumair' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:41,433 - INFO - SKIPPED: Row 348 for 'Domenica Fassari' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:41,838 - INFO - SKIPPED: Row 349 for 'Gabriella Campisi' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:42,244 - INFO - SKIPPED: Row 350 for 'Kristina Giakas' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:42,648 - INFO - SKIPPED: Row 351 for 'Michelle Maddatu' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:43,052 - INFO - SKIPPED: Row 352 for 'Ceyli Reyes' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:43,457 - INFO - SKIPPED: Row 353 for 'Deanna Dragone' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:43,861 - INFO - SKIPPED: Row 354 for 'Jessica Ramirez' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:44,265 - INFO - SKIPPED: Row 355 for 'Leigh Ortiz' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:44,670 - INFO - SKIPPED: Row 356 for 'Allyson Koch' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:45,075 - INFO - SKIPPED: Row 357 for 'Karen Enriquez' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:45,480 - INFO - SKIPPED: Row 358 for 'Leah Roundtree' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:45,885 - INFO - SKIPPED: Row 359 for 'Lana Patrick' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:46,290 - INFO - SKIPPED: Row 360 for 'Sherin Panayil' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:46,697 - INFO - SKIPPED: Row 361 for 'Breana Durrah' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:47,104 - INFO - SKIPPED: Row 362 for 'Tylisha Cobb' on 06/11/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:47,508 - INFO - SKIPPED: Row 363 for 'Brittany King' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:47,915 - INFO - SKIPPED: Row 364 for 'Christine Eppes' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:48,320 - INFO - SKIPPED: Row 365 for 'Laura Cardinal' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:48,725 - INFO - SKIPPED: Row 366 for 'Shanon Snead' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:49,131 - INFO - SKIPPED: Row 367 for 'Jessica Kestler' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:49,537 - INFO - SKIPPED: Row 368 for 'Joanna Machel' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:49,941 - INFO - SKIPPED: Row 369 for 'Katlyn Cusack' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:50,347 - INFO - SKIPPED: Row 370 for 'Kyra Jamison' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:50,754 - INFO - SKIPPED: Row 371 for 'Lis Castro' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:51,159 - INFO - SKIPPED: Row 372 for 'Geri Gan' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:51,565 - INFO - SKIPPED: Row 373 for 'Caroline Swartz' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:51,969 - INFO - SKIPPED: Row 374 for 'Deanna Dragone' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:52,375 - INFO - SKIPPED: Row 375 for 'Giuliana Popolillo' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:52,781 - INFO - SKIPPED: Row 376 for 'Lindsey Parker' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:53,186 - INFO - SKIPPED: Row 377 for 'Scarlin Sanchez' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:53,594 - INFO - SKIPPED: Row 378 for 'Silvana Rivas' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:54,009 - INFO - SKIPPED: Row 379 for 'Crystal Farinha' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:54,415 - INFO - SKIPPED: Row 380 for 'Daylin Bastidas' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:54,824 - INFO - SKIPPED: Row 381 for 'Josephine Hernandez' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:55,231 - INFO - SKIPPED: Row 382 for 'Karen Enriquez' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:55,637 - INFO - SKIPPED: Row 383 for 'Jessa Brooks' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:55,840 - INFO - --- No match found for CSV row 384. Attempting to insert. ---
+2026-06-28 17:46:56,041 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/12/2026.
+2026-06-28 17:46:56,041 - INFO - --------------------------------------------------
+2026-06-28 17:46:56,450 - INFO - SKIPPED: Row 385 for 'Aysia Lee' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:56,855 - INFO - SKIPPED: Row 386 for 'Jessica Crawford' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:57,261 - INFO - SKIPPED: Row 387 for 'Sujita Brar' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:57,667 - INFO - SKIPPED: Row 388 for 'Alyssa Nicol' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:58,072 - INFO - SKIPPED: Row 389 for 'Alyssa Reed' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:58,478 - INFO - SKIPPED: Row 390 for 'Domenica Fassari' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:58,883 - INFO - SKIPPED: Row 391 for 'Gabriella Campisi' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:59,288 - INFO - SKIPPED: Row 392 for 'Kristina Giakas' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:46:59,693 - INFO - SKIPPED: Row 393 for 'Michelle Maddatu' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:00,101 - INFO - SKIPPED: Row 394 for 'Ceyli Reyes' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:00,505 - INFO - SKIPPED: Row 395 for 'Jessica Ramirez' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:00,910 - INFO - SKIPPED: Row 396 for 'Leigh Ortiz' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:01,314 - INFO - SKIPPED: Row 397 for 'Patricia Ashmore' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:01,721 - INFO - SKIPPED: Row 398 for 'Arwa Mahmoud' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:02,128 - INFO - SKIPPED: Row 399 for 'Leah Roundtree' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:02,533 - INFO - SKIPPED: Row 400 for 'Macarena Silvestri' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:02,937 - INFO - SKIPPED: Row 401 for 'Lana Patrick' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:03,349 - INFO - SKIPPED: Row 402 for 'Lana Patrick - Aesthetician' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:03,754 - INFO - SKIPPED: Row 403 for 'Breana Durrah' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:04,159 - INFO - SKIPPED: Row 404 for 'Tylisha Cobb' on 06/12/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:04,564 - INFO - SKIPPED: Row 405 for 'Brittany King' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:04,968 - INFO - SKIPPED: Row 406 for 'Christine Eppes' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:05,372 - INFO - SKIPPED: Row 407 for 'Laura Cardinal' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:05,779 - INFO - SKIPPED: Row 408 for 'Shanon Snead' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:06,184 - INFO - SKIPPED: Row 409 for 'Alyssa Reed' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:06,587 - INFO - SKIPPED: Row 410 for 'Macarena Silvestri' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:07,005 - INFO - SKIPPED: Row 411 for 'Jackie Moyer' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:07,411 - INFO - SKIPPED: Row 412 for 'Katlyn Cusack' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:07,816 - INFO - SKIPPED: Row 413 for 'Geri Gan' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:08,222 - INFO - SKIPPED: Row 414 for 'Arwa Mahmoud' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:08,626 - INFO - SKIPPED: Row 415 for 'Crystal Farinha' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:09,030 - INFO - SKIPPED: Row 416 for 'Daylin Bastidas' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:09,434 - INFO - SKIPPED: Row 417 for 'Jessa Brooks' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:09,637 - INFO - --- No match found for CSV row 418. Attempting to insert. ---
+2026-06-28 17:47:09,838 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/13/2026.
+2026-06-28 17:47:09,838 - INFO - --------------------------------------------------
+2026-06-28 17:47:10,244 - INFO - SKIPPED: Row 419 for 'Jessica Crawford' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:10,650 - INFO - SKIPPED: Row 420 for 'Kyra Jamison' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:11,055 - INFO - SKIPPED: Row 421 for 'Sujita Brar' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:11,460 - INFO - SKIPPED: Row 422 for 'Alyssa Nicol' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:11,865 - INFO - SKIPPED: Row 423 for 'Domenica Fassari' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:12,271 - INFO - SKIPPED: Row 424 for 'Gabriella Campisi' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:12,677 - INFO - SKIPPED: Row 425 for 'Michelle Maddatu' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:13,081 - INFO - SKIPPED: Row 426 for 'Ceyli Reyes' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:13,486 - INFO - SKIPPED: Row 427 for 'Jessica Ramirez' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:13,890 - INFO - SKIPPED: Row 428 for 'Leigh Ortiz' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:14,297 - INFO - SKIPPED: Row 429 for 'Allyson Koch' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:14,701 - INFO - SKIPPED: Row 430 for 'Karen Enriquez' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:15,106 - INFO - SKIPPED: Row 431 for 'Leah Roundtree' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:15,514 - INFO - SKIPPED: Row 432 for 'Breana Durrah' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:15,919 - INFO - SKIPPED: Row 433 for 'Tylisha Cobb' on 06/13/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:16,324 - INFO - SKIPPED: Row 434 for 'Brittany King' on 06/15/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:16,730 - INFO - SKIPPED: Row 435 for 'Joanna Machel' on 06/15/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:17,137 - INFO - SKIPPED: Row 436 for 'Katlyn Cusack' on 06/15/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:17,544 - INFO - SKIPPED: Row 437 for 'Lilian Joval' on 06/15/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:17,948 - INFO - SKIPPED: Row 438 for 'Nicole Larsen' on 06/15/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:18,352 - INFO - SKIPPED: Row 439 for 'Crystal Farinha' on 06/15/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:18,757 - INFO - SKIPPED: Row 440 for 'Monique Snee' on 06/15/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:19,160 - INFO - SKIPPED: Row 441 for 'Paige Martin' on 06/15/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:19,566 - INFO - SKIPPED: Row 442 for 'Lana Patrick' on 06/15/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:19,972 - INFO - SKIPPED: Row 443 for 'Brittany King' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:20,376 - INFO - SKIPPED: Row 444 for 'Laura Cardinal' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:20,783 - INFO - SKIPPED: Row 445 for 'Shanon Snead' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:21,195 - INFO - SKIPPED: Row 446 for 'Alyssa Reed' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:21,635 - INFO - SKIPPED: Row 447 for 'Macarena Silvestri' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:22,048 - INFO - SKIPPED: Row 448 for 'Jackie Moyer' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:22,454 - INFO - SKIPPED: Row 449 for 'Joanna Machel' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:22,861 - INFO - SKIPPED: Row 450 for 'Kyra Jamison' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:23,265 - INFO - SKIPPED: Row 451 for 'Lilian Joval' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:23,670 - INFO - SKIPPED: Row 452 for 'Lis Castro' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:24,074 - INFO - SKIPPED: Row 453 for 'Carly Jones' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:24,481 - INFO - SKIPPED: Row 454 for 'Geri Gan' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:24,886 - INFO - SKIPPED: Row 455 for 'Caroline Swartz' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:25,291 - INFO - SKIPPED: Row 456 for 'Deanna Dragone' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:25,697 - INFO - SKIPPED: Row 457 for 'Giuliana Popolillo' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:26,101 - INFO - SKIPPED: Row 458 for 'Lindsey Parker' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:26,508 - INFO - SKIPPED: Row 459 for 'Scarlin Sanchez' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:26,916 - INFO - SKIPPED: Row 460 for 'Silvana Rivas' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:27,322 - INFO - SKIPPED: Row 461 for 'Crystal Farinha' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:27,728 - INFO - SKIPPED: Row 462 for 'Daylin Bastidas' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:28,132 - INFO - SKIPPED: Row 463 for 'Josephine Hernandez' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:28,535 - INFO - SKIPPED: Row 464 for 'Monique Snee' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:28,941 - INFO - SKIPPED: Row 465 for 'Paige Martin' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:29,345 - INFO - SKIPPED: Row 466 for 'Training Model' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:29,751 - INFO - SKIPPED: Row 467 for 'Emma Amway' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:30,157 - INFO - SKIPPED: Row 468 for 'Jessa Brooks' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:30,361 - INFO - --- No match found for CSV row 469. Attempting to insert. ---
+2026-06-28 17:47:30,567 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/16/2026.
+2026-06-28 17:47:30,568 - INFO - --------------------------------------------------
+2026-06-28 17:47:30,973 - INFO - SKIPPED: Row 470 for 'Aysia Lee' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:31,378 - INFO - SKIPPED: Row 471 for 'Jessica Crawford' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:31,783 - INFO - SKIPPED: Row 472 for 'Patricia Ashmore' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:32,190 - INFO - SKIPPED: Row 473 for 'Sujita Brar' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:32,596 - INFO - SKIPPED: Row 474 for 'Alyssa Nicol' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:33,001 - INFO - SKIPPED: Row 475 for 'Domenica Fassari' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:33,410 - INFO - SKIPPED: Row 476 for 'Gabriella Campisi' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:33,814 - INFO - SKIPPED: Row 477 for 'Kristina Giakas' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:34,220 - INFO - SKIPPED: Row 478 for 'Michelle Maddatu' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:34,625 - INFO - SKIPPED: Row 479 for 'Annette Webson' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:35,031 - INFO - SKIPPED: Row 480 for 'Ceyli Reyes' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:35,435 - INFO - SKIPPED: Row 481 for 'Jessica Ramirez' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:35,843 - INFO - SKIPPED: Row 482 for 'Leigh Ortiz' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:36,247 - INFO - SKIPPED: Row 483 for 'Allyson Koch' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:36,652 - INFO - SKIPPED: Row 484 for 'Jessica Kestler' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:37,056 - INFO - SKIPPED: Row 485 for 'Karen Enriquez' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:37,460 - INFO - SKIPPED: Row 486 for 'Leah Roundtree' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:37,866 - INFO - SKIPPED: Row 487 for 'Sherin Panayil' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:38,270 - INFO - SKIPPED: Row 488 for 'Breana Durrah' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:38,674 - INFO - SKIPPED: Row 489 for 'Training Model2 ' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:39,080 - INFO - SKIPPED: Row 490 for 'Tylisha Cobb' on 06/16/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:39,486 - INFO - SKIPPED: Row 491 for 'Brittany King' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:39,890 - INFO - SKIPPED: Row 492 for 'Laura Cardinal' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:40,295 - INFO - SKIPPED: Row 493 for 'Shanon Snead' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:40,702 - INFO - SKIPPED: Row 494 for 'Alyssa Reed' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:41,107 - INFO - SKIPPED: Row 495 for 'Macarena Silvestri' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:41,511 - INFO - SKIPPED: Row 496 for 'Joanna Machel' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:41,917 - INFO - SKIPPED: Row 497 for 'Kyra Jamison' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:42,323 - INFO - SKIPPED: Row 498 for 'Lilian Joval' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:42,727 - INFO - SKIPPED: Row 499 for 'Lis Castro' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:43,133 - INFO - SKIPPED: Row 500 for 'Carly Jones' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:43,539 - INFO - SKIPPED: Row 501 for 'Christine Eppes' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:43,944 - INFO - SKIPPED: Row 502 for 'Geri Gan' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:44,353 - INFO - SKIPPED: Row 503 for 'Caroline Swartz' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:44,759 - INFO - SKIPPED: Row 504 for 'Deanna Dragone' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:45,164 - INFO - SKIPPED: Row 505 for 'Giuliana Popolillo' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:45,569 - INFO - SKIPPED: Row 506 for 'Jasmin Mendoza' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:45,974 - INFO - SKIPPED: Row 507 for 'Lindsey Parker' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:46,380 - INFO - SKIPPED: Row 508 for 'Silvana Rivas' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:46,786 - INFO - SKIPPED: Row 509 for 'Crystal Farinha' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:47,195 - INFO - SKIPPED: Row 510 for 'Daylin Bastidas' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:47,600 - INFO - SKIPPED: Row 511 for 'Josephine Hernandez' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:48,004 - INFO - SKIPPED: Row 512 for 'Karen Enriquez' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:48,407 - INFO - SKIPPED: Row 513 for 'Monique Snee' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:48,813 - INFO - SKIPPED: Row 514 for 'Emma Amway' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:49,217 - INFO - SKIPPED: Row 515 for 'Jessa Brooks' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:49,420 - INFO - --- No match found for CSV row 516. Attempting to insert. ---
+2026-06-28 17:47:49,621 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/17/2026.
+2026-06-28 17:47:49,622 - INFO - --------------------------------------------------
+2026-06-28 17:47:50,027 - INFO - SKIPPED: Row 517 for 'Aysia Lee' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:50,432 - INFO - SKIPPED: Row 518 for 'Nicole Larsen' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:50,837 - INFO - SKIPPED: Row 519 for 'Sujita Brar' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:51,246 - INFO - SKIPPED: Row 520 for 'Alyssa Nicol' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:51,651 - INFO - SKIPPED: Row 521 for 'Domenica Fassari' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:52,055 - INFO - SKIPPED: Row 522 for 'Breana Ramsumair' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:52,461 - INFO - SKIPPED: Row 523 for 'Gabriella Campisi' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:52,867 - INFO - SKIPPED: Row 524 for 'Kristina Giakas' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:53,273 - INFO - SKIPPED: Row 525 for 'Paige Martin' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:53,681 - INFO - SKIPPED: Row 526 for 'Annette Webson' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:54,086 - INFO - SKIPPED: Row 527 for 'Ceyli Reyes' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:54,491 - INFO - SKIPPED: Row 528 for 'Jessica Ramirez' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:54,897 - INFO - SKIPPED: Row 529 for 'Patricia Ashmore' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:55,301 - INFO - SKIPPED: Row 530 for 'Allyson Koch' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:55,706 - INFO - SKIPPED: Row 531 for 'Jessica Kestler' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:56,113 - INFO - SKIPPED: Row 532 for 'Laila Chakib' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:56,522 - INFO - SKIPPED: Row 533 for 'Leah Roundtree' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:56,932 - INFO - SKIPPED: Row 534 for 'Michelle Maddatu' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:57,335 - INFO - SKIPPED: Row 535 for 'Lana Patrick' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:57,739 - INFO - SKIPPED: Row 536 for 'Sherin Panayil' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:58,145 - INFO - SKIPPED: Row 537 for 'Breana Durrah' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:58,549 - INFO - SKIPPED: Row 538 for 'Tylisha Cobb' on 06/17/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:58,954 - INFO - SKIPPED: Row 539 for 'Brittany King' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:59,361 - INFO - SKIPPED: Row 540 for 'Laura Cardinal' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:47:59,765 - INFO - SKIPPED: Row 541 for 'Shanon Snead' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:00,171 - INFO - SKIPPED: Row 542 for 'Alyssa Reed' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:00,576 - INFO - SKIPPED: Row 543 for 'Jessica Kestler' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:00,981 - INFO - SKIPPED: Row 544 for 'Katlyn Cusack' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:01,386 - INFO - SKIPPED: Row 545 for 'Kyra Jamison' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:01,793 - INFO - SKIPPED: Row 546 for 'Lis Castro' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:02,198 - INFO - SKIPPED: Row 547 for 'Carly Jones' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:02,602 - INFO - SKIPPED: Row 548 for 'Christine Eppes' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:03,007 - INFO - SKIPPED: Row 549 for 'Geri Gan' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:03,410 - INFO - SKIPPED: Row 550 for 'Tori Stapleton' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:03,814 - INFO - SKIPPED: Row 551 for 'Caroline Swartz' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:04,220 - INFO - SKIPPED: Row 552 for 'Giuliana Popolillo' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:04,625 - INFO - SKIPPED: Row 553 for 'Jasmin Mendoza' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:05,031 - INFO - SKIPPED: Row 554 for 'Lindsey Parker' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:05,435 - INFO - SKIPPED: Row 555 for 'Scarlin Sanchez' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:05,838 - INFO - SKIPPED: Row 556 for 'Silvana Rivas' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:06,242 - INFO - SKIPPED: Row 557 for 'Daylin Bastidas' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:06,648 - INFO - SKIPPED: Row 558 for 'Josephine Hernandez' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:07,052 - INFO - SKIPPED: Row 559 for 'Karen Enriquez' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:07,459 - INFO - SKIPPED: Row 560 for 'Monique Snee' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:07,864 - INFO - SKIPPED: Row 561 for 'Paige Martin' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:08,267 - INFO - SKIPPED: Row 562 for 'Jessa Brooks' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:08,470 - INFO - --- No match found for CSV row 563. Attempting to insert. ---
+2026-06-28 17:48:08,673 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/18/2026.
+2026-06-28 17:48:08,674 - INFO - --------------------------------------------------
+2026-06-28 17:48:09,080 - INFO - SKIPPED: Row 564 for 'Aysia Lee' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:09,486 - INFO - SKIPPED: Row 565 for 'Patricia Ashmore' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:09,891 - INFO - SKIPPED: Row 566 for 'Sujita Brar' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:10,295 - INFO - SKIPPED: Row 567 for 'Sandy Dalaris' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:10,700 - INFO - SKIPPED: Row 568 for 'Breana Ramsumair' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:11,106 - INFO - SKIPPED: Row 569 for 'Domenica Fassari' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:11,512 - INFO - SKIPPED: Row 570 for 'Gabriella Campisi' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:11,919 - INFO - SKIPPED: Row 571 for 'Kristina Giakas' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:12,324 - INFO - SKIPPED: Row 572 for 'Michelle Maddatu' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:12,731 - INFO - SKIPPED: Row 573 for 'Annette Webson' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:13,136 - INFO - SKIPPED: Row 574 for 'Ceyli Reyes' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:13,541 - INFO - SKIPPED: Row 575 for 'Deanna Dragone' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:13,946 - INFO - SKIPPED: Row 576 for 'Jessica Ramirez' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:14,351 - INFO - SKIPPED: Row 577 for 'Leigh Ortiz' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:14,757 - INFO - SKIPPED: Row 578 for 'Allyson Koch' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:15,161 - INFO - SKIPPED: Row 579 for 'Laila Chakib' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:15,567 - INFO - SKIPPED: Row 580 for 'Leah Roundtree' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:15,974 - INFO - SKIPPED: Row 581 for 'Macarena Silvestri' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:16,378 - INFO - SKIPPED: Row 582 for 'Lana Patrick' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:16,783 - INFO - SKIPPED: Row 583 for 'Breana Durrah' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:17,190 - INFO - SKIPPED: Row 584 for 'Tylisha Cobb' on 06/18/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:17,599 - INFO - SKIPPED: Row 585 for 'Laura Cardinal' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:18,002 - INFO - SKIPPED: Row 586 for 'Shanon Snead' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:18,406 - INFO - SKIPPED: Row 587 for 'Alyssa Reed' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:18,809 - INFO - SKIPPED: Row 588 for 'Jessica Kestler' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:19,213 - INFO - SKIPPED: Row 589 for 'Joanna Machel' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:19,616 - INFO - SKIPPED: Row 590 for 'Katlyn Cusack' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:20,020 - INFO - SKIPPED: Row 591 for 'Kyra Jamison' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:20,424 - INFO - SKIPPED: Row 592 for 'Carly Jones' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:20,827 - INFO - SKIPPED: Row 593 for 'Christine Eppes' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:21,230 - INFO - SKIPPED: Row 594 for 'Geri Gan' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:21,634 - INFO - SKIPPED: Row 595 for 'Tori Stapleton' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:22,036 - INFO - SKIPPED: Row 596 for 'Caroline Swartz' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:22,440 - INFO - SKIPPED: Row 597 for 'Deanna Dragone' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:22,843 - INFO - SKIPPED: Row 598 for 'Giuliana Popolillo' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:23,247 - INFO - SKIPPED: Row 599 for 'Jasmin Mendoza' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:23,668 - INFO - SKIPPED: Row 600 for 'Lindsey Parker' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:24,075 - INFO - SKIPPED: Row 601 for 'Scarlin Sanchez' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:24,478 - INFO - SKIPPED: Row 602 for 'Silvana Rivas' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:24,883 - INFO - SKIPPED: Row 603 for 'Crystal Farinha' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:25,286 - INFO - SKIPPED: Row 604 for 'Daylin Bastidas' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:25,693 - INFO - SKIPPED: Row 605 for 'Josephine Hernandez' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:26,103 - INFO - SKIPPED: Row 606 for 'Karen Enriquez' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:26,507 - INFO - SKIPPED: Row 607 for 'Monique Snee' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:26,911 - INFO - SKIPPED: Row 608 for 'Jessa Brooks' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:27,114 - INFO - --- No match found for CSV row 609. Attempting to insert. ---
+2026-06-28 17:48:27,315 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/19/2026.
+2026-06-28 17:48:27,315 - INFO - --------------------------------------------------
+2026-06-28 17:48:27,718 - INFO - SKIPPED: Row 610 for 'Aysia Lee' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:28,120 - INFO - SKIPPED: Row 611 for 'Jessica Crawford' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:28,524 - INFO - SKIPPED: Row 612 for 'Sujita Brar' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:28,929 - INFO - SKIPPED: Row 613 for 'Domenica Fassari' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:29,333 - INFO - SKIPPED: Row 614 for 'Gabriella Campisi' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:29,736 - INFO - SKIPPED: Row 615 for 'Kristina Giakas' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:30,140 - INFO - SKIPPED: Row 616 for 'Michelle Maddatu' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:30,542 - INFO - SKIPPED: Row 617 for 'Ceyli Reyes' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:30,945 - INFO - SKIPPED: Row 618 for 'Jessica Ramirez' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:31,349 - INFO - SKIPPED: Row 619 for 'Leigh Ortiz' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:31,752 - INFO - SKIPPED: Row 620 for 'Allyson Koch' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:32,157 - INFO - SKIPPED: Row 621 for 'Laila Chakib' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:32,577 - INFO - SKIPPED: Row 622 for 'Leah Roundtree' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:32,980 - INFO - SKIPPED: Row 623 for 'Macarena Silvestri' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:33,383 - INFO - SKIPPED: Row 624 for 'Lana Patrick' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:33,788 - INFO - SKIPPED: Row 625 for 'Lana Patrick - Aesthetician' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:34,192 - INFO - SKIPPED: Row 626 for 'Breana Durrah' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:34,595 - INFO - SKIPPED: Row 627 for 'Tylisha Cobb' on 06/19/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:35,000 - INFO - SKIPPED: Row 628 for 'Laura Cardinal' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:35,404 - INFO - SKIPPED: Row 629 for 'Shanon Snead' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:35,808 - INFO - SKIPPED: Row 630 for 'Alyssa Reed' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:36,211 - INFO - SKIPPED: Row 631 for 'Macarena Silvestri' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:36,615 - INFO - SKIPPED: Row 632 for 'Joanna Machel' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:37,028 - INFO - SKIPPED: Row 633 for 'Kyra Jamison' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:37,435 - INFO - SKIPPED: Row 634 for 'Lis Castro' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:37,838 - INFO - SKIPPED: Row 635 for 'Christine Eppes' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:38,243 - INFO - SKIPPED: Row 636 for 'Tori Stapleton' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:38,646 - INFO - SKIPPED: Row 637 for 'Giuliana Popolillo' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:39,050 - INFO - SKIPPED: Row 638 for 'Lindsey Parker' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:39,457 - INFO - SKIPPED: Row 639 for 'Scarlin Sanchez' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:39,860 - INFO - SKIPPED: Row 640 for 'Daylin Bastidas' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:40,264 - INFO - SKIPPED: Row 641 for 'Josephine Hernandez' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:40,667 - INFO - SKIPPED: Row 642 for 'Karen Enriquez' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:41,072 - INFO - SKIPPED: Row 643 for 'Jessa Brooks' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:41,274 - INFO - --- No match found for CSV row 644. Attempting to insert. ---
+2026-06-28 17:48:41,474 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/20/2026.
+2026-06-28 17:48:41,475 - INFO - --------------------------------------------------
+2026-06-28 17:48:41,879 - INFO - SKIPPED: Row 645 for 'Aysia Lee' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:42,281 - INFO - SKIPPED: Row 646 for 'Jessica Crawford' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:42,685 - INFO - SKIPPED: Row 647 for 'Sujita Brar' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:43,089 - INFO - SKIPPED: Row 648 for 'Domenica Fassari' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:43,493 - INFO - SKIPPED: Row 649 for 'Michelle Maddatu' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:43,901 - INFO - SKIPPED: Row 650 for 'Breana Ramsumair' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:44,304 - INFO - SKIPPED: Row 651 for 'Kristina Giakas' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:44,722 - INFO - SKIPPED: Row 652 for 'Ceyli Reyes' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:45,151 - INFO - SKIPPED: Row 653 for 'Deanna Dragone' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:45,557 - INFO - SKIPPED: Row 654 for 'Leigh Ortiz' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:45,961 - INFO - SKIPPED: Row 655 for 'Allyson Koch' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:46,367 - INFO - SKIPPED: Row 656 for 'Jessica Kestler' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:46,772 - INFO - SKIPPED: Row 657 for 'Leah Roundtree' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:47,181 - INFO - SKIPPED: Row 658 for 'Breana Durrah' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:47,584 - INFO - SKIPPED: Row 659 for 'Tylisha Cobb' on 06/20/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:47,989 - INFO - SKIPPED: Row 660 for 'Joanna Machel' on 06/22/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:48,395 - INFO - SKIPPED: Row 661 for 'Katlyn Cusack' on 06/22/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:48,800 - INFO - SKIPPED: Row 662 for 'Lilian Joval' on 06/22/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:49,206 - INFO - SKIPPED: Row 663 for 'Nicole Larsen' on 06/22/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:49,611 - INFO - SKIPPED: Row 664 for 'Josephine Hernandez' on 06/22/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:50,018 - INFO - SKIPPED: Row 665 for 'Paige Martin' on 06/22/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:50,421 - INFO - SKIPPED: Row 666 for 'Training Model' on 06/22/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:50,833 - INFO - SKIPPED: Row 667 for 'Samantha Kehle' on 06/22/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:51,237 - INFO - SKIPPED: Row 668 for 'Sherin Panayil' on 06/22/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:51,642 - INFO - SKIPPED: Row 669 for 'Brittany King' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:52,047 - INFO - SKIPPED: Row 670 for 'Laura Cardinal' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:52,452 - INFO - SKIPPED: Row 671 for 'Shanon Snead' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:52,857 - INFO - SKIPPED: Row 672 for 'Alyssa Reed' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:53,262 - INFO - SKIPPED: Row 673 for 'Macarena Silvestri' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:53,667 - INFO - SKIPPED: Row 674 for 'Jackie Moyer' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:54,072 - INFO - SKIPPED: Row 675 for 'Joanna Machel' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:54,475 - INFO - SKIPPED: Row 676 for 'Kyra Jamison' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:54,880 - INFO - SKIPPED: Row 677 for 'Lilian Joval' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:55,285 - INFO - SKIPPED: Row 678 for 'Lis Castro' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:55,692 - INFO - SKIPPED: Row 679 for 'Carly Jones' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:56,096 - INFO - SKIPPED: Row 680 for 'Geri Gan' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:56,500 - INFO - SKIPPED: Row 681 for 'Tori Stapleton' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:56,903 - INFO - SKIPPED: Row 682 for 'Caroline Swartz' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:57,308 - INFO - SKIPPED: Row 683 for 'Deanna Dragone' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:57,713 - INFO - SKIPPED: Row 684 for 'Giuliana Popolillo' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:58,118 - INFO - SKIPPED: Row 685 for 'Jasmin Mendoza' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:58,522 - INFO - SKIPPED: Row 686 for 'Lindsey Parker' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:58,927 - INFO - SKIPPED: Row 687 for 'Osbert Fernandez' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:59,331 - INFO - SKIPPED: Row 688 for 'Silvana Rivas' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:48:59,736 - INFO - SKIPPED: Row 689 for 'Crystal Farinha' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:00,141 - INFO - SKIPPED: Row 690 for 'Josephine Hernandez' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:00,545 - INFO - SKIPPED: Row 691 for 'Monique Snee' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:00,950 - INFO - SKIPPED: Row 692 for 'Paige Martin' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:01,358 - INFO - SKIPPED: Row 693 for 'Emma Amway' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:01,765 - INFO - SKIPPED: Row 694 for 'Jessa Brooks' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:01,968 - INFO - --- No match found for CSV row 695. Attempting to insert. ---
+2026-06-28 17:49:02,169 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/23/2026.
+2026-06-28 17:49:02,170 - INFO - --------------------------------------------------
+2026-06-28 17:49:02,573 - INFO - SKIPPED: Row 696 for 'Aysia Lee' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:02,977 - INFO - SKIPPED: Row 697 for 'Jessica Crawford' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:03,382 - INFO - SKIPPED: Row 698 for 'Patricia Ashmore' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:04,095 - INFO - SKIPPED: Row 699 for 'Sujita Brar' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:04,499 - INFO - SKIPPED: Row 700 for 'Training Model' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:04,903 - INFO - SKIPPED: Row 701 for 'Domenica Fassari' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:05,310 - INFO - SKIPPED: Row 702 for 'Michelle Maddatu' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:05,717 - INFO - SKIPPED: Row 703 for 'Samantha Kehle' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:06,122 - INFO - SKIPPED: Row 704 for 'Gabriella Campisi' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:06,527 - INFO - SKIPPED: Row 705 for 'Kristina Giakas' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:06,930 - INFO - SKIPPED: Row 706 for 'Annette Webson' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:07,335 - INFO - SKIPPED: Row 707 for 'Ceyli Reyes' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:07,537 - INFO - --- No match found for CSV row 708. Attempting to insert. ---
+2026-06-28 17:49:07,740 - INFO - SUCCESS: Inserted new record for 'Jessica Ramirez' on 06/23/2026.
+2026-06-28 17:49:07,740 - INFO - --------------------------------------------------
+2026-06-28 17:49:08,143 - INFO - SKIPPED: Row 709 for 'Leigh Ortiz' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:08,548 - INFO - SKIPPED: Row 710 for 'Allyson Koch' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:08,952 - INFO - SKIPPED: Row 711 for 'Karen Enriquez' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:09,356 - INFO - SKIPPED: Row 712 for 'Leah Roundtree' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:09,762 - INFO - SKIPPED: Row 713 for 'Lana Patrick' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:10,166 - INFO - SKIPPED: Row 714 for 'Sherin Panayil' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:10,569 - INFO - SKIPPED: Row 715 for 'Breana Durrah' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:10,979 - INFO - SKIPPED: Row 716 for 'Tylisha Cobb' on 06/23/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:11,382 - INFO - SKIPPED: Row 717 for 'Brittany King' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:11,786 - INFO - SKIPPED: Row 718 for 'Christine Eppes' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:12,189 - INFO - SKIPPED: Row 719 for 'Laura Cardinal' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:12,593 - INFO - SKIPPED: Row 720 for 'Shanon Snead' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:12,996 - INFO - SKIPPED: Row 721 for 'Training Model2 ' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:13,399 - INFO - SKIPPED: Row 722 for 'Alyssa Reed' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:13,804 - INFO - SKIPPED: Row 723 for 'Macarena Silvestri' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:14,207 - INFO - SKIPPED: Row 724 for 'Joanna Machel' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:14,612 - INFO - SKIPPED: Row 725 for 'Kyra Jamison' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:15,013 - INFO - SKIPPED: Row 726 for 'Lilian Joval' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:15,417 - INFO - SKIPPED: Row 727 for 'Lis Castro' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:15,821 - INFO - SKIPPED: Row 728 for 'Carly Jones' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:16,224 - INFO - SKIPPED: Row 729 for 'Geri Gan' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:16,630 - INFO - SKIPPED: Row 730 for 'Caroline Swartz' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:17,041 - INFO - SKIPPED: Row 731 for 'Deanna Dragone' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:17,448 - INFO - SKIPPED: Row 732 for 'Giuliana Popolillo' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:17,857 - INFO - SKIPPED: Row 733 for 'Jasmin Mendoza' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:18,260 - INFO - SKIPPED: Row 734 for 'Lindsey Parker' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:18,663 - INFO - SKIPPED: Row 735 for 'Silvana Rivas' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:19,066 - INFO - SKIPPED: Row 736 for 'Crystal Farinha' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:19,473 - INFO - SKIPPED: Row 737 for 'Daylin Bastidas' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:19,876 - INFO - SKIPPED: Row 738 for 'Josephine Hernandez' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:20,280 - INFO - SKIPPED: Row 739 for 'Monique Snee' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:20,684 - INFO - SKIPPED: Row 740 for 'Paige Martin' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:21,092 - INFO - SKIPPED: Row 741 for 'Training Model' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:21,495 - INFO - SKIPPED: Row 742 for 'Emma Amway' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:21,901 - INFO - SKIPPED: Row 743 for 'Jessa Brooks' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:22,103 - INFO - --- No match found for CSV row 744. Attempting to insert. ---
+2026-06-28 17:49:22,304 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/24/2026.
+2026-06-28 17:49:22,304 - INFO - --------------------------------------------------
+2026-06-28 17:49:22,708 - INFO - SKIPPED: Row 745 for 'Aysia Lee' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:23,112 - INFO - SKIPPED: Row 746 for 'Jessica Crawford' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:23,517 - INFO - SKIPPED: Row 747 for 'Nicole Larsen' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:23,920 - INFO - SKIPPED: Row 748 for 'Sujita Brar' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:24,324 - INFO - SKIPPED: Row 749 for 'Domenica Fassari' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:24,729 - INFO - SKIPPED: Row 750 for 'Michelle Maddatu' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:25,134 - INFO - SKIPPED: Row 751 for 'Samantha Kehle' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:25,538 - INFO - SKIPPED: Row 752 for 'Gabriella Campisi' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:25,944 - INFO - SKIPPED: Row 753 for 'Kristina Giakas' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:26,349 - INFO - SKIPPED: Row 754 for 'Annette Webson' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:26,754 - INFO - SKIPPED: Row 755 for 'Ceyli Reyes' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:27,160 - INFO - SKIPPED: Row 756 for 'Jessica Ramirez' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:27,565 - INFO - SKIPPED: Row 757 for 'Leigh Ortiz' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:27,969 - INFO - SKIPPED: Row 758 for 'Patricia Ashmore' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:28,376 - INFO - SKIPPED: Row 759 for 'Allyson Koch' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:28,782 - INFO - SKIPPED: Row 760 for 'Karen Enriquez' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:29,187 - INFO - SKIPPED: Row 761 for 'Laila Chakib' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:29,592 - INFO - SKIPPED: Row 762 for 'Leah Roundtree' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:29,998 - INFO - SKIPPED: Row 763 for 'Lana Patrick' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:30,402 - INFO - SKIPPED: Row 764 for 'Sherin Panayil' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:30,806 - INFO - SKIPPED: Row 765 for 'Breana Durrah' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:31,211 - INFO - SKIPPED: Row 766 for 'Tylisha Cobb' on 06/24/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:31,616 - INFO - SKIPPED: Row 767 for 'Brittany King' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:32,024 - INFO - SKIPPED: Row 768 for 'Laura Cardinal' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:32,428 - INFO - SKIPPED: Row 769 for 'Shanon Snead' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:32,834 - INFO - SKIPPED: Row 770 for 'Alyssa Reed' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:33,239 - INFO - SKIPPED: Row 771 for 'Jessica Kestler' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:33,646 - INFO - SKIPPED: Row 772 for 'Joanna Machel' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:34,049 - INFO - SKIPPED: Row 773 for 'Katlyn Cusack' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:34,454 - INFO - SKIPPED: Row 774 for 'Kyra Jamison' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:34,859 - INFO - SKIPPED: Row 775 for 'Lilian Joval' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:35,264 - INFO - SKIPPED: Row 776 for 'Lis Castro' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:35,668 - INFO - SKIPPED: Row 777 for 'Nicole Larsen' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:36,072 - INFO - SKIPPED: Row 778 for 'Carly Jones' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:36,477 - INFO - SKIPPED: Row 779 for 'Geri Gan' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:36,883 - INFO - SKIPPED: Row 780 for 'Tori Stapleton' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:37,288 - INFO - SKIPPED: Row 781 for 'Caroline Swartz' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:37,694 - INFO - SKIPPED: Row 782 for 'Giuliana Popolillo' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:38,099 - INFO - SKIPPED: Row 783 for 'Jasmin Mendoza' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:38,503 - INFO - SKIPPED: Row 784 for 'Lindsey Parker' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:38,909 - INFO - SKIPPED: Row 785 for 'Scarlin Sanchez' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:39,314 - INFO - SKIPPED: Row 786 for 'Silvana Rivas' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:39,720 - INFO - SKIPPED: Row 787 for 'Arwa Mahmoud' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:40,126 - INFO - SKIPPED: Row 788 for 'Crystal Farinha' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:40,532 - INFO - SKIPPED: Row 789 for 'Daylin Bastidas' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:40,937 - INFO - SKIPPED: Row 790 for 'Josephine Hernandez' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:41,341 - INFO - SKIPPED: Row 791 for 'Monique Snee' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:41,746 - INFO - SKIPPED: Row 792 for 'Paige Martin' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:42,151 - INFO - SKIPPED: Row 793 for 'Emma Amway' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:42,556 - INFO - SKIPPED: Row 794 for 'Jessa Brooks' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:42,759 - INFO - --- No match found for CSV row 795. Attempting to insert. ---
+2026-06-28 17:49:42,960 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/25/2026.
+2026-06-28 17:49:42,961 - INFO - --------------------------------------------------
+2026-06-28 17:49:43,365 - INFO - SKIPPED: Row 796 for 'Aysia Lee' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:43,771 - INFO - SKIPPED: Row 797 for 'Jessica Crawford' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:44,178 - INFO - SKIPPED: Row 798 for 'Patricia Ashmore' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:44,583 - INFO - SKIPPED: Row 799 for 'Sujita Brar' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:44,990 - INFO - SKIPPED: Row 800 for 'Alyssa Nicol' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:45,402 - INFO - SKIPPED: Row 801 for 'Samantha Kehle' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:45,807 - INFO - SKIPPED: Row 802 for 'Breana Ramsumair' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:46,214 - INFO - SKIPPED: Row 803 for 'Domenica Fassari' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:46,621 - INFO - SKIPPED: Row 804 for 'Gabriella Campisi' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:47,033 - INFO - SKIPPED: Row 805 for 'Kristina Giakas' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:47,439 - INFO - SKIPPED: Row 806 for 'Michelle Maddatu' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:47,843 - INFO - SKIPPED: Row 807 for 'Annette Webson' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:48,248 - INFO - SKIPPED: Row 808 for 'Ceyli Reyes' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:48,654 - INFO - SKIPPED: Row 809 for 'Deanna Dragone' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:49,059 - INFO - SKIPPED: Row 810 for 'Jessica Ramirez' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:49,466 - INFO - SKIPPED: Row 811 for 'Leigh Ortiz' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:49,870 - INFO - SKIPPED: Row 812 for 'Allyson Koch' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:50,279 - INFO - SKIPPED: Row 813 for 'Karen Enriquez' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:50,683 - INFO - SKIPPED: Row 814 for 'Laila Chakib' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:51,088 - INFO - SKIPPED: Row 815 for 'Leah Roundtree' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:51,494 - INFO - SKIPPED: Row 816 for 'Macarena Silvestri' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:51,899 - INFO - SKIPPED: Row 817 for 'Lana Patrick' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:52,304 - INFO - SKIPPED: Row 818 for 'Sherin Panayil' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:52,708 - INFO - SKIPPED: Row 819 for 'Breana Durrah' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:53,113 - INFO - SKIPPED: Row 820 for 'Tylisha Cobb' on 06/25/2026 already has block_out_hours_paid set.
+2026-06-28 17:49:53,519 - INFO - SUCCESS: Updated row 821 for 'Brittany King' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:49:53,925 - INFO - SUCCESS: Updated row 822 for 'Christine Eppes' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:49:54,332 - INFO - SUCCESS: Updated row 823 for 'Laura Cardinal' on 06/26/2026. Set block_out_hours_paid to 1.50.
+2026-06-28 17:49:54,737 - INFO - SUCCESS: Updated row 824 for 'Shanon Snead' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:49:55,142 - INFO - SUCCESS: Updated row 825 for 'Alyssa Reed' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:49:55,551 - INFO - SUCCESS: Updated row 826 for 'Jessica Kestler' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:49:55,958 - INFO - SUCCESS: Updated row 827 for 'Joanna Machel' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:49:56,361 - INFO - SUCCESS: Updated row 828 for 'Katlyn Cusack' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:49:56,765 - INFO - SUCCESS: Updated row 829 for 'Kyra Jamison' on 06/26/2026. Set block_out_hours_paid to 0.33.
+2026-06-28 17:49:57,178 - INFO - SUCCESS: Updated row 830 for 'Lis Castro' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:49:57,582 - INFO - SUCCESS: Updated row 831 for 'Carly Jones' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:49:57,989 - INFO - SUCCESS: Updated row 832 for 'Geri Gan' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:49:58,398 - INFO - SUCCESS: Updated row 833 for 'Caroline Swartz' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:49:58,803 - INFO - SUCCESS: Updated row 834 for 'Deanna Dragone' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:49:59,208 - INFO - SUCCESS: Updated row 835 for 'Giuliana Popolillo' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:49:59,613 - INFO - SUCCESS: Updated row 836 for 'Lindsey Parker' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:00,019 - INFO - SUCCESS: Updated row 837 for 'Scarlin Sanchez' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:00,424 - INFO - SUCCESS: Updated row 838 for 'Silvana Rivas' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:00,829 - INFO - SUCCESS: Updated row 839 for 'Arwa Mahmoud' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:50:01,236 - INFO - SUCCESS: Updated row 840 for 'Crystal Farinha' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:50:01,641 - INFO - SUCCESS: Updated row 841 for 'Daylin Bastidas' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:50:02,046 - INFO - SUCCESS: Updated row 842 for 'Josephine Hernandez' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:02,451 - INFO - SUCCESS: Updated row 843 for 'Monique Snee' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:02,856 - INFO - SUCCESS: Updated row 844 for 'Emma Amway' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:03,260 - INFO - SUCCESS: Updated row 845 for 'Jessa Brooks' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:50:03,464 - INFO - --- No match found for CSV row 846. Attempting to insert. ---
+2026-06-28 17:50:03,673 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 06/26/2026.
+2026-06-28 17:50:03,674 - INFO - --------------------------------------------------
+2026-06-28 17:50:04,078 - INFO - SUCCESS: Updated row 847 for 'Aysia Lee' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:04,485 - INFO - SUCCESS: Updated row 848 for 'Jessica Crawford' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:04,892 - INFO - SUCCESS: Updated row 849 for 'Nicole Larsen' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:50:05,297 - INFO - SUCCESS: Updated row 850 for 'Sujita Brar' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:05,703 - INFO - SUCCESS: Updated row 851 for 'Alyssa Nicol' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:50:06,108 - INFO - SUCCESS: Updated row 852 for 'Samantha Kehle' on 06/26/2026. Set block_out_hours_paid to 5.42.
+2026-06-28 17:50:06,514 - INFO - SUCCESS: Updated row 853 for 'Domenica Fassari' on 06/26/2026. Set block_out_hours_paid to 1.50.
+2026-06-28 17:50:06,918 - INFO - SUCCESS: Updated row 854 for 'Gabriella Campisi' on 06/26/2026. Set block_out_hours_paid to 0.33.
+2026-06-28 17:50:07,324 - INFO - SUCCESS: Updated row 855 for 'Kristina Giakas' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:50:07,728 - INFO - SUCCESS: Updated row 856 for 'Michelle Maddatu' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:50:08,132 - INFO - SUCCESS: Updated row 857 for 'Ceyli Reyes' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:08,537 - INFO - SUCCESS: Updated row 858 for 'Jessica Ramirez' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:08,942 - INFO - SUCCESS: Updated row 859 for 'Leigh Ortiz' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:09,347 - INFO - SUCCESS: Updated row 860 for 'Patricia Ashmore' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:09,755 - INFO - SUCCESS: Updated row 861 for 'Allyson Koch' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:10,159 - INFO - SUCCESS: Updated row 862 for 'Laila Chakib' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:10,566 - INFO - SUCCESS: Updated row 863 for 'Leah Roundtree' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:50:10,972 - INFO - SUCCESS: Updated row 864 for 'Macarena Silvestri' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:11,377 - INFO - SUCCESS: Updated row 865 for 'Lana Patrick' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:11,783 - INFO - SUCCESS: Updated row 866 for 'Lana Patrick - Aesthetician' on 06/26/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:50:12,188 - INFO - SUCCESS: Updated row 867 for 'Breana Durrah' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:12,594 - INFO - SUCCESS: Updated row 868 for 'Tylisha Cobb' on 06/26/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:12,999 - INFO - SUCCESS: Updated row 869 for 'Brittany King' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:13,405 - INFO - SUCCESS: Updated row 870 for 'Christine Eppes' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:13,811 - INFO - SUCCESS: Updated row 871 for 'Shanon Snead' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:14,215 - INFO - SUCCESS: Updated row 872 for 'Alyssa Reed' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:14,621 - INFO - SUCCESS: Updated row 873 for 'Macarena Silvestri' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:15,027 - INFO - SUCCESS: Updated row 874 for 'Jackie Moyer' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:15,432 - INFO - SUCCESS: Updated row 875 for 'Kyra Jamison' on 06/27/2026. Set block_out_hours_paid to 0.75.
+2026-06-28 17:50:15,837 - INFO - SUCCESS: Updated row 876 for 'Lis Castro' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:16,244 - INFO - SUCCESS: Updated row 877 for 'Carly Jones' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:16,650 - INFO - SUCCESS: Updated row 878 for 'Geri Gan' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:17,056 - INFO - SUCCESS: Updated row 879 for 'Caroline Swartz' on 06/27/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:50:17,462 - INFO - SUCCESS: Updated row 880 for 'Jasmin Mendoza' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:17,867 - INFO - SUCCESS: Updated row 881 for 'Silvana Rivas' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:18,273 - INFO - SUCCESS: Updated row 882 for 'Arwa Mahmoud' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:18,677 - INFO - SUCCESS: Updated row 883 for 'Crystal Farinha' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:19,083 - INFO - SUCCESS: Updated row 884 for 'Daylin Bastidas' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:19,492 - INFO - SUCCESS: Updated row 885 for 'Monique Snee' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:19,902 - INFO - SUCCESS: Updated row 886 for 'Jessa Brooks' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:20,309 - INFO - SUCCESS: Updated row 887 for 'Aysia Lee' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:20,714 - INFO - SUCCESS: Updated row 888 for 'Jessica Crawford' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:21,119 - INFO - SUCCESS: Updated row 889 for 'Sujita Brar' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:21,527 - INFO - SUCCESS: Updated row 890 for 'Alyssa Nicol' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:21,933 - INFO - SUCCESS: Updated row 891 for 'Samantha Kehle' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:22,337 - INFO - SUCCESS: Updated row 892 for 'Domenica Fassari' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:22,742 - INFO - SUCCESS: Updated row 893 for 'Gabriella Campisi' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:23,147 - INFO - SUCCESS: Updated row 894 for 'Ceyli Reyes' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:23,552 - INFO - SUCCESS: Updated row 895 for 'Jessica Ramirez' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:23,957 - INFO - SUCCESS: Updated row 896 for 'Leigh Ortiz' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:24,361 - INFO - SUCCESS: Updated row 897 for 'Patricia Ashmore' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:24,766 - INFO - SUCCESS: Updated row 898 for 'Jessica Kestler' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:25,172 - INFO - SUCCESS: Updated row 899 for 'Laila Chakib' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:25,577 - INFO - SUCCESS: Updated row 900 for 'Leah Roundtree' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:25,981 - INFO - SUCCESS: Updated row 901 for 'Breana Durrah' on 06/27/2026. Set block_out_hours_paid to 0.50.
+2026-06-28 17:50:26,385 - INFO - SUCCESS: Updated row 902 for 'Tylisha Cobb' on 06/27/2026. Set block_out_hours_paid to 0.00.
+2026-06-28 17:50:26,396 - INFO - 
+Orphan cleanup: scanning DB for records in date range 06/01/2026 — 06/27/2026 not found in CSV.
+2026-06-28 17:50:26,824 - INFO - Found 905 DB record(s) in date range.
+2026-06-28 17:50:27,240 - INFO - DELETED: 'Ari' on 06/26/2026 at 'Montclair, NJ' (schedule_id: 7e21a343-b6e6-4748-8927-a77d1a3f2699)
+2026-06-28 17:50:27,454 - INFO - DELETED: 'Ari' on 06/25/2026 at 'Montclair, NJ' (schedule_id: ce3a4d4b-0c1b-449c-8e25-c28232214c1b)
+2026-06-28 17:50:27,477 - INFO - Orphan cleanup complete. Total rows deleted: 2
+2026-06-28 17:50:27,685 - INFO - 
+Transaction committed.
+2026-06-28 17:50:27,686 - INFO - Database update complete. Total rows updated: 81, Total rows inserted: 16, Total rows deleted: 2

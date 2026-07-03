@@ -1,0 +1,973 @@
+2026-07-02 12:30:30,533 - INFO - Found 962 rows in C:\Users\esg\Downloads\Zenoti\blocks\Attendance_may.csv
+2026-07-02 12:30:32,941 - INFO - Successfully connected to the database.
+2026-07-02 12:30:33,149 - INFO - SKIPPED: Row 0 for 'Brittany King' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:33,356 - INFO - SKIPPED: Row 1 for 'Christine Eppes' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:33,564 - INFO - SKIPPED: Row 2 for 'Laura Cardinal' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:33,767 - INFO - SKIPPED: Row 3 for 'Shanon Snead' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:33,978 - INFO - SKIPPED: Row 4 for 'Jessica Kestler' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:34,186 - INFO - SKIPPED: Row 5 for 'Kyra Jamison' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:34,604 - INFO - SUCCESS: Updated row 6 for 'Erica Occhino' on 05/01/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:35,023 - INFO - SUCCESS: Updated row 7 for 'Joanna Machel' on 05/01/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:35,230 - INFO - SKIPPED: Row 8 for 'Lis Castro' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:35,438 - INFO - SKIPPED: Row 9 for 'Carly Jones' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:35,848 - INFO - SUCCESS: Updated row 10 for 'Mercedes Burris' on 05/01/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:36,052 - INFO - SKIPPED: Row 11 for 'Caroline Swartz' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:36,261 - INFO - SKIPPED: Row 12 for 'Deanna Dragone' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:36,680 - INFO - SUCCESS: Updated row 13 for 'Giuliana Popolillo' on 05/01/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:36,888 - INFO - SKIPPED: Row 14 for 'Jasmin Mendoza' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:37,097 - INFO - SKIPPED: Row 15 for 'Lindsey Parker' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:37,304 - INFO - SKIPPED: Row 16 for 'Scarlin Sanchez' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:37,512 - INFO - SKIPPED: Row 17 for 'Arwa Mahmoud' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:37,929 - INFO - SUCCESS: Updated row 18 for 'Crystal Farinha' on 05/01/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:38,136 - INFO - SKIPPED: Row 19 for 'Daylin Bastidas' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:38,340 - INFO - SKIPPED: Row 20 for 'Karen Enriquez' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:38,548 - INFO - SKIPPED: Row 21 for 'Alyssa Hernandez' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:38,756 - INFO - SKIPPED: Row 22 for 'Jessa Brooks' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:38,965 - INFO - SKIPPED: Row 23 for 'Aysia Lee' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:39,172 - INFO - SKIPPED: Row 24 for 'Jessica Crawford' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:39,590 - INFO - SUCCESS: Updated row 25 for 'Marwa Mahmoud' on 05/01/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:39,798 - INFO - SKIPPED: Row 26 for 'Nicole Larsen' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:40,215 - INFO - SUCCESS: Updated row 27 for 'Sujita Brar' on 05/01/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:40,424 - INFO - SKIPPED: Row 28 for 'Alyssa Reed' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:40,841 - INFO - SUCCESS: Updated row 29 for 'Jessica Mock' on 05/01/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:41,048 - INFO - SKIPPED: Row 30 for 'Domenica Fassari' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:41,255 - INFO - SKIPPED: Row 31 for 'Gabriella Campisi' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:41,463 - INFO - SKIPPED: Row 32 for 'Michelle Maddatu' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:41,882 - INFO - SUCCESS: Updated row 33 for 'Alejandra Alburqueque' on 05/01/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:42,089 - INFO - SKIPPED: Row 34 for 'Ceyli Reyes' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:42,297 - INFO - SKIPPED: Row 35 for 'Leigh Ortiz' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:42,505 - INFO - SKIPPED: Row 36 for 'Allyson Koch' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:42,709 - INFO - SKIPPED: Row 37 for 'Laila Chakib' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:42,915 - INFO - SKIPPED: Row 38 for 'Leah Roundtree' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:43,124 - INFO - SKIPPED: Row 39 for 'Macarena Silvestri' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:43,332 - INFO - SKIPPED: Row 40 for 'Lana Patrick' on 05/01/2026 already had the needed values.
+2026-07-02 12:30:43,751 - INFO - SUCCESS: Updated row 41 for 'Lana Patrick - Aesthetician' on 05/01/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:43,959 - INFO - SKIPPED: Row 42 for 'Brittany King' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:44,162 - INFO - SKIPPED: Row 43 for 'Laura Cardinal' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:44,370 - INFO - SKIPPED: Row 44 for 'Shanon Snead' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:44,579 - INFO - SKIPPED: Row 45 for 'Kyra Jamison' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:44,786 - INFO - SKIPPED: Row 46 for 'Macarena Silvestri' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:45,200 - INFO - SUCCESS: Updated row 47 for 'Erica Occhino' on 05/02/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:45,617 - INFO - SUCCESS: Updated row 48 for 'Jackie Moyer' on 05/02/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:46,036 - INFO - SUCCESS: Updated row 49 for 'Lilian Joval' on 05/02/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:46,239 - INFO - SKIPPED: Row 50 for 'Christine Eppes' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:46,654 - INFO - SUCCESS: Updated row 51 for 'Mercedes Burris' on 05/02/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:46,862 - INFO - SKIPPED: Row 52 for 'Caroline Swartz' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:47,275 - INFO - SUCCESS: Updated row 53 for 'Giuliana Popolillo' on 05/02/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:47,482 - INFO - SKIPPED: Row 54 for 'Jasmin Mendoza' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:47,690 - INFO - SKIPPED: Row 55 for 'Arwa Mahmoud' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:48,106 - INFO - SUCCESS: Updated row 56 for 'Crystal Farinha' on 05/02/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:48,313 - INFO - SKIPPED: Row 57 for 'Daylin Bastidas' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:48,522 - INFO - SKIPPED: Row 58 for 'Karen Enriquez' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:48,729 - INFO - SKIPPED: Row 59 for 'Alyssa Hernandez' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:48,938 - INFO - SKIPPED: Row 60 for 'Jessa Brooks' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:49,151 - INFO - SKIPPED: Row 61 for 'Jessica Crawford' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:49,565 - INFO - SUCCESS: Updated row 62 for 'Marwa Mahmoud' on 05/02/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:49,979 - INFO - SUCCESS: Updated row 63 for 'Sujita Brar' on 05/02/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:50,183 - INFO - SKIPPED: Row 64 for 'Alyssa Reed' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:50,605 - INFO - SUCCESS: Updated row 65 for 'Stephanie Chernovets' on 05/02/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:50,813 - INFO - SKIPPED: Row 66 for 'Domenica Fassari' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:51,020 - INFO - SKIPPED: Row 67 for 'Gabriella Campisi' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:51,228 - INFO - SKIPPED: Row 68 for 'Kristina Giakas' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:51,431 - INFO - SKIPPED: Row 69 for 'Ceyli Reyes' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:51,638 - INFO - SKIPPED: Row 70 for 'Leigh Ortiz' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:51,844 - INFO - SKIPPED: Row 71 for 'Patricia Ashmore' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:52,350 - INFO - SKIPPED: Row 72 for 'Jessica Kestler' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:52,556 - INFO - SKIPPED: Row 73 for 'Laila Chakib' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:52,764 - INFO - SKIPPED: Row 74 for 'Leah Roundtree' on 05/02/2026 already had the needed values.
+2026-07-02 12:30:52,970 - INFO - SKIPPED: Row 75 for 'Shanon Snead' on 05/03/2026 already had the needed values.
+2026-07-02 12:30:53,389 - INFO - SUCCESS: Updated row 76 for 'Erica Occhino' on 05/04/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:54,109 - INFO - SUCCESS: Updated row 77 for 'Joanna Machel' on 05/04/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:54,526 - INFO - SUCCESS: Updated row 78 for 'Katlyn Cusack' on 05/04/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:54,941 - INFO - SUCCESS: Updated row 79 for 'Lilian Joval' on 05/04/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:55,144 - INFO - SKIPPED: Row 80 for 'Nicole Larsen' on 05/04/2026 already had the needed values.
+2026-07-02 12:30:55,557 - INFO - SUCCESS: Updated row 81 for 'Crystal Farinha' on 05/04/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:55,764 - INFO - SKIPPED: Row 82 for 'Daylin Bastidas' on 05/04/2026 already had the needed values.
+2026-07-02 12:30:56,184 - INFO - SUCCESS: Updated row 83 for 'Melissa Sanzo' on 05/04/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:56,392 - INFO - SKIPPED: Row 84 for 'Paige Martin' on 05/04/2026 already had the needed values.
+2026-07-02 12:30:56,598 - INFO - SKIPPED: Row 85 for 'Lana Patrick' on 05/04/2026 already had the needed values.
+2026-07-02 12:30:56,806 - INFO - SKIPPED: Row 86 for 'Sherin Panayil' on 05/04/2026 already had the needed values.
+2026-07-02 12:30:57,015 - INFO - SKIPPED: Row 87 for 'Brittany King' on 05/05/2026 already had the needed values.
+2026-07-02 12:30:57,224 - INFO - SKIPPED: Row 88 for 'Laura Cardinal' on 05/05/2026 already had the needed values.
+2026-07-02 12:30:57,430 - INFO - SKIPPED: Row 89 for 'Shanon Snead' on 05/05/2026 already had the needed values.
+2026-07-02 12:30:57,636 - INFO - SKIPPED: Row 90 for 'Kyra Jamison' on 05/05/2026 already had the needed values.
+2026-07-02 12:30:57,843 - INFO - SKIPPED: Row 91 for 'Macarena Silvestri' on 05/05/2026 already had the needed values.
+2026-07-02 12:30:58,258 - INFO - SUCCESS: Updated row 92 for 'Erica Occhino' on 05/05/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:58,672 - INFO - SUCCESS: Updated row 93 for 'Joanna Machel' on 05/05/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:59,088 - INFO - SUCCESS: Updated row 94 for 'Lilian Joval' on 05/05/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:30:59,296 - INFO - SKIPPED: Row 95 for 'Lis Castro' on 05/05/2026 already had the needed values.
+2026-07-02 12:30:59,503 - INFO - SKIPPED: Row 96 for 'Carly Jones' on 05/05/2026 already had the needed values.
+2026-07-02 12:30:59,711 - INFO - SKIPPED: Row 97 for 'Geri Gan' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:00,123 - INFO - SUCCESS: Updated row 98 for 'Mercedes Burris' on 05/05/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:00,332 - INFO - SKIPPED: Row 99 for 'Caroline Swartz' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:00,539 - INFO - SKIPPED: Row 100 for 'Deanna Dragone' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:00,952 - INFO - SUCCESS: Updated row 101 for 'Giuliana Popolillo' on 05/05/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:01,159 - INFO - SKIPPED: Row 102 for 'Jasmin Mendoza' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:01,366 - INFO - SKIPPED: Row 103 for 'Lindsey Parker' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:01,781 - INFO - SUCCESS: Updated row 104 for 'Osbert Fernandez' on 05/05/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:01,990 - INFO - SKIPPED: Row 105 for 'Scarlin Sanchez' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:02,195 - INFO - SKIPPED: Row 106 for 'Silvana Rivas' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:02,401 - INFO - SKIPPED: Row 107 for 'Arwa Mahmoud' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:02,608 - INFO - SKIPPED: Row 108 for 'Daylin Bastidas' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:03,028 - INFO - SUCCESS: Updated row 109 for 'Melissa Sanzo' on 05/05/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:03,239 - INFO - SKIPPED: Row 110 for 'Paige Martin' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:03,446 - INFO - SKIPPED: Row 111 for 'Alyssa Hernandez' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:03,654 - INFO - SKIPPED: Row 112 for 'Jessa Brooks' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:03,862 - INFO - SKIPPED: Row 113 for 'Aysia Lee' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:04,070 - INFO - SKIPPED: Row 114 for 'Jessica Crawford' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:04,274 - INFO - SKIPPED: Row 115 for 'Patricia Ashmore' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:04,687 - INFO - SUCCESS: Updated row 116 for 'Sujita Brar' on 05/05/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:04,894 - INFO - SKIPPED: Row 117 for 'Alyssa Reed' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:05,103 - INFO - SKIPPED: Row 118 for 'Domenica Fassari' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:05,523 - INFO - SUCCESS: Updated row 119 for 'Sandy Dalaris' on 05/05/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:05,730 - INFO - SKIPPED: Row 120 for 'Gabriella Campisi' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:05,937 - INFO - SKIPPED: Row 121 for 'Kristina Giakas' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:06,144 - INFO - SKIPPED: Row 122 for 'Michelle Maddatu' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:06,353 - INFO - SKIPPED: Row 123 for 'Ceyli Reyes' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:06,563 - INFO - SKIPPED: Row 124 for 'Leigh Ortiz' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:06,772 - INFO - SKIPPED: Row 125 for 'Allyson Koch' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:06,980 - INFO - SKIPPED: Row 126 for 'Jessica Kestler' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:07,187 - INFO - SKIPPED: Row 127 for 'Karen Enriquez' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:07,397 - INFO - SKIPPED: Row 128 for 'Leah Roundtree' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:07,606 - INFO - SKIPPED: Row 129 for 'Lana Patrick' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:07,816 - INFO - SKIPPED: Row 130 for 'Sherin Panayil' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:08,024 - INFO - SKIPPED: Row 131 for 'Breana Durrah' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:08,230 - INFO - SKIPPED: Row 132 for 'Tylisha Cobb' on 05/05/2026 already had the needed values.
+2026-07-02 12:31:08,437 - INFO - SKIPPED: Row 133 for 'Brittany King' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:08,646 - INFO - SKIPPED: Row 134 for 'Laura Cardinal' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:08,855 - INFO - SKIPPED: Row 135 for 'Shanon Snead' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:09,063 - INFO - SKIPPED: Row 136 for 'Kyra Jamison' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:09,271 - INFO - SKIPPED: Row 137 for 'Macarena Silvestri' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:09,689 - INFO - SUCCESS: Updated row 138 for 'Erica Occhino' on 05/06/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:10,106 - INFO - SUCCESS: Updated row 139 for 'Joanna Machel' on 05/06/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:10,314 - INFO - SKIPPED: Row 140 for 'Lis Castro' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:10,522 - INFO - SKIPPED: Row 141 for 'Carly Jones' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:10,731 - INFO - SKIPPED: Row 142 for 'Christine Eppes' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:10,938 - INFO - SKIPPED: Row 143 for 'Geri Gan' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:11,355 - INFO - SUCCESS: Updated row 144 for 'Mercedes Burris' on 05/06/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:11,564 - INFO - SKIPPED: Row 145 for 'Caroline Swartz' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:11,768 - INFO - SKIPPED: Row 146 for 'Deanna Dragone' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:12,186 - INFO - SUCCESS: Updated row 147 for 'Giuliana Popolillo' on 05/06/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:12,395 - INFO - SKIPPED: Row 148 for 'Jasmin Mendoza' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:12,602 - INFO - SKIPPED: Row 149 for 'Lindsey Parker' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:12,810 - INFO - SKIPPED: Row 150 for 'Scarlin Sanchez' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:13,028 - INFO - SKIPPED: Row 151 for 'Silvana Rivas' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:13,237 - INFO - SKIPPED: Row 152 for 'Arwa Mahmoud' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:13,451 - INFO - SKIPPED: Row 153 for 'Austin Marie Jacobus' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:13,869 - INFO - SUCCESS: Updated row 154 for 'Crystal Farinha' on 05/06/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:14,074 - INFO - SKIPPED: Row 155 for 'Daylin Bastidas' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:14,487 - INFO - SUCCESS: Updated row 156 for 'Melissa Sanzo' on 05/06/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:14,692 - INFO - SKIPPED: Row 157 for 'Paige Martin' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:14,895 - INFO - SKIPPED: Row 158 for 'Alyssa Hernandez' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:15,103 - INFO - SKIPPED: Row 159 for 'Jessa Brooks' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:15,311 - INFO - SKIPPED: Row 160 for 'Aysia Lee' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:15,519 - INFO - SKIPPED: Row 161 for 'Jessica Crawford' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:15,722 - INFO - SKIPPED: Row 162 for 'Josephine Hernandez' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:15,927 - INFO - SKIPPED: Row 163 for 'Nicole Larsen' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:16,336 - INFO - SUCCESS: Updated row 164 for 'Sujita Brar' on 05/06/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:16,544 - INFO - SKIPPED: Row 165 for 'Alyssa Reed' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:16,751 - INFO - SKIPPED: Row 166 for 'Domenica Fassari' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:16,958 - INFO - SKIPPED: Row 167 for 'Breana Ramsumair' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:17,164 - INFO - SKIPPED: Row 168 for 'Gabriella Campisi' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:17,373 - INFO - SKIPPED: Row 169 for 'Kristina Giakas' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:17,582 - INFO - SKIPPED: Row 170 for 'Michelle Maddatu' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:17,787 - INFO - SKIPPED: Row 171 for 'Annette Webson' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:17,997 - INFO - SKIPPED: Row 172 for 'Ceyli Reyes' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:18,201 - INFO - SKIPPED: Row 173 for 'Leigh Ortiz' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:18,407 - INFO - SKIPPED: Row 174 for 'Patricia Ashmore' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:18,611 - INFO - SKIPPED: Row 175 for 'Allyson Koch' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:18,820 - INFO - SKIPPED: Row 176 for 'Jessica Kestler' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:19,024 - INFO - SKIPPED: Row 177 for 'Karen Enriquez' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:19,229 - INFO - SKIPPED: Row 178 for 'Laila Chakib' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:19,433 - INFO - SKIPPED: Row 179 for 'Lana Patrick' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:19,642 - INFO - SKIPPED: Row 180 for 'Breana Durrah' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:19,850 - INFO - SKIPPED: Row 181 for 'Tylisha Cobb' on 05/06/2026 already had the needed values.
+2026-07-02 12:31:20,058 - INFO - SKIPPED: Row 182 for 'Brittany King' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:20,265 - INFO - SKIPPED: Row 183 for 'Laura Cardinal' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:20,470 - INFO - SKIPPED: Row 184 for 'Shanon Snead' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:20,675 - INFO - SKIPPED: Row 185 for 'Jessica Kestler' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:20,884 - INFO - SKIPPED: Row 186 for 'Kyra Jamison' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:21,295 - INFO - SUCCESS: Updated row 187 for 'Erica Occhino' on 05/07/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:21,708 - INFO - SUCCESS: Updated row 188 for 'Katlyn Cusack' on 05/07/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:22,126 - INFO - SUCCESS: Updated row 189 for 'Lilian Joval' on 05/07/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:22,331 - INFO - SKIPPED: Row 190 for 'Lis Castro' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:22,539 - INFO - SKIPPED: Row 191 for 'Nicole Larsen' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:22,748 - INFO - SKIPPED: Row 192 for 'Carly Jones' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:22,955 - INFO - SKIPPED: Row 193 for 'Christine Eppes' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:23,163 - INFO - SKIPPED: Row 194 for 'Geri Gan' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:23,371 - INFO - SKIPPED: Row 195 for 'Caroline Swartz' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:23,788 - INFO - SUCCESS: Updated row 196 for 'Giuliana Popolillo' on 05/07/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:23,992 - INFO - SKIPPED: Row 197 for 'Jasmin Mendoza' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:24,198 - INFO - SKIPPED: Row 198 for 'Lindsey Parker' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:24,402 - INFO - SKIPPED: Row 199 for 'Scarlin Sanchez' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:24,607 - INFO - SKIPPED: Row 200 for 'Silvana Rivas' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:24,816 - INFO - SKIPPED: Row 201 for 'Arwa Mahmoud' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:25,233 - INFO - SUCCESS: Updated row 202 for 'Crystal Farinha' on 05/07/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:25,441 - INFO - SKIPPED: Row 203 for 'Daylin Bastidas' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:25,646 - INFO - SKIPPED: Row 204 for 'Karen Enriquez' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:26,064 - INFO - SUCCESS: Updated row 205 for 'Melissa Sanzo' on 05/07/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:26,274 - INFO - SKIPPED: Row 206 for 'Paige Martin' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:26,481 - INFO - SKIPPED: Row 207 for 'Alyssa Hernandez' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:26,686 - INFO - SKIPPED: Row 208 for 'Jessa Brooks' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:26,895 - INFO - SKIPPED: Row 209 for 'Aysia Lee' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:27,103 - INFO - SKIPPED: Row 210 for 'Jessica Crawford' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:27,315 - INFO - SKIPPED: Row 211 for 'Josephine Hernandez' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:27,522 - INFO - SKIPPED: Row 212 for 'Patricia Ashmore' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:27,931 - INFO - SUCCESS: Updated row 213 for 'Sujita Brar' on 05/07/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:28,140 - INFO - SKIPPED: Row 214 for 'Alyssa Reed' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:28,348 - INFO - SKIPPED: Row 215 for 'Breana Ramsumair' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:28,553 - INFO - SKIPPED: Row 216 for 'Domenica Fassari' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:28,762 - INFO - SKIPPED: Row 217 for 'Gabriella Campisi' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:28,967 - INFO - SKIPPED: Row 218 for 'Kristina Giakas' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:29,176 - INFO - SKIPPED: Row 219 for 'Michelle Maddatu' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:29,384 - INFO - SKIPPED: Row 220 for 'Annette Webson' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:29,592 - INFO - SKIPPED: Row 221 for 'Deanna Dragone' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:29,801 - INFO - SKIPPED: Row 222 for 'Leigh Ortiz' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:30,006 - INFO - SKIPPED: Row 223 for 'Allyson Koch' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:30,215 - INFO - SKIPPED: Row 224 for 'Laila Chakib' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:30,422 - INFO - SKIPPED: Row 225 for 'Leah Roundtree' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:30,630 - INFO - SKIPPED: Row 226 for 'Macarena Silvestri' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:30,839 - INFO - SKIPPED: Row 227 for 'Lana Patrick' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:31,047 - INFO - SKIPPED: Row 228 for 'Sherin Panayil' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:31,256 - INFO - SKIPPED: Row 229 for 'Tylisha Cobb' on 05/07/2026 already had the needed values.
+2026-07-02 12:31:31,461 - INFO - SKIPPED: Row 230 for 'Brittany King' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:31,670 - INFO - SKIPPED: Row 231 for 'Laura Cardinal' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:31,879 - INFO - SKIPPED: Row 232 for 'Shanon Snead' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:32,087 - INFO - SKIPPED: Row 233 for 'Kyra Jamison' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:32,295 - INFO - SKIPPED: Row 234 for 'Macarena Silvestri' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:32,711 - INFO - SUCCESS: Updated row 235 for 'Erica Occhino' on 05/08/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:33,124 - INFO - SUCCESS: Updated row 236 for 'Joanna Machel' on 05/08/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:33,541 - INFO - SUCCESS: Updated row 237 for 'Katlyn Cusack' on 05/08/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:33,749 - INFO - SKIPPED: Row 238 for 'Lis Castro' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:33,954 - INFO - SKIPPED: Row 239 for 'Carly Jones' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:34,163 - INFO - SKIPPED: Row 240 for 'Christine Eppes' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:34,373 - INFO - SKIPPED: Row 241 for 'Geri Gan' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:34,579 - INFO - SKIPPED: Row 242 for 'Caroline Swartz' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:34,787 - INFO - SKIPPED: Row 243 for 'Deanna Dragone' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:35,204 - INFO - SUCCESS: Updated row 244 for 'Giuliana Popolillo' on 05/08/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:35,411 - INFO - SKIPPED: Row 245 for 'Jasmin Mendoza' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:35,616 - INFO - SKIPPED: Row 246 for 'Lindsey Parker' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:35,824 - INFO - SKIPPED: Row 247 for 'Scarlin Sanchez' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:36,029 - INFO - SKIPPED: Row 248 for 'Silvana Rivas' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:36,236 - INFO - SKIPPED: Row 249 for 'Arwa Mahmoud' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:36,650 - INFO - SUCCESS: Updated row 250 for 'Crystal Farinha' on 05/08/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:36,854 - INFO - SKIPPED: Row 251 for 'Alyssa Hernandez' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:37,063 - INFO - SKIPPED: Row 252 for 'Jessa Brooks' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:37,270 - INFO - SKIPPED: Row 253 for 'Aysia Lee' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:37,479 - INFO - SKIPPED: Row 254 for 'Jessica Crawford' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:37,683 - INFO - SKIPPED: Row 255 for 'Nicole Larsen' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:38,101 - INFO - SUCCESS: Updated row 256 for 'Sujita Brar' on 05/08/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:38,310 - INFO - SKIPPED: Row 257 for 'Alyssa Reed' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:38,515 - INFO - SKIPPED: Row 258 for 'Paige Martin' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:38,721 - INFO - SKIPPED: Row 259 for 'Domenica Fassari' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:38,925 - INFO - SKIPPED: Row 260 for 'Gabriella Campisi' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:39,132 - INFO - SKIPPED: Row 261 for 'Kristina Giakas' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:39,340 - INFO - SKIPPED: Row 262 for 'Michelle Maddatu' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:39,543 - INFO - SKIPPED: Row 263 for 'Leigh Ortiz' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:39,750 - INFO - SKIPPED: Row 264 for 'Patricia Ashmore' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:39,955 - INFO - SKIPPED: Row 265 for 'Allyson Koch' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:40,160 - INFO - SKIPPED: Row 266 for 'Karen Enriquez' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:40,368 - INFO - SKIPPED: Row 267 for 'Laila Chakib' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:40,575 - INFO - SKIPPED: Row 268 for 'Leah Roundtree' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:40,781 - INFO - SKIPPED: Row 269 for 'Lana Patrick' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:41,194 - INFO - SUCCESS: Updated row 270 for 'Lana Patrick - Aesthetician' on 05/08/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:41,404 - INFO - SKIPPED: Row 271 for 'Breana Durrah' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:41,615 - INFO - SKIPPED: Row 272 for 'Tylisha Cobb' on 05/08/2026 already had the needed values.
+2026-07-02 12:31:41,821 - INFO - SKIPPED: Row 273 for 'Brittany King' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:42,027 - INFO - SKIPPED: Row 274 for 'Laura Cardinal' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:42,236 - INFO - SKIPPED: Row 275 for 'Shanon Snead' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:42,444 - INFO - SKIPPED: Row 276 for 'Kyra Jamison' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:42,652 - INFO - SKIPPED: Row 277 for 'Macarena Silvestri' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:43,065 - INFO - SUCCESS: Updated row 278 for 'Joanna Machel' on 05/09/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:43,485 - INFO - SUCCESS: Updated row 279 for 'Katlyn Cusack' on 05/09/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:43,902 - INFO - SUCCESS: Updated row 280 for 'Lilian Joval' on 05/09/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:44,112 - INFO - SKIPPED: Row 281 for 'Lis Castro' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:44,320 - INFO - SKIPPED: Row 282 for 'Carly Jones' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:44,528 - INFO - SKIPPED: Row 283 for 'Christine Eppes' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:44,936 - INFO - SUCCESS: Updated row 284 for 'Giuliana Popolillo' on 05/09/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:45,144 - INFO - SKIPPED: Row 285 for 'Lindsey Parker' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:45,352 - INFO - SKIPPED: Row 286 for 'Silvana Rivas' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:45,557 - INFO - SKIPPED: Row 287 for 'Arwa Mahmoud' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:45,766 - INFO - SKIPPED: Row 288 for 'Karen Enriquez' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:45,975 - INFO - SKIPPED: Row 289 for 'Alyssa Hernandez' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:46,184 - INFO - SKIPPED: Row 290 for 'Jessa Brooks' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:46,392 - INFO - SKIPPED: Row 291 for 'Jessica Crawford' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:46,600 - INFO - SKIPPED: Row 292 for 'Nicole Larsen' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:47,010 - INFO - SUCCESS: Updated row 293 for 'Sujita Brar' on 05/09/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:47,215 - INFO - SKIPPED: Row 294 for 'Alyssa Reed' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:47,424 - INFO - SKIPPED: Row 295 for 'Domenica Fassari' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:47,633 - INFO - SKIPPED: Row 296 for 'Breana Ramsumair' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:47,839 - INFO - SKIPPED: Row 297 for 'Michelle Maddatu' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:48,048 - INFO - SKIPPED: Row 298 for 'Annette Webson' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:48,259 - INFO - SKIPPED: Row 299 for 'Deanna Dragone' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:48,469 - INFO - SKIPPED: Row 300 for 'Leigh Ortiz' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:48,677 - INFO - SKIPPED: Row 301 for 'Allyson Koch' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:48,886 - INFO - SKIPPED: Row 302 for 'Jessica Kestler' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:49,093 - INFO - SKIPPED: Row 303 for 'Leah Roundtree' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:49,303 - INFO - SKIPPED: Row 304 for 'Breana Durrah' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:49,507 - INFO - SKIPPED: Row 305 for 'Tylisha Cobb' on 05/09/2026 already had the needed values.
+2026-07-02 12:31:49,916 - INFO - SUCCESS: Updated row 306 for 'Erica Occhino' on 05/11/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:50,324 - INFO - SUCCESS: Updated row 307 for 'Joanna Machel' on 05/11/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:50,741 - INFO - SUCCESS: Updated row 308 for 'Katlyn Cusack' on 05/11/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:51,159 - INFO - SUCCESS: Updated row 309 for 'Lilian Joval' on 05/11/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:51,369 - INFO - SKIPPED: Row 310 for 'Nicole Larsen' on 05/11/2026 already had the needed values.
+2026-07-02 12:31:51,787 - INFO - SUCCESS: Updated row 311 for 'Crystal Farinha' on 05/11/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:51,995 - INFO - SKIPPED: Row 312 for 'Daylin Bastidas' on 05/11/2026 already had the needed values.
+2026-07-02 12:31:52,203 - INFO - SKIPPED: Row 313 for 'Josephine Hernandez' on 05/11/2026 already had the needed values.
+2026-07-02 12:31:52,411 - INFO - SKIPPED: Row 314 for 'Paige Martin' on 05/11/2026 already had the needed values.
+2026-07-02 12:31:52,619 - INFO - SKIPPED: Row 315 for 'Lana Patrick' on 05/11/2026 already had the needed values.
+2026-07-02 12:31:52,823 - INFO - SKIPPED: Row 316 for 'Sherin Panayil' on 05/11/2026 already had the needed values.
+2026-07-02 12:31:53,037 - INFO - SKIPPED: Row 317 for 'Brittany King' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:53,247 - INFO - SKIPPED: Row 318 for 'Laura Cardinal' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:53,454 - INFO - SKIPPED: Row 319 for 'Shanon Snead' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:53,663 - INFO - SKIPPED: Row 320 for 'Kyra Jamison' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:53,979 - INFO - SKIPPED: Row 321 for 'Macarena Silvestri' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:54,474 - INFO - SUCCESS: Updated row 322 for 'Erica Occhino' on 05/12/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:54,887 - INFO - SUCCESS: Updated row 323 for 'Jackie Moyer' on 05/12/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:55,454 - INFO - SUCCESS: Updated row 324 for 'Joanna Machel' on 05/12/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:55,871 - INFO - SUCCESS: Updated row 325 for 'Lilian Joval' on 05/12/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:56,080 - INFO - SKIPPED: Row 326 for 'Lis Castro' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:56,287 - INFO - SKIPPED: Row 327 for 'Carly Jones' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:56,491 - INFO - SKIPPED: Row 328 for 'Geri Gan' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:56,699 - INFO - SKIPPED: Row 329 for 'Caroline Swartz' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:56,903 - INFO - SKIPPED: Row 330 for 'Deanna Dragone' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:57,320 - INFO - SUCCESS: Updated row 331 for 'Giuliana Popolillo' on 05/12/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:57,527 - INFO - SKIPPED: Row 332 for 'Jasmin Mendoza' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:57,732 - INFO - SKIPPED: Row 333 for 'Lindsey Parker' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:58,146 - INFO - SUCCESS: Updated row 334 for 'Osbert Fernandez' on 05/12/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:58,352 - INFO - SKIPPED: Row 335 for 'Scarlin Sanchez' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:58,556 - INFO - SKIPPED: Row 336 for 'Silvana Rivas' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:58,968 - INFO - SUCCESS: Updated row 337 for 'Crystal Farinha' on 05/12/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:31:59,176 - INFO - SKIPPED: Row 338 for 'Daylin Bastidas' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:59,385 - INFO - SKIPPED: Row 339 for 'Josephine Hernandez' on 05/12/2026 already had the needed values.
+2026-07-02 12:31:59,805 - INFO - SUCCESS: Updated row 340 for 'Melissa Sanzo' on 05/12/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:00,008 - INFO - SKIPPED: Row 341 for 'Paige Martin' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:00,213 - INFO - SKIPPED: Row 342 for 'Alyssa Hernandez' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:00,422 - INFO - SKIPPED: Row 343 for 'Jessa Brooks' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:00,626 - INFO - SKIPPED: Row 344 for 'Aysia Lee' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:00,831 - INFO - SKIPPED: Row 345 for 'Jessica Crawford' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:01,034 - INFO - SKIPPED: Row 346 for 'Patricia Ashmore' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:01,442 - INFO - SUCCESS: Updated row 347 for 'Sujita Brar' on 05/12/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:01,646 - INFO - SKIPPED: Row 348 for 'Alyssa Reed' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:01,853 - INFO - SKIPPED: Row 349 for 'Domenica Fassari' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:02,058 - INFO - SKIPPED: Row 350 for 'Nicole Larsen' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:02,266 - INFO - SKIPPED: Row 351 for 'Gabriella Campisi' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:02,474 - INFO - SKIPPED: Row 352 for 'Michelle Maddatu' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:02,682 - INFO - SKIPPED: Row 353 for 'Annette Webson' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:02,891 - INFO - SKIPPED: Row 354 for 'Ceyli Reyes' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:03,112 - INFO - SKIPPED: Row 355 for 'Leigh Ortiz' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:03,320 - INFO - SKIPPED: Row 356 for 'Allyson Koch' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:03,528 - INFO - SKIPPED: Row 357 for 'Jessica Kestler' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:03,732 - INFO - SKIPPED: Row 358 for 'Karen Enriquez' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:03,940 - INFO - SKIPPED: Row 359 for 'Leah Roundtree' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:04,148 - INFO - SKIPPED: Row 360 for 'Lana Patrick' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:04,356 - INFO - SKIPPED: Row 361 for 'Sherin Panayil' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:04,564 - INFO - SKIPPED: Row 362 for 'Breana Durrah' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:04,768 - INFO - SKIPPED: Row 363 for 'Tylisha Cobb' on 05/12/2026 already had the needed values.
+2026-07-02 12:32:04,976 - INFO - SKIPPED: Row 364 for 'Brittany King' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:05,184 - INFO - SKIPPED: Row 365 for 'Christine Eppes' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:05,394 - INFO - SKIPPED: Row 366 for 'Laura Cardinal' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:05,602 - INFO - SKIPPED: Row 367 for 'Kyra Jamison' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:05,810 - INFO - SKIPPED: Row 368 for 'Macarena Silvestri' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:06,227 - INFO - SUCCESS: Updated row 369 for 'Erica Occhino' on 05/13/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:06,645 - INFO - SUCCESS: Updated row 370 for 'Joanna Machel' on 05/13/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:06,854 - INFO - SKIPPED: Row 371 for 'Lis Castro' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:07,062 - INFO - SKIPPED: Row 372 for 'Carly Jones' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:07,269 - INFO - SKIPPED: Row 373 for 'Geri Gan' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:07,478 - INFO - SKIPPED: Row 374 for 'Caroline Swartz' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:07,681 - INFO - SKIPPED: Row 375 for 'Deanna Dragone' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:08,094 - INFO - SUCCESS: Updated row 376 for 'Giuliana Popolillo' on 05/13/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:08,304 - INFO - SKIPPED: Row 377 for 'Lindsey Parker' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:08,511 - INFO - SKIPPED: Row 378 for 'Scarlin Sanchez' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:08,721 - INFO - SKIPPED: Row 379 for 'Silvana Rivas' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:09,137 - INFO - SUCCESS: Updated row 380 for 'Crystal Farinha' on 05/13/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:09,345 - INFO - SKIPPED: Row 381 for 'Josephine Hernandez' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:09,550 - INFO - SKIPPED: Row 382 for 'Karen Enriquez' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:09,962 - INFO - SUCCESS: Updated row 383 for 'Melissa Sanzo' on 05/13/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:10,169 - INFO - SKIPPED: Row 384 for 'Alyssa Hernandez' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:10,377 - INFO - SKIPPED: Row 385 for 'Jessa Brooks' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:10,585 - INFO - SKIPPED: Row 386 for 'Aysia Lee' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:10,794 - INFO - SKIPPED: Row 387 for 'Jessica Crawford' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:10,999 - INFO - SKIPPED: Row 388 for 'Nicole Larsen' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:11,411 - INFO - SUCCESS: Updated row 389 for 'Sujita Brar' on 05/13/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:11,617 - INFO - SKIPPED: Row 390 for 'Alyssa Reed' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:11,821 - INFO - SKIPPED: Row 391 for 'Domenica Fassari' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:12,235 - INFO - SUCCESS: Updated row 392 for 'Nichole Varga' on 05/13/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:12,444 - INFO - SKIPPED: Row 393 for 'Breana Ramsumair' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:12,648 - INFO - SKIPPED: Row 394 for 'Gabriella Campisi' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:12,853 - INFO - SKIPPED: Row 395 for 'Paige Martin' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:13,065 - INFO - SKIPPED: Row 396 for 'Annette Webson' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:13,273 - INFO - SKIPPED: Row 397 for 'Ceyli Reyes' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:13,481 - INFO - SKIPPED: Row 398 for 'Leigh Ortiz' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:13,689 - INFO - SKIPPED: Row 399 for 'Patricia Ashmore' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:14,203 - INFO - SKIPPED: Row 400 for 'Allyson Koch' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:14,411 - INFO - SKIPPED: Row 401 for 'Jessica Kestler' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:14,620 - INFO - SKIPPED: Row 402 for 'Laila Chakib' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:14,829 - INFO - SKIPPED: Row 403 for 'Leah Roundtree' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:15,036 - INFO - SKIPPED: Row 404 for 'Michelle Maddatu' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:15,240 - INFO - SKIPPED: Row 405 for 'Lana Patrick' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:15,449 - INFO - SKIPPED: Row 406 for 'Sherin Panayil' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:15,659 - INFO - SKIPPED: Row 407 for 'Breana Durrah' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:15,864 - INFO - SKIPPED: Row 408 for 'Tylisha Cobb' on 05/13/2026 already had the needed values.
+2026-07-02 12:32:16,073 - INFO - SKIPPED: Row 409 for 'Brittany King' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:16,282 - INFO - SKIPPED: Row 410 for 'Christine Eppes' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:16,486 - INFO - SKIPPED: Row 411 for 'Laura Cardinal' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:16,690 - INFO - SKIPPED: Row 412 for 'Shanon Snead' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:16,897 - INFO - SKIPPED: Row 413 for 'Jessica Kestler' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:17,105 - INFO - SKIPPED: Row 414 for 'Kyra Jamison' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:17,313 - INFO - SKIPPED: Row 415 for 'Macarena Silvestri' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:17,725 - INFO - SUCCESS: Updated row 416 for 'Erica Occhino' on 05/14/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:18,142 - INFO - SUCCESS: Updated row 417 for 'Joanna Machel' on 05/14/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:18,550 - INFO - SUCCESS: Updated row 418 for 'Katlyn Cusack' on 05/14/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:18,967 - INFO - SUCCESS: Updated row 419 for 'Lilian Joval' on 05/14/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:19,176 - INFO - SKIPPED: Row 420 for 'Lis Castro' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:19,381 - INFO - SKIPPED: Row 421 for 'Nicole Larsen' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:19,588 - INFO - SKIPPED: Row 422 for 'Carly Jones' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:19,796 - INFO - SKIPPED: Row 423 for 'Geri Gan' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:20,000 - INFO - SKIPPED: Row 424 for 'Caroline Swartz' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:20,409 - INFO - SUCCESS: Updated row 425 for 'Giuliana Popolillo' on 05/14/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:20,613 - INFO - SKIPPED: Row 426 for 'Jasmin Mendoza' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:20,817 - INFO - SKIPPED: Row 427 for 'Lindsey Parker' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:21,023 - INFO - SKIPPED: Row 428 for 'Scarlin Sanchez' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:21,228 - INFO - SKIPPED: Row 429 for 'Silvana Rivas' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:21,433 - INFO - SKIPPED: Row 430 for 'Austin Marie Jacobus' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:21,637 - INFO - SKIPPED: Row 431 for 'Daylin Bastidas' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:22,052 - INFO - SUCCESS: Updated row 432 for 'Melissa Sanzo' on 05/14/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:22,260 - INFO - SKIPPED: Row 433 for 'Alyssa Hernandez' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:22,464 - INFO - SKIPPED: Row 434 for 'Jessa Brooks' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:22,667 - INFO - SKIPPED: Row 435 for 'Aysia Lee' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:22,871 - INFO - SKIPPED: Row 436 for 'Jessica Crawford' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:23,100 - INFO - SKIPPED: Row 437 for 'Patricia Ashmore' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:23,519 - INFO - SUCCESS: Updated row 438 for 'Sujita Brar' on 05/14/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:23,727 - INFO - SKIPPED: Row 439 for 'Alyssa Reed' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:24,137 - INFO - SUCCESS: Updated row 440 for 'Nichole Varga' on 05/14/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:24,346 - INFO - SKIPPED: Row 441 for 'Breana Ramsumair' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:24,858 - INFO - SKIPPED: Row 442 for 'Domenica Fassari' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:25,064 - INFO - SKIPPED: Row 443 for 'Gabriella Campisi' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:25,273 - INFO - SKIPPED: Row 444 for 'Michelle Maddatu' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:25,478 - INFO - SKIPPED: Row 445 for 'Annette Webson' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:25,682 - INFO - SKIPPED: Row 446 for 'Ceyli Reyes' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:25,888 - INFO - SKIPPED: Row 447 for 'Deanna Dragone' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:26,096 - INFO - SKIPPED: Row 448 for 'Leigh Ortiz' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:26,304 - INFO - SKIPPED: Row 449 for 'Allyson Koch' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:26,512 - INFO - SKIPPED: Row 450 for 'Karen Enriquez' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:26,716 - INFO - SKIPPED: Row 451 for 'Laila Chakib' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:26,924 - INFO - SKIPPED: Row 452 for 'Leah Roundtree' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:27,127 - INFO - SKIPPED: Row 453 for 'Lana Patrick' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:27,332 - INFO - SKIPPED: Row 454 for 'Sherin Panayil' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:27,541 - INFO - SKIPPED: Row 455 for 'Breana Durrah' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:27,748 - INFO - SKIPPED: Row 456 for 'Tylisha Cobb' on 05/14/2026 already had the needed values.
+2026-07-02 12:32:27,956 - INFO - SKIPPED: Row 457 for 'Christine Eppes' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:28,164 - INFO - SKIPPED: Row 458 for 'Laura Cardinal' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:28,369 - INFO - SKIPPED: Row 459 for 'Shanon Snead' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:28,573 - INFO - SKIPPED: Row 460 for 'Jessica Kestler' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:28,780 - INFO - SKIPPED: Row 461 for 'Kyra Jamison' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:29,197 - INFO - SUCCESS: Updated row 462 for 'Erica Occhino' on 05/15/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:29,604 - INFO - SUCCESS: Updated row 463 for 'Joanna Machel' on 05/15/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:30,119 - INFO - SKIPPED: Row 464 for 'Lis Castro' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:30,638 - INFO - SKIPPED: Row 465 for 'Carly Jones' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:30,843 - INFO - SKIPPED: Row 466 for 'Geri Gan' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:31,046 - INFO - SKIPPED: Row 467 for 'Caroline Swartz' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:31,251 - INFO - SKIPPED: Row 468 for 'Deanna Dragone' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:31,658 - INFO - SUCCESS: Updated row 469 for 'Giuliana Popolillo' on 05/15/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:31,863 - INFO - SKIPPED: Row 470 for 'Lindsey Parker' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:32,072 - INFO - SKIPPED: Row 471 for 'Scarlin Sanchez' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:32,279 - INFO - SKIPPED: Row 472 for 'Silvana Rivas' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:32,696 - INFO - SUCCESS: Updated row 473 for 'Crystal Farinha' on 05/15/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:32,904 - INFO - SKIPPED: Row 474 for 'Daylin Bastidas' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:33,121 - INFO - SKIPPED: Row 475 for 'Josephine Hernandez' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:33,329 - INFO - SKIPPED: Row 476 for 'Karen Enriquez' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:33,538 - INFO - SKIPPED: Row 477 for 'Jessa Brooks' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:33,745 - INFO - SKIPPED: Row 478 for 'Aysia Lee' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:33,953 - INFO - SKIPPED: Row 479 for 'Jessica Crawford' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:34,161 - INFO - SKIPPED: Row 480 for 'Nicole Larsen' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:34,570 - INFO - SUCCESS: Updated row 481 for 'Sujita Brar' on 05/15/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:34,778 - INFO - SKIPPED: Row 482 for 'Alyssa Reed' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:35,188 - INFO - SUCCESS: Updated row 483 for 'Sandy Dalaris' on 05/15/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:35,393 - INFO - SKIPPED: Row 484 for 'Domenica Fassari' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:35,601 - INFO - SKIPPED: Row 485 for 'Gabriella Campisi' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:35,809 - INFO - SKIPPED: Row 486 for 'Michelle Maddatu' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:36,017 - INFO - SKIPPED: Row 487 for 'Ceyli Reyes' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:36,225 - INFO - SKIPPED: Row 488 for 'Leigh Ortiz' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:36,434 - INFO - SKIPPED: Row 489 for 'Patricia Ashmore' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:36,641 - INFO - SKIPPED: Row 490 for 'Allyson Koch' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:36,849 - INFO - SKIPPED: Row 491 for 'Laila Chakib' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:37,057 - INFO - SKIPPED: Row 492 for 'Leah Roundtree' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:37,262 - INFO - SKIPPED: Row 493 for 'Macarena Silvestri' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:37,678 - INFO - SUCCESS: Updated row 494 for 'Training Model' on 05/15/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:37,887 - INFO - SKIPPED: Row 495 for 'Lana Patrick' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:38,095 - INFO - SKIPPED: Row 496 for 'Breana Durrah' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:38,298 - INFO - SKIPPED: Row 497 for 'Tylisha Cobb' on 05/15/2026 already had the needed values.
+2026-07-02 12:32:38,505 - INFO - SKIPPED: Row 498 for 'Brittany King' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:38,714 - INFO - SKIPPED: Row 499 for 'Christine Eppes' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:38,921 - INFO - SKIPPED: Row 500 for 'Shanon Snead' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:39,125 - INFO - SKIPPED: Row 501 for 'Kyra Jamison' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:39,539 - INFO - SUCCESS: Updated row 502 for 'Stephanie Chernovets' on 05/16/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:39,949 - INFO - SUCCESS: Updated row 503 for 'Lilian Joval' on 05/16/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:40,157 - INFO - SKIPPED: Row 504 for 'Lis Castro' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:40,365 - INFO - SKIPPED: Row 505 for 'Nicole Larsen' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:40,569 - INFO - SKIPPED: Row 506 for 'Carly Jones' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:40,773 - INFO - SKIPPED: Row 507 for 'Geri Gan' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:40,982 - INFO - SKIPPED: Row 508 for 'Caroline Swartz' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:41,391 - INFO - SUCCESS: Updated row 509 for 'Giuliana Popolillo' on 05/16/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:41,596 - INFO - SKIPPED: Row 510 for 'Lindsey Parker' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:41,802 - INFO - SKIPPED: Row 511 for 'Silvana Rivas' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:42,219 - INFO - SUCCESS: Updated row 512 for 'Crystal Farinha' on 05/16/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:42,426 - INFO - SKIPPED: Row 513 for 'Daylin Bastidas' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:42,839 - INFO - SUCCESS: Updated row 514 for 'Melissa Sanzo' on 05/16/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:43,056 - INFO - SKIPPED: Row 515 for 'Jessa Brooks' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:43,270 - INFO - SKIPPED: Row 516 for 'Aysia Lee' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:43,481 - INFO - SKIPPED: Row 517 for 'Jessica Crawford' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:43,897 - INFO - SUCCESS: Updated row 518 for 'Sujita Brar' on 05/16/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:44,105 - INFO - SKIPPED: Row 519 for 'Alyssa Nicol' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:44,312 - INFO - SKIPPED: Row 520 for 'Alyssa Reed' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:44,520 - INFO - SKIPPED: Row 521 for 'Domenica Fassari' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:44,728 - INFO - SKIPPED: Row 522 for 'Gabriella Campisi' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:44,937 - INFO - SKIPPED: Row 523 for 'Michelle Maddatu' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:45,144 - INFO - SKIPPED: Row 524 for 'Ceyli Reyes' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:45,351 - INFO - SKIPPED: Row 525 for 'Leigh Ortiz' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:45,560 - INFO - SKIPPED: Row 526 for 'Allyson Koch' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:45,769 - INFO - SKIPPED: Row 527 for 'Jessica Kestler' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:45,975 - INFO - SKIPPED: Row 528 for 'Leah Roundtree' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:46,182 - INFO - SKIPPED: Row 529 for 'Breana Durrah' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:46,390 - INFO - SKIPPED: Row 530 for 'Tylisha Cobb' on 05/16/2026 already had the needed values.
+2026-07-02 12:32:46,804 - INFO - SUCCESS: Updated row 531 for 'Joanna Machel' on 05/18/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:47,221 - INFO - SUCCESS: Updated row 532 for 'Katlyn Cusack' on 05/18/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:47,633 - INFO - SUCCESS: Updated row 533 for 'Lilian Joval' on 05/18/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:47,840 - INFO - SKIPPED: Row 534 for 'Nicole Larsen' on 05/18/2026 already had the needed values.
+2026-07-02 12:32:48,045 - INFO - SKIPPED: Row 535 for 'Lindsey Parker' on 05/18/2026 already had the needed values.
+2026-07-02 12:32:48,253 - INFO - SKIPPED: Row 536 for 'Silvana Rivas' on 05/18/2026 already had the needed values.
+2026-07-02 12:32:48,668 - INFO - SUCCESS: Updated row 537 for 'Crystal Farinha' on 05/18/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:48,872 - INFO - SKIPPED: Row 538 for 'Daylin Bastidas' on 05/18/2026 already had the needed values.
+2026-07-02 12:32:49,287 - INFO - SUCCESS: Updated row 539 for 'Melissa Sanzo' on 05/18/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:49,490 - INFO - SKIPPED: Row 540 for 'Paige Martin' on 05/18/2026 already had the needed values.
+2026-07-02 12:32:49,695 - INFO - SKIPPED: Row 541 for 'Lana Patrick' on 05/18/2026 already had the needed values.
+2026-07-02 12:32:49,904 - INFO - SKIPPED: Row 542 for 'Sherin Panayil' on 05/18/2026 already had the needed values.
+2026-07-02 12:32:50,114 - INFO - SKIPPED: Row 543 for 'Brittany King' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:50,323 - INFO - SKIPPED: Row 544 for 'Laura Cardinal' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:50,531 - INFO - SKIPPED: Row 545 for 'Shanon Snead' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:50,740 - INFO - SKIPPED: Row 546 for 'Kyra Jamison' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:50,945 - INFO - SKIPPED: Row 547 for 'Macarena Silvestri' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:51,360 - INFO - SUCCESS: Updated row 548 for 'Jackie Moyer' on 05/19/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:51,778 - INFO - SUCCESS: Updated row 549 for 'Joanna Machel' on 05/19/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:52,189 - INFO - SUCCESS: Updated row 550 for 'Lilian Joval' on 05/19/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:52,394 - INFO - SKIPPED: Row 551 for 'Lis Castro' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:52,602 - INFO - SKIPPED: Row 552 for 'Carly Jones' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:52,807 - INFO - SKIPPED: Row 553 for 'Geri Gan' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:53,012 - INFO - SKIPPED: Row 554 for 'Caroline Swartz' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:53,220 - INFO - SKIPPED: Row 555 for 'Deanna Dragone' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:53,630 - INFO - SUCCESS: Updated row 556 for 'Giuliana Popolillo' on 05/19/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:53,835 - INFO - SKIPPED: Row 557 for 'Jasmin Mendoza' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:54,045 - INFO - SKIPPED: Row 558 for 'Lindsey Parker' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:54,456 - INFO - SUCCESS: Updated row 559 for 'Osbert Fernandez' on 05/19/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:54,661 - INFO - SKIPPED: Row 560 for 'Scarlin Sanchez' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:54,871 - INFO - SKIPPED: Row 561 for 'Silvana Rivas' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:55,076 - INFO - SKIPPED: Row 562 for 'Austin Marie Jacobus' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:55,490 - INFO - SUCCESS: Updated row 563 for 'Crystal Farinha' on 05/19/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:55,699 - INFO - SKIPPED: Row 564 for 'Daylin Bastidas' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:56,113 - INFO - SUCCESS: Updated row 565 for 'Melissa Sanzo' on 05/19/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:56,318 - INFO - SKIPPED: Row 566 for 'Paige Martin' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:56,522 - INFO - SKIPPED: Row 567 for 'Alyssa Hernandez' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:57,041 - INFO - SKIPPED: Row 568 for 'Jessa Brooks' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:57,248 - INFO - SKIPPED: Row 569 for 'Aysia Lee' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:57,452 - INFO - SKIPPED: Row 570 for 'Jessica Crawford' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:57,656 - INFO - SKIPPED: Row 571 for 'Patricia Ashmore' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:58,064 - INFO - SUCCESS: Updated row 572 for 'Sujita Brar' on 05/19/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:32:58,269 - INFO - SKIPPED: Row 573 for 'Alyssa Nicol' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:58,474 - INFO - SKIPPED: Row 574 for 'Alyssa Reed' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:58,679 - INFO - SKIPPED: Row 575 for 'Domenica Fassari' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:58,884 - INFO - SKIPPED: Row 576 for 'Gabriella Campisi' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:59,088 - INFO - SKIPPED: Row 577 for 'Kristina Giakas' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:59,298 - INFO - SKIPPED: Row 578 for 'Michelle Maddatu' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:59,506 - INFO - SKIPPED: Row 579 for 'Annette Webson' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:59,714 - INFO - SKIPPED: Row 580 for 'Ceyli Reyes' on 05/19/2026 already had the needed values.
+2026-07-02 12:32:59,921 - INFO - SKIPPED: Row 581 for 'Leigh Ortiz' on 05/19/2026 already had the needed values.
+2026-07-02 12:33:00,128 - INFO - SKIPPED: Row 582 for 'Allyson Koch' on 05/19/2026 already had the needed values.
+2026-07-02 12:33:00,336 - INFO - SKIPPED: Row 583 for 'Jessica Kestler' on 05/19/2026 already had the needed values.
+2026-07-02 12:33:00,544 - INFO - SKIPPED: Row 584 for 'Karen Enriquez' on 05/19/2026 already had the needed values.
+2026-07-02 12:33:00,752 - INFO - SKIPPED: Row 585 for 'Leah Roundtree' on 05/19/2026 already had the needed values.
+2026-07-02 12:33:00,958 - INFO - SKIPPED: Row 586 for 'Lana Patrick' on 05/19/2026 already had the needed values.
+2026-07-02 12:33:01,166 - INFO - SKIPPED: Row 587 for 'Sherin Panayil' on 05/19/2026 already had the needed values.
+2026-07-02 12:33:01,584 - INFO - SUCCESS: Updated row 588 for 'Training Model' on 05/19/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:01,793 - INFO - SKIPPED: Row 589 for 'Breana Durrah' on 05/19/2026 already had the needed values.
+2026-07-02 12:33:01,997 - INFO - SKIPPED: Row 590 for 'Tylisha Cobb' on 05/19/2026 already had the needed values.
+2026-07-02 12:33:02,206 - INFO - SKIPPED: Row 591 for 'Brittany King' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:02,413 - INFO - SKIPPED: Row 592 for 'Laura Cardinal' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:02,618 - INFO - SKIPPED: Row 593 for 'Shanon Snead' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:02,823 - INFO - SKIPPED: Row 594 for 'Kyra Jamison' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:03,038 - INFO - SKIPPED: Row 595 for 'Macarena Silvestri' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:03,455 - INFO - SUCCESS: Updated row 596 for 'Joanna Machel' on 05/20/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:03,664 - INFO - SKIPPED: Row 597 for 'Lis Castro' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:03,873 - INFO - SKIPPED: Row 598 for 'Carly Jones' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:04,082 - INFO - SKIPPED: Row 599 for 'Christine Eppes' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:04,290 - INFO - SKIPPED: Row 600 for 'Geri Gan' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:04,498 - INFO - SKIPPED: Row 601 for 'Caroline Swartz' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:04,706 - INFO - SKIPPED: Row 602 for 'Deanna Dragone' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:05,118 - INFO - SUCCESS: Updated row 603 for 'Giuliana Popolillo' on 05/20/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:05,325 - INFO - SKIPPED: Row 604 for 'Jasmin Mendoza' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:05,533 - INFO - SKIPPED: Row 605 for 'Lindsey Parker' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:05,741 - INFO - SKIPPED: Row 606 for 'Scarlin Sanchez' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:05,946 - INFO - SKIPPED: Row 607 for 'Silvana Rivas' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:06,362 - INFO - SUCCESS: Updated row 608 for 'Crystal Farinha' on 05/20/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:06,570 - INFO - SKIPPED: Row 609 for 'Daylin Bastidas' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:06,987 - INFO - SUCCESS: Updated row 610 for 'Melissa Sanzo' on 05/20/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:07,196 - INFO - SKIPPED: Row 611 for 'Alyssa Hernandez' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:07,401 - INFO - SKIPPED: Row 612 for 'Jessa Brooks' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:07,609 - INFO - SKIPPED: Row 613 for 'Aysia Lee' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:07,818 - INFO - SKIPPED: Row 614 for 'Jessica Crawford' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:08,022 - INFO - SKIPPED: Row 615 for 'Josephine Hernandez' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:08,225 - INFO - SKIPPED: Row 616 for 'Nicole Larsen' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:08,640 - INFO - SUCCESS: Updated row 617 for 'Sujita Brar' on 05/20/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:08,849 - INFO - SKIPPED: Row 618 for 'Alyssa Nicol' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:09,056 - INFO - SKIPPED: Row 619 for 'Alyssa Reed' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:09,266 - INFO - SKIPPED: Row 620 for 'Domenica Fassari' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:09,475 - INFO - SKIPPED: Row 621 for 'Breana Ramsumair' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:09,681 - INFO - SKIPPED: Row 622 for 'Gabriella Campisi' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:09,885 - INFO - SKIPPED: Row 623 for 'Kristina Giakas' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:10,093 - INFO - SKIPPED: Row 624 for 'Michelle Maddatu' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:10,300 - INFO - SKIPPED: Row 625 for 'Annette Webson' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:10,508 - INFO - SKIPPED: Row 626 for 'Ceyli Reyes' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:10,718 - INFO - SKIPPED: Row 627 for 'Leigh Ortiz' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:10,927 - INFO - SKIPPED: Row 628 for 'Patricia Ashmore' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:11,131 - INFO - SKIPPED: Row 629 for 'Allyson Koch' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:11,341 - INFO - SKIPPED: Row 630 for 'Jessica Kestler' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:11,550 - INFO - SKIPPED: Row 631 for 'Karen Enriquez' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:11,759 - INFO - SKIPPED: Row 632 for 'Leah Roundtree' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:11,968 - INFO - SKIPPED: Row 633 for 'Lana Patrick' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:12,176 - INFO - SKIPPED: Row 634 for 'Sherin Panayil' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:12,385 - INFO - SKIPPED: Row 635 for 'Breana Durrah' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:12,593 - INFO - SKIPPED: Row 636 for 'Tylisha Cobb' on 05/20/2026 already had the needed values.
+2026-07-02 12:33:12,796 - INFO - SKIPPED: Row 637 for 'Brittany King' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:13,000 - INFO - SKIPPED: Row 638 for 'Laura Cardinal' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:13,209 - INFO - SKIPPED: Row 639 for 'Shanon Snead' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:13,417 - INFO - SKIPPED: Row 640 for 'Alyssa Reed' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:13,625 - INFO - SKIPPED: Row 641 for 'Jessica Kestler' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:14,036 - INFO - SUCCESS: Updated row 642 for 'Katlyn Cusack' on 05/21/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:14,246 - INFO - SKIPPED: Row 643 for 'Lis Castro' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:14,455 - INFO - SKIPPED: Row 644 for 'Nicole Larsen' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:14,663 - INFO - SKIPPED: Row 645 for 'Carly Jones' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:14,871 - INFO - SKIPPED: Row 646 for 'Christine Eppes' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:15,079 - INFO - SKIPPED: Row 647 for 'Geri Gan' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:15,287 - INFO - SKIPPED: Row 648 for 'Caroline Swartz' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:15,704 - INFO - SUCCESS: Updated row 649 for 'Giuliana Popolillo' on 05/21/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:15,911 - INFO - SKIPPED: Row 650 for 'Jasmin Mendoza' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:16,119 - INFO - SKIPPED: Row 651 for 'Lindsey Parker' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:16,327 - INFO - SKIPPED: Row 652 for 'Scarlin Sanchez' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:16,535 - INFO - SKIPPED: Row 653 for 'Silvana Rivas' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:16,739 - INFO - SKIPPED: Row 654 for 'Daylin Bastidas' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:16,943 - INFO - SKIPPED: Row 655 for 'Karen Enriquez' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:17,359 - INFO - SUCCESS: Updated row 656 for 'Melissa Sanzo' on 05/21/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:17,567 - INFO - SKIPPED: Row 657 for 'Alyssa Hernandez' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:17,775 - INFO - SKIPPED: Row 658 for 'Jessa Brooks' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:17,983 - INFO - SKIPPED: Row 659 for 'Aysia Lee' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:18,190 - INFO - SKIPPED: Row 660 for 'Jessica Crawford' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:18,400 - INFO - SKIPPED: Row 661 for 'Josephine Hernandez' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:18,604 - INFO - SKIPPED: Row 662 for 'Patricia Ashmore' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:18,813 - INFO - SKIPPED: Row 663 for 'Alyssa Reed' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:19,016 - INFO - SKIPPED: Row 664 for 'Breana Ramsumair' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:19,220 - INFO - SKIPPED: Row 665 for 'Domenica Fassari' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:19,426 - INFO - SKIPPED: Row 666 for 'Gabriella Campisi' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:19,631 - INFO - SKIPPED: Row 667 for 'Kristina Giakas' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:19,837 - INFO - SKIPPED: Row 668 for 'Michelle Maddatu' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:20,041 - INFO - SKIPPED: Row 669 for 'Annette Webson' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:20,245 - INFO - SKIPPED: Row 670 for 'Ceyli Reyes' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:20,456 - INFO - SKIPPED: Row 671 for 'Deanna Dragone' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:20,660 - INFO - SKIPPED: Row 672 for 'Leigh Ortiz' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:20,865 - INFO - SKIPPED: Row 673 for 'Allyson Koch' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:21,069 - INFO - SKIPPED: Row 674 for 'Laila Chakib' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:21,278 - INFO - SKIPPED: Row 675 for 'Leah Roundtree' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:21,483 - INFO - SKIPPED: Row 676 for 'Macarena Silvestri' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:21,687 - INFO - SKIPPED: Row 677 for 'Lana Patrick' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:21,897 - INFO - SKIPPED: Row 678 for 'Sherin Panayil' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:22,106 - INFO - SKIPPED: Row 679 for 'Breana Durrah' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:22,317 - INFO - SKIPPED: Row 680 for 'Tylisha Cobb' on 05/21/2026 already had the needed values.
+2026-07-02 12:33:22,524 - INFO - SKIPPED: Row 681 for 'Brittany King' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:22,732 - INFO - SKIPPED: Row 682 for 'Laura Cardinal' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:22,942 - INFO - SKIPPED: Row 683 for 'Shanon Snead' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:23,150 - INFO - SKIPPED: Row 684 for 'Jessica Kestler' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:23,358 - INFO - SKIPPED: Row 685 for 'Laila Chakib' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:23,766 - INFO - SUCCESS: Updated row 686 for 'Joanna Machel' on 05/22/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:23,974 - INFO - SKIPPED: Row 687 for 'Kyra Jamison' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:24,184 - INFO - SKIPPED: Row 688 for 'Lis Castro' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:24,393 - INFO - SKIPPED: Row 689 for 'Carly Jones' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:24,602 - INFO - SKIPPED: Row 690 for 'Christine Eppes' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:24,810 - INFO - SKIPPED: Row 691 for 'Geri Gan' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:25,018 - INFO - SKIPPED: Row 692 for 'Caroline Swartz' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:25,434 - INFO - SUCCESS: Updated row 693 for 'Giuliana Popolillo' on 05/22/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:25,638 - INFO - SKIPPED: Row 694 for 'Jasmin Mendoza' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:25,846 - INFO - SKIPPED: Row 695 for 'Scarlin Sanchez' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:26,259 - INFO - SUCCESS: Updated row 696 for 'Crystal Farinha' on 05/22/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:26,467 - INFO - SKIPPED: Row 697 for 'Alyssa Hernandez' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:26,676 - INFO - SKIPPED: Row 698 for 'Jessa Brooks' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:26,881 - INFO - SKIPPED: Row 699 for 'Aysia Lee' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:27,085 - INFO - SKIPPED: Row 700 for 'Jessica Crawford' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:27,292 - INFO - SKIPPED: Row 701 for 'Nicole Larsen' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:27,701 - INFO - SUCCESS: Updated row 702 for 'Sujita Brar' on 05/22/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:27,909 - INFO - SKIPPED: Row 703 for 'Alyssa Reed' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:28,327 - INFO - SUCCESS: Updated row 704 for 'Katlyn Cusack' on 05/22/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:28,531 - INFO - SKIPPED: Row 705 for 'Domenica Fassari' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:28,736 - INFO - SKIPPED: Row 706 for 'Gabriella Campisi' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:28,941 - INFO - SKIPPED: Row 707 for 'Kristina Giakas' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:29,151 - INFO - SKIPPED: Row 708 for 'Michelle Maddatu' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:29,359 - INFO - SKIPPED: Row 709 for 'Ceyli Reyes' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:29,568 - INFO - SKIPPED: Row 710 for 'Leigh Ortiz' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:29,775 - INFO - SKIPPED: Row 711 for 'Patricia Ashmore' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:29,983 - INFO - SKIPPED: Row 712 for 'Allyson Koch' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:30,192 - INFO - SKIPPED: Row 713 for 'Leah Roundtree' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:30,396 - INFO - SKIPPED: Row 714 for 'Macarena Silvestri' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:30,606 - INFO - SKIPPED: Row 715 for 'Lana Patrick' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:30,810 - INFO - SKIPPED: Row 716 for 'Breana Durrah' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:31,016 - INFO - SKIPPED: Row 717 for 'Tylisha Cobb' on 05/22/2026 already had the needed values.
+2026-07-02 12:33:31,221 - INFO - SKIPPED: Row 718 for 'Brittany King' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:31,425 - INFO - SKIPPED: Row 719 for 'Laura Cardinal' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:31,632 - INFO - SKIPPED: Row 720 for 'Shanon Snead' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:31,842 - INFO - SKIPPED: Row 721 for 'Kyra Jamison' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:32,051 - INFO - SKIPPED: Row 722 for 'Macarena Silvestri' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:32,467 - INFO - SUCCESS: Updated row 723 for 'Jackie Moyer' on 05/23/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:32,880 - INFO - SUCCESS: Updated row 724 for 'Joanna Machel' on 05/23/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:33,093 - INFO - SKIPPED: Row 725 for 'Kyra Jamison' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:33,309 - INFO - SKIPPED: Row 726 for 'Lis Castro' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:33,517 - INFO - SKIPPED: Row 727 for 'Christine Eppes' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:33,929 - INFO - SUCCESS: Updated row 728 for 'Giuliana Popolillo' on 05/23/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:34,137 - INFO - SKIPPED: Row 729 for 'Jasmin Mendoza' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:34,346 - INFO - SKIPPED: Row 730 for 'Scarlin Sanchez' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:34,553 - INFO - SKIPPED: Row 731 for 'Arwa Mahmoud' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:34,966 - INFO - SUCCESS: Updated row 732 for 'Crystal Farinha' on 05/23/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:35,175 - INFO - SKIPPED: Row 733 for 'Alyssa Hernandez' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:35,380 - INFO - SKIPPED: Row 734 for 'Jessa Brooks' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:35,585 - INFO - SKIPPED: Row 735 for 'Josephine Hernandez' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:35,793 - INFO - SKIPPED: Row 736 for 'Alyssa Reed' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:36,206 - INFO - SUCCESS: Updated row 737 for 'Katlyn Cusack' on 05/23/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:36,409 - INFO - SKIPPED: Row 738 for 'Breana Ramsumair' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:36,615 - INFO - SKIPPED: Row 739 for 'Kristina Giakas' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:36,824 - INFO - SKIPPED: Row 740 for 'Annette Webson' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:37,334 - INFO - SKIPPED: Row 741 for 'Ceyli Reyes' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:37,538 - INFO - SKIPPED: Row 742 for 'Leigh Ortiz' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:37,743 - INFO - SKIPPED: Row 743 for 'Patricia Ashmore' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:37,947 - INFO - SKIPPED: Row 744 for 'Allyson Koch' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:38,155 - INFO - SKIPPED: Row 745 for 'Leah Roundtree' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:38,362 - INFO - SKIPPED: Row 746 for 'Breana Durrah' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:38,565 - INFO - SKIPPED: Row 747 for 'Tylisha Cobb' on 05/23/2026 already had the needed values.
+2026-07-02 12:33:38,773 - INFO - SKIPPED: Row 748 for 'Geri Gan' on 05/25/2026 already had the needed values.
+2026-07-02 12:33:38,981 - INFO - SKIPPED: Row 749 for 'Lana Patrick' on 05/25/2026 already had the needed values.
+2026-07-02 12:33:39,190 - INFO - SKIPPED: Row 750 for 'Brittany King' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:39,398 - INFO - SKIPPED: Row 751 for 'Laura Cardinal' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:39,606 - INFO - SKIPPED: Row 752 for 'Shanon Snead' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:39,814 - INFO - SKIPPED: Row 753 for 'Macarena Silvestri' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:40,229 - INFO - SUCCESS: Updated row 754 for 'Jackie Moyer' on 05/26/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:40,642 - INFO - SUCCESS: Updated row 755 for 'Joanna Machel' on 05/26/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:40,851 - INFO - SKIPPED: Row 756 for 'Kyra Jamison' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:41,259 - INFO - SUCCESS: Updated row 757 for 'Lilian Joval' on 05/26/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:41,463 - INFO - SKIPPED: Row 758 for 'Lis Castro' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:41,672 - INFO - SKIPPED: Row 759 for 'Carly Jones' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:41,876 - INFO - SKIPPED: Row 760 for 'Geri Gan' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:42,081 - INFO - SKIPPED: Row 761 for 'Caroline Swartz' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:42,291 - INFO - SKIPPED: Row 762 for 'Deanna Dragone' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:42,698 - INFO - SUCCESS: Updated row 763 for 'Giuliana Popolillo' on 05/26/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:42,904 - INFO - SKIPPED: Row 764 for 'Jasmin Mendoza' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:43,128 - INFO - SKIPPED: Row 765 for 'Lindsey Parker' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:43,544 - INFO - SUCCESS: Updated row 766 for 'Osbert Fernandez' on 05/26/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:43,753 - INFO - SKIPPED: Row 767 for 'Scarlin Sanchez' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:43,957 - INFO - SKIPPED: Row 768 for 'Silvana Rivas' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:44,369 - INFO - SUCCESS: Updated row 769 for 'Crystal Farinha' on 05/26/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:44,577 - INFO - SKIPPED: Row 770 for 'Daylin Bastidas' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:44,990 - INFO - SUCCESS: Updated row 771 for 'Melissa Sanzo' on 05/26/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:45,199 - INFO - --- No match found for CSV row 772. Attempting to insert. ---
+2026-07-02 12:33:45,407 - INFO - SUCCESS: Inserted new record for 'Monique Snee' on 05/26/2026.
+2026-07-02 12:33:45,408 - INFO - --------------------------------------------------
+2026-07-02 12:33:45,818 - INFO - SUCCESS: Updated row 773 for 'Training Model' on 05/26/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:46,028 - INFO - SKIPPED: Row 774 for 'Alyssa Hernandez' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:46,236 - INFO - SKIPPED: Row 775 for 'Jessa Brooks' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:46,444 - INFO - SKIPPED: Row 776 for 'Aysia Lee' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:46,648 - INFO - SKIPPED: Row 777 for 'Jessica Crawford' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:46,853 - INFO - SKIPPED: Row 778 for 'Patricia Ashmore' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:47,271 - INFO - SUCCESS: Updated row 779 for 'Sujita Brar' on 05/26/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:47,477 - INFO - SKIPPED: Row 780 for 'Alyssa Reed' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:47,685 - INFO - SKIPPED: Row 781 for 'Domenica Fassari' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:47,892 - INFO - SKIPPED: Row 782 for 'Gabriella Campisi' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:48,100 - INFO - SKIPPED: Row 783 for 'Kristina Giakas' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:48,308 - INFO - SKIPPED: Row 784 for 'Michelle Maddatu' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:48,513 - INFO - SKIPPED: Row 785 for 'Annette Webson' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:48,722 - INFO - SKIPPED: Row 786 for 'Ceyli Reyes' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:48,930 - INFO - SKIPPED: Row 787 for 'Leigh Ortiz' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:49,138 - INFO - SKIPPED: Row 788 for 'Allyson Koch' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:49,344 - INFO - SKIPPED: Row 789 for 'Karen Enriquez' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:49,549 - INFO - SKIPPED: Row 790 for 'Leah Roundtree' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:49,753 - INFO - SKIPPED: Row 791 for 'Lana Patrick' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:49,958 - INFO - SKIPPED: Row 792 for 'Sherin Panayil' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:50,166 - INFO - SKIPPED: Row 793 for 'Breana Durrah' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:50,370 - INFO - SKIPPED: Row 794 for 'Tylisha Cobb' on 05/26/2026 already had the needed values.
+2026-07-02 12:33:50,575 - INFO - SKIPPED: Row 795 for 'Brittany King' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:50,783 - INFO - SKIPPED: Row 796 for 'Christine Eppes' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:50,988 - INFO - SKIPPED: Row 797 for 'Laura Cardinal' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:51,194 - INFO - SKIPPED: Row 798 for 'Shanon Snead' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:51,401 - INFO - SKIPPED: Row 799 for 'Macarena Silvestri' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:51,814 - INFO - SUCCESS: Updated row 800 for 'Joanna Machel' on 05/27/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:52,023 - INFO - SKIPPED: Row 801 for 'Kyra Jamison' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:52,227 - INFO - SKIPPED: Row 802 for 'Lis Castro' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:52,436 - INFO - SKIPPED: Row 803 for 'Carly Jones' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:52,643 - INFO - SKIPPED: Row 804 for 'Geri Gan' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:52,851 - INFO - SKIPPED: Row 805 for 'Caroline Swartz' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:53,065 - INFO - SKIPPED: Row 806 for 'Deanna Dragone' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:53,486 - INFO - SUCCESS: Updated row 807 for 'Giuliana Popolillo' on 05/27/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:53,693 - INFO - SKIPPED: Row 808 for 'Jasmin Mendoza' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:53,901 - INFO - SKIPPED: Row 809 for 'Lindsey Parker' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:54,109 - INFO - SKIPPED: Row 810 for 'Silvana Rivas' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:54,523 - INFO - SUCCESS: Updated row 811 for 'Crystal Farinha' on 05/27/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:54,729 - INFO - SKIPPED: Row 812 for 'Daylin Bastidas' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:54,936 - INFO - SKIPPED: Row 813 for 'Karen Enriquez' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:55,349 - INFO - SUCCESS: Updated row 814 for 'Melissa Sanzo' on 05/27/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:55,761 - INFO - SUCCESS: Updated row 815 for 'Monique Snee' on 05/27/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:55,969 - INFO - SKIPPED: Row 816 for 'Alyssa Hernandez' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:56,178 - INFO - SKIPPED: Row 817 for 'Jessa Brooks' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:56,386 - INFO - SKIPPED: Row 818 for 'Aysia Lee' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:56,594 - INFO - SKIPPED: Row 819 for 'Jessica Crawford' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:56,799 - INFO - SKIPPED: Row 820 for 'Nicole Larsen' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:57,215 - INFO - SUCCESS: Updated row 821 for 'Sujita Brar' on 05/27/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:33:57,420 - INFO - SKIPPED: Row 822 for 'Alyssa Reed' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:57,627 - INFO - SKIPPED: Row 823 for 'Domenica Fassari' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:57,835 - INFO - SKIPPED: Row 824 for 'Breana Ramsumair' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:58,039 - INFO - SKIPPED: Row 825 for 'Gabriella Campisi' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:58,248 - INFO - SKIPPED: Row 826 for 'Kristina Giakas' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:58,760 - INFO - SKIPPED: Row 827 for 'Michelle Maddatu' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:58,971 - INFO - SKIPPED: Row 828 for 'Annette Webson' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:59,179 - INFO - SKIPPED: Row 829 for 'Ceyli Reyes' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:59,389 - INFO - SKIPPED: Row 830 for 'Patricia Ashmore' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:59,597 - INFO - SKIPPED: Row 831 for 'Allyson Koch' on 05/27/2026 already had the needed values.
+2026-07-02 12:33:59,804 - INFO - SKIPPED: Row 832 for 'Jessica Kestler' on 05/27/2026 already had the needed values.
+2026-07-02 12:34:00,012 - INFO - SKIPPED: Row 833 for 'Laila Chakib' on 05/27/2026 already had the needed values.
+2026-07-02 12:34:00,220 - INFO - SKIPPED: Row 834 for 'Leah Roundtree' on 05/27/2026 already had the needed values.
+2026-07-02 12:34:00,425 - INFO - SKIPPED: Row 835 for 'Lana Patrick' on 05/27/2026 already had the needed values.
+2026-07-02 12:34:00,630 - INFO - SKIPPED: Row 836 for 'Sherin Panayil' on 05/27/2026 already had the needed values.
+2026-07-02 12:34:00,839 - INFO - SKIPPED: Row 837 for 'Breana Durrah' on 05/27/2026 already had the needed values.
+2026-07-02 12:34:01,047 - INFO - SKIPPED: Row 838 for 'Tylisha Cobb' on 05/27/2026 already had the needed values.
+2026-07-02 12:34:01,256 - INFO - SKIPPED: Row 839 for 'Brittany King' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:01,467 - INFO - SKIPPED: Row 840 for 'Christine Eppes' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:01,677 - INFO - SKIPPED: Row 841 for 'Shanon Snead' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:01,882 - INFO - SKIPPED: Row 842 for 'Jessica Kestler' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:02,292 - INFO - SUCCESS: Updated row 843 for 'Joanna Machel' on 05/28/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:02,709 - INFO - SUCCESS: Updated row 844 for 'Katlyn Cusack' on 05/28/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:02,917 - INFO - SKIPPED: Row 845 for 'Kyra Jamison' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:03,335 - INFO - SUCCESS: Updated row 846 for 'Lilian Joval' on 05/28/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:03,543 - INFO - SKIPPED: Row 847 for 'Lis Castro' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:03,748 - INFO - SKIPPED: Row 848 for 'Nicole Larsen' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:04,166 - INFO - SUCCESS: Updated row 849 for 'Training Model' on 05/28/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:04,370 - INFO - SKIPPED: Row 850 for 'Carly Jones' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:04,575 - INFO - SKIPPED: Row 851 for 'Geri Gan' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:04,778 - INFO - SKIPPED: Row 852 for 'Caroline Swartz' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:05,192 - INFO - SUCCESS: Updated row 853 for 'Giuliana Popolillo' on 05/28/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:05,400 - INFO - SKIPPED: Row 854 for 'Jasmin Mendoza' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:05,608 - INFO - SKIPPED: Row 855 for 'Lindsey Parker' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:05,817 - INFO - SKIPPED: Row 856 for 'Scarlin Sanchez' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:06,021 - INFO - SKIPPED: Row 857 for 'Silvana Rivas' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:06,226 - INFO - SKIPPED: Row 858 for 'Daylin Bastidas' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:06,435 - INFO - SKIPPED: Row 859 for 'Karen Enriquez' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:06,851 - INFO - SUCCESS: Updated row 860 for 'Melissa Sanzo' on 05/28/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:07,267 - INFO - SUCCESS: Updated row 861 for 'Monique Snee' on 05/28/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:07,475 - INFO - SKIPPED: Row 862 for 'Alyssa Hernandez' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:07,680 - INFO - SKIPPED: Row 863 for 'Jessa Brooks' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:07,889 - INFO - SKIPPED: Row 864 for 'Aysia Lee' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:08,097 - INFO - SKIPPED: Row 865 for 'Jessica Crawford' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:08,304 - INFO - SKIPPED: Row 866 for 'Patricia Ashmore' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:08,717 - INFO - SUCCESS: Updated row 867 for 'Sujita Brar' on 05/28/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:08,927 - INFO - SKIPPED: Row 868 for 'Alyssa Nicol' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:09,136 - INFO - SKIPPED: Row 869 for 'Alyssa Reed' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:09,346 - INFO - SKIPPED: Row 870 for 'Breana Ramsumair' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:09,553 - INFO - SKIPPED: Row 871 for 'Domenica Fassari' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:09,761 - INFO - SKIPPED: Row 872 for 'Gabriella Campisi' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:09,970 - INFO - SKIPPED: Row 873 for 'Kristina Giakas' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:10,178 - INFO - SKIPPED: Row 874 for 'Michelle Maddatu' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:10,386 - INFO - SKIPPED: Row 875 for 'Annette Webson' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:10,593 - INFO - SKIPPED: Row 876 for 'Ceyli Reyes' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:10,801 - INFO - SKIPPED: Row 877 for 'Deanna Dragone' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:11,006 - INFO - SKIPPED: Row 878 for 'Leigh Ortiz' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:11,214 - INFO - SKIPPED: Row 879 for 'Laila Chakib' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:11,422 - INFO - SKIPPED: Row 880 for 'Leah Roundtree' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:11,628 - INFO - SKIPPED: Row 881 for 'Macarena Silvestri' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:11,835 - INFO - SKIPPED: Row 882 for 'Lana Patrick' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:12,351 - INFO - SKIPPED: Row 883 for 'Sherin Panayil' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:12,560 - INFO - SKIPPED: Row 884 for 'Breana Durrah' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:12,768 - INFO - SKIPPED: Row 885 for 'Tylisha Cobb' on 05/28/2026 already had the needed values.
+2026-07-02 12:34:12,976 - INFO - SKIPPED: Row 886 for 'Brittany King' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:13,180 - INFO - SKIPPED: Row 887 for 'Christine Eppes' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:13,385 - INFO - SKIPPED: Row 888 for 'Shanon Snead' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:13,793 - INFO - SUCCESS: Updated row 889 for 'Joanna Machel' on 05/29/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:13,999 - INFO - SKIPPED: Row 890 for 'Kyra Jamison' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:14,202 - INFO - SKIPPED: Row 891 for 'Lis Castro' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:14,407 - INFO - SKIPPED: Row 892 for 'Carly Jones' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:14,611 - INFO - SKIPPED: Row 893 for 'Geri Gan' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:14,820 - INFO - SKIPPED: Row 894 for 'Caroline Swartz' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:15,027 - INFO - SKIPPED: Row 895 for 'Deanna Dragone' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:15,233 - INFO - SKIPPED: Row 896 for 'Jasmin Mendoza' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:15,437 - INFO - SKIPPED: Row 897 for 'Lindsey Parker' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:15,646 - INFO - SKIPPED: Row 898 for 'Scarlin Sanchez' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:15,854 - INFO - SKIPPED: Row 899 for 'Silvana Rivas' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:16,270 - INFO - SUCCESS: Updated row 900 for 'Crystal Farinha' on 05/29/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:16,477 - INFO - SKIPPED: Row 901 for 'Daylin Bastidas' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:16,681 - INFO - SKIPPED: Row 902 for 'Josephine Hernandez' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:16,888 - INFO - SKIPPED: Row 903 for 'Karen Enriquez' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:17,303 - INFO - SUCCESS: Updated row 904 for 'Monique Snee' on 05/29/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:17,511 - INFO - SKIPPED: Row 905 for 'Alyssa Hernandez' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:17,717 - INFO - SKIPPED: Row 906 for 'Jessa Brooks' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:17,922 - INFO - SKIPPED: Row 907 for 'Aysia Lee' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:18,129 - INFO - SKIPPED: Row 908 for 'Jessica Crawford' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:18,335 - INFO - SKIPPED: Row 909 for 'Nicole Larsen' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:18,750 - INFO - SUCCESS: Updated row 910 for 'Sujita Brar' on 05/29/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:18,957 - INFO - SKIPPED: Row 911 for 'Alyssa Nicol' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:19,162 - INFO - SKIPPED: Row 912 for 'Alyssa Reed' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:19,371 - INFO - SKIPPED: Row 913 for 'Domenica Fassari' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:19,578 - INFO - SKIPPED: Row 914 for 'Gabriella Campisi' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:19,786 - INFO - SKIPPED: Row 915 for 'Kristina Giakas' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:19,994 - INFO - SKIPPED: Row 916 for 'Michelle Maddatu' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:20,202 - INFO - SKIPPED: Row 917 for 'Ceyli Reyes' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:20,411 - INFO - SKIPPED: Row 918 for 'Leigh Ortiz' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:20,618 - INFO - SKIPPED: Row 919 for 'Patricia Ashmore' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:20,827 - INFO - SKIPPED: Row 920 for 'Allyson Koch' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:21,030 - INFO - SKIPPED: Row 921 for 'Laila Chakib' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:21,235 - INFO - SKIPPED: Row 922 for 'Leah Roundtree' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:21,442 - INFO - SKIPPED: Row 923 for 'Macarena Silvestri' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:21,651 - INFO - SKIPPED: Row 924 for 'Lana Patrick' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:22,065 - INFO - SUCCESS: Updated row 925 for 'Lana Patrick - Aesthetician' on 05/29/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:22,272 - INFO - SKIPPED: Row 926 for 'Breana Durrah' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:22,476 - INFO - SKIPPED: Row 927 for 'Tylisha Cobb' on 05/29/2026 already had the needed values.
+2026-07-02 12:34:22,684 - INFO - SKIPPED: Row 928 for 'Brittany King' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:22,889 - INFO - SKIPPED: Row 929 for 'Christine Eppes' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:23,104 - INFO - SKIPPED: Row 930 for 'Shanon Snead' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:23,317 - INFO - SKIPPED: Row 931 for 'Kyra Jamison' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:23,524 - INFO - SKIPPED: Row 932 for 'Macarena Silvestri' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:23,940 - INFO - SUCCESS: Updated row 933 for 'Katlyn Cusack' on 05/30/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:24,355 - INFO - SUCCESS: Updated row 934 for 'Lilian Joval' on 05/30/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:24,563 - INFO - SKIPPED: Row 935 for 'Lis Castro' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:24,772 - INFO - SKIPPED: Row 936 for 'Nicole Larsen' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:24,980 - INFO - SKIPPED: Row 937 for 'Carly Jones' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:25,189 - INFO - SKIPPED: Row 938 for 'Geri Gan' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:25,396 - INFO - SKIPPED: Row 939 for 'Caroline Swartz' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:25,604 - INFO - SKIPPED: Row 940 for 'Lindsey Parker' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:25,812 - INFO - SKIPPED: Row 941 for 'Silvana Rivas' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:26,227 - INFO - SUCCESS: Updated row 942 for 'Crystal Farinha' on 05/30/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:26,439 - INFO - SKIPPED: Row 943 for 'Daylin Bastidas' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:26,647 - INFO - SKIPPED: Row 944 for 'Josephine Hernandez' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:27,063 - INFO - SUCCESS: Updated row 945 for 'Monique Snee' on 05/30/2026. Applied changes: [job_name] = ?.
+2026-07-02 12:34:27,276 - INFO - SKIPPED: Row 946 for 'Alyssa Hernandez' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:27,480 - INFO - SKIPPED: Row 947 for 'Jessa Brooks' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:27,686 - INFO - SKIPPED: Row 948 for 'Aysia Lee' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:27,896 - INFO - SKIPPED: Row 949 for 'Jessica Crawford' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:28,105 - INFO - SKIPPED: Row 950 for 'Alyssa Nicol' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:28,315 - INFO - SKIPPED: Row 951 for 'Alyssa Reed' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:28,522 - INFO - SKIPPED: Row 952 for 'Gabriella Campisi' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:28,730 - INFO - SKIPPED: Row 953 for 'Michelle Maddatu' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:28,934 - INFO - SKIPPED: Row 954 for 'Deanna Dragone' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:29,138 - INFO - SKIPPED: Row 955 for 'Leigh Ortiz' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:29,346 - INFO - SKIPPED: Row 956 for 'Allyson Koch' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:29,551 - INFO - SKIPPED: Row 957 for 'Jessica Kestler' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:29,760 - INFO - SKIPPED: Row 958 for 'Karen Enriquez' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:29,968 - INFO - SKIPPED: Row 959 for 'Leah Roundtree' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:30,176 - INFO - SKIPPED: Row 960 for 'Breana Durrah' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:30,384 - INFO - SKIPPED: Row 961 for 'Tylisha Cobb' on 05/30/2026 already had the needed values.
+2026-07-02 12:34:30,390 - INFO - 
+Orphan cleanup: scanning DB for records in date range 05/01/2026 — 05/30/2026 not found in CSV.
+2026-07-02 12:34:30,828 - INFO - Found 962 DB record(s) in date range.
+2026-07-02 12:34:31,025 - INFO - Orphan cleanup complete. Total rows deleted: 0
+2026-07-02 12:34:31,231 - INFO - 
+Transaction committed.
+2026-07-02 12:34:31,232 - INFO - Database update complete. Total rows updated: 166, Total rows inserted: 1, Total rows deleted: 0

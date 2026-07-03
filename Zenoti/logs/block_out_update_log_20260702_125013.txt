@@ -1,0 +1,1061 @@
+2026-07-02 12:50:13,233 - INFO - Found 1,052 rows in C:\Users\esg\Downloads\Zenoti\blocks\Attendance_april.csv
+2026-07-02 12:50:15,783 - INFO - Successfully connected to the database.
+2026-07-02 12:50:16,204 - INFO - SUCCESS: Updated row 0 for 'Brittany King' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:16,617 - INFO - SUCCESS: Updated row 1 for 'Laura Cardinal' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:17,030 - INFO - SUCCESS: Updated row 2 for 'Shanon Snead' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:17,448 - INFO - SUCCESS: Updated row 3 for 'Kyra Jamison' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:17,863 - INFO - SUCCESS: Updated row 4 for 'Macarena Silvestri' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:18,283 - INFO - SUCCESS: Updated row 5 for 'Training Model' on 04/01/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:18,701 - INFO - SUCCESS: Updated row 6 for 'Joanna Machel' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:19,120 - INFO - SUCCESS: Updated row 7 for 'Lis Castro' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:19,528 - INFO - SUCCESS: Updated row 8 for 'Carly Jones' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:19,941 - INFO - SUCCESS: Updated row 9 for 'Christine Eppes' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:20,358 - INFO - SUCCESS: Updated row 10 for 'Caroline Swartz' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:20,780 - INFO - SUCCESS: Updated row 11 for 'Deanna Dragone' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:21,191 - INFO - SUCCESS: Updated row 12 for 'Giuliana Popolillo' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:21,604 - INFO - SUCCESS: Updated row 13 for 'Jasmin Mendoza' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:22,025 - INFO - SUCCESS: Updated row 14 for 'Scarlin Sanchez' on 04/01/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:22,437 - INFO - SUCCESS: Updated row 15 for 'Silvana Rivas' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:22,852 - INFO - SUCCESS: Updated row 16 for 'Arwa Mahmoud' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:23,280 - INFO - SUCCESS: Updated row 17 for 'Crystal Farinha' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:23,697 - INFO - SUCCESS: Updated row 18 for 'Daylin Bastidas' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:24,116 - INFO - SUCCESS: Updated row 19 for 'Karen Enriquez' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:24,535 - INFO - SUCCESS: Updated row 20 for 'Melissa Sanzo' on 04/01/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:24,955 - INFO - SUCCESS: Updated row 21 for 'Alyssa Hernandez' on 04/01/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:25,372 - INFO - SUCCESS: Updated row 22 for 'Jessa Brooks' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:25,792 - INFO - SUCCESS: Updated row 23 for 'Alejandra Alburqueque' on 04/01/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:26,204 - INFO - SUCCESS: Updated row 24 for 'Aysia Lee' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:26,625 - INFO - SUCCESS: Updated row 25 for 'Jessica Crawford' on 04/01/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:27,046 - INFO - SUCCESS: Updated row 26 for 'Marwa Mahmoud' on 04/01/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:27,459 - INFO - SUCCESS: Updated row 27 for 'Nicole Larsen' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:27,876 - INFO - SUCCESS: Updated row 28 for 'Sujita Brar' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:28,294 - INFO - SUCCESS: Updated row 29 for 'Alyssa Nicol' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:28,710 - INFO - SUCCESS: Updated row 30 for 'Domenica Fassari' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:29,131 - INFO - SUCCESS: Updated row 31 for 'Lindsey Parker' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:29,546 - INFO - SUCCESS: Updated row 32 for 'Breana Ramsumair' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:29,960 - INFO - SUCCESS: Updated row 33 for 'Kristina Giakas' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:30,372 - INFO - SUCCESS: Updated row 34 for 'Paige Martin' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:30,787 - INFO - SUCCESS: Updated row 35 for 'Ceyli Reyes' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:31,203 - INFO - SUCCESS: Updated row 36 for 'Leigh Ortiz' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:31,617 - INFO - SUCCESS: Updated row 37 for 'Patricia Ashmore' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:32,035 - INFO - SUCCESS: Updated row 38 for 'Jessica Kestler' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:32,443 - INFO - SUCCESS: Updated row 39 for 'Laila Chakib' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:32,851 - INFO - SUCCESS: Updated row 40 for 'Michelle Maddatu' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:33,270 - INFO - SUCCESS: Updated row 41 for 'Lana Patrick' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:33,695 - INFO - SUCCESS: Updated row 42 for 'Sherin Panayil' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:34,113 - INFO - SUCCESS: Updated row 43 for 'Breana Durrah' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:34,527 - INFO - SUCCESS: Updated row 44 for 'Tylisha Cobb' on 04/01/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:34,943 - INFO - SUCCESS: Updated row 45 for 'Brittany King' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:35,355 - INFO - SUCCESS: Updated row 46 for 'Laura Cardinal' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:35,767 - INFO - SUCCESS: Updated row 47 for 'Shanon Snead' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:36,177 - INFO - SUCCESS: Updated row 48 for 'Jessica Kestler' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:36,591 - INFO - SUCCESS: Updated row 49 for 'Kyra Jamison' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:37,007 - INFO - SUCCESS: Updated row 50 for 'Joanna Machel' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:37,426 - INFO - SUCCESS: Updated row 51 for 'Katlyn Cusack' on 04/02/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:37,843 - INFO - SUCCESS: Updated row 52 for 'Lilian Joval' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:38,259 - INFO - SUCCESS: Updated row 53 for 'Lis Castro' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:38,677 - INFO - SUCCESS: Updated row 54 for 'Nicole Larsen' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:39,092 - INFO - SUCCESS: Updated row 55 for 'Carly Jones' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:39,510 - INFO - SUCCESS: Updated row 56 for 'Christine Eppes' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:39,926 - INFO - SUCCESS: Updated row 57 for 'Caroline Swartz' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:40,337 - INFO - SUCCESS: Updated row 58 for 'Giuliana Popolillo' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:40,751 - INFO - SUCCESS: Updated row 59 for 'Jasmin Mendoza' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:41,163 - INFO - SUCCESS: Updated row 60 for 'Scarlin Sanchez' on 04/02/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:41,578 - INFO - SUCCESS: Updated row 61 for 'Silvana Rivas' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:41,996 - INFO - SUCCESS: Updated row 62 for 'Daylin Bastidas' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:42,412 - INFO - SUCCESS: Updated row 63 for 'Karen Enriquez' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:42,830 - INFO - SUCCESS: Updated row 64 for 'Melissa Sanzo' on 04/02/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:43,252 - INFO - SUCCESS: Updated row 65 for 'Paige Martin' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:43,670 - INFO - SUCCESS: Updated row 66 for 'Alyssa Hernandez' on 04/02/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:44,085 - INFO - SUCCESS: Updated row 67 for 'Jessa Brooks' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:44,502 - INFO - SUCCESS: Updated row 68 for 'Jessica Crawford' on 04/02/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:44,927 - INFO - SUCCESS: Updated row 69 for 'Patricia Ashmore' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:45,338 - INFO - SUCCESS: Updated row 70 for 'Sujita Brar' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:45,756 - INFO - SUCCESS: Updated row 71 for 'Alyssa Nicol' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:46,168 - INFO - SUCCESS: Updated row 72 for 'Lindsey Parker' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:46,585 - INFO - SUCCESS: Updated row 73 for 'Breana Ramsumair' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:46,997 - INFO - SUCCESS: Updated row 74 for 'Domenica Fassari' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:47,410 - INFO - SUCCESS: Updated row 75 for 'Gabriella Campisi' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:47,822 - INFO - SUCCESS: Updated row 76 for 'Kristina Giakas' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:48,238 - INFO - SUCCESS: Updated row 77 for 'Michelle Maddatu' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:48,654 - INFO - SUCCESS: Updated row 78 for 'Annette Webson' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:49,070 - INFO - SUCCESS: Updated row 79 for 'Ceyli Reyes' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:49,485 - INFO - SUCCESS: Updated row 80 for 'Deanna Dragone' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:49,903 - INFO - SUCCESS: Updated row 81 for 'Leigh Ortiz' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:50,324 - INFO - SUCCESS: Updated row 82 for 'Jessica Mock' on 04/02/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:50,741 - INFO - SUCCESS: Updated row 83 for 'Karen Enriquez' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:51,157 - INFO - SUCCESS: Updated row 84 for 'Laila Chakib' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:51,569 - INFO - SUCCESS: Updated row 85 for 'Macarena Silvestri' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:51,985 - INFO - SUCCESS: Updated row 86 for 'Training Model' on 04/02/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:52,399 - INFO - SUCCESS: Updated row 87 for 'Lana Patrick' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:52,815 - INFO - SUCCESS: Updated row 88 for 'Sherin Panayil' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:53,244 - INFO - SUCCESS: Updated row 89 for 'Breana Durrah' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:53,668 - INFO - SUCCESS: Updated row 90 for 'Tylisha Cobb' on 04/02/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:54,085 - INFO - SUCCESS: Updated row 91 for 'Brittany King' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:54,503 - INFO - SUCCESS: Updated row 92 for 'Laura Cardinal' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:54,921 - INFO - SUCCESS: Updated row 93 for 'Shanon Snead' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:55,340 - INFO - SUCCESS: Updated row 94 for 'Jessica Kestler' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:55,751 - INFO - SUCCESS: Updated row 95 for 'Kyra Jamison' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:56,165 - INFO - SUCCESS: Updated row 96 for 'Joanna Machel' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:56,578 - INFO - SUCCESS: Updated row 97 for 'Lis Castro' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:57,008 - INFO - SUCCESS: Updated row 98 for 'Carly Jones' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:57,425 - INFO - SUCCESS: Updated row 99 for 'Christine Eppes' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:57,839 - INFO - SUCCESS: Updated row 100 for 'Caroline Swartz' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:58,256 - INFO - SUCCESS: Updated row 101 for 'Deanna Dragone' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:58,672 - INFO - SUCCESS: Updated row 102 for 'Giuliana Popolillo' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:59,089 - INFO - SUCCESS: Updated row 103 for 'Jasmin Mendoza' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:59,506 - INFO - SUCCESS: Updated row 104 for 'Lindsey Parker' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:50:59,922 - INFO - SUCCESS: Updated row 105 for 'Scarlin Sanchez' on 04/03/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:00,340 - INFO - SUCCESS: Updated row 106 for 'Silvana Rivas' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:00,752 - INFO - SUCCESS: Updated row 107 for 'Arwa Mahmoud' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:01,171 - INFO - SUCCESS: Updated row 108 for 'Crystal Farinha' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:01,588 - INFO - SUCCESS: Updated row 109 for 'Karen Enriquez' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:02,004 - INFO - SUCCESS: Updated row 110 for 'Alyssa Hernandez' on 04/03/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:02,420 - INFO - SUCCESS: Updated row 111 for 'Jessa Brooks' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:02,838 - INFO - SUCCESS: Updated row 112 for 'Aysia Lee' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:03,274 - INFO - SUCCESS: Updated row 113 for 'Jessica Crawford' on 04/03/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:03,695 - INFO - SUCCESS: Updated row 114 for 'Marwa Mahmoud' on 04/03/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:04,113 - INFO - SUCCESS: Updated row 115 for 'Nicole Larsen' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:04,531 - INFO - SUCCESS: Updated row 116 for 'Sujita Brar' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:04,948 - INFO - SUCCESS: Updated row 117 for 'Lindsey Parker' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:05,365 - INFO - SUCCESS: Updated row 118 for 'Domenica Fassari' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:05,779 - INFO - SUCCESS: Updated row 119 for 'Gabriella Campisi' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:06,191 - INFO - SUCCESS: Updated row 120 for 'Kristina Giakas' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:06,604 - INFO - SUCCESS: Updated row 121 for 'Michelle Maddatu' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:07,021 - INFO - SUCCESS: Updated row 122 for 'Alejandra Alburqueque' on 04/03/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:07,436 - INFO - SUCCESS: Updated row 123 for 'Ceyli Reyes' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:07,856 - INFO - SUCCESS: Updated row 124 for 'Katlyn Cusack' on 04/03/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:08,270 - INFO - SUCCESS: Updated row 125 for 'Leigh Ortiz' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:08,684 - INFO - SUCCESS: Updated row 126 for 'Patricia Ashmore' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:09,100 - INFO - SUCCESS: Updated row 127 for 'Leah Roundtree' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:09,517 - INFO - SUCCESS: Updated row 128 for 'Leigh Ortiz' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:09,935 - INFO - SUCCESS: Updated row 129 for 'Macarena Silvestri' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:10,346 - INFO - SUCCESS: Updated row 130 for 'Lana Patrick' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:10,768 - INFO - SUCCESS: Updated row 131 for 'Breana Durrah' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:11,189 - INFO - SUCCESS: Updated row 132 for 'Tylisha Cobb' on 04/03/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:11,605 - INFO - SUCCESS: Updated row 133 for 'Brittany King' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:12,019 - INFO - SUCCESS: Updated row 134 for 'Laura Cardinal' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:12,435 - INFO - SUCCESS: Updated row 135 for 'Shanon Snead' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:12,851 - INFO - SUCCESS: Updated row 136 for 'Kyra Jamison' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:13,278 - INFO - SUCCESS: Updated row 137 for 'Macarena Silvestri' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:13,703 - INFO - SUCCESS: Updated row 138 for 'Katlyn Cusack' on 04/04/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:14,119 - INFO - SUCCESS: Updated row 139 for 'Lilian Joval' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:14,537 - INFO - SUCCESS: Updated row 140 for 'Lis Castro' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:14,953 - INFO - SUCCESS: Updated row 141 for 'Carly Jones' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:15,370 - INFO - SUCCESS: Updated row 142 for 'Christine Eppes' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:15,786 - INFO - SUCCESS: Updated row 143 for 'Caroline Swartz' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:16,202 - INFO - SUCCESS: Updated row 144 for 'Giuliana Popolillo' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:16,614 - INFO - SUCCESS: Updated row 145 for 'Jasmin Mendoza' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:17,031 - INFO - SUCCESS: Updated row 146 for 'Silvana Rivas' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:17,449 - INFO - SUCCESS: Updated row 147 for 'Arwa Mahmoud' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:17,866 - INFO - SUCCESS: Updated row 148 for 'Karen Enriquez' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:18,281 - INFO - SUCCESS: Updated row 149 for 'Alyssa Hernandez' on 04/04/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:18,699 - INFO - SUCCESS: Updated row 150 for 'Jessa Brooks' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:19,120 - INFO - SUCCESS: Updated row 151 for 'Jessica Crawford' on 04/04/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:19,538 - INFO - SUCCESS: Updated row 152 for 'Marwa Mahmoud' on 04/04/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:19,954 - INFO - SUCCESS: Updated row 153 for 'Sujita Brar' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:20,371 - INFO - SUCCESS: Updated row 154 for 'Alyssa Nicol' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:20,785 - INFO - SUCCESS: Updated row 155 for 'Lindsey Parker' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:21,203 - INFO - SUCCESS: Updated row 156 for 'Domenica Fassari' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:21,619 - INFO - SUCCESS: Updated row 157 for 'Gabriella Campisi' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:22,036 - INFO - SUCCESS: Updated row 158 for 'Michelle Maddatu' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:22,454 - INFO - SUCCESS: Updated row 159 for 'Alejandra Alburqueque' on 04/04/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:22,872 - INFO - SUCCESS: Updated row 160 for 'Ceyli Reyes' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:23,291 - INFO - SUCCESS: Updated row 161 for 'Deanna Dragone' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:23,709 - INFO - SUCCESS: Updated row 162 for 'Leigh Ortiz' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:24,126 - INFO - SUCCESS: Updated row 163 for 'Allyson Koch' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:24,544 - INFO - SUCCESS: Updated row 164 for 'Jessica Kestler' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:24,961 - INFO - SUCCESS: Updated row 165 for 'Breana Durrah' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:25,377 - INFO - SUCCESS: Updated row 166 for 'Tylisha Cobb' on 04/04/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:25,796 - INFO - SUCCESS: Updated row 167 for 'Joanna Machel' on 04/06/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:26,212 - INFO - SUCCESS: Updated row 168 for 'Katlyn Cusack' on 04/06/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:26,630 - INFO - SUCCESS: Updated row 169 for 'Lilian Joval' on 04/06/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:27,047 - INFO - SUCCESS: Updated row 170 for 'Nicole Larsen' on 04/06/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:27,463 - INFO - SUCCESS: Updated row 171 for 'Crystal Farinha' on 04/06/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:27,879 - INFO - SUCCESS: Updated row 172 for 'Melissa Sanzo' on 04/06/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:28,290 - INFO - SUCCESS: Updated row 173 for 'Paige Martin' on 04/06/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:28,707 - INFO - SUCCESS: Updated row 174 for 'Lana Patrick' on 04/06/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:29,124 - INFO - SUCCESS: Updated row 175 for 'Sherin Panayil' on 04/06/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:29,541 - INFO - SUCCESS: Updated row 176 for 'Brittany King' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:29,959 - INFO - SUCCESS: Updated row 177 for 'Laura Cardinal' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:30,370 - INFO - SUCCESS: Updated row 178 for 'Shanon Snead' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:30,787 - INFO - SUCCESS: Updated row 179 for 'Kyra Jamison' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:31,205 - INFO - SUCCESS: Updated row 180 for 'Macarena Silvestri' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:31,625 - INFO - SUCCESS: Updated row 181 for 'Jackie Moyer' on 04/07/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:32,042 - INFO - SUCCESS: Updated row 182 for 'Joanna Machel' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:32,461 - INFO - SUCCESS: Updated row 183 for 'Lilian Joval' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:32,876 - INFO - SUCCESS: Updated row 184 for 'Lis Castro' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:33,305 - INFO - SUCCESS: Updated row 185 for 'Carly Jones' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:33,722 - INFO - SUCCESS: Updated row 186 for 'Caroline Swartz' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:34,138 - INFO - SUCCESS: Updated row 187 for 'Deanna Dragone' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:34,555 - INFO - SUCCESS: Updated row 188 for 'Giuliana Popolillo' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:34,971 - INFO - SUCCESS: Updated row 189 for 'Jasmin Mendoza' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:35,390 - INFO - SUCCESS: Updated row 190 for 'Lindsey Parker' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:35,810 - INFO - SUCCESS: Updated row 191 for 'Osbert Fernandez' on 04/07/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:36,226 - INFO - SUCCESS: Updated row 192 for 'Scarlin Sanchez' on 04/07/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:36,643 - INFO - SUCCESS: Updated row 193 for 'Silvana Rivas' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:37,061 - INFO - SUCCESS: Updated row 194 for 'Arwa Mahmoud' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:37,477 - INFO - SUCCESS: Updated row 195 for 'Crystal Farinha' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:37,892 - INFO - SUCCESS: Updated row 196 for 'Daylin Bastidas' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:38,309 - INFO - SUCCESS: Updated row 197 for 'Melissa Sanzo' on 04/07/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:38,724 - INFO - SUCCESS: Updated row 198 for 'Paige Martin' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:39,141 - INFO - SUCCESS: Updated row 199 for 'Alyssa Hernandez' on 04/07/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:39,558 - INFO - SUCCESS: Updated row 200 for 'Jessa Brooks' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:39,974 - INFO - SUCCESS: Updated row 201 for 'Aysia Lee' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:40,391 - INFO - SUCCESS: Updated row 202 for 'Jessica Crawford' on 04/07/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:40,807 - INFO - SUCCESS: Updated row 203 for 'Marwa Mahmoud' on 04/07/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:41,224 - INFO - SUCCESS: Updated row 204 for 'Patricia Ashmore' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:41,642 - INFO - SUCCESS: Updated row 205 for 'Sujita Brar' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:42,060 - INFO - SUCCESS: Updated row 206 for 'Alyssa Nicol' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:42,478 - INFO - SUCCESS: Updated row 207 for 'Domenica Fassari' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:42,892 - INFO - SUCCESS: Updated row 208 for 'Lindsey Parker' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:43,307 - INFO - SUCCESS: Updated row 209 for 'Gabriella Campisi' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:43,720 - INFO - SUCCESS: Updated row 210 for 'Kristina Giakas' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:44,140 - INFO - SUCCESS: Updated row 211 for 'Michelle Maddatu' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:44,554 - INFO - SUCCESS: Updated row 212 for 'Annette Webson' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:44,971 - INFO - SUCCESS: Updated row 213 for 'Ceyli Reyes' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:45,384 - INFO - SUCCESS: Updated row 214 for 'Leigh Ortiz' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:45,800 - INFO - SUCCESS: Updated row 215 for 'Jessica Kestler' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:46,218 - INFO - SUCCESS: Updated row 216 for 'Karen Enriquez' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:46,634 - INFO - SUCCESS: Updated row 217 for 'Leah Roundtree' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:47,050 - INFO - SUCCESS: Updated row 218 for 'Stephenie Sanzo' on 04/07/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:47,466 - INFO - SUCCESS: Updated row 219 for 'Lana Patrick' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:47,882 - INFO - SUCCESS: Updated row 220 for 'Sherin Panayil' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:48,298 - INFO - SUCCESS: Updated row 221 for 'Breana Durrah' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:48,714 - INFO - SUCCESS: Updated row 222 for 'Tylisha Cobb' on 04/07/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:49,128 - INFO - SUCCESS: Updated row 223 for 'Brittany King' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:49,545 - INFO - SUCCESS: Updated row 224 for 'Laura Cardinal' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:49,961 - INFO - SUCCESS: Updated row 225 for 'Shanon Snead' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:50,378 - INFO - SUCCESS: Updated row 226 for 'Kyra Jamison' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:50,795 - INFO - SUCCESS: Updated row 227 for 'Macarena Silvestri' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:51,215 - INFO - SUCCESS: Updated row 228 for 'Erica Occhino' on 04/08/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:51,631 - INFO - SUCCESS: Updated row 229 for 'Joanna Machel' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:52,047 - INFO - SUCCESS: Updated row 230 for 'Lilian Joval' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:52,461 - INFO - SUCCESS: Updated row 231 for 'Carly Jones' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:52,872 - INFO - SUCCESS: Updated row 232 for 'Christine Eppes' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:53,301 - INFO - SUCCESS: Updated row 233 for 'Caroline Swartz' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:53,719 - INFO - SUCCESS: Updated row 234 for 'Deanna Dragone' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:54,137 - INFO - SUCCESS: Updated row 235 for 'Giuliana Popolillo' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:54,554 - INFO - SUCCESS: Updated row 236 for 'Jasmin Mendoza' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:54,969 - INFO - SUCCESS: Updated row 237 for 'Scarlin Sanchez' on 04/08/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:55,386 - INFO - SUCCESS: Updated row 238 for 'Silvana Rivas' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:55,803 - INFO - SUCCESS: Updated row 239 for 'Arwa Mahmoud' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:56,225 - INFO - SUCCESS: Updated row 240 for 'Crystal Farinha' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:56,643 - INFO - SUCCESS: Updated row 241 for 'Daylin Bastidas' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:57,057 - INFO - SUCCESS: Updated row 242 for 'Paige Martin' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:57,473 - INFO - SUCCESS: Updated row 243 for 'Alyssa Hernandez' on 04/08/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:57,888 - INFO - SUCCESS: Updated row 244 for 'Jessa Brooks' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:58,305 - INFO - SUCCESS: Updated row 245 for 'Alejandra Alburqueque' on 04/08/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:58,723 - INFO - SUCCESS: Updated row 246 for 'Aysia Lee' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:59,141 - INFO - SUCCESS: Updated row 247 for 'Jessica Crawford' on 04/08/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:59,558 - INFO - SUCCESS: Updated row 248 for 'Marwa Mahmoud' on 04/08/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:51:59,974 - INFO - SUCCESS: Updated row 249 for 'Nicole Larsen' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:00,385 - INFO - SUCCESS: Updated row 250 for 'Sujita Brar' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:00,801 - INFO - SUCCESS: Updated row 251 for 'Alyssa Nicol' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:01,215 - INFO - SUCCESS: Updated row 252 for 'Domenica Fassari' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:01,630 - INFO - SUCCESS: Updated row 253 for 'Lindsey Parker' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:02,048 - INFO - SUCCESS: Updated row 254 for 'Breana Ramsumair' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:02,462 - INFO - SUCCESS: Updated row 255 for 'Gabriella Campisi' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:02,880 - INFO - SUCCESS: Updated row 256 for 'Kristina Giakas' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:03,299 - INFO - SUCCESS: Updated row 257 for 'Michelle Maddatu' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:03,711 - INFO - SUCCESS: Updated row 258 for 'Annette Webson' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:04,128 - INFO - SUCCESS: Updated row 259 for 'Ceyli Reyes' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:04,544 - INFO - SUCCESS: Updated row 260 for 'Leigh Ortiz' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:04,960 - INFO - SUCCESS: Updated row 261 for 'Jessica Kestler' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:05,376 - INFO - SUCCESS: Updated row 262 for 'Karen Enriquez' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:05,791 - INFO - SUCCESS: Updated row 263 for 'Laila Chakib' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:06,206 - INFO - SUCCESS: Updated row 264 for 'Leah Roundtree' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:06,620 - INFO - SUCCESS: Updated row 265 for 'Lana Patrick' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:07,036 - INFO - SUCCESS: Updated row 266 for 'Breana Durrah' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:07,455 - INFO - SUCCESS: Updated row 267 for 'Tylisha Cobb' on 04/08/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:07,873 - INFO - SUCCESS: Updated row 268 for 'Brittany King' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:08,288 - INFO - SUCCESS: Updated row 269 for 'Laura Cardinal' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:08,706 - INFO - SUCCESS: Updated row 270 for 'Shanon Snead' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:09,125 - INFO - SUCCESS: Updated row 271 for 'Jessica Kestler' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:09,541 - INFO - SUCCESS: Updated row 272 for 'Kyra Jamison' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:09,958 - INFO - SUCCESS: Updated row 273 for 'Erica Occhino' on 04/09/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:10,376 - INFO - SUCCESS: Updated row 274 for 'Katlyn Cusack' on 04/09/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:10,791 - INFO - SUCCESS: Updated row 275 for 'Lilian Joval' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:11,208 - INFO - SUCCESS: Updated row 276 for 'Lis Castro' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:11,625 - INFO - SUCCESS: Updated row 277 for 'Nicole Larsen' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:12,041 - INFO - SUCCESS: Updated row 278 for 'Carly Jones' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:12,457 - INFO - SUCCESS: Updated row 279 for 'Christine Eppes' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:12,876 - INFO - SUCCESS: Updated row 280 for 'Mercedes Burris' on 04/09/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:13,300 - INFO - SUCCESS: Updated row 281 for 'Caroline Swartz' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:13,713 - INFO - SUCCESS: Updated row 282 for 'Giuliana Popolillo' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:14,125 - INFO - SUCCESS: Updated row 283 for 'Jasmin Mendoza' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:14,541 - INFO - SUCCESS: Updated row 284 for 'Lindsey Parker' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:14,955 - INFO - SUCCESS: Updated row 285 for 'Scarlin Sanchez' on 04/09/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:15,371 - INFO - SUCCESS: Updated row 286 for 'Silvana Rivas' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:15,790 - INFO - SUCCESS: Updated row 287 for 'Arwa Mahmoud' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:16,203 - INFO - SUCCESS: Updated row 288 for 'Daylin Bastidas' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:16,620 - INFO - SUCCESS: Updated row 289 for 'Karen Enriquez' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:17,037 - INFO - SUCCESS: Updated row 290 for 'Paige Martin' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:17,453 - INFO - SUCCESS: Updated row 291 for 'Training Model' on 04/09/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:17,871 - INFO - SUCCESS: Updated row 292 for 'Alyssa Hernandez' on 04/09/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:18,290 - INFO - SUCCESS: Updated row 293 for 'Jessa Brooks' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:18,707 - INFO - SUCCESS: Updated row 294 for 'Aysia Lee' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:19,126 - INFO - SUCCESS: Updated row 295 for 'Jessica Crawford' on 04/09/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:19,540 - INFO - SUCCESS: Updated row 296 for 'Marwa Mahmoud' on 04/09/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:19,957 - INFO - SUCCESS: Updated row 297 for 'Patricia Ashmore' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:20,374 - INFO - SUCCESS: Updated row 298 for 'Sujita Brar' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:20,792 - INFO - SUCCESS: Updated row 299 for 'Lindsey Parker' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:21,209 - INFO - SUCCESS: Updated row 300 for 'Breana Ramsumair' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:21,626 - INFO - SUCCESS: Updated row 301 for 'Domenica Fassari' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:22,044 - INFO - SUCCESS: Updated row 302 for 'Gabriella Campisi' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:22,463 - INFO - SUCCESS: Updated row 303 for 'Kristina Giakas' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:22,879 - INFO - SUCCESS: Updated row 304 for 'Michelle Maddatu' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:23,302 - INFO - SUCCESS: Updated row 305 for 'Alejandra Alburqueque' on 04/09/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:23,718 - INFO - SUCCESS: Updated row 306 for 'Annette Webson' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:24,135 - INFO - SUCCESS: Updated row 307 for 'Ceyli Reyes' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:24,552 - INFO - SUCCESS: Updated row 308 for 'Deanna Dragone' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:24,970 - INFO - SUCCESS: Updated row 309 for 'Leigh Ortiz' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:25,388 - INFO - SUCCESS: Updated row 310 for 'Jessica Mock' on 04/09/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:25,804 - INFO - SUCCESS: Updated row 311 for 'Laila Chakib' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:26,223 - INFO - SUCCESS: Updated row 312 for 'Leah Roundtree' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:26,640 - INFO - SUCCESS: Updated row 313 for 'Macarena Silvestri' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:27,058 - INFO - SUCCESS: Updated row 314 for 'Lana Patrick' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:27,475 - INFO - SUCCESS: Updated row 315 for 'Sherin Panayil' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:27,893 - INFO - SUCCESS: Updated row 316 for 'Breana Durrah' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:28,312 - INFO - SUCCESS: Updated row 317 for 'Tylisha Cobb' on 04/09/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:28,731 - INFO - SUCCESS: Updated row 318 for 'Brittany King' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:29,145 - INFO - SUCCESS: Updated row 319 for 'Laura Cardinal' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:29,564 - INFO - SUCCESS: Updated row 320 for 'Shanon Snead' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:29,982 - INFO - SUCCESS: Updated row 321 for 'Jessica Kestler' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:30,402 - INFO - SUCCESS: Updated row 322 for 'Kyra Jamison' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:30,815 - INFO - SUCCESS: Updated row 323 for 'Erica Occhino' on 04/10/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:31,232 - INFO - SUCCESS: Updated row 324 for 'Joanna Machel' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:31,651 - INFO - SUCCESS: Updated row 325 for 'Katlyn Cusack' on 04/10/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:32,066 - INFO - SUCCESS: Updated row 326 for 'Lis Castro' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:32,483 - INFO - SUCCESS: Updated row 327 for 'Carly Jones' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:32,899 - INFO - SUCCESS: Updated row 328 for 'Christine Eppes' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:33,320 - INFO - SUCCESS: Updated row 329 for 'Mercedes Burris' on 04/10/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:33,737 - INFO - SUCCESS: Updated row 330 for 'Caroline Swartz' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:34,157 - INFO - SUCCESS: Updated row 331 for 'Deanna Dragone' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:34,582 - INFO - SUCCESS: Updated row 332 for 'Giuliana Popolillo' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:34,995 - INFO - SUCCESS: Updated row 333 for 'Jasmin Mendoza' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:35,411 - INFO - SUCCESS: Updated row 334 for 'Scarlin Sanchez' on 04/10/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:35,825 - INFO - SUCCESS: Updated row 335 for 'Silvana Rivas' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:36,242 - INFO - SUCCESS: Updated row 336 for 'Arwa Mahmoud' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:36,660 - INFO - SUCCESS: Updated row 337 for 'Crystal Farinha' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:37,077 - INFO - SUCCESS: Updated row 338 for 'Daylin Bastidas' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:37,494 - INFO - SUCCESS: Updated row 339 for 'Karen Enriquez' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:37,910 - INFO - SUCCESS: Updated row 340 for 'Alyssa Hernandez' on 04/10/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:38,330 - INFO - SUCCESS: Updated row 341 for 'Jessa Brooks' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:38,746 - INFO - SUCCESS: Updated row 342 for 'Aysia Lee' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:39,163 - INFO - SUCCESS: Updated row 343 for 'Jessica Crawford' on 04/10/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:39,581 - INFO - SUCCESS: Updated row 344 for 'Marwa Mahmoud' on 04/10/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:39,998 - INFO - SUCCESS: Updated row 345 for 'Nicole Larsen' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:40,415 - INFO - SUCCESS: Updated row 346 for 'Sujita Brar' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:40,835 - INFO - SUCCESS: Updated row 347 for 'Alyssa Nicol' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:41,252 - INFO - SUCCESS: Updated row 348 for 'Lindsey Parker' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:41,673 - INFO - SUCCESS: Updated row 349 for 'Domenica Fassari' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:42,094 - INFO - SUCCESS: Updated row 350 for 'Gabriella Campisi' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:42,510 - INFO - SUCCESS: Updated row 351 for 'Kristina Giakas' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:42,924 - INFO - SUCCESS: Updated row 352 for 'Michelle Maddatu' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:43,338 - INFO - SUCCESS: Updated row 353 for 'Ceyli Reyes' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:43,756 - INFO - SUCCESS: Updated row 354 for 'Leigh Ortiz' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:44,173 - INFO - SUCCESS: Updated row 355 for 'Patricia Ashmore' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:44,587 - INFO - SUCCESS: Updated row 356 for 'Laila Chakib' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:45,005 - INFO - SUCCESS: Updated row 357 for 'Leah Roundtree' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:45,424 - INFO - SUCCESS: Updated row 358 for 'Macarena Silvestri' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:45,841 - INFO - SUCCESS: Updated row 359 for 'Lana Patrick' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:46,263 - INFO - SUCCESS: Updated row 360 for 'Lana Patrick - Aesthetician' on 04/10/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:46,681 - INFO - SUCCESS: Updated row 361 for 'Breana Durrah' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:47,099 - INFO - SUCCESS: Updated row 362 for 'Tylisha Cobb' on 04/10/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:47,518 - INFO - SUCCESS: Updated row 363 for 'Brittany King' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:47,936 - INFO - SUCCESS: Updated row 364 for 'Laura Cardinal' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:48,353 - INFO - SUCCESS: Updated row 365 for 'Shanon Snead' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:48,771 - INFO - SUCCESS: Updated row 366 for 'Kyra Jamison' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:49,189 - INFO - SUCCESS: Updated row 367 for 'Macarena Silvestri' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:49,605 - INFO - SUCCESS: Updated row 368 for 'Joanna Machel' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:50,020 - INFO - SUCCESS: Updated row 369 for 'Katlyn Cusack' on 04/11/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:50,435 - INFO - SUCCESS: Updated row 370 for 'Lilian Joval' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:50,853 - INFO - SUCCESS: Updated row 371 for 'Lis Castro' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:51,272 - INFO - SUCCESS: Updated row 372 for 'Christine Eppes' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:51,690 - INFO - SUCCESS: Updated row 373 for 'Mercedes Burris' on 04/11/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:52,108 - INFO - SUCCESS: Updated row 374 for 'Giuliana Popolillo' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:52,528 - INFO - SUCCESS: Updated row 375 for 'Lindsey Parker' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:52,948 - INFO - SUCCESS: Updated row 376 for 'Scarlin Sanchez' on 04/11/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:53,367 - INFO - SUCCESS: Updated row 377 for 'Silvana Rivas' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:53,786 - INFO - SUCCESS: Updated row 378 for 'Arwa Mahmoud' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:54,210 - INFO - SUCCESS: Updated row 379 for 'Daylin Bastidas' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:54,624 - INFO - SUCCESS: Updated row 380 for 'Karen Enriquez' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:55,041 - INFO - SUCCESS: Updated row 381 for 'Alyssa Hernandez' on 04/11/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:55,457 - INFO - SUCCESS: Updated row 382 for 'Jessa Brooks' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:55,875 - INFO - SUCCESS: Updated row 383 for 'Jessica Crawford' on 04/11/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:56,289 - INFO - SUCCESS: Updated row 384 for 'Marwa Mahmoud' on 04/11/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:56,705 - INFO - SUCCESS: Updated row 385 for 'Nicole Larsen' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:57,119 - INFO - SUCCESS: Updated row 386 for 'Sujita Brar' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:57,531 - INFO - SUCCESS: Updated row 387 for 'Domenica Fassari' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:57,944 - INFO - SUCCESS: Updated row 388 for 'Lindsey Parker' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:58,364 - INFO - SUCCESS: Updated row 389 for 'Breana Ramsumair' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:58,781 - INFO - SUCCESS: Updated row 390 for 'Kristina Giakas' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:59,198 - INFO - SUCCESS: Updated row 391 for 'Annette Webson' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:52:59,616 - INFO - SUCCESS: Updated row 392 for 'Ceyli Reyes' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:00,032 - INFO - SUCCESS: Updated row 393 for 'Erica Occhino' on 04/11/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:00,449 - INFO - SUCCESS: Updated row 394 for 'Jessica Kestler' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:00,867 - INFO - SUCCESS: Updated row 395 for 'Jessica Mock' on 04/11/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:01,287 - INFO - SUCCESS: Updated row 396 for 'Leah Roundtree' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:01,707 - INFO - SUCCESS: Updated row 397 for 'Breana Durrah' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:02,125 - INFO - SUCCESS: Updated row 398 for 'Tylisha Cobb' on 04/11/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:02,539 - INFO - SUCCESS: Updated row 399 for 'Joanna Machel' on 04/13/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:02,956 - INFO - SUCCESS: Updated row 400 for 'Katlyn Cusack' on 04/13/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:03,374 - INFO - SUCCESS: Updated row 401 for 'Lilian Joval' on 04/13/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:03,787 - INFO - SUCCESS: Updated row 402 for 'Nicole Larsen' on 04/13/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:04,205 - INFO - SUCCESS: Updated row 403 for 'Carly Jones' on 04/13/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:04,623 - INFO - SUCCESS: Updated row 404 for 'Melissa Sanzo' on 04/13/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:05,040 - INFO - SUCCESS: Updated row 405 for 'Paige Martin' on 04/13/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:05,457 - INFO - SUCCESS: Updated row 406 for 'Austin Marie Jacobus' on 04/13/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:05,875 - INFO - SUCCESS: Updated row 407 for 'Training Model' on 04/13/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:06,293 - INFO - SUCCESS: Updated row 408 for 'Lana Patrick' on 04/13/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:06,724 - INFO - SUCCESS: Updated row 409 for 'Sherin Panayil' on 04/13/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:07,143 - INFO - SUCCESS: Updated row 410 for 'Brittany King' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:07,560 - INFO - SUCCESS: Updated row 411 for 'Laura Cardinal' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:07,978 - INFO - SUCCESS: Updated row 412 for 'Shanon Snead' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:08,396 - INFO - SUCCESS: Updated row 413 for 'Kyra Jamison' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:08,811 - INFO - SUCCESS: Updated row 414 for 'Macarena Silvestri' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:09,227 - INFO - SUCCESS: Updated row 415 for 'Erica Occhino' on 04/14/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:09,645 - INFO - SUCCESS: Updated row 416 for 'Jackie Moyer' on 04/14/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:10,062 - INFO - SUCCESS: Updated row 417 for 'Joanna Machel' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:10,476 - INFO - SUCCESS: Updated row 418 for 'Lilian Joval' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:10,894 - INFO - SUCCESS: Updated row 419 for 'Lis Castro' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:11,307 - INFO - SUCCESS: Updated row 420 for 'Carly Jones' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:11,726 - INFO - SUCCESS: Updated row 421 for 'Caroline Swartz' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:12,144 - INFO - SUCCESS: Updated row 422 for 'Deanna Dragone' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:12,559 - INFO - SUCCESS: Updated row 423 for 'Giuliana Popolillo' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:12,975 - INFO - SUCCESS: Updated row 424 for 'Jasmin Mendoza' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:13,390 - INFO - SUCCESS: Updated row 425 for 'Osbert Fernandez' on 04/14/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:13,808 - INFO - SUCCESS: Updated row 426 for 'Scarlin Sanchez' on 04/14/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:14,222 - INFO - SUCCESS: Updated row 427 for 'Silvana Rivas' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:14,637 - INFO - SUCCESS: Updated row 428 for 'Arwa Mahmoud' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:15,048 - INFO - SUCCESS: Updated row 429 for 'Crystal Farinha' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:15,466 - INFO - SUCCESS: Updated row 430 for 'Daylin Bastidas' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:15,884 - INFO - SUCCESS: Updated row 431 for 'Melissa Sanzo' on 04/14/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:16,295 - INFO - SUCCESS: Updated row 432 for 'Paige Martin' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:16,716 - INFO - SUCCESS: Updated row 433 for 'Alyssa Hernandez' on 04/14/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:17,132 - INFO - SUCCESS: Updated row 434 for 'Jessa Brooks' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:17,554 - INFO - SUCCESS: Updated row 435 for 'Training Model' on 04/14/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:17,971 - INFO - SUCCESS: Updated row 436 for 'Aysia Lee' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:18,390 - INFO - SUCCESS: Updated row 437 for 'Jessica Crawford' on 04/14/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:18,808 - INFO - SUCCESS: Updated row 438 for 'Marwa Mahmoud' on 04/14/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:19,227 - INFO - SUCCESS: Updated row 439 for 'Patricia Ashmore' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:19,645 - INFO - SUCCESS: Updated row 440 for 'Sujita Brar' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:20,061 - INFO - SUCCESS: Updated row 441 for 'Alyssa Nicol' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:20,482 - INFO - SUCCESS: Updated row 442 for 'Alyssa Reed' on 04/14/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:20,905 - INFO - SUCCESS: Updated row 443 for 'Domenica Fassari' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:21,325 - INFO - SUCCESS: Updated row 444 for 'Gabriella Campisi' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:21,742 - INFO - SUCCESS: Updated row 445 for 'Kristina Giakas' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:22,159 - INFO - SUCCESS: Updated row 446 for 'Michelle Maddatu' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:22,576 - INFO - SUCCESS: Updated row 447 for 'Annette Webson' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:22,993 - INFO - SUCCESS: Updated row 448 for 'Ceyli Reyes' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:23,409 - INFO - SUCCESS: Updated row 449 for 'Leigh Ortiz' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:23,829 - INFO - SUCCESS: Updated row 450 for 'Allyson Koch' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:24,242 - INFO - SUCCESS: Updated row 451 for 'Jessica Kestler' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:24,661 - INFO - SUCCESS: Updated row 452 for 'Karen Enriquez' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:25,079 - INFO - SUCCESS: Updated row 453 for 'Leah Roundtree' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:25,493 - INFO - SUCCESS: Updated row 454 for 'Lana Patrick' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:25,911 - INFO - SUCCESS: Updated row 455 for 'Sherin Panayil' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:26,330 - INFO - SUCCESS: Updated row 456 for 'Breana Durrah' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:26,749 - INFO - SUCCESS: Updated row 457 for 'Tylisha Cobb' on 04/14/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:27,165 - INFO - SUCCESS: Updated row 458 for 'Brittany King' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:27,583 - INFO - SUCCESS: Updated row 459 for 'Christine Eppes' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:27,999 - INFO - SUCCESS: Updated row 460 for 'Laura Cardinal' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:28,414 - INFO - SUCCESS: Updated row 461 for 'Shanon Snead' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:28,833 - INFO - SUCCESS: Updated row 462 for 'Kyra Jamison' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:29,245 - INFO - SUCCESS: Updated row 463 for 'Macarena Silvestri' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:29,662 - INFO - SUCCESS: Updated row 464 for 'Erica Occhino' on 04/15/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:30,080 - INFO - SUCCESS: Updated row 465 for 'Joanna Machel' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:30,500 - INFO - SUCCESS: Updated row 466 for 'Lis Castro' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:30,918 - INFO - SUCCESS: Updated row 467 for 'Carly Jones' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:31,335 - INFO - SUCCESS: Updated row 468 for 'Geri Gan' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:31,752 - INFO - SUCCESS: Updated row 469 for 'Mercedes Burris' on 04/15/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:32,166 - INFO - SUCCESS: Updated row 470 for 'Training Model' on 04/15/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:32,584 - INFO - SUCCESS: Updated row 471 for 'Caroline Swartz' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:32,999 - INFO - SUCCESS: Updated row 472 for 'Deanna Dragone' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:33,418 - INFO - SUCCESS: Updated row 473 for 'Giuliana Popolillo' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:33,834 - INFO - SUCCESS: Updated row 474 for 'Jasmin Mendoza' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:34,252 - INFO - SUCCESS: Updated row 475 for 'Scarlin Sanchez' on 04/15/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:34,671 - INFO - SUCCESS: Updated row 476 for 'Silvana Rivas' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:35,089 - INFO - SUCCESS: Updated row 477 for 'Arwa Mahmoud' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:35,506 - INFO - SUCCESS: Updated row 478 for 'Crystal Farinha' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:35,922 - INFO - SUCCESS: Updated row 479 for 'Daylin Bastidas' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:36,340 - INFO - SUCCESS: Updated row 480 for 'Melissa Sanzo' on 04/15/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:36,764 - INFO - SUCCESS: Updated row 481 for 'Stephanie Chernovets' on 04/15/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:37,184 - INFO - SUCCESS: Updated row 482 for 'Alyssa Hernandez' on 04/15/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:37,600 - INFO - SUCCESS: Updated row 483 for 'Jessa Brooks' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:38,010 - INFO - SUCCESS: Updated row 484 for 'Alejandra Alburqueque' on 04/15/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:38,428 - INFO - SUCCESS: Updated row 485 for 'Aysia Lee' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:38,848 - INFO - SUCCESS: Updated row 486 for 'Jessica Crawford' on 04/15/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:39,265 - INFO - SUCCESS: Updated row 487 for 'Marwa Mahmoud' on 04/15/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:39,685 - INFO - SUCCESS: Updated row 488 for 'Nicole Larsen' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:40,102 - INFO - SUCCESS: Updated row 489 for 'Sujita Brar' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:40,519 - INFO - SUCCESS: Updated row 490 for 'Alyssa Nicol' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:40,936 - INFO - SUCCESS: Updated row 491 for 'Alyssa Reed' on 04/15/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:41,354 - INFO - SUCCESS: Updated row 492 for 'Domenica Fassari' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:41,774 - INFO - SUCCESS: Updated row 493 for 'Gabriella Campisi' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:42,199 - INFO - SUCCESS: Updated row 494 for 'Kristina Giakas' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:42,611 - INFO - SUCCESS: Updated row 495 for 'Paige Martin' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:43,028 - INFO - SUCCESS: Updated row 496 for 'Annette Webson' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:43,439 - INFO - SUCCESS: Updated row 497 for 'Ceyli Reyes' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:43,857 - INFO - SUCCESS: Updated row 498 for 'Leigh Ortiz' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:44,275 - INFO - SUCCESS: Updated row 499 for 'Patricia Ashmore' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:44,687 - INFO - SUCCESS: Updated row 500 for 'Allyson Koch' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:45,104 - INFO - SUCCESS: Updated row 501 for 'Karen Enriquez' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:45,521 - INFO - SUCCESS: Updated row 502 for 'Laila Chakib' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:45,938 - INFO - SUCCESS: Updated row 503 for 'Leah Roundtree' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:46,353 - INFO - SUCCESS: Updated row 504 for 'Michelle Maddatu' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:46,769 - INFO - SUCCESS: Updated row 505 for 'Lana Patrick' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:47,186 - INFO - SUCCESS: Updated row 506 for 'Sherin Panayil' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:47,604 - INFO - SUCCESS: Updated row 507 for 'Breana Durrah' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:48,019 - INFO - SUCCESS: Updated row 508 for 'Tylisha Cobb' on 04/15/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:48,435 - INFO - SUCCESS: Updated row 509 for 'Brittany King' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:48,852 - INFO - SUCCESS: Updated row 510 for 'Christine Eppes' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:49,268 - INFO - SUCCESS: Updated row 511 for 'Laura Cardinal' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:49,686 - INFO - SUCCESS: Updated row 512 for 'Shanon Snead' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:50,102 - INFO - SUCCESS: Updated row 513 for 'Jessica Kestler' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:50,518 - INFO - SUCCESS: Updated row 514 for 'Kyra Jamison' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:50,932 - INFO - SUCCESS: Updated row 515 for 'Erica Occhino' on 04/16/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:51,351 - INFO - SUCCESS: Updated row 516 for 'Joanna Machel' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:51,768 - INFO - SUCCESS: Updated row 517 for 'Lis Castro' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:52,184 - INFO - SUCCESS: Updated row 518 for 'Nicole Larsen' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:52,599 - INFO - SUCCESS: Updated row 519 for 'Carly Jones' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:53,011 - INFO - SUCCESS: Updated row 520 for 'Geri Gan' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:53,428 - INFO - SUCCESS: Updated row 521 for 'Mercedes Burris' on 04/16/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:53,843 - INFO - SUCCESS: Updated row 522 for 'Training Model2 ' on 04/16/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:54,260 - INFO - SUCCESS: Updated row 523 for 'Caroline Swartz' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:54,677 - INFO - SUCCESS: Updated row 524 for 'Giuliana Popolillo' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:55,094 - INFO - SUCCESS: Updated row 525 for 'Jasmin Mendoza' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:55,510 - INFO - SUCCESS: Updated row 526 for 'Scarlin Sanchez' on 04/16/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:55,926 - INFO - SUCCESS: Updated row 527 for 'Silvana Rivas' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:56,340 - INFO - SUCCESS: Updated row 528 for 'Arwa Mahmoud' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:56,756 - INFO - SUCCESS: Updated row 529 for 'Crystal Farinha' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:57,173 - INFO - SUCCESS: Updated row 530 for 'Daylin Bastidas' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:57,589 - INFO - SUCCESS: Updated row 531 for 'Karen Enriquez' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:58,004 - INFO - SUCCESS: Updated row 532 for 'Melissa Sanzo' on 04/16/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:58,418 - INFO - SUCCESS: Updated row 533 for 'Paige Martin' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:58,836 - INFO - SUCCESS: Updated row 534 for 'Training Model' on 04/16/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:59,249 - INFO - SUCCESS: Updated row 535 for 'Alyssa Hernandez' on 04/16/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:53:59,665 - INFO - SUCCESS: Updated row 536 for 'Jessa Brooks' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:00,079 - INFO - SUCCESS: Updated row 537 for 'Aysia Lee' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:00,497 - INFO - SUCCESS: Updated row 538 for 'Jessica Crawford' on 04/16/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:00,908 - INFO - SUCCESS: Updated row 539 for 'Marwa Mahmoud' on 04/16/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:01,325 - INFO - SUCCESS: Updated row 540 for 'Patricia Ashmore' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:01,743 - INFO - SUCCESS: Updated row 541 for 'Sujita Brar' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:02,157 - INFO - SUCCESS: Updated row 542 for 'Alyssa Nicol' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:02,574 - INFO - SUCCESS: Updated row 543 for 'Alyssa Reed' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:02,992 - INFO - SUCCESS: Updated row 544 for 'Domenica Fassari' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:03,408 - INFO - SUCCESS: Updated row 545 for 'Gabriella Campisi' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:03,825 - INFO - SUCCESS: Updated row 546 for 'Kristina Giakas' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:04,242 - INFO - SUCCESS: Updated row 547 for 'Michelle Maddatu' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:04,658 - INFO - SUCCESS: Updated row 548 for 'Alejandra Alburqueque' on 04/16/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:05,072 - INFO - SUCCESS: Updated row 549 for 'Ceyli Reyes' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:05,488 - INFO - SUCCESS: Updated row 550 for 'Deanna Dragone' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:05,906 - INFO - SUCCESS: Updated row 551 for 'Leigh Ortiz' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:06,325 - INFO - SUCCESS: Updated row 552 for 'Allyson Koch' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:06,739 - INFO - SUCCESS: Updated row 553 for 'Jessica Mock' on 04/16/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:07,156 - INFO - SUCCESS: Updated row 554 for 'Laila Chakib' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:07,572 - INFO - SUCCESS: Updated row 555 for 'Leah Roundtree' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:07,986 - INFO - SUCCESS: Updated row 556 for 'Macarena Silvestri' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:08,403 - INFO - SUCCESS: Updated row 557 for 'Lana Patrick' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:08,821 - INFO - SUCCESS: Updated row 558 for 'Sherin Panayil' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:09,235 - INFO - SUCCESS: Updated row 559 for 'Breana Durrah' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:09,652 - INFO - SUCCESS: Updated row 560 for 'Tylisha Cobb' on 04/16/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:10,066 - INFO - SUCCESS: Updated row 561 for 'Brittany King' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:10,480 - INFO - SUCCESS: Updated row 562 for 'Christine Eppes' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:10,895 - INFO - SUCCESS: Updated row 563 for 'Shanon Snead' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:11,313 - INFO - SUCCESS: Updated row 564 for 'Jessica Kestler' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:11,731 - INFO - SUCCESS: Updated row 565 for 'Kyra Jamison' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:12,147 - INFO - SUCCESS: Updated row 566 for 'Erica Occhino' on 04/17/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:12,564 - INFO - SUCCESS: Updated row 567 for 'Joanna Machel' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:12,981 - INFO - SUCCESS: Updated row 568 for 'Lis Castro' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:13,397 - INFO - SUCCESS: Updated row 569 for 'Carly Jones' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:13,814 - INFO - SUCCESS: Updated row 570 for 'Geri Gan' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:14,229 - INFO - SUCCESS: Updated row 571 for 'Mercedes Burris' on 04/17/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:14,644 - INFO - SUCCESS: Updated row 572 for 'Training Model' on 04/17/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:15,060 - INFO - SUCCESS: Updated row 573 for 'Caroline Swartz' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:15,474 - INFO - SUCCESS: Updated row 574 for 'Deanna Dragone' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:15,886 - INFO - SUCCESS: Updated row 575 for 'Giuliana Popolillo' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:16,303 - INFO - SUCCESS: Updated row 576 for 'Jasmin Mendoza' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:16,717 - INFO - SUCCESS: Updated row 577 for 'Scarlin Sanchez' on 04/17/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:17,130 - INFO - SUCCESS: Updated row 578 for 'Silvana Rivas' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:17,546 - INFO - SUCCESS: Updated row 579 for 'Arwa Mahmoud' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:17,964 - INFO - SUCCESS: Updated row 580 for 'Crystal Farinha' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:18,400 - INFO - SUCCESS: Updated row 581 for 'Daylin Bastidas' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:18,818 - INFO - SUCCESS: Updated row 582 for 'Karen Enriquez' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:19,235 - INFO - SUCCESS: Updated row 583 for 'Alyssa Hernandez' on 04/17/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:19,651 - INFO - SUCCESS: Updated row 584 for 'Jessa Brooks' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:20,068 - INFO - SUCCESS: Updated row 585 for 'Aysia Lee' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:20,486 - INFO - SUCCESS: Updated row 586 for 'Jessica Crawford' on 04/17/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:20,904 - INFO - SUCCESS: Updated row 587 for 'Marwa Mahmoud' on 04/17/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:21,321 - INFO - SUCCESS: Updated row 588 for 'Nicole Larsen' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:21,735 - INFO - SUCCESS: Updated row 589 for 'Sujita Brar' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:22,152 - INFO - SUCCESS: Updated row 590 for 'Alyssa Reed' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:22,569 - INFO - SUCCESS: Updated row 591 for 'Jessica Mock' on 04/17/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:22,983 - INFO - SUCCESS: Updated row 592 for 'Domenica Fassari' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:23,400 - INFO - SUCCESS: Updated row 593 for 'Gabriella Campisi' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:23,814 - INFO - SUCCESS: Updated row 594 for 'Kristina Giakas' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:24,230 - INFO - SUCCESS: Updated row 595 for 'Alejandra Alburqueque' on 04/17/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:24,643 - INFO - SUCCESS: Updated row 596 for 'Leigh Ortiz' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:25,059 - INFO - SUCCESS: Updated row 597 for 'Patricia Ashmore' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:25,476 - INFO - SUCCESS: Updated row 598 for 'Allyson Koch' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:25,887 - INFO - SUCCESS: Updated row 599 for 'Leah Roundtree' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:26,299 - INFO - SUCCESS: Updated row 600 for 'Macarena Silvestri' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:26,716 - INFO - SUCCESS: Updated row 601 for 'Lana Patrick' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:27,134 - INFO - SUCCESS: Updated row 602 for 'Lana Patrick - Aesthetician' on 04/17/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:27,552 - INFO - SUCCESS: Updated row 603 for 'Breana Durrah' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:27,966 - INFO - SUCCESS: Updated row 604 for 'Tylisha Cobb' on 04/17/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:28,383 - INFO - SUCCESS: Updated row 605 for 'Brittany King' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:28,798 - INFO - SUCCESS: Updated row 606 for 'Christine Eppes' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:29,213 - INFO - SUCCESS: Updated row 607 for 'Shanon Snead' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:29,631 - INFO - SUCCESS: Updated row 608 for 'Kyra Jamison' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:30,048 - INFO - SUCCESS: Updated row 609 for 'Macarena Silvestri' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:30,465 - INFO - SUCCESS: Updated row 610 for 'Erica Occhino' on 04/18/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:30,883 - INFO - SUCCESS: Updated row 611 for 'Jackie Moyer' on 04/18/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:31,297 - INFO - SUCCESS: Updated row 612 for 'Lis Castro' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:31,711 - INFO - SUCCESS: Updated row 613 for 'Christine Eppes' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:32,128 - INFO - SUCCESS: Updated row 614 for 'Geri Gan' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:32,544 - INFO - SUCCESS: Updated row 615 for 'Mercedes Burris' on 04/18/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:32,961 - INFO - SUCCESS: Updated row 616 for 'Caroline Swartz' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:33,377 - INFO - SUCCESS: Updated row 617 for 'Giuliana Popolillo' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:33,793 - INFO - SUCCESS: Updated row 618 for 'Lindsey Parker' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:34,209 - INFO - SUCCESS: Updated row 619 for 'Arwa Mahmoud' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:34,624 - INFO - SUCCESS: Updated row 620 for 'Crystal Farinha' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:35,039 - INFO - SUCCESS: Updated row 621 for 'Daylin Bastidas' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:35,454 - INFO - SUCCESS: Updated row 622 for 'Alyssa Hernandez' on 04/18/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:35,866 - INFO - SUCCESS: Updated row 623 for 'Jessa Brooks' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:36,280 - INFO - SUCCESS: Updated row 624 for 'Jessica Crawford' on 04/18/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:36,697 - INFO - SUCCESS: Updated row 625 for 'Marwa Mahmoud' on 04/18/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:37,110 - INFO - SUCCESS: Updated row 626 for 'Sujita Brar' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:37,520 - INFO - SUCCESS: Updated row 627 for 'Alyssa Nicol' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:37,937 - INFO - SUCCESS: Updated row 628 for 'Alyssa Reed' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:38,354 - INFO - SUCCESS: Updated row 629 for 'Domenica Fassari' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:38,770 - INFO - SUCCESS: Updated row 630 for 'Gabriella Campisi' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:39,186 - INFO - SUCCESS: Updated row 631 for 'Kristina Giakas' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:39,597 - INFO - SUCCESS: Updated row 632 for 'Alejandra Alburqueque' on 04/18/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:40,006 - INFO - SUCCESS: Updated row 633 for 'Deanna Dragone' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:40,412 - INFO - SUCCESS: Updated row 634 for 'Leigh Ortiz' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:40,820 - INFO - SUCCESS: Updated row 635 for 'Patricia Ashmore' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:41,225 - INFO - SUCCESS: Updated row 636 for 'Allyson Koch' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:41,641 - INFO - SUCCESS: Updated row 637 for 'Karen Enriquez' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:42,049 - INFO - SUCCESS: Updated row 638 for 'Breana Durrah' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:42,457 - INFO - SUCCESS: Updated row 639 for 'Tylisha Cobb' on 04/18/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:42,871 - INFO - SUCCESS: Updated row 640 for 'Joanna Machel' on 04/20/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:43,295 - INFO - SUCCESS: Updated row 641 for 'Lilian Joval' on 04/20/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:43,718 - INFO - SUCCESS: Updated row 642 for 'Nicole Larsen' on 04/20/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:44,133 - INFO - SUCCESS: Updated row 643 for 'Carly Jones' on 04/20/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:44,548 - INFO - SUCCESS: Updated row 644 for 'Crystal Farinha' on 04/20/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:44,959 - INFO - SUCCESS: Updated row 645 for 'Melissa Sanzo' on 04/20/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:45,371 - INFO - SUCCESS: Updated row 646 for 'Paige Martin' on 04/20/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:45,782 - INFO - SUCCESS: Updated row 647 for 'Training Model' on 04/20/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:46,191 - INFO - SUCCESS: Updated row 648 for 'Lana Patrick' on 04/20/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:46,599 - INFO - SUCCESS: Updated row 649 for 'Brittany King' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:47,014 - INFO - SUCCESS: Updated row 650 for 'Laura Cardinal' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:47,425 - INFO - SUCCESS: Updated row 651 for 'Shanon Snead' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:47,832 - INFO - SUCCESS: Updated row 652 for 'Kyra Jamison' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:48,240 - INFO - SUCCESS: Updated row 653 for 'Macarena Silvestri' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:48,655 - INFO - SUCCESS: Updated row 654 for 'Erica Occhino' on 04/21/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:49,069 - INFO - SUCCESS: Updated row 655 for 'Jackie Moyer' on 04/21/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:49,487 - INFO - SUCCESS: Updated row 656 for 'Joanna Machel' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:49,895 - INFO - SUCCESS: Updated row 657 for 'Lilian Joval' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:50,308 - INFO - SUCCESS: Updated row 658 for 'Lis Castro' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:50,717 - INFO - SUCCESS: Updated row 659 for 'Carly Jones' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:51,136 - INFO - SUCCESS: Updated row 660 for 'Geri Gan' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:51,552 - INFO - SUCCESS: Updated row 661 for 'Mercedes Burris' on 04/21/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:51,962 - INFO - SUCCESS: Updated row 662 for 'Caroline Swartz' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:52,369 - INFO - SUCCESS: Updated row 663 for 'Deanna Dragone' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:52,782 - INFO - SUCCESS: Updated row 664 for 'Giuliana Popolillo' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:53,197 - INFO - SUCCESS: Updated row 665 for 'Jasmin Mendoza' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:53,606 - INFO - SUCCESS: Updated row 666 for 'Osbert Fernandez' on 04/21/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:54,020 - INFO - SUCCESS: Updated row 667 for 'Scarlin Sanchez' on 04/21/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:54,430 - INFO - SUCCESS: Updated row 668 for 'Silvana Rivas' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:54,850 - INFO - SUCCESS: Updated row 669 for 'Training Model' on 04/21/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:55,263 - INFO - SUCCESS: Updated row 670 for 'Arwa Mahmoud' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:55,674 - INFO - SUCCESS: Updated row 671 for 'Austin Marie Jacobus' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:56,085 - INFO - SUCCESS: Updated row 672 for 'Crystal Farinha' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:56,500 - INFO - SUCCESS: Updated row 673 for 'Daylin Bastidas' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:56,909 - INFO - SUCCESS: Updated row 674 for 'Melissa Sanzo' on 04/21/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:57,330 - INFO - SUCCESS: Updated row 675 for 'Paige Martin' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:57,743 - INFO - SUCCESS: Updated row 676 for 'Alyssa Hernandez' on 04/21/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:58,160 - INFO - SUCCESS: Updated row 677 for 'Jessa Brooks' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:58,572 - INFO - SUCCESS: Updated row 678 for 'Alejandra Alburqueque' on 04/21/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:58,987 - INFO - SUCCESS: Updated row 679 for 'Aysia Lee' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:59,401 - INFO - SUCCESS: Updated row 680 for 'Jessica Crawford' on 04/21/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:54:59,808 - INFO - SUCCESS: Updated row 681 for 'Marwa Mahmoud' on 04/21/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:00,225 - INFO - SUCCESS: Updated row 682 for 'Patricia Ashmore' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:00,635 - INFO - SUCCESS: Updated row 683 for 'Sujita Brar' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:01,047 - INFO - SUCCESS: Updated row 684 for 'Alyssa Nicol' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:01,458 - INFO - SUCCESS: Updated row 685 for 'Alyssa Reed' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:01,868 - INFO - SUCCESS: Updated row 686 for 'Domenica Fassari' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:02,283 - INFO - SUCCESS: Updated row 687 for 'Lindsey Parker' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:02,694 - INFO - SUCCESS: Updated row 688 for 'Gabriella Campisi' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:03,108 - INFO - SUCCESS: Updated row 689 for 'Kristina Giakas' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:03,527 - INFO - SUCCESS: Updated row 690 for 'Michelle Maddatu' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:03,943 - INFO - SUCCESS: Updated row 691 for 'Annette Webson' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:04,358 - INFO - SUCCESS: Updated row 692 for 'Ceyli Reyes' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:04,771 - INFO - SUCCESS: Updated row 693 for 'Leigh Ortiz' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:05,184 - INFO - SUCCESS: Updated row 694 for 'Allyson Koch' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:05,600 - INFO - SUCCESS: Updated row 695 for 'Jessica Kestler' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:06,014 - INFO - SUCCESS: Updated row 696 for 'Karen Enriquez' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:06,431 - INFO - SUCCESS: Updated row 697 for 'Leah Roundtree' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:06,839 - INFO - SUCCESS: Updated row 698 for 'Lana Patrick' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:07,253 - INFO - SUCCESS: Updated row 699 for 'Sherin Panayil' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:07,669 - INFO - SUCCESS: Updated row 700 for 'Breana Durrah' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:08,083 - INFO - SUCCESS: Updated row 701 for 'Tylisha Cobb' on 04/21/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:08,496 - INFO - SUCCESS: Updated row 702 for 'Brittany King' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:08,910 - INFO - SUCCESS: Updated row 703 for 'Laura Cardinal' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:09,326 - INFO - SUCCESS: Updated row 704 for 'Shanon Snead' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:09,740 - INFO - SUCCESS: Updated row 705 for 'Kyra Jamison' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:10,154 - INFO - SUCCESS: Updated row 706 for 'Macarena Silvestri' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:10,565 - INFO - SUCCESS: Updated row 707 for 'Erica Occhino' on 04/22/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:10,971 - INFO - SUCCESS: Updated row 708 for 'Joanna Machel' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:11,384 - INFO - SUCCESS: Updated row 709 for 'Carly Jones' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:11,800 - INFO - SUCCESS: Updated row 710 for 'Christine Eppes' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:12,214 - INFO - SUCCESS: Updated row 711 for 'Geri Gan' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:12,629 - INFO - SUCCESS: Updated row 712 for 'Mercedes Burris' on 04/22/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:13,042 - INFO - SUCCESS: Updated row 713 for 'Caroline Swartz' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:13,458 - INFO - SUCCESS: Updated row 714 for 'Deanna Dragone' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:13,869 - INFO - SUCCESS: Updated row 715 for 'Giuliana Popolillo' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:14,280 - INFO - SUCCESS: Updated row 716 for 'Jasmin Mendoza' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:14,692 - INFO - SUCCESS: Updated row 717 for 'Scarlin Sanchez' on 04/22/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:15,106 - INFO - SUCCESS: Updated row 718 for 'Silvana Rivas' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:15,516 - INFO - SUCCESS: Updated row 719 for 'Training Model' on 04/22/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:15,929 - INFO - SUCCESS: Updated row 720 for 'Arwa Mahmoud' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:16,338 - INFO - SUCCESS: Updated row 721 for 'Crystal Farinha' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:16,752 - INFO - SUCCESS: Updated row 722 for 'Daylin Bastidas' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:17,165 - INFO - SUCCESS: Updated row 723 for 'Melissa Sanzo' on 04/22/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:17,581 - INFO - SUCCESS: Updated row 724 for 'Paige Martin' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:17,992 - INFO - SUCCESS: Updated row 725 for 'Alyssa Hernandez' on 04/22/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:18,406 - INFO - SUCCESS: Updated row 726 for 'Jessa Brooks' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:18,819 - INFO - SUCCESS: Updated row 727 for 'Aysia Lee' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:19,234 - INFO - SUCCESS: Updated row 728 for 'Jessica Crawford' on 04/22/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:19,647 - INFO - SUCCESS: Updated row 729 for 'Marwa Mahmoud' on 04/22/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:20,060 - INFO - SUCCESS: Updated row 730 for 'Nicole Larsen' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:20,475 - INFO - SUCCESS: Updated row 731 for 'Sujita Brar' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:20,886 - INFO - SUCCESS: Updated row 732 for 'Alyssa Nicol' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:21,299 - INFO - SUCCESS: Updated row 733 for 'Alyssa Reed' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:21,708 - INFO - SUCCESS: Updated row 734 for 'Domenica Fassari' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:22,123 - INFO - SUCCESS: Updated row 735 for 'Lindsey Parker' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:22,537 - INFO - SUCCESS: Updated row 736 for 'Breana Ramsumair' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:22,952 - INFO - SUCCESS: Updated row 737 for 'Gabriella Campisi' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:23,365 - INFO - SUCCESS: Updated row 738 for 'Kristina Giakas' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:23,782 - INFO - SUCCESS: Updated row 739 for 'Michelle Maddatu' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:24,195 - INFO - SUCCESS: Updated row 740 for 'Annette Webson' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:24,609 - INFO - SUCCESS: Updated row 741 for 'Ceyli Reyes' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:25,024 - INFO - SUCCESS: Updated row 742 for 'Leigh Ortiz' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:25,437 - INFO - SUCCESS: Updated row 743 for 'Patricia Ashmore' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:25,852 - INFO - SUCCESS: Updated row 744 for 'Allyson Koch' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:26,263 - INFO - SUCCESS: Updated row 745 for 'Jessica Kestler' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:26,678 - INFO - SUCCESS: Updated row 746 for 'Karen Enriquez' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:27,097 - INFO - SUCCESS: Updated row 747 for 'Laila Chakib' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:27,515 - INFO - SUCCESS: Updated row 748 for 'Leah Roundtree' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:27,930 - INFO - SUCCESS: Updated row 749 for 'Lana Patrick' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:28,337 - INFO - SUCCESS: Updated row 750 for 'Sherin Panayil' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:28,751 - INFO - SUCCESS: Updated row 751 for 'Breana Durrah' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:29,165 - INFO - SUCCESS: Updated row 752 for 'Tylisha Cobb' on 04/22/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:29,580 - INFO - SUCCESS: Updated row 753 for 'Brittany King' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:29,997 - INFO - SUCCESS: Updated row 754 for 'Laura Cardinal' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:30,412 - INFO - SUCCESS: Updated row 755 for 'Shanon Snead' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:30,828 - INFO - SUCCESS: Updated row 756 for 'Jessica Kestler' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:31,244 - INFO - SUCCESS: Updated row 757 for 'Kyra Jamison' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:31,657 - INFO - SUCCESS: Updated row 758 for 'Erica Occhino' on 04/23/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:32,076 - INFO - SUCCESS: Updated row 759 for 'Jessica Crawford' on 04/23/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:32,492 - INFO - SUCCESS: Updated row 760 for 'Katlyn Cusack' on 04/23/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:32,909 - INFO - SUCCESS: Updated row 761 for 'Lilian Joval' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:33,327 - INFO - SUCCESS: Updated row 762 for 'Lis Castro' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:33,739 - INFO - SUCCESS: Updated row 763 for 'Carly Jones' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:34,154 - INFO - SUCCESS: Updated row 764 for 'Christine Eppes' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:34,568 - INFO - SUCCESS: Updated row 765 for 'Geri Gan' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:34,984 - INFO - SUCCESS: Updated row 766 for 'Mercedes Burris' on 04/23/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:35,400 - INFO - SUCCESS: Updated row 767 for 'Caroline Swartz' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:35,812 - INFO - SUCCESS: Updated row 768 for 'Giuliana Popolillo' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:36,229 - INFO - SUCCESS: Updated row 769 for 'Jasmin Mendoza' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:36,643 - INFO - SUCCESS: Updated row 770 for 'Lindsey Parker' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:37,056 - INFO - SUCCESS: Updated row 771 for 'Scarlin Sanchez' on 04/23/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:37,472 - INFO - SUCCESS: Updated row 772 for 'Silvana Rivas' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:37,889 - INFO - SUCCESS: Updated row 773 for 'Arwa Mahmoud' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:38,301 - INFO - SUCCESS: Updated row 774 for 'Crystal Farinha' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:38,716 - INFO - SUCCESS: Updated row 775 for 'Daylin Bastidas' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:39,133 - INFO - SUCCESS: Updated row 776 for 'Karen Enriquez' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:39,549 - INFO - SUCCESS: Updated row 777 for 'Melissa Sanzo' on 04/23/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:39,964 - INFO - SUCCESS: Updated row 778 for 'Paige Martin' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:40,382 - INFO - SUCCESS: Updated row 779 for 'Training Model' on 04/23/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:40,800 - INFO - SUCCESS: Updated row 780 for 'Alyssa Hernandez' on 04/23/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:41,218 - INFO - SUCCESS: Updated row 781 for 'Jessa Brooks' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:41,636 - INFO - SUCCESS: Updated row 782 for 'Aysia Lee' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:42,051 - INFO - SUCCESS: Updated row 783 for 'Marwa Mahmoud' on 04/23/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:42,472 - INFO - SUCCESS: Updated row 784 for 'Patricia Ashmore' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:42,885 - INFO - SUCCESS: Updated row 785 for 'Sujita Brar' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:43,310 - INFO - SUCCESS: Updated row 786 for 'Alyssa Nicol' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:43,728 - INFO - SUCCESS: Updated row 787 for 'Alyssa Reed' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:44,144 - INFO - SUCCESS: Updated row 788 for 'Lindsey Parker' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:44,557 - INFO - SUCCESS: Updated row 789 for 'Breana Ramsumair' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:44,972 - INFO - SUCCESS: Updated row 790 for 'Domenica Fassari' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:45,388 - INFO - SUCCESS: Updated row 791 for 'Gabriella Campisi' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:45,805 - INFO - SUCCESS: Updated row 792 for 'Kristina Giakas' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:46,222 - INFO - SUCCESS: Updated row 793 for 'Michelle Maddatu' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:46,638 - INFO - SUCCESS: Updated row 794 for 'Alejandra Alburqueque' on 04/23/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:47,053 - INFO - SUCCESS: Updated row 795 for 'Annette Webson' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:47,470 - INFO - SUCCESS: Updated row 796 for 'Ceyli Reyes' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:47,887 - INFO - SUCCESS: Updated row 797 for 'Deanna Dragone' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:48,304 - INFO - SUCCESS: Updated row 798 for 'Leigh Ortiz' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:48,727 - INFO - SUCCESS: Updated row 799 for 'Allyson Koch' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:49,145 - INFO - SUCCESS: Updated row 800 for 'Jessica Mock' on 04/23/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:49,559 - INFO - SUCCESS: Updated row 801 for 'Laila Chakib' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:49,977 - INFO - SUCCESS: Updated row 802 for 'Leah Roundtree' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:50,395 - INFO - SUCCESS: Updated row 803 for 'Macarena Silvestri' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:50,811 - INFO - SUCCESS: Updated row 804 for 'Lana Patrick' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:51,227 - INFO - SUCCESS: Updated row 805 for 'Sherin Panayil' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:51,638 - INFO - SUCCESS: Updated row 806 for 'Breana Durrah' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:52,051 - INFO - SUCCESS: Updated row 807 for 'Tylisha Cobb' on 04/23/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:52,467 - INFO - SUCCESS: Updated row 808 for 'Laura Cardinal' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:52,882 - INFO - SUCCESS: Updated row 809 for 'Shanon Snead' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:53,300 - INFO - SUCCESS: Updated row 810 for 'Jessica Kestler' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:53,712 - INFO - SUCCESS: Updated row 811 for 'Kyra Jamison' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:54,126 - INFO - SUCCESS: Updated row 812 for 'Erica Occhino' on 04/24/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:54,543 - INFO - SUCCESS: Updated row 813 for 'Joanna Machel' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:54,959 - INFO - SUCCESS: Updated row 814 for 'Katlyn Cusack' on 04/24/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:55,376 - INFO - SUCCESS: Updated row 815 for 'Lis Castro' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:55,793 - INFO - SUCCESS: Updated row 816 for 'Carly Jones' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:56,205 - INFO - SUCCESS: Updated row 817 for 'Christine Eppes' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:56,618 - INFO - SUCCESS: Updated row 818 for 'Geri Gan' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:57,036 - INFO - SUCCESS: Updated row 819 for 'Mercedes Burris' on 04/24/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:57,455 - INFO - SUCCESS: Updated row 820 for 'Caroline Swartz' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:57,867 - INFO - SUCCESS: Updated row 821 for 'Deanna Dragone' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:58,283 - INFO - SUCCESS: Updated row 822 for 'Giuliana Popolillo' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:58,699 - INFO - SUCCESS: Updated row 823 for 'Jasmin Mendoza' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:59,115 - INFO - SUCCESS: Updated row 824 for 'Lindsey Parker' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:59,529 - INFO - SUCCESS: Updated row 825 for 'Scarlin Sanchez' on 04/24/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:55:59,946 - INFO - SUCCESS: Updated row 826 for 'Silvana Rivas' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:00,360 - INFO - SUCCESS: Updated row 827 for 'Arwa Mahmoud' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:00,777 - INFO - SUCCESS: Updated row 828 for 'Daylin Bastidas' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:01,188 - INFO - SUCCESS: Updated row 829 for 'Karen Enriquez' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:01,602 - INFO - SUCCESS: Updated row 830 for 'Alyssa Hernandez' on 04/24/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:02,018 - INFO - SUCCESS: Updated row 831 for 'Jessa Brooks' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:02,434 - INFO - SUCCESS: Updated row 832 for 'Aysia Lee' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:02,848 - INFO - SUCCESS: Updated row 833 for 'Jessica Crawford' on 04/24/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:03,260 - INFO - SUCCESS: Updated row 834 for 'Marwa Mahmoud' on 04/24/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:03,676 - INFO - SUCCESS: Updated row 835 for 'Sujita Brar' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:04,091 - INFO - SUCCESS: Updated row 836 for 'Alyssa Reed' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:04,507 - INFO - SUCCESS: Updated row 837 for 'Lindsey Parker' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:04,927 - INFO - SUCCESS: Updated row 838 for 'Sandy Dalaris' on 04/24/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:05,342 - INFO - SUCCESS: Updated row 839 for 'Domenica Fassari' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:05,758 - INFO - SUCCESS: Updated row 840 for 'Gabriella Campisi' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:06,174 - INFO - SUCCESS: Updated row 841 for 'Kristina Giakas' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:06,590 - INFO - SUCCESS: Updated row 842 for 'Michelle Maddatu' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:07,005 - INFO - SUCCESS: Updated row 843 for 'Alejandra Alburqueque' on 04/24/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:07,422 - INFO - SUCCESS: Updated row 844 for 'Ceyli Reyes' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:07,835 - INFO - SUCCESS: Updated row 845 for 'Leigh Ortiz' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:08,248 - INFO - SUCCESS: Updated row 846 for 'Patricia Ashmore' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:08,665 - INFO - SUCCESS: Updated row 847 for 'Allyson Koch' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:09,081 - INFO - SUCCESS: Updated row 848 for 'Jessica Mock' on 04/24/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:09,499 - INFO - SUCCESS: Updated row 849 for 'Laila Chakib' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:09,914 - INFO - SUCCESS: Updated row 850 for 'Leah Roundtree' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:10,331 - INFO - SUCCESS: Updated row 851 for 'Macarena Silvestri' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:10,747 - INFO - SUCCESS: Updated row 852 for 'Lana Patrick' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:11,163 - INFO - SUCCESS: Updated row 853 for 'Lana Patrick - Aesthetician' on 04/24/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:11,577 - INFO - SUCCESS: Updated row 854 for 'Breana Durrah' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:11,993 - INFO - SUCCESS: Updated row 855 for 'Tylisha Cobb' on 04/24/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:12,409 - INFO - SUCCESS: Updated row 856 for 'Brittany King' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:12,825 - INFO - SUCCESS: Updated row 857 for 'Christine Eppes' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:13,242 - INFO - SUCCESS: Updated row 858 for 'Laura Cardinal' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:13,656 - INFO - SUCCESS: Updated row 859 for 'Shanon Snead' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:14,073 - INFO - SUCCESS: Updated row 860 for 'Kyra Jamison' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:14,487 - INFO - SUCCESS: Updated row 861 for 'Macarena Silvestri' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:14,904 - INFO - SUCCESS: Updated row 862 for 'Erica Occhino' on 04/25/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:15,317 - INFO - SUCCESS: Updated row 863 for 'Joanna Machel' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:15,731 - INFO - SUCCESS: Updated row 864 for 'Lis Castro' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:16,149 - INFO - SUCCESS: Updated row 865 for 'Geri Gan' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:16,563 - INFO - SUCCESS: Updated row 866 for 'Mercedes Burris' on 04/25/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:16,979 - INFO - SUCCESS: Updated row 867 for 'Giuliana Popolillo' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:17,392 - INFO - SUCCESS: Updated row 868 for 'Lindsey Parker' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:17,809 - INFO - SUCCESS: Updated row 869 for 'Scarlin Sanchez' on 04/25/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:18,225 - INFO - SUCCESS: Updated row 870 for 'Silvana Rivas' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:18,641 - INFO - SUCCESS: Updated row 871 for 'Arwa Mahmoud' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:19,057 - INFO - SUCCESS: Updated row 872 for 'Crystal Farinha' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:19,473 - INFO - SUCCESS: Updated row 873 for 'Daylin Bastidas' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:19,891 - INFO - SUCCESS: Updated row 874 for 'Alyssa Hernandez' on 04/25/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:20,303 - INFO - SUCCESS: Updated row 875 for 'Jessica Crawford' on 04/25/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:20,720 - INFO - SUCCESS: Updated row 876 for 'Karen Enriquez' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:21,136 - INFO - SUCCESS: Updated row 877 for 'Marwa Mahmoud' on 04/25/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:21,551 - INFO - SUCCESS: Updated row 878 for 'Sujita Brar' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:21,961 - INFO - SUCCESS: Updated row 879 for 'Alyssa Reed' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:22,369 - INFO - SUCCESS: Updated row 880 for 'Domenica Fassari' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:22,779 - INFO - SUCCESS: Updated row 881 for 'Lindsey Parker' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:23,192 - INFO - SUCCESS: Updated row 882 for 'Breana Ramsumair' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:23,606 - INFO - SUCCESS: Updated row 883 for 'Michelle Maddatu' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:24,022 - INFO - SUCCESS: Updated row 884 for 'Ceyli Reyes' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:24,436 - INFO - SUCCESS: Updated row 885 for 'Deanna Dragone' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:24,848 - INFO - SUCCESS: Updated row 886 for 'Leigh Ortiz' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:25,265 - INFO - SUCCESS: Updated row 887 for 'Allyson Koch' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:25,677 - INFO - SUCCESS: Updated row 888 for 'Jessica Kestler' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:26,090 - INFO - SUCCESS: Updated row 889 for 'Leah Roundtree' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:26,498 - INFO - SUCCESS: Updated row 890 for 'Breana Durrah' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:26,910 - INFO - SUCCESS: Updated row 891 for 'Tylisha Cobb' on 04/25/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:27,322 - INFO - SUCCESS: Updated row 892 for 'Joanna Machel' on 04/27/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:27,731 - INFO - SUCCESS: Updated row 893 for 'Katlyn Cusack' on 04/27/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:28,144 - INFO - SUCCESS: Updated row 894 for 'Lilian Joval' on 04/27/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:28,556 - INFO - SUCCESS: Updated row 895 for 'Nicole Larsen' on 04/27/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:28,965 - INFO - SUCCESS: Updated row 896 for 'Carly Jones' on 04/27/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:29,381 - INFO - SUCCESS: Updated row 897 for 'Giuliana Popolillo' on 04/27/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:29,797 - INFO - SUCCESS: Updated row 898 for 'Silvana Rivas' on 04/27/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:30,209 - INFO - SUCCESS: Updated row 899 for 'Crystal Farinha' on 04/27/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:30,621 - INFO - SUCCESS: Updated row 900 for 'Melissa Sanzo' on 04/27/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:31,027 - INFO - SUCCESS: Updated row 901 for 'Paige Martin' on 04/27/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:31,440 - INFO - SUCCESS: Updated row 902 for 'Lana Patrick' on 04/27/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:31,849 - INFO - SUCCESS: Updated row 903 for 'Sherin Panayil' on 04/27/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:32,263 - INFO - SUCCESS: Updated row 904 for 'Brittany King' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:32,680 - INFO - SUCCESS: Updated row 905 for 'Laura Cardinal' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:33,088 - INFO - SUCCESS: Updated row 906 for 'Kyra Jamison' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:33,526 - INFO - SUCCESS: Updated row 907 for 'Macarena Silvestri' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:33,939 - INFO - SUCCESS: Updated row 908 for 'Erica Occhino' on 04/28/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:34,351 - INFO - SUCCESS: Updated row 909 for 'Jackie Moyer' on 04/28/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:34,768 - INFO - SUCCESS: Updated row 910 for 'Joanna Machel' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:35,179 - INFO - SUCCESS: Updated row 911 for 'Lilian Joval' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:35,591 - INFO - SUCCESS: Updated row 912 for 'Lis Castro' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:36,007 - INFO - SUCCESS: Updated row 913 for 'Carly Jones' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:36,423 - INFO - SUCCESS: Updated row 914 for 'Geri Gan' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:36,837 - INFO - SUCCESS: Updated row 915 for 'Mercedes Burris' on 04/28/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:37,253 - INFO - SUCCESS: Updated row 916 for 'Caroline Swartz' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:37,667 - INFO - SUCCESS: Updated row 917 for 'Deanna Dragone' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:38,079 - INFO - SUCCESS: Updated row 918 for 'Giuliana Popolillo' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:38,493 - INFO - SUCCESS: Updated row 919 for 'Jasmin Mendoza' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:38,909 - INFO - SUCCESS: Updated row 920 for 'Lindsey Parker' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:39,326 - INFO - SUCCESS: Updated row 921 for 'Osbert Fernandez' on 04/28/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:39,739 - INFO - SUCCESS: Updated row 922 for 'Scarlin Sanchez' on 04/28/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:40,154 - INFO - SUCCESS: Updated row 923 for 'Silvana Rivas' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:40,570 - INFO - SUCCESS: Updated row 924 for 'Arwa Mahmoud' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:40,984 - INFO - SUCCESS: Updated row 925 for 'Crystal Farinha' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:41,402 - INFO - SUCCESS: Updated row 926 for 'Daylin Bastidas' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:41,816 - INFO - SUCCESS: Updated row 927 for 'Melissa Sanzo' on 04/28/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:42,232 - INFO - SUCCESS: Updated row 928 for 'Paige Martin' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:42,650 - INFO - SUCCESS: Updated row 929 for 'Alyssa Hernandez' on 04/28/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:43,066 - INFO - SUCCESS: Updated row 930 for 'Jessa Brooks' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:43,482 - INFO - SUCCESS: Updated row 931 for 'Alejandra Alburqueque' on 04/28/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:43,896 - INFO - SUCCESS: Updated row 932 for 'Aysia Lee' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:44,309 - INFO - SUCCESS: Updated row 933 for 'Jessica Crawford' on 04/28/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:44,720 - INFO - SUCCESS: Updated row 934 for 'Marwa Mahmoud' on 04/28/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:45,134 - INFO - SUCCESS: Updated row 935 for 'Patricia Ashmore' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:45,547 - INFO - SUCCESS: Updated row 936 for 'Sujita Brar' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:45,957 - INFO - SUCCESS: Updated row 937 for 'Alyssa Nicol' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:46,376 - INFO - SUCCESS: Updated row 938 for 'Alyssa Reed' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:46,788 - INFO - SUCCESS: Updated row 939 for 'Domenica Fassari' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:47,205 - INFO - SUCCESS: Updated row 940 for 'Gabriella Campisi' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:47,613 - INFO - SUCCESS: Updated row 941 for 'Kristina Giakas' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:48,021 - INFO - SUCCESS: Updated row 942 for 'Michelle Maddatu' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:48,435 - INFO - SUCCESS: Updated row 943 for 'Annette Webson' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:48,843 - INFO - SUCCESS: Updated row 944 for 'Ceyli Reyes' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:49,252 - INFO - SUCCESS: Updated row 945 for 'Leigh Ortiz' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:49,662 - INFO - SUCCESS: Updated row 946 for 'Allyson Koch' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:50,080 - INFO - SUCCESS: Updated row 947 for 'Jessica Kestler' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:50,493 - INFO - SUCCESS: Updated row 948 for 'Karen Enriquez' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:50,910 - INFO - SUCCESS: Updated row 949 for 'Leah Roundtree' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:51,325 - INFO - SUCCESS: Updated row 950 for 'Lana Patrick' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:51,737 - INFO - SUCCESS: Updated row 951 for 'Sherin Panayil' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:52,146 - INFO - SUCCESS: Updated row 952 for 'Breana Durrah' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:52,562 - INFO - SUCCESS: Updated row 953 for 'Tylisha Cobb' on 04/28/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:52,978 - INFO - SUCCESS: Updated row 954 for 'Brittany King' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:53,394 - INFO - SUCCESS: Updated row 955 for 'Christine Eppes' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:53,811 - INFO - SUCCESS: Updated row 956 for 'Laura Cardinal' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:54,223 - INFO - SUCCESS: Updated row 957 for 'Shanon Snead' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:54,632 - INFO - SUCCESS: Updated row 958 for 'Kyra Jamison' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:55,046 - INFO - SUCCESS: Updated row 959 for 'Macarena Silvestri' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:55,458 - INFO - SUCCESS: Updated row 960 for 'Erica Occhino' on 04/29/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:55,871 - INFO - SUCCESS: Updated row 961 for 'Joanna Machel' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:56,283 - INFO - SUCCESS: Updated row 962 for 'Lis Castro' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:56,691 - INFO - SUCCESS: Updated row 963 for 'Carly Jones' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:57,106 - INFO - SUCCESS: Updated row 964 for 'Geri Gan' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:57,524 - INFO - SUCCESS: Updated row 965 for 'Mercedes Burris' on 04/29/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:57,948 - INFO - SUCCESS: Updated row 966 for 'Caroline Swartz' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:58,360 - INFO - SUCCESS: Updated row 967 for 'Deanna Dragone' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:58,810 - INFO - SUCCESS: Updated row 968 for 'Giuliana Popolillo' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:59,244 - INFO - SUCCESS: Updated row 969 for 'Jasmin Mendoza' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:56:59,688 - INFO - SUCCESS: Updated row 970 for 'Lindsey Parker' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:00,101 - INFO - SUCCESS: Updated row 971 for 'Scarlin Sanchez' on 04/29/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:00,512 - INFO - SUCCESS: Updated row 972 for 'Silvana Rivas' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:00,920 - INFO - SUCCESS: Updated row 973 for 'Arwa Mahmoud' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:01,338 - INFO - SUCCESS: Updated row 974 for 'Crystal Farinha' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:01,753 - INFO - SUCCESS: Updated row 975 for 'Daylin Bastidas' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:02,165 - INFO - SUCCESS: Updated row 976 for 'Karen Enriquez' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:02,576 - INFO - SUCCESS: Updated row 977 for 'Melissa Sanzo' on 04/29/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:02,989 - INFO - SUCCESS: Updated row 978 for 'Alyssa Hernandez' on 04/29/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:03,401 - INFO - SUCCESS: Updated row 979 for 'Jessa Brooks' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:03,810 - INFO - SUCCESS: Updated row 980 for 'Alejandra Alburqueque' on 04/29/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:04,229 - INFO - SUCCESS: Updated row 981 for 'Aysia Lee' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:04,639 - INFO - SUCCESS: Updated row 982 for 'Jessica Crawford' on 04/29/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:05,052 - INFO - SUCCESS: Updated row 983 for 'Marwa Mahmoud' on 04/29/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:05,460 - INFO - SUCCESS: Updated row 984 for 'Nicole Larsen' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:05,873 - INFO - SUCCESS: Updated row 985 for 'Sujita Brar' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:06,287 - INFO - SUCCESS: Updated row 986 for 'Alyssa Nicol' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:06,695 - INFO - SUCCESS: Updated row 987 for 'Alyssa Reed' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:07,103 - INFO - SUCCESS: Updated row 988 for 'Domenica Fassari' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:07,515 - INFO - SUCCESS: Updated row 989 for 'Breana Ramsumair' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:07,926 - INFO - SUCCESS: Updated row 990 for 'Gabriella Campisi' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:08,335 - INFO - SUCCESS: Updated row 991 for 'Kristina Giakas' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:08,747 - INFO - SUCCESS: Updated row 992 for 'Paige Martin' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:09,160 - INFO - SUCCESS: Updated row 993 for 'Annette Webson' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:09,574 - INFO - SUCCESS: Updated row 994 for 'Ceyli Reyes' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:09,982 - INFO - SUCCESS: Updated row 995 for 'Leigh Ortiz' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:10,394 - INFO - SUCCESS: Updated row 996 for 'Allyson Koch' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:10,810 - INFO - SUCCESS: Updated row 997 for 'Jessica Mock' on 04/29/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:11,220 - INFO - SUCCESS: Updated row 998 for 'Leah Roundtree' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:11,636 - INFO - SUCCESS: Updated row 999 for 'Michelle Maddatu' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:12,048 - INFO - SUCCESS: Updated row 1000 for 'Lana Patrick' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:12,466 - INFO - SUCCESS: Updated row 1001 for 'Sherin Panayil' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:12,884 - INFO - SUCCESS: Updated row 1002 for 'Breana Durrah' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:13,303 - INFO - SUCCESS: Updated row 1003 for 'Tylisha Cobb' on 04/29/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:13,726 - INFO - SUCCESS: Updated row 1004 for 'Brittany King' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:14,140 - INFO - SUCCESS: Updated row 1005 for 'Laura Cardinal' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:14,551 - INFO - SUCCESS: Updated row 1006 for 'Shanon Snead' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:14,959 - INFO - SUCCESS: Updated row 1007 for 'Jessica Kestler' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:15,369 - INFO - SUCCESS: Updated row 1008 for 'Kyra Jamison' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:15,782 - INFO - SUCCESS: Updated row 1009 for 'Macarena Silvestri' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:16,198 - INFO - SUCCESS: Updated row 1010 for 'Erica Occhino' on 04/30/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:16,610 - INFO - SUCCESS: Updated row 1011 for 'Joanna Machel' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:17,026 - INFO - SUCCESS: Updated row 1012 for 'Katlyn Cusack' on 04/30/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:17,440 - INFO - SUCCESS: Updated row 1013 for 'Lilian Joval' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:17,848 - INFO - SUCCESS: Updated row 1014 for 'Lis Castro' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:18,256 - INFO - SUCCESS: Updated row 1015 for 'Nicole Larsen' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:18,668 - INFO - SUCCESS: Updated row 1016 for 'Carly Jones' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:19,086 - INFO - SUCCESS: Updated row 1017 for 'Christine Eppes' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:19,501 - INFO - SUCCESS: Updated row 1018 for 'Mercedes Burris' on 04/30/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:19,917 - INFO - SUCCESS: Updated row 1019 for 'Caroline Swartz' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:20,332 - INFO - SUCCESS: Updated row 1020 for 'Giuliana Popolillo' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:20,739 - INFO - SUCCESS: Updated row 1021 for 'Jasmin Mendoza' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:21,145 - INFO - SUCCESS: Updated row 1022 for 'Lindsey Parker' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:21,561 - INFO - SUCCESS: Updated row 1023 for 'Scarlin Sanchez' on 04/30/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:21,970 - INFO - SUCCESS: Updated row 1024 for 'Arwa Mahmoud' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:22,381 - INFO - SUCCESS: Updated row 1025 for 'Daylin Bastidas' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:22,795 - INFO - SUCCESS: Updated row 1026 for 'Melissa Sanzo' on 04/30/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:23,206 - INFO - SUCCESS: Updated row 1027 for 'Paige Martin' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:23,618 - INFO - SUCCESS: Updated row 1028 for 'Alyssa Hernandez' on 04/30/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:24,027 - INFO - SUCCESS: Updated row 1029 for 'Jessa Brooks' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:24,439 - INFO - SUCCESS: Updated row 1030 for 'Aysia Lee' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:24,850 - INFO - SUCCESS: Updated row 1031 for 'Jessica Crawford' on 04/30/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:25,261 - INFO - SUCCESS: Updated row 1032 for 'Marwa Mahmoud' on 04/30/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:25,674 - INFO - SUCCESS: Updated row 1033 for 'Patricia Ashmore' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:26,088 - INFO - SUCCESS: Updated row 1034 for 'Sujita Brar' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:26,495 - INFO - SUCCESS: Updated row 1035 for 'Alyssa Reed' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:26,910 - INFO - SUCCESS: Updated row 1036 for 'Jessica Mock' on 04/30/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:27,322 - INFO - SUCCESS: Updated row 1037 for 'Breana Ramsumair' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:27,736 - INFO - SUCCESS: Updated row 1038 for 'Domenica Fassari' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:28,146 - INFO - SUCCESS: Updated row 1039 for 'Gabriella Campisi' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:28,559 - INFO - SUCCESS: Updated row 1040 for 'Michelle Maddatu' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:28,970 - INFO - SUCCESS: Updated row 1041 for 'Alejandra Alburqueque' on 04/30/2026. Applied changes: [job_name] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:29,382 - INFO - SUCCESS: Updated row 1042 for 'Annette Webson' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:29,797 - INFO - SUCCESS: Updated row 1043 for 'Ceyli Reyes' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:30,208 - INFO - SUCCESS: Updated row 1044 for 'Deanna Dragone' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:30,623 - INFO - SUCCESS: Updated row 1045 for 'Leigh Ortiz' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:31,034 - INFO - SUCCESS: Updated row 1046 for 'Allyson Koch' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:31,448 - INFO - SUCCESS: Updated row 1047 for 'Karen Enriquez' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:31,862 - INFO - SUCCESS: Updated row 1048 for 'Laila Chakib' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:32,277 - INFO - SUCCESS: Updated row 1049 for 'Leah Roundtree' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:32,688 - INFO - SUCCESS: Updated row 1050 for 'Lana Patrick' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:33,103 - INFO - SUCCESS: Updated row 1051 for 'Sherin Panayil' on 04/30/2026. Applied changes: [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 12:57:33,110 - INFO - 
+Orphan cleanup: scanning DB for records in date range 04/01/2026 — 04/30/2026 not found in CSV.
+2026-07-02 12:57:33,562 - INFO - Found 1052 DB record(s) in date range.
+2026-07-02 12:57:33,840 - INFO - Orphan cleanup complete. Total rows deleted: 0
+2026-07-02 12:57:34,049 - INFO - 
+Transaction committed.
+2026-07-02 12:57:34,049 - INFO - Database update complete. Total rows updated: 1052, Total rows inserted: 0, Total rows deleted: 0

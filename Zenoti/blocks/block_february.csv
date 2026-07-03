@@ -1,0 +1,930 @@
+﻿Date,Employee Name,Job,Schedule Status,Work Center,Schedule,Block Out Hours Paid,Scheduled Hours,Booked Hours,Actual Check-Ins,Actual Hours,Serviced Hours,Missed Check-Ins,Missed Checkouts,Vacation Hours,Holiday Hours
+02/02/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,45,8:00,8:55,,0:00,8:55,Yes,No,0:00,0:00
+02/02/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",01:00 PM - 06:00 PM,270,5:00,0:30,,0:00,0:30,Yes,No,0:00,0:00
+02/02/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/02/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/02/2026,Training Model,Treatment Provider,Working,"Denville, NJ",02:15 PM - 05:00 PM,0,2:45,2:20,,0:00,2:20,Yes,No,0:00,0:00
+02/02/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",03:00 PM - 05:00 PM,0,2:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/02/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,7:50,,0:00,7:50,Yes,No,0:00,0:00
+02/02/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/02/2026,Paige Martin,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,9:35,,0:00,9:35,Yes,No,0:00,0:00
+02/02/2026,Training Model,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,5:55,,0:00,5:55,Yes,No,0:00,0:00
+02/02/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 03:30 PM,0,5:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/02/2026,Sherin Panayil,Treatment Provider,Working,"Tribeca, NY",10:00 AM - 08:00 PM,30,10:00,4:45,,0:00,4:45,Yes,No,0:00,0:00
+02/03/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 06:00 PM,195,8:00,4:20,,0:00,4:20,Yes,No,0:00,0:00
+02/03/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,9:40,,0:00,9:40,Yes,No,0:00,0:00
+02/03/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",10:00 AM - 06:00 PM,30,8:00,2:00,,0:00,2:00,Yes,No,0:00,0:00
+02/03/2026,Jackie Moyer,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,6:15,,0:00,6:15,Yes,No,0:00,0:00
+02/03/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,5:50,,0:00,5:50,Yes,No,0:00,0:00
+02/03/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",10:00 AM - 04:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,4:35,,0:00,4:35,Yes,No,0:00,0:00
+02/03/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,0:15,,0:00,0:15,Yes,No,0:00,0:00
+02/03/2026,Carly Jones,Manager,Working,"Frederick, MD",09:45 AM - 06:00 PM,30,8:15,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",10:00 AM - 06:00 PM,30,8:00,6:10,,0:00,6:10,Yes,No,0:00,0:00
+02/03/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",10:00 AM - 05:00 PM,95,7:00,1:15,,0:00,1:15,Yes,No,0:00,0:00
+02/03/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,3:45,,0:00,3:45,Yes,No,0:00,0:00
+02/03/2026,Deanna Dragone,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 07:00 PM,0,9:00,8:10,,0:00,8:10,Yes,No,0:00,0:00
+02/03/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,6:15,,0:00,6:15,Yes,No,0:00,0:00
+02/03/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:05,,0:00,0:05,Yes,No,0:00,0:00
+02/03/2026,Osbert Fernandez,Clinical Leadership Team,Working,"Hoboken, NJ",03:00 PM - 07:00 PM,60,4:00,3:00,,0:00,3:00,Yes,No,0:00,0:00
+02/03/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",10:00 AM - 07:00 PM,570,9:00,1:45,,0:00,1:45,Yes,No,0:00,0:00
+02/03/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+02/03/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",11:00 AM - 07:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,3:25,,0:00,3:25,Yes,No,0:00,0:00
+02/03/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:30 AM - 06:00 PM,30,7:30,4:05,,0:00,4:05,Yes,No,0:00,0:00
+02/03/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Paige Martin,Treatment Provider,Working,"Jersey City, NJ",10:30 AM - 08:00 PM,0,9:30,8:25,,0:00,8:25,Yes,No,0:00,0:00
+02/03/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",10:00 AM - 06:00 PM,0,8:00,0:15,,0:00,0:15,Yes,No,0:00,0:00
+02/03/2026,Alejandra Alburqueque,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Patricia Ashmore,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 05:00 PM,0,7:00,3:30,,0:00,3:30,Yes,No,0:00,0:00
+02/03/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,7:35,,0:00,7:35,Yes,No,0:00,0:00
+02/03/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+02/03/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,30,8:00,5:50,,0:00,5:50,Yes,No,0:00,0:00
+02/03/2026,Domenica Fassari,Esthetician,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,120,8:00,3:15,,0:00,3:15,Yes,No,0:00,0:00
+02/03/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,5,8:00,0:20,,0:00,0:20,Yes,No,0:00,0:00
+02/03/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 05:00 PM,30,7:00,6:15,,0:00,6:15,Yes,No,0:00,0:00
+02/03/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,2:40,,0:00,2:40,Yes,No,0:00,0:00
+02/03/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,90,8:00,4:45,,0:00,4:45,Yes,No,0:00,0:00
+02/03/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,60,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Jessica Kestler,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,5:20,,0:00,5:20,Yes,No,0:00,0:00
+02/03/2026,Karen Enriquez,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 04:00 PM,30,6:00,3:45,,0:00,3:45,Yes,No,0:00,0:00
+02/03/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",12:00 PM - 08:00 PM,30,8:00,2:20,,0:00,2:20,Yes,No,0:00,0:00
+02/03/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Michelle Maddatu,Treatment Provider,Working,"Short Hills, NJ",11:00 AM - 07:00 PM,30,8:00,6:30,,0:00,6:30,Yes,No,0:00,0:00
+02/03/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 03:30 PM,0,5:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/03/2026,Sherin Panayil,Treatment Provider,Working,"Tribeca, NY",10:00 AM - 08:00 PM,30,10:00,5:50,,0:00,5:50,Yes,No,0:00,0:00
+02/03/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",10:00 AM - 06:00 PM,30,8:00,4:25,,0:00,4:25,Yes,No,0:00,0:00
+02/03/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 04:00 PM,60,6:00,3:15,,0:00,3:15,Yes,No,0:00,0:00
+02/04/2026,Christine Eppes,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:00 PM,60,8:00,3:20,,0:00,3:20,Yes,No,0:00,0:00
+02/04/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 05:30 PM,60,7:30,5:35,,0:00,5:35,Yes,No,0:00,0:00
+02/04/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",10:00 AM - 06:00 PM,90,8:00,3:30,,0:00,3:30,Yes,No,0:00,0:00
+02/04/2026,Jessica Mock,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,30,8:00,4:10,,0:00,4:10,Yes,No,0:00,0:00
+02/04/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,30,8:00,7:30,,0:00,7:30,Yes,No,0:00,0:00
+02/04/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,30,8:00,4:35,,0:00,4:35,Yes,No,0:00,0:00
+02/04/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 06:00 PM,120,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",10:00 AM - 06:00 PM,60,8:00,7:50,,0:00,7:50,Yes,No,0:00,0:00
+02/04/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",10:00 AM - 05:00 PM,90,7:00,1:45,,0:00,1:45,Yes,No,0:00,0:00
+02/04/2026,Deanna Dragone,Treatment Provider,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,30,8:00,5:30,,0:00,5:30,Yes,No,0:00,0:00
+02/04/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,30,8:00,3:00,,0:00,3:00,Yes,No,0:00,0:00
+02/04/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",10:00 AM - 07:00 PM,600,9:00,1:00,,0:00,1:00,Yes,No,0:00,0:00
+02/04/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,30,8:00,4:25,,0:00,4:25,Yes,No,0:00,0:00
+02/04/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",11:00 AM - 06:00 PM,60,7:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:30 PM,90,8:30,9:35,,0:00,9:35,Yes,No,0:00,0:00
+02/04/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,60,8:00,5:40,,0:00,5:40,Yes,No,0:00,0:00
+02/04/2026,Karen Enriquez,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,90,8:00,2:25,,0:00,2:25,Yes,No,0:00,0:00
+02/04/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 07:00 PM,60,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",10:00 AM - 06:00 PM,30,8:00,0:40,,0:00,0:40,Yes,No,0:00,0:00
+02/04/2026,Alejandra Alburqueque,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,30,8:00,1:10,,0:00,1:10,Yes,No,0:00,0:00
+02/04/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Jessica Crawford,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 08:00 PM,30,10:00,2:30,,0:00,2:30,Yes,No,0:00,0:00
+02/04/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",12:00 PM - 08:00 PM,0,8:00,0:45,,0:00,0:45,Yes,No,0:00,0:00
+02/04/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",12:00 PM - 08:00 PM,30,8:00,3:50,,0:00,3:50,Yes,No,0:00,0:00
+02/04/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 08:00 PM,30,10:00,8:10,,0:00,8:10,Yes,No,0:00,0:00
+02/04/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,60,8:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+02/04/2026,Domenica Fassari,Esthetician,Working,"Old Bridge, NJ",10:00 AM - 01:00 PM,30,3:00,1:15,,0:00,1:15,Yes,No,0:00,0:00
+02/04/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",09:00 AM - 06:00 PM,30,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Breana Ramsumair,Clinic DirectorConcierge,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,45,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 08:00 PM,60,10:00,9:15,,0:00,9:15,Yes,No,0:00,0:00
+02/04/2026,Paige Martin,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,60,8:00,6:45,,0:00,6:45,Yes,No,0:00,0:00
+02/04/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",10:00 AM - 04:00 PM,30,6:00,2:50,,0:00,2:50,Yes,No,0:00,0:00
+02/04/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:30 PM,60,8:30,3:55,,0:00,3:55,Yes,No,0:00,0:00
+02/04/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",10:00 AM - 07:00 PM,0,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Patricia Ashmore,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 05:30 PM,60,7:30,6:00,,0:00,6:00,Yes,No,0:00,0:00
+02/04/2026,Jessica Kestler,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 07:00 PM,60,9:00,5:45,,0:00,5:45,Yes,No,0:00,0:00
+02/04/2026,Laila Chakib,Clinic DirectorConcierge,Working,"Short Hills, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",12:00 PM - 05:30 PM,0,5:30,2:15,,0:00,2:15,Yes,No,0:00,0:00
+02/04/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",09:00 AM - 06:00 PM,0,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Michelle Maddatu,Treatment Provider,Working,"Short Hills, NJ",11:00 AM - 07:00 PM,60,8:00,6:10,,0:00,6:10,Yes,No,0:00,0:00
+02/04/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/04/2026,Lana Patrick - Aesthetician,Esthetician,Working,"Tribeca, NY",12:00 PM - 08:00 PM,0,8:00,1:30,,0:00,1:30,Yes,No,0:00,0:00
+02/04/2026,Sherin Panayil,Treatment Provider,Working,"Tribeca, NY",10:00 AM - 08:00 PM,60,10:00,4:20,,0:00,4:20,Yes,No,0:00,0:00
+02/04/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,4:30,,0:00,4:30,Yes,No,0:00,0:00
+02/04/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 08:00 PM,50,10:00,3:45,,0:00,3:45,Yes,No,0:00,0:00
+02/05/2026,Christine Eppes,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:30 PM,0,8:30,6:10,,0:00,6:10,Yes,No,0:00,0:00
+02/05/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 08:00 PM,60,10:00,6:15,,0:00,6:15,Yes,No,0:00,0:00
+02/05/2026,Lexy Okeefe,Manager,Working,"Bridgewater, NJ",12:00 PM - 08:00 PM,0,8:00,0:15,,0:00,0:15,Yes,No,0:00,0:00
+02/05/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",12:00 PM - 08:00 PM,75,8:00,4:20,,0:00,4:20,Yes,No,0:00,0:00
+02/05/2026,Jessica Crawford,Treatment Provider,Working,"Denville, NJ",10:00 AM - 08:00 PM,30,10:00,5:55,,0:00,5:55,Yes,No,0:00,0:00
+02/05/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 05:00 PM,0,7:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+02/05/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",02:00 PM - 08:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,4:05,,0:00,4:05,Yes,No,0:00,0:00
+02/05/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 08:00 PM,60,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Carly Jones,Manager,Working,"Frederick, MD",10:00 AM - 07:30 PM,30,9:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",09:00 AM - 07:30 PM,30,10:30,9:15,,0:00,9:15,Yes,No,0:00,0:00
+02/05/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",10:00 AM - 04:00 PM,60,6:00,0:30,,0:00,0:30,Yes,No,0:00,0:00
+02/05/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,4:40,,0:00,4:40,Yes,No,0:00,0:00
+02/05/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",11:00 AM - 08:00 PM,30,9:00,5:15,,0:00,5:15,Yes,No,0:00,0:00
+02/05/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+02/05/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",10:00 AM - 05:00 PM,0,7:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,3:00,,0:00,3:00,Yes,No,0:00,0:00
+02/05/2026,Karen Enriquez,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,5:50,,0:00,5:50,Yes,No,0:00,0:00
+02/05/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,30,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",09:00 AM - 06:00 PM,0,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",09:00 AM - 06:00 PM,0,9:00,3:30,,0:00,3:30,Yes,No,0:00,0:00
+02/05/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,30,8:00,0:30,,0:00,0:30,Yes,No,0:00,0:00
+02/05/2026,Patricia Ashmore,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,4:30,,0:00,4:30,Yes,No,0:00,0:00
+02/05/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,5:40,,0:00,5:40,Yes,No,0:00,0:00
+02/05/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,6:15,,0:00,6:15,Yes,No,0:00,0:00
+02/05/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",11:00 AM - 07:00 PM,30,8:00,5:10,,0:00,5:10,Yes,No,0:00,0:00
+02/05/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",12:00 PM - 08:00 PM,15,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Breana Ramsumair,Clinic DirectorConcierge,Working,"Red Bank, NJ",12:00 PM - 08:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Domenica Fassari,Esthetician,Working,"Red Bank, NJ",02:00 PM - 08:00 PM,30,6:00,4:00,,0:00,4:00,Yes,No,0:00,0:00
+02/05/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",09:45 AM - 06:00 PM,60,8:15,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,5:55,,0:00,5:55,Yes,No,0:00,0:00
+02/05/2026,Michelle Maddatu,Treatment Provider,Working,"Red Bank, NJ",12:00 PM - 07:20 PM,30,7:20,3:10,,0:00,3:10,Yes,No,0:00,0:00
+02/05/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",12:00 PM - 08:00 PM,405,8:00,1:15,,0:00,1:15,Yes,No,0:00,0:00
+02/05/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",12:00 PM - 07:30 PM,30,7:30,3:55,,0:00,3:55,Yes,No,0:00,0:00
+02/05/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",01:30 PM - 08:00 PM,15,6:30,3:50,,0:00,3:50,Yes,No,0:00,0:00
+02/05/2026,Deanna Dragone,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,0,8:00,6:45,,0:00,6:45,Yes,No,0:00,0:00
+02/05/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Jessica Kestler,Treatment Provider,Working,"Short Hills, NJ",11:00 AM - 08:00 PM,30,9:00,5:50,,0:00,5:50,Yes,No,0:00,0:00
+02/05/2026,Jessica Mock,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,5:15,,0:00,5:15,Yes,No,0:00,0:00
+02/05/2026,Laila Chakib,Clinic DirectorConcierge,Working,"Short Hills, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,2:30,,0:00,2:30,Yes,No,0:00,0:00
+02/05/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/05/2026,Lana Patrick - Aesthetician,Esthetician,Working,"Tribeca, NY",04:00 PM - 08:00 PM,0,4:00,0:45,,0:00,0:45,Yes,No,0:00,0:00
+02/05/2026,Sherin Panayil,Treatment Provider,Working,"Tribeca, NY",10:00 AM - 07:00 PM,30,9:00,3:05,,0:00,3:05,Yes,No,0:00,0:00
+02/05/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",12:00 PM - 08:00 PM,45,8:00,2:55,,0:00,2:55,Yes,No,0:00,0:00
+02/05/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 06:00 PM,285,8:00,2:15,,0:00,2:15,Yes,No,0:00,0:00
+02/06/2026,Christine Eppes,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:00 PM,60,8:00,8:10,,0:00,8:10,Yes,No,0:00,0:00
+02/06/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 04:00 PM,30,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:00 PM,60,8:00,6:20,,0:00,6:20,Yes,No,0:00,0:00
+02/06/2026,Jessica Kestler,Treatment Provider,Working,"Bridgewater, NJ",10:00 AM - 06:00 PM,30,8:00,4:50,,0:00,4:50,Yes,No,0:00,0:00
+02/06/2026,Lindsey Parker,Manager,Working,"Bridgewater, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,30,8:00,8:20,,0:00,8:20,Yes,No,0:00,0:00
+02/06/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",01:00 PM - 06:00 PM,0,5:00,5:00,,0:00,5:00,Yes,No,0:00,0:00
+02/06/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,30,8:00,5:30,,0:00,5:30,Yes,No,0:00,0:00
+02/06/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,0:15,,0:00,0:15,Yes,No,0:00,0:00
+02/06/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 05:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",09:00 AM - 03:00 PM,0,6:00,5:00,,0:00,5:00,Yes,No,0:00,0:00
+02/06/2026,Deanna Dragone,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 05:30 PM,0,7:30,6:50,,0:00,6:50,Yes,No,0:00,0:00
+02/06/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,5:30,,0:00,5:30,Yes,No,0:00,0:00
+02/06/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",10:00 AM - 05:00 PM,30,7:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+02/06/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,5:00,,0:00,5:00,Yes,No,0:00,0:00
+02/06/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 05:00 PM,30,7:00,9:15,,0:00,9:15,Yes,No,0:00,0:00
+02/06/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,5:40,,0:00,5:40,Yes,No,0:00,0:00
+02/06/2026,Karen Enriquez,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+02/06/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",09:00 AM - 06:00 PM,0,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",09:00 AM - 06:00 PM,30,9:00,5:40,,0:00,5:40,Yes,No,0:00,0:00
+02/06/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Jessica Crawford,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,5:55,,0:00,5:55,Yes,No,0:00,0:00
+02/06/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,6:20,,0:00,6:20,Yes,No,0:00,0:00
+02/06/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,5:45,,0:00,5:45,Yes,No,0:00,0:00
+02/06/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,15,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Domenica Fassari,Esthetician,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,4:40,,0:00,4:40,Yes,No,0:00,0:00
+02/06/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,20,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,8:50,,0:00,8:50,Yes,No,0:00,0:00
+02/06/2026,Michelle Maddatu,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,65,8:00,5:45,,0:00,5:45,Yes,No,0:00,0:00
+02/06/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,6:55,,0:00,6:55,Yes,No,0:00,0:00
+02/06/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,4:05,,0:00,4:05,Yes,No,0:00,0:00
+02/06/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Patricia Ashmore,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 05:30 PM,30,7:30,6:50,,0:00,6:50,Yes,No,0:00,0:00
+02/06/2026,Jessica Mock,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,6:35,,0:00,6:35,Yes,No,0:00,0:00
+02/06/2026,Laila Chakib,Clinic DirectorConcierge,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",10:00 AM - 01:00 PM,0,3:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",10:00 AM - 02:00 PM,0,4:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/06/2026,Lana Patrick - Aesthetician,Esthetician,Working,"Tribeca, NY",10:00 AM - 06:00 PM,20,8:00,0:45,,0:00,0:45,Yes,No,0:00,0:00
+02/06/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,2:00,,0:00,2:00,Yes,No,0:00,0:00
+02/06/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/07/2026,Brittany King,Esthetician,Working,"Bel Air, MD",09:00 AM - 05:00 PM,285,8:00,3:05,,0:00,3:05,Yes,No,0:00,0:00
+02/07/2026,Christine Eppes,Treatment Provider,Working,"Bel Air, MD",09:00 AM - 05:00 PM,30,8:00,6:05,,0:00,6:05,Yes,No,0:00,0:00
+02/07/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",09:00 AM - 05:00 PM,30,8:00,7:50,,0:00,7:50,Yes,No,0:00,0:00
+02/07/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",09:00 AM - 02:00 PM,0,5:00,5:15,,0:00,5:15,Yes,No,0:00,0:00
+02/07/2026,Jackie Moyer,Treatment Provider,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,4:25,,0:00,4:25,Yes,No,0:00,0:00
+02/07/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,4:10,,0:00,4:10,Yes,No,0:00,0:00
+02/07/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/07/2026,Lis Castro,Esthetician,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,4:45,,0:00,4:45,Yes,No,0:00,0:00
+02/07/2026,Samantha Kehle,Manager,Working,"Denville, NJ",09:00 AM - 02:00 PM,15,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/07/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",09:30 AM - 02:00 PM,0,4:30,4:40,,0:00,4:40,Yes,No,0:00,0:00
+02/07/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",09:00 AM - 02:00 PM,0,5:00,2:45,,0:00,2:45,Yes,No,0:00,0:00
+02/07/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,6:30,,0:00,6:30,Yes,No,0:00,0:00
+02/07/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,6:55,,0:00,6:55,Yes,No,0:00,0:00
+02/07/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/07/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/07/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",09:30 AM - 05:00 PM,0,7:30,7:15,,0:00,7:15,Yes,No,0:00,0:00
+02/07/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",09:00 AM - 05:00 PM,30,8:00,6:15,,0:00,6:15,Yes,No,0:00,0:00
+02/07/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/07/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",09:00 AM - 02:00 PM,0,5:00,2:45,,0:00,2:45,Yes,No,0:00,0:00
+02/07/2026,Jessica Crawford,Treatment Provider,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+02/07/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/07/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+02/07/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,5:15,,0:00,5:15,Yes,No,0:00,0:00
+02/07/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",09:00 AM - 02:00 PM,0,5:00,6:25,,0:00,6:25,Yes,No,0:00,0:00
+02/07/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/07/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",11:00 AM - 02:00 PM,0,3:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/07/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,0,7:00,3:15,,0:00,3:15,Yes,No,0:00,0:00
+02/07/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,30,7:00,6:10,,0:00,6:10,Yes,No,0:00,0:00
+02/07/2026,Deanna Dragone,Treatment Provider,Working,"Ridgewood, NJ",09:00 AM - 02:30 PM,0,5:30,6:25,,0:00,6:25,Yes,No,0:00,0:00
+02/07/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,0,7:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/07/2026,Patricia Ashmore,Treatment Provider,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,30,7:00,5:55,,0:00,5:55,Yes,No,0:00,0:00
+02/07/2026,Jessica Kestler,Treatment Provider,Working,"Short Hills, NJ",09:00 AM - 02:00 PM,0,5:00,4:50,,0:00,4:50,Yes,No,0:00,0:00
+02/07/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",09:00 AM - 05:00 PM,30,8:00,6:25,,0:00,6:25,Yes,No,0:00,0:00
+02/07/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/07/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",09:00 AM - 02:00 PM,0,5:00,1:45,,0:00,1:45,Yes,No,0:00,0:00
+02/09/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,6:20,,0:00,6:20,Yes,No,0:00,0:00
+02/09/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",10:00 AM - 04:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/09/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,0:25,,0:00,0:25,Yes,No,0:00,0:00
+02/09/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,7:25,,0:00,7:25,Yes,No,0:00,0:00
+02/09/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/09/2026,Paige Martin,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,30,10:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+02/09/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 03:30 PM,0,5:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 05:30 PM,180,7:30,2:45,,0:00,2:45,Yes,No,0:00,0:00
+02/10/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 05:30 PM,0,7:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 05:30 PM,30,7:30,3:50,,0:00,3:50,Yes,No,0:00,0:00
+02/10/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",10:00 AM - 06:00 PM,120,8:00,4:20,,0:00,4:20,Yes,No,0:00,0:00
+02/10/2026,Jackie Moyer,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,5:10,,0:00,5:10,Yes,No,0:00,0:00
+02/10/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,8:25,,0:00,8:25,Yes,No,0:00,0:00
+02/10/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,3:40,,0:00,3:40,Yes,No,0:00,0:00
+02/10/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,0:25,,0:00,0:25,Yes,No,0:00,0:00
+02/10/2026,Carly Jones,Manager,Working,"Frederick, MD",10:00 AM - 06:30 PM,60,8:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",10:00 AM - 06:00 PM,60,8:00,10:25,,0:00,10:25,Yes,No,0:00,0:00
+02/10/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",10:00 AM - 05:00 PM,30,7:00,3:05,,0:00,3:05,Yes,No,0:00,0:00
+02/10/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",09:00 AM - 06:00 PM,30,9:00,4:30,,0:00,4:30,Yes,No,0:00,0:00
+02/10/2026,Deanna Dragone,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 07:00 PM,0,9:00,8:45,,0:00,8:45,Yes,No,0:00,0:00
+02/10/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,5:40,,0:00,5:40,Yes,No,0:00,0:00
+02/10/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:05,,0:00,0:05,Yes,No,0:00,0:00
+02/10/2026,Osbert Fernandez,Clinical Leadership Team,Working,"Hoboken, NJ",03:00 PM - 07:00 PM,0,4:00,2:20,,0:00,2:20,Yes,No,0:00,0:00
+02/10/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",11:00 AM - 07:00 PM,145,8:00,1:30,,0:00,1:30,Yes,No,0:00,0:00
+02/10/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,5:10,,0:00,5:10,Yes,No,0:00,0:00
+02/10/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",11:00 AM - 07:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,5:50,,0:00,5:50,Yes,No,0:00,0:00
+02/10/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,6:20,,0:00,6:20,Yes,No,0:00,0:00
+02/10/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Paige Martin,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,8:40,,0:00,8:40,Yes,No,0:00,0:00
+02/10/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",10:00 AM - 06:00 PM,30,8:00,3:00,,0:00,3:00,Yes,No,0:00,0:00
+02/10/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,45,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,45,8:00,0:10,,0:00,0:10,Yes,No,0:00,0:00
+02/10/2026,Patricia Ashmore,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 05:00 PM,45,7:00,6:05,,0:00,6:05,Yes,No,0:00,0:00
+02/10/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,45,8:00,4:30,,0:00,4:30,Yes,No,0:00,0:00
+02/10/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,5:10,,0:00,5:10,Yes,No,0:00,0:00
+02/10/2026,Domenica Fassari,Esthetician,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,150,8:00,2:45,,0:00,2:45,Yes,No,0:00,0:00
+02/10/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Sandy Dalaris,Treatment Provider,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,30,8:00,7:25,,0:00,7:25,Yes,No,0:00,0:00
+02/10/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,0,8:00,5:05,,0:00,5:05,Yes,No,0:00,0:00
+02/10/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,480,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,3:20,,0:00,3:20,Yes,No,0:00,0:00
+02/10/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,5:45,,0:00,5:45,Yes,No,0:00,0:00
+02/10/2026,Jessica Kestler,Treatment Provider,Working,"Short Hills, NJ",10:30 AM - 05:30 PM,30,7:00,5:30,,0:00,5:30,Yes,No,0:00,0:00
+02/10/2026,Karen Enriquez,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 04:00 PM,0,6:00,3:15,,0:00,3:15,Yes,No,0:00,0:00
+02/10/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",12:00 PM - 08:00 PM,30,8:00,3:50,,0:00,3:50,Yes,No,0:00,0:00
+02/10/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Michelle Maddatu,Treatment Provider,Working,"Short Hills, NJ",11:00 AM - 07:00 PM,30,8:00,5:10,,0:00,5:10,Yes,No,0:00,0:00
+02/10/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 03:30 PM,30,5:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/10/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,3:35,,0:00,3:35,Yes,No,0:00,0:00
+02/10/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 03:00 PM,30,5:00,3:30,,0:00,3:30,Yes,No,0:00,0:00
+02/11/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 05:30 PM,30,7:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 05:30 PM,30,7:30,6:25,,0:00,6:25,Yes,No,0:00,0:00
+02/11/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",10:00 AM - 06:00 PM,30,8:00,1:15,,0:00,1:15,Yes,No,0:00,0:00
+02/11/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 08:00 PM,0,10:00,8:45,,0:00,8:45,Yes,No,0:00,0:00
+02/11/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,4:25,,0:00,4:25,Yes,No,0:00,0:00
+02/11/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,4:35,,0:00,4:35,Yes,No,0:00,0:00
+02/11/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 06:00 PM,90,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Christine Eppes,Treatment Provider,Working,"Frederick, MD",10:30 AM - 06:00 PM,90,7:30,5:35,,0:00,5:35,Yes,No,0:00,0:00
+02/11/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",09:00 AM - 06:00 PM,90,9:00,9:00,,0:00,9:00,Yes,No,0:00,0:00
+02/11/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",10:00 AM - 05:00 PM,30,7:00,1:15,,0:00,1:15,Yes,No,0:00,0:00
+02/11/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",10:00 AM - 08:00 PM,0,10:00,7:55,,0:00,7:55,Yes,No,0:00,0:00
+02/11/2026,Deanna Dragone,Treatment Provider,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,7:00,,0:00,7:00,Yes,No,0:00,0:00
+02/11/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",12:00 PM - 06:00 PM,0,6:00,3:10,,0:00,3:10,Yes,No,0:00,0:00
+02/11/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,510,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,7:20,,0:00,7:20,Yes,No,0:00,0:00
+02/11/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",12:00 PM - 08:00 PM,30,8:00,7:35,,0:00,7:35,Yes,No,0:00,0:00
+02/11/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,5:15,,0:00,5:15,Yes,No,0:00,0:00
+02/11/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Paige Martin,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 02:00 PM,0,4:00,3:15,,0:00,3:15,Yes,No,0:00,0:00
+02/11/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",10:00 AM - 06:00 PM,0,8:00,2:25,,0:00,2:25,Yes,No,0:00,0:00
+02/11/2026,Alejandra Alburqueque,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,2:45,,0:00,2:45,Yes,No,0:00,0:00
+02/11/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Jessica Crawford,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,20,8:00,4:05,,0:00,4:05,Yes,No,0:00,0:00
+02/11/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",12:00 PM - 08:00 PM,0,8:00,0:15,,0:00,0:15,Yes,No,0:00,0:00
+02/11/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",12:00 PM - 08:00 PM,0,8:00,5:25,,0:00,5:25,Yes,No,0:00,0:00
+02/11/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 08:00 PM,0,10:00,5:05,,0:00,5:05,Yes,No,0:00,0:00
+02/11/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",10:00 AM - 12:30 PM,60,2:30,1:30,,0:00,1:30,Yes,No,0:00,0:00
+02/11/2026,Domenica Fassari,Esthetician,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,60,8:00,3:15,,0:00,3:15,Yes,No,0:00,0:00
+02/11/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",09:00 AM - 06:00 PM,60,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Breana Ramsumair,Clinic DirectorConcierge,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",12:00 PM - 08:00 PM,30,8:00,6:40,,0:00,6:40,Yes,No,0:00,0:00
+02/11/2026,Michelle Maddatu,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:30 PM,30,8:30,5:40,,0:00,5:40,Yes,No,0:00,0:00
+02/11/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",10:00 AM - 07:00 PM,30,9:00,3:30,,0:00,3:30,Yes,No,0:00,0:00
+02/11/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",09:00 AM - 07:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Patricia Ashmore,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 02:00 PM,0,4:00,3:15,,0:00,3:15,Yes,No,0:00,0:00
+02/11/2026,Jessica Kestler,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 07:00 PM,30,9:00,6:30,,0:00,6:30,Yes,No,0:00,0:00
+02/11/2026,Karen Enriquez,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+02/11/2026,Laila Chakib,Clinic DirectorConcierge,Working,"Short Hills, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",12:00 PM - 08:00 PM,30,8:00,5:20,,0:00,5:20,Yes,No,0:00,0:00
+02/11/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/11/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 08:00 PM,0,10:00,0:15,,0:00,0:15,Yes,No,0:00,0:00
+02/11/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",10:00 AM - 06:00 PM,45,8:00,5:45,,0:00,5:45,Yes,No,0:00,0:00
+02/11/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 08:00 PM,415,10:00,1:45,,0:00,1:45,Yes,No,0:00,0:00
+02/12/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 08:00 PM,90,10:00,9:35,,0:00,9:35,Yes,No,0:00,0:00
+02/12/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",12:00 PM - 08:00 PM,30,8:00,2:20,,0:00,2:20,Yes,No,0:00,0:00
+02/12/2026,Jessica Crawford,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,30,8:00,8:05,,0:00,8:05,Yes,No,0:00,0:00
+02/12/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",01:00 PM - 08:00 PM,0,7:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+02/12/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",02:00 PM - 08:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,4:30,,0:00,4:30,Yes,No,0:00,0:00
+02/12/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 07:00 PM,30,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 06:00 PM,30,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Christine Eppes,Treatment Provider,Working,"Frederick, MD",10:30 AM - 08:00 PM,70,9:30,6:50,,0:00,6:50,Yes,No,0:00,0:00
+02/12/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",09:00 AM - 06:00 PM,60,9:00,8:45,,0:00,8:45,Yes,No,0:00,0:00
+02/12/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",10:00 AM - 08:00 PM,225,10:00,2:35,,0:00,2:35,Yes,No,0:00,0:00
+02/12/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,7:25,,0:00,7:25,Yes,No,0:00,0:00
+02/12/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 08:00 PM,520,10:00,0:50,,0:00,0:50,Yes,No,0:00,0:00
+02/12/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,30,8:00,5:55,,0:00,5:55,Yes,No,0:00,0:00
+02/12/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,6:15,,0:00,6:15,Yes,No,0:00,0:00
+02/12/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",11:00 AM - 05:15 PM,30,6:15,3:15,,0:00,3:15,Yes,No,0:00,0:00
+02/12/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Paige Martin,Treatment Provider,Working,"Jersey City, NJ",12:00 PM - 08:00 PM,0,8:00,10:40,,0:00,10:40,Yes,No,0:00,0:00
+02/12/2026,Training Model,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,60,8:00,7:00,,0:00,7:00,Yes,No,0:00,0:00
+02/12/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",09:00 AM - 06:00 PM,0,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",09:00 AM - 06:00 PM,255,9:00,4:15,,0:00,4:15,Yes,No,0:00,0:00
+02/12/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:30,,0:00,0:30,Yes,No,0:00,0:00
+02/12/2026,Patricia Ashmore,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,5:25,,0:00,5:25,Yes,No,0:00,0:00
+02/12/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,6:35,,0:00,6:35,Yes,No,0:00,0:00
+02/12/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+02/12/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",11:00 AM - 08:00 PM,30,9:00,6:30,,0:00,6:30,Yes,No,0:00,0:00
+02/12/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",11:00 AM - 08:00 PM,10,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Breana Ramsumair,Clinic DirectorConcierge,Working,"Red Bank, NJ",12:00 PM - 08:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Domenica Fassari,Esthetician,Working,"Red Bank, NJ",12:15 PM - 06:00 PM,30,5:45,3:30,,0:00,3:30,Yes,No,0:00,0:00
+02/12/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",10:00 AM - 08:00 PM,30,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,11:05,,0:00,11:05,Yes,No,0:00,0:00
+02/12/2026,Michelle Maddatu,Treatment Provider,Working,"Red Bank, NJ",03:30 PM - 08:00 PM,0,4:30,5:20,,0:00,5:20,Yes,No,0:00,0:00
+02/12/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",12:00 PM - 08:00 PM,390,8:00,1:50,,0:00,1:50,Yes,No,0:00,0:00
+02/12/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",12:00 PM - 08:00 PM,30,8:00,5:25,,0:00,5:25,Yes,No,0:00,0:00
+02/12/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",12:00 PM - 08:00 PM,30,8:00,7:00,,0:00,7:00,Yes,No,0:00,0:00
+02/12/2026,Deanna Dragone,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,0,8:00,5:55,,0:00,5:55,Yes,No,0:00,0:00
+02/12/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Jessica Kestler,Treatment Provider,Working,"Short Hills, NJ",11:00 AM - 07:30 PM,30,8:30,4:20,,0:00,4:20,Yes,No,0:00,0:00
+02/12/2026,Jessica Mock,Treatment Provider,Working,"Short Hills, NJ",01:00 PM - 06:00 PM,0,5:00,3:50,,0:00,3:50,Yes,No,0:00,0:00
+02/12/2026,Laila Chakib,Clinic DirectorConcierge,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,5:15,,0:00,5:15,Yes,No,0:00,0:00
+02/12/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+02/12/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",12:00 PM - 08:00 PM,150,8:00,2:50,,0:00,2:50,Yes,No,0:00,0:00
+02/12/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/13/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,0:20,,0:00,0:20,Yes,No,0:00,0:00
+2/13/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,9:50,,0:00,9:50,Yes,No,0:00,0:00
+2/13/2026,Jessica Kestler,Treatment Provider,Working,"Bridgewater, NJ",10:00 AM - 06:00 PM,30,8:00,7:25,,0:00,7:25,Yes,No,0:00,0:00
+2/13/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,6:45,,0:00,6:45,Yes,No,0:00,0:00
+2/13/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",01:00 PM - 06:00 PM,0,5:00,4:35,,0:00,4:35,Yes,No,0:00,0:00
+2/13/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,165,8:00,3:30,,0:00,3:30,Yes,No,0:00,0:00
+2/13/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 05:30 PM,90,8:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/13/2026,Christine Eppes,Treatment Provider,Working,"Frederick, MD",10:30 AM - 06:00 PM,30,7:30,5:45,,0:00,5:45,Yes,No,0:00,0:00
+2/13/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",09:00 AM - 03:00 PM,60,6:00,5:35,,0:00,5:35,Yes,No,0:00,0:00
+2/13/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",10:00 AM - 06:00 PM,90,8:00,4:00,,0:00,4:00,Yes,No,0:00,0:00
+2/13/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+2/13/2026,Deanna Dragone,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,6:55,,0:00,6:55,Yes,No,0:00,0:00
+2/13/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,6:35,,0:00,6:35,Yes,No,0:00,0:00
+2/13/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/13/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,30,8:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+2/13/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,6:45,,0:00,6:45,Yes,No,0:00,0:00
+2/13/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/13/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/13/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,8:20,,0:00,8:20,Yes,No,0:00,0:00
+2/13/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,6:30,,0:00,6:30,Yes,No,0:00,0:00
+2/13/2026,Karen Enriquez,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,6:15,,0:00,6:15,Yes,No,0:00,0:00
+2/13/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",09:00 AM - 06:00 PM,0,9:00,0:20,,0:00,0:20,Yes,No,0:00,0:00
+2/13/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",09:00 AM - 06:00 PM,30,9:00,4:25,,0:00,4:25,Yes,No,0:00,0:00
+2/13/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/13/2026,Jessica Crawford,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,5:25,,0:00,5:25,Yes,No,0:00,0:00
+2/13/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:30,,0:00,0:30,Yes,No,0:00,0:00
+2/13/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,7:20,,0:00,7:20,Yes,No,0:00,0:00
+2/13/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,6:30,,0:00,6:30,Yes,No,0:00,0:00
+2/13/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,30,8:00,8:05,,0:00,8:05,Yes,No,0:00,0:00
+2/13/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/13/2026,Domenica Fassari,Esthetician,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,3:45,,0:00,3:45,Yes,No,0:00,0:00
+2/13/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/13/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 05:30 PM,0,7:30,9:45,,0:00,9:45,Yes,No,0:00,0:00
+2/13/2026,Michelle Maddatu,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+2/13/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,8:25,,0:00,8:25,Yes,No,0:00,0:00
+2/13/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,7:05,,0:00,7:05,Yes,No,0:00,0:00
+2/13/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/13/2026,Patricia Ashmore,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,5:45,,0:00,5:45,Yes,No,0:00,0:00
+2/13/2026,Jessica Mock,Treatment Provider,Working,"Short Hills, NJ",12:30 PM - 06:00 PM,30,5:30,3:20,,0:00,3:20,Yes,No,0:00,0:00
+2/13/2026,Laila Chakib,Clinic DirectorConcierge,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/13/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,4:30,,0:00,4:30,Yes,No,0:00,0:00
+2/13/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",10:00 AM - 02:00 PM,0,4:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/13/2026,Macarena Silvestri,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,4:30,,0:00,4:30,Yes,No,0:00,0:00
+2/13/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/13/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,4:55,,0:00,4:55,Yes,No,0:00,0:00
+2/13/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/14/2026,Brittany King,Esthetician,Working,"Bel Air, MD",09:00 AM - 05:00 PM,60,8:00,6:30,,0:00,6:30,Yes,No,0:00,0:00
+2/14/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 01:00 PM,0,3:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/14/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",09:00 AM - 05:00 PM,30,8:00,6:55,,0:00,6:55,Yes,No,0:00,0:00
+2/14/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",09:00 AM - 02:00 PM,0,5:00,3:35,,0:00,3:35,Yes,No,0:00,0:00
+2/14/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,5:05,,0:00,5:05,Yes,No,0:00,0:00
+2/14/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/14/2026,Lis Castro,Esthetician,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,2:55,,0:00,2:55,Yes,No,0:00,0:00
+2/14/2026,Samantha Kehle,Manager,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/14/2026,Christine Eppes,Treatment Provider,Working,"Frederick, MD",09:00 AM - 02:00 PM,0,5:00,4:05,,0:00,4:05,Yes,No,0:00,0:00
+2/14/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",09:00 AM - 02:00 PM,60,5:00,2:10,,0:00,2:10,Yes,No,0:00,0:00
+2/14/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,7:05,,0:00,7:05,Yes,No,0:00,0:00
+2/14/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/14/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,30,8:00,6:35,,0:00,6:35,Yes,No,0:00,0:00
+2/14/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,7:30,,0:00,7:30,Yes,No,0:00,0:00
+2/14/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/14/2026,Karen Enriquez,Treatment Provider,Working,"Jersey City, NJ",09:00 AM - 05:00 PM,0,8:00,7:15,,0:00,7:15,Yes,No,0:00,0:00
+2/14/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/14/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",09:00 AM - 02:00 PM,0,5:00,2:55,,0:00,2:55,Yes,No,0:00,0:00
+2/14/2026,Aysia Lee,Manager,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/14/2026,Jessica Crawford,Treatment Provider,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,5:50,,0:00,5:50,Yes,No,0:00,0:00
+2/14/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,5:35,,0:00,5:35,Yes,No,0:00,0:00
+2/14/2026,Domenica Fassari,Esthetician,Working,"Old Bridge, NJ",09:00 AM - 02:00 PM,0,5:00,4:00,,0:00,4:00,Yes,No,0:00,0:00
+2/14/2026,Jessica Mock,Treatment Provider,Working,"Old Bridge, NJ",09:00 AM - 02:00 PM,0,5:00,4:40,,0:00,4:40,Yes,No,0:00,0:00
+2/14/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/14/2026,Breana Ramsumair,Clinic DirectorConcierge,Working,"Red Bank, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/14/2026,Michelle Maddatu,Treatment Provider,Working,"Red Bank, NJ",09:00 AM - 02:00 PM,0,5:00,2:00,,0:00,2:00,Yes,No,0:00,0:00
+2/14/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,420,7:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/14/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,30,7:00,3:25,,0:00,3:25,Yes,No,0:00,0:00
+2/14/2026,Deanna Dragone,Treatment Provider,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,30,7:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+2/14/2026,Patricia Ashmore,Treatment Provider,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,30,7:00,6:35,,0:00,6:35,Yes,No,0:00,0:00
+2/14/2026,Jessica Kestler,Treatment Provider,Working,"Short Hills, NJ",09:00 AM - 02:00 PM,0,5:00,3:00,,0:00,3:00,Yes,No,0:00,0:00
+2/14/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",09:00 AM - 02:00 PM,0,5:00,3:40,,0:00,3:40,Yes,No,0:00,0:00
+2/14/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/14/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",09:00 AM - 02:00 PM,0,5:00,4:35,,0:00,4:35,Yes,No,0:00,0:00
+2/14/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/15/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/15/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 04:00 PM,0,7:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/16/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/16/2026,Jackie Moyer,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,6:20,,0:00,6:20,Yes,No,0:00,0:00
+2/16/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,7:55,,0:00,7:55,Yes,No,0:00,0:00
+2/16/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",01:00 PM - 06:00 PM,0,5:00,3:50,,0:00,3:50,Yes,No,0:00,0:00
+2/16/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/16/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 06:00 PM,60,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/16/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,8:15,,0:00,8:15,Yes,No,0:00,0:00
+2/16/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,15,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/16/2026,Paige Martin,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,7:25,,0:00,7:25,Yes,No,0:00,0:00
+2/17/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 06:00 PM,140,8:00,4:40,,0:00,4:40,Yes,No,0:00,0:00
+2/17/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,60,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:00 PM,30,8:00,8:40,,0:00,8:40,Yes,No,0:00,0:00
+2/17/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",10:00 AM - 06:00 PM,30,8:00,3:05,,0:00,3:05,Yes,No,0:00,0:00
+2/17/2026,Jessica Mock,Treatment Provider,Working,"Denville, NJ",10:30 AM - 04:00 PM,0,5:30,4:00,,0:00,4:00,Yes,No,0:00,0:00
+2/17/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,6:30,,0:00,6:30,Yes,No,0:00,0:00
+2/17/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",10:00 AM - 04:00 PM,30,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,5:05,,0:00,5:05,Yes,No,0:00,0:00
+2/17/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 07:00 PM,60,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",10:00 AM - 07:00 PM,30,9:00,9:10,,0:00,9:10,Yes,No,0:00,0:00
+2/17/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",10:00 AM - 05:00 PM,210,7:00,1:30,,0:00,1:30,Yes,No,0:00,0:00
+2/17/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",09:00 AM - 06:00 PM,0,9:00,7:35,,0:00,7:35,Yes,No,0:00,0:00
+2/17/2026,Deanna Dragone,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 07:00 PM,0,9:00,7:35,,0:00,7:35,Yes,No,0:00,0:00
+2/17/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,6:15,,0:00,6:15,Yes,No,0:00,0:00
+2/17/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Osbert Fernandez,Clinical Leadership Team,Working,"Hoboken, NJ",03:00 PM - 07:00 PM,0,4:00,3:00,,0:00,3:00,Yes,No,0:00,0:00
+2/17/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",10:00 AM - 07:00 PM,465,9:00,1:55,,0:00,1:55,Yes,No,0:00,0:00
+2/17/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,480,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",11:00 AM - 07:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,5:55,,0:00,5:55,Yes,No,0:00,0:00
+2/17/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,6:30,,0:00,6:30,Yes,No,0:00,0:00
+2/17/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Paige Martin,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,30,10:00,10:25,,0:00,10:25,Yes,No,0:00,0:00
+2/17/2026,Training Model,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,105,8:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+2/17/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",10:00 AM - 06:00 PM,30,8:00,3:30,,0:00,3:30,Yes,No,0:00,0:00
+2/17/2026,Alejandra Alburqueque,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,1:15,,0:00,1:15,Yes,No,0:00,0:00
+2/17/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Patricia Ashmore,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 05:00 PM,0,7:00,5:50,,0:00,5:50,Yes,No,0:00,0:00
+2/17/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,4:55,,0:00,4:55,Yes,No,0:00,0:00
+2/17/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,4:30,,0:00,4:30,Yes,No,0:00,0:00
+2/17/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,30,8:00,7:30,,0:00,7:30,Yes,No,0:00,0:00
+2/17/2026,Domenica Fassari,Esthetician,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,130,8:00,3:00,,0:00,3:00,Yes,No,0:00,0:00
+2/17/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,10,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,8:55,,0:00,8:55,Yes,No,0:00,0:00
+2/17/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,4:30,,0:00,4:30,Yes,No,0:00,0:00
+2/17/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 05:30 PM,30,7:30,6:30,,0:00,6:30,Yes,No,0:00,0:00
+2/17/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Karen Enriquez,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,4:05,,0:00,4:05,Yes,No,0:00,0:00
+2/17/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",12:00 PM - 08:00 PM,30,8:00,4:55,,0:00,4:55,Yes,No,0:00,0:00
+2/17/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/17/2026,Michelle Maddatu,Treatment Provider,Working,"Short Hills, NJ",11:00 AM - 07:00 PM,30,8:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+2/17/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",10:00 AM - 06:00 PM,45,8:00,2:30,,0:00,2:30,Yes,No,0:00,0:00
+2/17/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 06:00 PM,145,8:00,4:20,,0:00,4:20,Yes,No,0:00,0:00
+2/18/2026,Christine Eppes,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:00 PM,30,8:00,8:00,,0:00,8:00,Yes,No,0:00,0:00
+2/18/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 05:00 PM,30,7:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+2/18/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",10:00 AM - 06:00 PM,30,8:00,3:25,,0:00,3:25,Yes,No,0:00,0:00
+2/18/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+2/18/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 06:00 PM,10,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 06:00 PM,30,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",09:00 AM - 06:00 PM,30,9:00,7:15,,0:00,7:15,Yes,No,0:00,0:00
+2/18/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",10:00 AM - 05:00 PM,300,7:00,2:00,,0:00,2:00,Yes,No,0:00,0:00
+2/18/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,7:10,,0:00,7:10,Yes,No,0:00,0:00
+2/18/2026,Deanna Dragone,Treatment Provider,Working,"Hoboken, NJ",12:30 PM - 08:00 PM,0,7:30,6:10,,0:00,6:10,Yes,No,0:00,0:00
+2/18/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 02:00 PM,30,4:00,1:40,,0:00,1:40,Yes,No,0:00,0:00
+2/18/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",10:00 AM - 07:00 PM,380,9:00,2:40,,0:00,2:40,Yes,No,0:00,0:00
+2/18/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,7:10,,0:00,7:10,Yes,No,0:00,0:00
+2/18/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 07:00 PM,30,9:00,6:05,,0:00,6:05,Yes,No,0:00,0:00
+2/18/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,5:00,,0:00,5:00,Yes,No,0:00,0:00
+2/18/2026,Karen Enriquez,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,75,8:00,5:05,,0:00,5:05,Yes,No,0:00,0:00
+2/18/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",10:00 AM - 06:00 PM,0,8:00,2:40,,0:00,2:40,Yes,No,0:00,0:00
+2/18/2026,Alejandra Alburqueque,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Jessica Crawford,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 07:00 PM,0,9:00,6:45,,0:00,6:45,Yes,No,0:00,0:00
+2/18/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",12:00 PM - 08:00 PM,0,8:00,8:30,,0:00,8:30,Yes,No,0:00,0:00
+2/18/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 08:00 PM,0,10:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+2/18/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,30,8:00,6:20,,0:00,6:20,Yes,No,0:00,0:00
+2/18/2026,Domenica Fassari,Esthetician,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,60,8:00,3:45,,0:00,3:45,Yes,No,0:00,0:00
+2/18/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,30,8:00,0:05,,0:00,0:05,Yes,No,0:00,0:00
+2/18/2026,Breana Ramsumair,Clinic DirectorConcierge,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,60,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",12:00 PM - 08:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",12:00 PM - 08:00 PM,30,8:00,10:10,,0:00,10:10,Yes,No,0:00,0:00
+2/18/2026,Paige Martin,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,5:05,,0:00,5:05,Yes,No,0:00,0:00
+2/18/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,60,8:00,3:00,,0:00,3:00,Yes,No,0:00,0:00
+2/18/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 07:00 PM,30,9:00,8:05,,0:00,8:05,Yes,No,0:00,0:00
+2/18/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",10:00 AM - 07:00 PM,30,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Patricia Ashmore,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 05:00 PM,30,7:00,3:50,,0:00,3:50,Yes,No,0:00,0:00
+2/18/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",12:00 PM - 08:00 PM,30,8:00,4:30,,0:00,4:30,Yes,No,0:00,0:00
+2/18/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",09:00 AM - 08:00 PM,0,11:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/18/2026,Michelle Maddatu,Treatment Provider,Working,"Short Hills, NJ",10:30 AM - 07:00 PM,30,8:30,7:40,,0:00,7:40,Yes,No,0:00,0:00
+2/18/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,4:25,,0:00,4:25,Yes,No,0:00,0:00
+2/18/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 08:00 PM,60,10:00,7:30,,0:00,7:30,Yes,No,0:00,0:00
+2/19/2026,Christine Eppes,Treatment Provider,Working,"Bel Air, MD",10:30 AM - 08:00 PM,45,9:30,10:15,,0:00,10:15,Yes,No,0:00,0:00
+2/19/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 08:00 PM,60,10:00,6:55,,0:00,6:55,Yes,No,0:00,0:00
+2/19/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",12:00 PM - 08:00 PM,45,8:00,4:50,,0:00,4:50,Yes,No,0:00,0:00
+2/19/2026,Jessica Crawford,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:30 PM,30,8:30,7:40,,0:00,7:40,Yes,No,0:00,0:00
+2/19/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,390,8:00,2:25,,0:00,2:25,Yes,No,0:00,0:00
+2/19/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",01:00 PM - 08:00 PM,0,7:00,6:10,,0:00,6:10,Yes,No,0:00,0:00
+2/19/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",02:00 PM - 08:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,4:30,,0:00,4:30,Yes,No,0:00,0:00
+2/19/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 07:00 PM,0,9:00,0:15,,0:00,0:15,Yes,No,0:00,0:00
+2/19/2026,Carly Jones,Manager,Working,"Frederick, MD",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",10:00 AM - 08:00 PM,30,10:00,9:40,,0:00,9:40,Yes,No,0:00,0:00
+2/19/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",02:00 PM - 08:00 PM,0,6:00,3:35,,0:00,3:35,Yes,No,0:00,0:00
+2/19/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,2:15,,0:00,2:15,Yes,No,0:00,0:00
+2/19/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,6:20,,0:00,6:20,Yes,No,0:00,0:00
+2/19/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",11:00 AM - 08:00 PM,30,9:00,3:45,,0:00,3:45,Yes,No,0:00,0:00
+2/19/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,5:35,,0:00,5:35,Yes,No,0:00,0:00
+2/19/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Austin Marie Jacobus,Clinical Leadership Team,Working,"Jersey City, NJ",11:00 AM - 03:00 PM,225,4:00,2:15,,0:00,2:15,Yes,No,0:00,0:00
+2/19/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,3:50,,0:00,3:50,Yes,No,0:00,0:00
+2/19/2026,Karen Enriquez,Treatment Provider,Working,"Jersey City, NJ",12:30 PM - 08:00 PM,30,7:30,8:10,,0:00,8:10,Yes,No,0:00,0:00
+2/19/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,30,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",09:00 AM - 06:00 PM,0,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",09:00 AM - 06:00 PM,30,9:00,3:55,,0:00,3:55,Yes,No,0:00,0:00
+2/19/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Patricia Ashmore,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,5:40,,0:00,5:40,Yes,No,0:00,0:00
+2/19/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,6:35,,0:00,6:35,Yes,No,0:00,0:00
+2/19/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,3:55,,0:00,3:55,Yes,No,0:00,0:00
+2/19/2026,Jessica Mock,Treatment Provider,Working,"Old Bridge, NJ",12:00 PM - 08:00 PM,30,8:00,6:35,,0:00,6:35,Yes,No,0:00,0:00
+2/19/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",12:00 PM - 08:00 PM,15,8:00,0:05,,0:00,0:05,Yes,No,0:00,0:00
+2/19/2026,Breana Ramsumair,Clinic DirectorConcierge,Working,"Red Bank, NJ",12:00 PM - 08:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Domenica Fassari,Esthetician,Working,"Red Bank, NJ",12:00 PM - 08:00 PM,30,8:00,4:55,,0:00,4:55,Yes,No,0:00,0:00
+2/19/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,0,8:00,8:50,,0:00,8:50,Yes,No,0:00,0:00
+2/19/2026,Michelle Maddatu,Treatment Provider,Working,"Red Bank, NJ",12:00 PM - 07:00 PM,30,7:00,4:50,,0:00,4:50,Yes,No,0:00,0:00
+2/19/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",12:00 PM - 08:00 PM,445,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",12:00 PM - 08:00 PM,30,8:00,4:45,,0:00,4:45,Yes,No,0:00,0:00
+2/19/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",12:00 PM - 08:00 PM,0,8:00,6:55,,0:00,6:55,Yes,No,0:00,0:00
+2/19/2026,Deanna Dragone,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,480,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",09:00 AM - 01:00 PM,0,4:00,1:00,,0:00,1:00,Yes,No,0:00,0:00
+2/19/2026,Jessica Kestler,Treatment Provider,Working,"Short Hills, NJ",10:30 AM - 06:30 PM,30,8:00,5:05,,0:00,5:05,Yes,No,0:00,0:00
+2/19/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,150,8:00,3:15,,0:00,3:15,Yes,No,0:00,0:00
+2/19/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",12:00 PM - 06:30 PM,0,6:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/19/2026,Training Model,Treatment Provider,Working,"Short Hills, NJ",12:00 PM - 05:00 PM,0,5:00,4:40,,0:00,4:40,Yes,No,0:00,0:00
+2/19/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",12:00 PM - 08:00 PM,0,8:00,3:45,,0:00,3:45,Yes,No,0:00,0:00
+2/19/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 06:00 PM,30,8:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+2/20/2026,Christine Eppes,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:00 PM,30,8:00,3:40,,0:00,3:40,Yes,No,0:00,0:00
+2/20/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:00 PM,30,8:00,8:05,,0:00,8:05,Yes,No,0:00,0:00
+2/20/2026,Jessica Kestler,Treatment Provider,Working,"Bridgewater, NJ",10:00 AM - 06:00 PM,30,8:00,7:05,,0:00,7:05,Yes,No,0:00,0:00
+2/20/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,7:55,,0:00,7:55,Yes,No,0:00,0:00
+2/20/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",01:00 PM - 06:00 PM,0,5:00,5:10,,0:00,5:10,Yes,No,0:00,0:00
+2/20/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,6:15,,0:00,6:15,Yes,No,0:00,0:00
+2/20/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 06:00 PM,125,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 06:00 PM,30,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",09:00 AM - 03:00 PM,0,6:00,5:25,,0:00,5:25,Yes,No,0:00,0:00
+2/20/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",10:00 AM - 06:00 PM,105,8:00,4:00,,0:00,4:00,Yes,No,0:00,0:00
+2/20/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,8:10,,0:00,8:10,Yes,No,0:00,0:00
+2/20/2026,Deanna Dragone,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+2/20/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,30,8:00,6:40,,0:00,6:40,Yes,No,0:00,0:00
+2/20/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,30,8:00,5:15,,0:00,5:15,Yes,No,0:00,0:00
+2/20/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,8:15,,0:00,8:15,Yes,No,0:00,0:00
+2/20/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 05:00 PM,30,7:00,8:50,,0:00,8:50,Yes,No,0:00,0:00
+2/20/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,5:30,,0:00,5:30,Yes,No,0:00,0:00
+2/20/2026,Karen Enriquez,Treatment Provider,Working,"Jersey City, NJ",10:30 AM - 06:00 PM,30,7:30,4:00,,0:00,4:00,Yes,No,0:00,0:00
+2/20/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",09:00 AM - 06:00 PM,0,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",09:00 AM - 06:00 PM,30,9:00,4:55,,0:00,4:55,Yes,No,0:00,0:00
+2/20/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Jessica Crawford,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,7:40,,0:00,7:40,Yes,No,0:00,0:00
+2/20/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,4:30, 11:05 AM,0:00,4:30,No,Yes,0:00,0:00
+2/20/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,30,8:00,7:10,,0:00,7:10,Yes,No,0:00,0:00
+2/20/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Domenica Fassari,Esthetician,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,7:00,,0:00,7:00,Yes,No,0:00,0:00
+2/20/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,15,8:00,0:15,,0:00,0:15,Yes,No,0:00,0:00
+2/20/2026,Michelle Maddatu,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,6:10,,0:00,6:10,Yes,No,0:00,0:00
+2/20/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",12:00 PM - 05:00 PM,30,5:00,2:25,,0:00,2:25,Yes,No,0:00,0:00
+2/20/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",11:00 AM - 06:00 PM,30,7:00,4:15,,0:00,4:15,Yes,No,0:00,0:00
+2/20/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Patricia Ashmore,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 05:00 PM,30,7:00,4:55,,0:00,4:55,Yes,No,0:00,0:00
+2/20/2026,Jessica Mock,Treatment Provider,Working,"Short Hills, NJ",10:40 AM - 06:00 PM,30,7:20,5:50,,0:00,5:50,Yes,No,0:00,0:00
+2/20/2026,Laila Chakib,Clinic DirectorConcierge,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/20/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,4:15,,0:00,4:15,Yes,No,0:00,0:00
+2/20/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",10:00 AM - 02:00 PM,0,4:00,0:15,,0:00,0:15,Yes,No,0:00,0:00
+2/20/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,6:05,,0:00,6:05,Yes,No,0:00,0:00
+2/20/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/21/2026,Brittany King,Esthetician,Working,"Bel Air, MD",09:00 AM - 05:00 PM,220,8:00,3:40,,0:00,3:40,Yes,No,0:00,0:00
+2/21/2026,Christine Eppes,Treatment Provider,Working,"Bel Air, MD",09:00 AM - 05:00 PM,30,8:00,8:30,,0:00,8:30,Yes,No,0:00,0:00
+2/21/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",09:00 AM - 05:00 PM,30,8:00,7:15,,0:00,7:15,Yes,No,0:00,0:00
+2/21/2026,Jessica Kestler,Treatment Provider,Working,"Bridgewater, NJ",09:00 AM - 02:00 PM,0,5:00,3:50,,0:00,3:50,Yes,No,0:00,0:00
+2/21/2026,Samantha Kehle,Manager,Working,"Bridgewater, NJ",09:00 AM - 02:00 PM,30,5:00,0:05,,0:00,0:05,Yes,No,0:00,0:00
+2/21/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,3:05,,0:00,3:05,Yes,No,0:00,0:00
+2/21/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/21/2026,Lis Castro,Esthetician,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,4:45,,0:00,4:45,Yes,No,0:00,0:00
+2/21/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",09:00 AM - 02:00 PM,0,5:00,6:15,,0:00,6:15,Yes,No,0:00,0:00
+2/21/2026,McKenzi Bennett,Esthetician,Working,"Frederick, MD",09:00 AM - 02:00 PM,30,5:00,2:45,,0:00,2:45,Yes,No,0:00,0:00
+2/21/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,8:45,,0:00,8:45,Yes,No,0:00,0:00
+2/21/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,5:00,,0:00,5:00,Yes,No,0:00,0:00
+2/21/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+2/21/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/21/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/21/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",09:00 AM - 03:00 PM,0,6:00,6:45,,0:00,6:45,Yes,No,0:00,0:00
+2/21/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",09:00 AM - 05:00 PM,0,8:00,7:10,,0:00,7:10,Yes,No,0:00,0:00
+2/21/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/21/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",09:00 AM - 02:00 PM,0,5:00,5:00,,0:00,5:00,Yes,No,0:00,0:00
+2/21/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,1:10,,0:00,1:10,Yes,No,0:00,0:00
+2/21/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,4:05,,0:00,4:05,Yes,No,0:00,0:00
+2/21/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,4:45,,0:00,4:45,Yes,No,0:00,0:00
+2/21/2026,Jessica Mock,Treatment Provider,Working,"Old Bridge, NJ",09:00 AM - 02:00 PM,0,5:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+2/21/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/21/2026,Domenica Fassari,Esthetician,Working,"Red Bank, NJ",09:00 AM - 03:00 PM,0,6:00,5:05,,0:00,5:05,Yes,No,0:00,0:00
+2/21/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/21/2026,Michelle Maddatu,Treatment Provider,Working,"Red Bank, NJ",09:00 AM - 02:00 PM,0,5:00,5:10,,0:00,5:10,Yes,No,0:00,0:00
+2/21/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,30,7:00,5:10,,0:00,5:10,Yes,No,0:00,0:00
+2/21/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,30,7:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+2/21/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,0,7:00,1:10,,0:00,1:10,Yes,No,0:00,0:00
+2/21/2026,Karen Enriquez,Treatment Provider,Working,"Short Hills, NJ",09:00 AM - 05:00 PM,30,8:00,7:00,,0:00,7:00,Yes,No,0:00,0:00
+2/21/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",09:00 AM - 02:00 PM,0,5:00,4:00,,0:00,4:00,Yes,No,0:00,0:00
+2/21/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/21/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",09:00 AM - 02:00 PM,30,5:00,3:15,,0:00,3:15,Yes,No,0:00,0:00
+2/21/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/22/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 04:00 PM,0,7:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/23/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,535,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/23/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",01:00 PM - 06:00 PM,120,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/23/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",10:00 AM - 06:00 PM,300,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/23/2026,Carly Jones,Manager,Working,"Frederick, MD",10:00 AM - 02:00 PM,0,4:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/23/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",10:00 AM - 02:30 PM,0,4:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/23/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/23/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/23/2026,Training Model,Treatment Provider,Working,"Short Hills, NJ",03:00 PM - 07:00 PM,0,4:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/23/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 03:30 PM,0,5:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 03:00 PM,30,5:00,3:00,,0:00,3:00,Yes,No,0:00,0:00
+2/24/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:00 PM,30,8:00,8:15,,0:00,8:15,Yes,No,0:00,0:00
+2/24/2026,Jessica Kestler,Treatment Provider,Working,"Bridgewater, NJ",01:00 PM - 06:00 PM,0,5:00,4:10,,0:00,4:10,Yes,No,0:00,0:00
+2/24/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",12:00 PM - 06:00 PM,0,6:00,4:55,,0:00,4:55,Yes,No,0:00,0:00
+2/24/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",12:00 PM - 04:00 PM,0,4:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Lis Castro,Esthetician,Working,"Denville, NJ",12:00 PM - 06:00 PM,0,6:00,3:00,,0:00,3:00,Yes,No,0:00,0:00
+2/24/2026,Samantha Kehle,Manager,Working,"Denville, NJ",12:00 PM - 06:00 PM,0,6:00,0:15,,0:00,0:15,Yes,No,0:00,0:00
+2/24/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 06:00 PM,30,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",09:00 AM - 06:00 PM,30,9:00,5:40,,0:00,5:40,Yes,No,0:00,0:00
+2/24/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Winnie Francois,Manager,Working,"Hoboken, NJ",01:00 PM - 07:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",10:00 AM - 06:00 PM,30,8:00,6:55,,0:00,6:55,Yes,No,0:00,0:00
+2/24/2026,Aysia Lee,Manager,Working,"Montclair, NJ",12:00 PM - 06:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",12:00 PM - 06:00 PM,0,6:00,0:25,,0:00,0:25,Yes,No,0:00,0:00
+2/24/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",12:00 PM - 06:00 PM,0,6:00,4:05,,0:00,4:05,Yes,No,0:00,0:00
+2/24/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,5,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",12:00 PM - 06:00 PM,30,6:00,3:20,,0:00,3:20,Yes,No,0:00,0:00
+2/24/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",12:00 PM - 05:30 PM,30,5:30,3:05,,0:00,3:05,Yes,No,0:00,0:00
+2/24/2026,Karen Enriquez,Treatment Provider,Working,"Short Hills, NJ",12:00 PM - 04:00 PM,30,4:00,2:00,,0:00,2:00,Yes,No,0:00,0:00
+2/24/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",12:00 PM - 07:00 PM,0,7:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Michelle Maddatu,Treatment Provider,Working,"Short Hills, NJ",12:00 PM - 07:00 PM,30,7:00,3:25,,0:00,3:25,Yes,No,0:00,0:00
+2/24/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 04:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/24/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,4:50,,0:00,4:50,Yes,No,0:00,0:00
+2/24/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 02:30 PM,175,4:30,0:50,,0:00,0:50,Yes,No,0:00,0:00
+2/25/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:00 PM,30,8:00,6:40,,0:00,6:40,Yes,No,0:00,0:00
+2/25/2026,Jessica Kestler,Treatment Provider,Working,"Bridgewater, NJ",10:00 AM - 04:45 PM,30,6:45,4:50,,0:00,4:50,Yes,No,0:00,0:00
+2/25/2026,Leigh Ortiz,Manager,Working,"Bridgewater, NJ",10:00 AM - 04:45 PM,30,6:45,0:45,,0:00,0:45,Yes,No,0:00,0:00
+2/25/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 08:00 PM,0,10:00,8:15,,0:00,8:15,Yes,No,0:00,0:00
+2/25/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,120,8:00,2:55,,0:00,2:55,Yes,No,0:00,0:00
+2/25/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 08:00 PM,15,10:00,0:05,,0:00,0:05,Yes,No,0:00,0:00
+2/25/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 06:00 PM,30,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Christine Eppes,Treatment Provider,Working,"Frederick, MD",10:30 AM - 06:00 PM,30,7:30,4:40,,0:00,4:40,Yes,No,0:00,0:00
+2/25/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",09:00 AM - 06:00 PM,30,9:00,6:20,,0:00,6:20,Yes,No,0:00,0:00
+2/25/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",10:00 AM - 08:00 PM,0,10:00,5:45,,0:00,5:45,Yes,No,0:00,0:00
+2/25/2026,Deanna Dragone,Treatment Provider,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,60,8:00,6:10,,0:00,6:10,Yes,No,0:00,0:00
+2/25/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,90,8:00,5:50,,0:00,5:50,Yes,No,0:00,0:00
+2/25/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,285,8:00,2:45,,0:00,2:45,Yes,No,0:00,0:00
+2/25/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,60,8:00,6:40,,0:00,6:40,Yes,No,0:00,0:00
+2/25/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",12:00 PM - 08:00 PM,30,8:00,7:45,,0:00,7:45,Yes,No,0:00,0:00
+2/25/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,4:55,,0:00,4:55,Yes,No,0:00,0:00
+2/25/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,20,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Paige Martin,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,0,8:00,7:25,,0:00,7:25,Yes,No,0:00,0:00
+2/25/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",10:00 AM - 06:00 PM,30,8:00,3:45,,0:00,3:45,Yes,No,0:00,0:00
+2/25/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Jessica Crawford,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",12:00 PM - 08:00 PM,0,8:00,7:10,,0:00,7:10,Yes,No,0:00,0:00
+2/25/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 08:00 PM,0,10:00,5:15,,0:00,5:15,Yes,No,0:00,0:00
+2/25/2026,Domenica Fassari,Esthetician,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,30,8:00,5:10,,0:00,5:10,Yes,No,0:00,0:00
+2/25/2026,Jessica Mock,Treatment Provider,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,30,8:00,6:20,,0:00,6:20,Yes,No,0:00,0:00
+2/25/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",09:00 AM - 06:00 PM,0,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Breana Ramsumair,Clinic DirectorConcierge,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",09:00 AM - 08:00 PM,0,11:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",12:00 PM - 07:30 PM,30,7:30,8:25,,0:00,8:25,Yes,No,0:00,0:00
+2/25/2026,Michelle Maddatu,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,5:40,,0:00,5:40,Yes,No,0:00,0:00
+2/25/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",10:00 AM - 07:00 PM,540,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",11:00 AM - 07:00 PM,30,8:00,4:45,,0:00,4:45,Yes,No,0:00,0:00
+2/25/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 07:00 PM,30,9:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+2/25/2026,Patricia Ashmore,Treatment Provider,Working,"Ridgewood, NJ",11:00 AM - 07:00 PM,0,8:00,3:05,,0:00,3:05,Yes,No,0:00,0:00
+2/25/2026,Karen Enriquez,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,6:30,,0:00,6:30,Yes,No,0:00,0:00
+2/25/2026,Laila Chakib,Clinic DirectorConcierge,Working,"Short Hills, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",12:00 PM - 08:00 PM,30,8:00,2:00,,0:00,2:00,Yes,No,0:00,0:00
+2/25/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",10:00 AM - 05:00 PM,0,7:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Lana Patrick,Manager,Working,"Tribeca, NY",10:00 AM - 04:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/25/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",10:00 AM - 06:00 PM,45,8:00,3:40,,0:00,3:40,Yes,No,0:00,0:00
+2/25/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 08:00 PM,180,10:00,4:15,,0:00,4:15,Yes,No,0:00,0:00
+2/26/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,60,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 08:00 PM,60,10:00,9:25,,0:00,9:25,Yes,No,0:00,0:00
+2/26/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Bridgewater, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",12:00 PM - 08:00 PM,30,8:00,6:40,,0:00,6:40,Yes,No,0:00,0:00
+2/26/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",01:00 PM - 08:00 PM,0,7:00,6:20,,0:00,6:20,Yes,No,0:00,0:00
+2/26/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",02:00 PM - 08:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,3:45,,0:00,3:45,Yes,No,0:00,0:00
+2/26/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Carly Jones,Manager,Working,"Frederick, MD",10:00 AM - 08:00 PM,30,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Christine Eppes,Treatment Provider,Working,"Frederick, MD",10:30 AM - 08:00 PM,30,9:30,8:45,,0:00,8:45,Yes,No,0:00,0:00
+2/26/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",10:00 AM - 06:00 PM,30,8:00,8:25,,0:00,8:25,Yes,No,0:00,0:00
+2/26/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,4:10,,0:00,4:10,Yes,No,0:00,0:00
+2/26/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,6:05,,0:00,6:05,Yes,No,0:00,0:00
+2/26/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Lindsey Parker,Manager,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,0,8:00,0:15,,0:00,0:15,Yes,No,0:00,0:00
+2/26/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",12:00 PM - 08:00 PM,30,8:00,5:15,,0:00,5:15,Yes,No,0:00,0:00
+2/26/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,7:20,,0:00,7:20,Yes,No,0:00,0:00
+2/26/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,7:35,,0:00,7:35,Yes,No,0:00,0:00
+2/26/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:30 PM,30,8:30,3:15,,0:00,3:15,Yes,No,0:00,0:00
+2/26/2026,Karen Enriquez,Treatment Provider,Working,"Jersey City, NJ",01:00 PM - 08:00 PM,30,7:00,4:30,,0:00,4:30,Yes,No,0:00,0:00
+2/26/2026,Melissa Sanzo,Manager,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,0,10:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Paige Martin,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 08:00 PM,30,10:00,11:10,,0:00,11:10,Yes,No,0:00,0:00
+2/26/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",09:00 AM - 06:00 PM,0,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",09:00 AM - 06:00 PM,30,9:00,5:40,,0:00,5:40,Yes,No,0:00,0:00
+2/26/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:45,,0:00,0:45,Yes,No,0:00,0:00
+2/26/2026,Patricia Ashmore,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+2/26/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,7:00,,0:00,7:00,Yes,No,0:00,0:00
+2/26/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,6:20,,0:00,6:20,Yes,No,0:00,0:00
+2/26/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",12:00 PM - 08:00 PM,30,8:00,7:25,,0:00,7:25,Yes,No,0:00,0:00
+2/26/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",12:00 PM - 08:00 PM,10,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Breana Ramsumair,Clinic DirectorConcierge,Working,"Red Bank, NJ",12:00 PM - 08:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Domenica Fassari,Esthetician,Working,"Red Bank, NJ",12:30 PM - 07:00 PM,35,6:30,5:10,,0:00,5:10,Yes,No,0:00,0:00
+2/26/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",10:00 AM - 06:30 PM,30,8:30,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,8:00,,0:00,8:00,Yes,No,0:00,0:00
+2/26/2026,Michelle Maddatu,Treatment Provider,Working,"Red Bank, NJ",12:00 PM - 08:00 PM,30,8:00,5:20,,0:00,5:20,Yes,No,0:00,0:00
+2/26/2026,Alejandra Alburqueque,Esthetician,Working,"Ridgewood, NJ",12:00 PM - 08:00 PM,420,8:00,1:00,,0:00,1:00,Yes,No,0:00,0:00
+2/26/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",12:00 PM - 08:00 PM,30,8:00,3:05,,0:00,3:05,Yes,No,0:00,0:00
+2/26/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",12:00 PM - 08:00 PM,30,8:00,6:35,,0:00,6:35,Yes,No,0:00,0:00
+2/26/2026,Deanna Dragone,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,0,8:00,6:45,,0:00,6:45,Yes,No,0:00,0:00
+2/26/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,20,8:00,0:05,,0:00,0:05,Yes,No,0:00,0:00
+2/26/2026,Jessica Kestler,Treatment Provider,Working,"Short Hills, NJ",10:30 AM - 08:00 PM,30,9:30,8:10,,0:00,8:10,Yes,No,0:00,0:00
+2/26/2026,Laila Chakib,Clinic DirectorConcierge,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,3:45,,0:00,3:45,Yes,No,0:00,0:00
+2/26/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Lana Patrick,Manager,Working,"Tribeca, NY",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/26/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",12:00 PM - 08:00 PM,0,8:00,2:35,,0:00,2:35,Yes,No,0:00,0:00
+2/26/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",12:00 PM - 08:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Brittany King,Esthetician,Working,"Bel Air, MD",10:00 AM - 06:00 PM,210,8:00,3:00,,0:00,3:00,Yes,No,0:00,0:00
+2/27/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",10:00 AM - 06:00 PM,30,8:00,10:05,,0:00,10:05,Yes,No,0:00,0:00
+2/27/2026,Jessica Kestler,Treatment Provider,Working,"Bridgewater, NJ",10:00 AM - 06:00 PM,30,8:00,6:35,,0:00,6:35,Yes,No,0:00,0:00
+2/27/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,7:25,,0:00,7:25,Yes,No,0:00,0:00
+2/27/2026,Katlyn Cusack,Treatment Provider,Working,"Denville, NJ",01:00 PM - 06:00 PM,0,5:00,4:25,,0:00,4:25,Yes,No,0:00,0:00
+2/27/2026,Lis Castro,Esthetician,Working,"Denville, NJ",10:00 AM - 06:00 PM,0,8:00,5:45,,0:00,5:45,Yes,No,0:00,0:00
+2/27/2026,Samantha Kehle,Manager,Working,"Denville, NJ",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Carly Jones,Manager,Working,"Frederick, MD",09:00 AM - 05:00 PM,90,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Christine Eppes,Treatment Provider,Working,"Frederick, MD",10:30 AM - 06:00 PM,0,7:30,5:35,,0:00,5:35,Yes,No,0:00,0:00
+2/27/2026,Geri Gan,Treatment Provider,Working,"Frederick, MD",09:30 AM - 03:00 PM,0,5:30,5:05,,0:00,5:05,Yes,No,0:00,0:00
+2/27/2026,Caroline Swartz,Esthetician,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,5:45,,0:00,5:45,Yes,No,0:00,0:00
+2/27/2026,Deanna Dragone,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,8:10,,0:00,8:10,Yes,No,0:00,0:00
+2/27/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,5:05,,0:00,5:05,Yes,No,0:00,0:00
+2/27/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,0,8:00,0:05,,0:00,0:05,Yes,No,0:00,0:00
+2/27/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,30,8:00,5:25,,0:00,5:25,Yes,No,0:00,0:00
+2/27/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",10:00 AM - 06:00 PM,30,8:00,6:05,,0:00,6:05,Yes,No,0:00,0:00
+2/27/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Crystal Farinha,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,8:10,,0:00,8:10,Yes,No,0:00,0:00
+2/27/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,7:00,,0:00,7:00,Yes,No,0:00,0:00
+2/27/2026,Karen Enriquez,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 06:00 PM,30,8:00,5:30,,0:00,5:30,Yes,No,0:00,0:00
+2/27/2026,Training Model,Treatment Provider,Working,"Jersey City, NJ",10:00 AM - 05:00 PM,30,7:00,6:20,,0:00,6:20,Yes,No,0:00,0:00
+2/27/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",09:00 AM - 06:00 PM,0,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",09:00 AM - 06:00 PM,30,9:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+2/27/2026,Aysia Lee,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Jessica Crawford,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,7:30,,0:00,7:30,Yes,No,0:00,0:00
+2/27/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,7:30,,0:00,7:30,Yes,No,0:00,0:00
+2/27/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",10:00 AM - 06:00 PM,0,8:00,5:30,,0:00,5:30,Yes,No,0:00,0:00
+2/27/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,30,8:00,8:25,,0:00,8:25,Yes,No,0:00,0:00
+2/27/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",10:00 AM - 06:00 PM,5,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Breana Ramsumair,Clinic DirectorConcierge,Working,"Red Bank, NJ",10:00 AM - 04:00 PM,0,6:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Domenica Fassari,Esthetician,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,5:15,,0:00,5:15,Yes,No,0:00,0:00
+2/27/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",10:00 AM - 07:00 PM,0,9:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 07:00 PM,30,9:00,9:55,,0:00,9:55,Yes,No,0:00,0:00
+2/27/2026,Michelle Maddatu,Treatment Provider,Working,"Red Bank, NJ",10:00 AM - 06:00 PM,30,8:00,4:10,,0:00,4:10,Yes,No,0:00,0:00
+2/27/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,4:45,,0:00,4:45,Yes,No,0:00,0:00
+2/27/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Patricia Ashmore,Treatment Provider,Working,"Ridgewood, NJ",10:00 AM - 06:00 PM,30,8:00,5:50,,0:00,5:50,Yes,No,0:00,0:00
+2/27/2026,Jessica Mock,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,6:50,,0:00,6:50,Yes,No,0:00,0:00
+2/27/2026,Laila Chakib,Clinic DirectorConcierge,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,30,8:00,6:00,,0:00,6:00,Yes,No,0:00,0:00
+2/27/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Macarena Silvestri,Treatment Provider,Working,"Short Hills, NJ",10:00 AM - 06:00 PM,480,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/27/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,6:25,,0:00,6:25,Yes,No,0:00,0:00
+2/27/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",10:00 AM - 06:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/28/2026,Brittany King,Esthetician,Working,"Bel Air, MD",09:00 AM - 05:00 PM,30,8:00,4:20,,0:00,4:20,Yes,No,0:00,0:00
+2/28/2026,Laura Cardinal,Manager,Working,"Bel Air, MD",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/28/2026,Shanon Snead,Treatment Provider,Working,"Bel Air, MD",09:00 AM - 05:00 PM,0,8:00,12:45,,0:00,12:45,Yes,No,0:00,0:00
+2/28/2026,Macarena Silvestri,Treatment Provider,Working,"Bridgewater, NJ",09:00 AM - 02:00 PM,0,5:00,4:15,,0:00,4:15,Yes,No,0:00,0:00
+2/28/2026,Jackie Moyer,Treatment Provider,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,4:10,,0:00,4:10,Yes,No,0:00,0:00
+2/28/2026,Joanna Machel,Treatment Provider,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,6:40,,0:00,6:40,Yes,No,0:00,0:00
+2/28/2026,Lilian Joval,Clinic DirectorConcierge,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/28/2026,Lis Castro,Esthetician,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,5:15,,0:00,5:15,Yes,No,0:00,0:00
+2/28/2026,Samantha Kehle,Manager,Working,"Denville, NJ",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/28/2026,Christine Eppes,Treatment Provider,Working,"Frederick, MD",09:00 AM - 02:00 PM,0,5:00,5:15,,0:00,5:15,Yes,No,0:00,0:00
+2/28/2026,Giuliana Popolillo,Treatment Provider,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,7:20,,0:00,7:20,Yes,No,0:00,0:00
+2/28/2026,Jasmin Mendoza,Clinic DirectorConcierge,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/28/2026,Scarlin Sanchez,Esthetician,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,30,8:00,6:45,,0:00,6:45,Yes,No,0:00,0:00
+2/28/2026,Silvana Rivas,Treatment Provider,Working,"Hoboken, NJ",09:00 AM - 05:00 PM,0,8:00,8:05,,0:00,8:05,Yes,No,0:00,0:00
+2/28/2026,Arwa Mahmoud,Clinic DirectorConcierge,Working,"Jersey City, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/28/2026,Daylin Bastidas,Esthetician,Working,"Jersey City, NJ",09:00 AM - 05:00 PM,0,8:00,7:00,,0:00,7:00,Yes,No,0:00,0:00
+2/28/2026,Karen Enriquez,Treatment Provider,Working,"Jersey City, NJ",09:00 AM - 05:00 PM,0,8:00,5:25,,0:00,5:25,Yes,No,0:00,0:00
+2/28/2026,Alyssa Hernandez,Manager,Working,"Lancaster, PA",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/28/2026,Jessa Brooks,Treatment Provider,Working,"Lancaster, PA",09:00 AM - 02:00 PM,0,5:00,1:45,,0:00,1:45,Yes,No,0:00,0:00
+2/28/2026,Jessica Crawford,Treatment Provider,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,6:05,,0:00,6:05,Yes,No,0:00,0:00
+2/28/2026,Marwa Mahmoud,Manager,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,0:15,,0:00,0:15,Yes,No,0:00,0:00
+2/28/2026,Roshni Patel,Treatment Provider,Working,"Montclair, NJ",09:00 AM - 03:00 PM,0,6:00,5:35,,0:00,5:35,Yes,No,0:00,0:00
+2/28/2026,Sujita Brar,Esthetician,Working,"Montclair, NJ",09:00 AM - 03:00 PM,15,6:00,4:50,,0:00,4:50,Yes,No,0:00,0:00
+2/28/2026,Alyssa Nicol,Treatment Provider,Working,"Old Bridge, NJ",09:00 AM - 02:00 PM,0,5:00,5:10,,0:00,5:10,Yes,No,0:00,0:00
+2/28/2026,Domenica Fassari,Esthetician,Working,"Old Bridge, NJ",09:00 AM - 02:00 PM,0,5:00,4:05,,0:00,4:05,Yes,No,0:00,0:00
+2/28/2026,Lindsey Parker,Manager,Working,"Old Bridge, NJ",09:00 AM - 02:00 PM,5,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/28/2026,Gabriella Campisi,Manager,Working,"Red Bank, NJ",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/28/2026,Kristina Giakas,Treatment Provider,Working,"Red Bank, NJ",09:00 AM - 01:30 PM,0,4:30,4:50,,0:00,4:50,Yes,No,0:00,0:00
+2/28/2026,Annette Webson,Esthetician,Working,"Ridgewood, NJ",09:30 AM - 04:00 PM,30,6:30,5:55,,0:00,5:55,Yes,No,0:00,0:00
+2/28/2026,Ceyli Reyes,Treatment Provider,Working,"Ridgewood, NJ",09:00 AM - 03:30 PM,30,6:30,5:45,,0:00,5:45,Yes,No,0:00,0:00
+2/28/2026,Leigh Ortiz,Manager,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,0,7:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/28/2026,Patricia Ashmore,Treatment Provider,Working,"Ridgewood, NJ",09:00 AM - 04:00 PM,0,7:00,5:20,,0:00,5:20,Yes,No,0:00,0:00
+2/28/2026,Jessica Kestler,Treatment Provider,Working,"Short Hills, NJ",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/28/2026,Jessica Mock,Treatment Provider,Working,"Short Hills, NJ",09:00 AM - 05:00 PM,30,8:00,5:00,,0:00,5:00,Yes,No,0:00,0:00
+2/28/2026,Leah Roundtree,Esthetician,Working,"Short Hills, NJ",09:00 AM - 02:00 PM,0,5:00,3:45,,0:00,3:45,Yes,No,0:00,0:00
+2/28/2026,Lexy Okeefe,Manager,Working,"Short Hills, NJ",09:00 AM - 05:00 PM,0,8:00,0:00,,0:00,0:00,Yes,No,0:00,0:00
+2/28/2026,Breana Durrah,Treatment Provider,Working,"Waldorf, MD",09:00 AM - 02:00 PM,0,5:00,3:35,,0:00,3:35,Yes,No,0:00,0:00
+2/28/2026,Tylisha Cobb,Manager,Working,"Waldorf, MD",09:00 AM - 02:00 PM,0,5:00,0:00,,0:00,0:00,Yes,No,0:00,0:00

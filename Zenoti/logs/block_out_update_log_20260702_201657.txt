@@ -1,0 +1,53 @@
+2026-07-02 20:16:57,914 - INFO - Found 41 rows in C:\Users\esg\Downloads\Zenoti\blocks\block_july1.csv
+2026-07-02 20:17:00,464 - INFO - Successfully connected to the database.
+2026-07-02 20:17:00,876 - INFO - SUCCESS: Updated row 0 for 'Brittany King' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:01,284 - INFO - SUCCESS: Updated row 1 for 'Laura Cardinal' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:01,691 - INFO - SUCCESS: Updated row 2 for 'Training Model2 ' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:02,095 - INFO - SUCCESS: Updated row 3 for 'Alyssa Reed' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:02,501 - INFO - SUCCESS: Updated row 4 for 'Macarena Silvestri' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:02,907 - INFO - SUCCESS: Updated row 5 for 'Joanna Machel' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:03,311 - INFO - SUCCESS: Updated row 6 for 'Kyra Jamison' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:03,723 - INFO - SUCCESS: Updated row 7 for 'Lilian Joval' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:04,124 - INFO - SUCCESS: Updated row 8 for 'Lis Castro' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:04,529 - INFO - SUCCESS: Updated row 9 for 'Christine Eppes' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:04,928 - INFO - SUCCESS: Updated row 10 for 'Caroline Swartz' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:05,324 - INFO - SUCCESS: Updated row 11 for 'Deanna Dragone' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:05,731 - INFO - SUCCESS: Updated row 12 for 'Giuliana Popolillo' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:06,128 - INFO - SUCCESS: Updated row 13 for 'Jasmin Mendoza' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:06,526 - INFO - SUCCESS: Updated row 14 for 'Lindsey Parker' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:06,932 - INFO - SUCCESS: Updated row 15 for 'Silvana Rivas' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:07,334 - INFO - SUCCESS: Updated row 16 for 'Jessa Brooks' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:07,536 - INFO - --- No match found for CSV row 17. Attempting to insert. ---
+2026-07-02 20:17:07,748 - INFO - SUCCESS: Inserted new record for 'Arileiny De La Cruz' on 07/01/2026.
+2026-07-02 20:17:07,748 - INFO - --------------------------------------------------
+2026-07-02 20:17:08,147 - INFO - SUCCESS: Updated row 18 for 'Aysia Lee' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:08,549 - INFO - SUCCESS: Updated row 19 for 'Nicole Larsen' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:08,951 - INFO - SUCCESS: Updated row 20 for 'Sujita Brar' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:09,355 - INFO - SUCCESS: Updated row 21 for 'Terilyn Ma' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:09,761 - INFO - SUCCESS: Updated row 22 for 'Alyssa Nicol' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:10,163 - INFO - SUCCESS: Updated row 23 for 'Domenica Fassari' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:10,561 - INFO - SUCCESS: Updated row 24 for 'Samantha Kehle' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:10,966 - INFO - SUCCESS: Updated row 25 for 'Breana Ramsumair' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:11,370 - INFO - SUCCESS: Updated row 26 for 'Gabriella Campisi' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:11,777 - INFO - SUCCESS: Updated row 27 for 'Kristina Giakas' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:12,182 - INFO - SUCCESS: Updated row 28 for 'Annette Webson' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:12,580 - INFO - SUCCESS: Updated row 29 for 'Ceyli Reyes' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:12,978 - INFO - SUCCESS: Updated row 30 for 'Jessica Ramirez' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:13,372 - INFO - SUCCESS: Updated row 31 for 'Leigh Ortiz' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:13,778 - INFO - SUCCESS: Updated row 32 for 'Patricia Ashmore' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:14,183 - INFO - SUCCESS: Updated row 33 for 'Allyson Koch' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:14,579 - INFO - SUCCESS: Updated row 34 for 'Armani Scott' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:14,979 - INFO - SUCCESS: Updated row 35 for 'Leah Roundtree' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:15,384 - INFO - SUCCESS: Updated row 36 for 'Stephanie Chernovets' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:15,790 - INFO - SUCCESS: Updated row 37 for 'Lana Patrick' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:16,187 - INFO - SUCCESS: Updated row 38 for 'Sherin Panayil' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:16,586 - INFO - SUCCESS: Updated row 39 for 'Breana Durrah' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:16,980 - INFO - SUCCESS: Updated row 40 for 'Tylisha Cobb' on 07/01/2026. Applied changes: [block_out_hours_paid] = ?, [scheduled_hours] = ?, [booked_hours] = ?.
+2026-07-02 20:17:16,989 - INFO - 
+Orphan cleanup: scanning DB for records in date range 07/01/2026 — 07/01/2026 not found in CSV.
+2026-07-02 20:17:17,195 - INFO - Found 42 DB record(s) in date range.
+2026-07-02 20:17:17,500 - INFO - DELETED: 'Paige Martin' on 07/01/2026 at 'Red Bank, NJ' (schedule_id: 2ed41c9b-496a-4d6e-84ff-489113306e10)
+2026-07-02 20:17:17,512 - INFO - Orphan cleanup complete. Total rows deleted: 1
+2026-07-02 20:17:17,712 - INFO - 
+Transaction committed.
+2026-07-02 20:17:17,713 - INFO - Database update complete. Total rows updated: 40, Total rows inserted: 1, Total rows deleted: 1

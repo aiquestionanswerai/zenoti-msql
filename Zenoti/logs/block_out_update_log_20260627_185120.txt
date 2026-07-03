@@ -1,0 +1,2907 @@
+2026-06-27 18:51:20,406 - INFO - Found 821 rows in C:\Users\esg\Downloads\Zenoti\blocks\block_june1-25.csv
+2026-06-27 18:51:22,797 - INFO - Successfully connected to the database.
+2026-06-27 18:51:23,028 - INFO - --- No match found for CSV row 0. Attempting to insert. ---
+2026-06-27 18:51:23,254 - ERROR - Error inserting row 0: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:23,257 - ERROR - Problematic Row Data for Insert: 
+Date                             06/01/2026
+Employee Name                 Joanna Machel
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                       6.916667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:55
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 0, dtype: object
+2026-06-27 18:51:23,258 - INFO - --------------------------------------------------
+2026-06-27 18:51:23,466 - INFO - --- No match found for CSV row 1. Attempting to insert. ---
+2026-06-27 18:51:23,672 - ERROR - Error inserting row 1: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:23,674 - ERROR - Problematic Row Data for Insert: 
+Date                             06/01/2026
+Employee Name                 Katlyn Cusack
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                01:00 PM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         5.0
+Booked Hours                       5.083333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:05
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         13:00:00
+end_time                           18:00:00
+status                                    0
+Name: 1, dtype: object
+2026-06-27 18:51:23,675 - INFO - --------------------------------------------------
+2026-06-27 18:51:23,886 - INFO - --- No match found for CSV row 2. Attempting to insert. ---
+2026-06-27 18:51:24,094 - ERROR - Error inserting row 2: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:24,096 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/01/2026
+Employee Name                       Lilian Joval
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                         Denville, NJ
+Schedule                     10:00 AM - 06:00 PM
+Block Out Hours Paid                        0.17
+Scheduled Hours                              8.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              10:00:00
+end_time                                18:00:00
+status                                         0
+Name: 2, dtype: object
+2026-06-27 18:51:24,097 - INFO - --------------------------------------------------
+2026-06-27 18:51:24,305 - INFO - --- No match found for CSV row 3. Attempting to insert. ---
+2026-06-27 18:51:24,511 - ERROR - Error inserting row 3: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:24,513 - ERROR - Problematic Row Data for Insert: 
+Date                             06/01/2026
+Employee Name                 Nicole Larsen
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       6.083333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:05
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 3, dtype: object
+2026-06-27 18:51:24,513 - INFO - --------------------------------------------------
+2026-06-27 18:51:24,724 - INFO - --- No match found for CSV row 4. Attempting to insert. ---
+2026-06-27 18:51:24,928 - ERROR - Error inserting row 4: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:24,930 - ERROR - Problematic Row Data for Insert: 
+Date                             06/01/2026
+Employee Name               Crystal Farinha
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Jersey City, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       9.833333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         9:50
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 4, dtype: object
+2026-06-27 18:51:24,931 - INFO - --------------------------------------------------
+2026-06-27 18:51:25,141 - INFO - --- No match found for CSV row 5. Attempting to insert. ---
+2026-06-27 18:51:25,348 - ERROR - Error inserting row 5: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:25,349 - ERROR - Problematic Row Data for Insert: 
+Date                             06/01/2026
+Employee Name               Daylin Bastidas
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                 Jersey City, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                            6.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 5, dtype: object
+2026-06-27 18:51:25,349 - INFO - --------------------------------------------------
+2026-06-27 18:51:25,558 - INFO - --- No match found for CSV row 6. Attempting to insert. ---
+2026-06-27 18:51:25,766 - ERROR - Error inserting row 6: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:25,767 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/01/2026
+Employee Name                Josephine Hernandez
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                      Jersey City, NJ
+Schedule                     10:00 AM - 06:00 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              8.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              10:00:00
+end_time                                18:00:00
+status                                         0
+Name: 6, dtype: object
+2026-06-27 18:51:25,768 - INFO - --------------------------------------------------
+2026-06-27 18:51:25,977 - INFO - --- No match found for CSV row 7. Attempting to insert. ---
+2026-06-27 18:51:26,184 - ERROR - Error inserting row 7: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:26,185 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/01/2026
+Employee Name                       Monique Snee
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                      Jersey City, NJ
+Schedule                     11:00 AM - 06:00 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              7.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              11:00:00
+end_time                                18:00:00
+status                                         0
+Name: 7, dtype: object
+2026-06-27 18:51:26,185 - INFO - --------------------------------------------------
+2026-06-27 18:51:26,399 - INFO - --- No match found for CSV row 8. Attempting to insert. ---
+2026-06-27 18:51:26,608 - ERROR - Error inserting row 8: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:26,609 - ERROR - Problematic Row Data for Insert: 
+Date                             06/01/2026
+Employee Name                  Lana Patrick
+Job                                 Manager
+Schedule Status                     Working
+Work Center                     Tribeca, NY
+Schedule                10:00 AM - 03:30 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         5.5
+Booked Hours                       0.083333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:05
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           15:30:00
+status                                    0
+Name: 8, dtype: object
+2026-06-27 18:51:26,609 - INFO - --------------------------------------------------
+2026-06-27 18:51:26,821 - INFO - --- No match found for CSV row 9. Attempting to insert. ---
+2026-06-27 18:51:27,025 - ERROR - Error inserting row 9: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:27,026 - ERROR - Problematic Row Data for Insert: 
+Date                             06/01/2026
+Employee Name                Sherin Panayil
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Tribeca, NY
+Schedule                10:00 AM - 07:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         9.0
+Booked Hours                       5.083333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:05
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           19:00:00
+status                                    0
+Name: 9, dtype: object
+2026-06-27 18:51:27,026 - INFO - --------------------------------------------------
+2026-06-27 18:51:27,235 - INFO - --- No match found for CSV row 10. Attempting to insert. ---
+2026-06-27 18:51:27,441 - ERROR - Error inserting row 10: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:27,442 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                 Brittany King
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                     Bel Air, MD
+Schedule                10:00 AM - 03:30 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         5.5
+Booked Hours                            4.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         4:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           15:30:00
+status                                    0
+Name: 10, dtype: object
+2026-06-27 18:51:27,442 - INFO - --------------------------------------------------
+2026-06-27 18:51:27,650 - INFO - --- No match found for CSV row 11. Attempting to insert. ---
+2026-06-27 18:51:27,944 - ERROR - Error inserting row 11: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:27,945 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                Laura Cardinal
+Job                                 Manager
+Schedule Status                     Working
+Work Center                     Bel Air, MD
+Schedule                10:00 AM - 07:20 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                    9.333333
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           19:20:00
+status                                    0
+Name: 11, dtype: object
+2026-06-27 18:51:27,945 - INFO - --------------------------------------------------
+2026-06-27 18:51:28,153 - INFO - --- No match found for CSV row 12. Attempting to insert. ---
+2026-06-27 18:51:28,361 - ERROR - Error inserting row 12: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:28,362 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                  Shanon Snead
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Bel Air, MD
+Schedule                10:00 AM - 07:15 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                        9.25
+Booked Hours                       8.666667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         8:40
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           19:15:00
+status                                    0
+Name: 12, dtype: object
+2026-06-27 18:51:28,362 - INFO - --------------------------------------------------
+2026-06-27 18:51:28,639 - INFO - --- No match found for CSV row 13. Attempting to insert. ---
+2026-06-27 18:51:28,848 - ERROR - Error inserting row 13: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:28,848 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name            Macarena Silvestri
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Bridgewater, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                            4.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         4:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 13, dtype: object
+2026-06-27 18:51:28,849 - INFO - --------------------------------------------------
+2026-06-27 18:51:29,217 - INFO - --- No match found for CSV row 14. Attempting to insert. ---
+2026-06-27 18:51:29,425 - ERROR - Error inserting row 14: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:29,427 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                  Jackie Moyer
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       5.833333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:50
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 14, dtype: object
+2026-06-27 18:51:29,427 - INFO - --------------------------------------------------
+2026-06-27 18:51:29,635 - INFO - --- No match found for CSV row 15. Attempting to insert. ---
+2026-06-27 18:51:29,841 - ERROR - Error inserting row 15: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:29,842 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                 Joanna Machel
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                            7.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         7:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 15, dtype: object
+2026-06-27 18:51:29,843 - INFO - --------------------------------------------------
+2026-06-27 18:51:30,048 - INFO - --- No match found for CSV row 16. Attempting to insert. ---
+2026-06-27 18:51:30,254 - ERROR - Error inserting row 16: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:30,255 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                  Kyra Jamison
+Job                                 Manager
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                         8.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 16, dtype: object
+2026-06-27 18:51:30,255 - INFO - --------------------------------------------------
+2026-06-27 18:51:30,464 - INFO - --- No match found for CSV row 17. Attempting to insert. ---
+2026-06-27 18:51:30,669 - ERROR - Error inserting row 17: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:30,815 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/02/2026
+Employee Name                       Lilian Joval
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                         Denville, NJ
+Schedule                     10:00 AM - 06:00 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              8.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              10:00:00
+end_time                                18:00:00
+status                                         0
+Name: 17, dtype: object
+2026-06-27 18:51:30,816 - INFO - --------------------------------------------------
+2026-06-27 18:51:31,022 - INFO - --- No match found for CSV row 18. Attempting to insert. ---
+2026-06-27 18:51:31,229 - ERROR - Error inserting row 18: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:31,239 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                    Lis Castro
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                       5.416667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:25
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 18, dtype: object
+2026-06-27 18:51:31,239 - INFO - --------------------------------------------------
+2026-06-27 18:51:31,486 - INFO - --- No match found for CSV row 19. Attempting to insert. ---
+2026-06-27 18:51:31,693 - ERROR - Error inserting row 19: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:31,694 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                   Carly Jones
+Job                                 Manager
+Schedule Status                     Working
+Work Center                   Frederick, MD
+Schedule                09:00 AM - 06:00 PM
+Block Out Hours Paid                   1.83
+Scheduled Hours                         9.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         09:00:00
+end_time                           18:00:00
+status                                    0
+Name: 19, dtype: object
+2026-06-27 18:51:31,694 - INFO - --------------------------------------------------
+2026-06-27 18:51:31,901 - INFO - --- No match found for CSV row 20. Attempting to insert. ---
+2026-06-27 18:51:32,109 - ERROR - Error inserting row 20: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:32,109 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                      Geri Gan
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                   Frederick, MD
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       4.916667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         4:55
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 20, dtype: object
+2026-06-27 18:51:32,110 - INFO - --------------------------------------------------
+2026-06-27 18:51:32,320 - INFO - --- No match found for CSV row 21. Attempting to insert. ---
+2026-06-27 18:51:32,527 - ERROR - Error inserting row 21: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:32,527 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name               Caroline Swartz
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                            5.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 21, dtype: object
+2026-06-27 18:51:32,528 - INFO - --------------------------------------------------
+2026-06-27 18:51:32,731 - INFO - --- No match found for CSV row 22. Attempting to insert. ---
+2026-06-27 18:51:32,937 - ERROR - Error inserting row 22: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:32,937 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                Deanna Dragone
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                11:00 AM - 06:30 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         7.5
+Booked Hours                            7.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         7:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         11:00:00
+end_time                           18:30:00
+status                                    0
+Name: 22, dtype: object
+2026-06-27 18:51:32,938 - INFO - --------------------------------------------------
+2026-06-27 18:51:33,148 - INFO - --- No match found for CSV row 23. Attempting to insert. ---
+2026-06-27 18:51:33,357 - ERROR - Error inserting row 23: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:33,358 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name            Giuliana Popolillo
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                10:00 AM - 05:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         7.0
+Booked Hours                       5.666667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:40
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           17:00:00
+status                                    0
+Name: 23, dtype: object
+2026-06-27 18:51:33,358 - INFO - --------------------------------------------------
+2026-06-27 18:51:33,568 - INFO - --- No match found for CSV row 24. Attempting to insert. ---
+2026-06-27 18:51:33,776 - ERROR - Error inserting row 24: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:33,778 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/02/2026
+Employee Name                     Jasmin Mendoza
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                          Hoboken, NJ
+Schedule                     11:00 AM - 06:30 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              7.5
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              11:00:00
+end_time                                18:30:00
+status                                         0
+Name: 24, dtype: object
+2026-06-27 18:51:33,778 - INFO - --------------------------------------------------
+2026-06-27 18:51:33,985 - INFO - --- No match found for CSV row 25. Attempting to insert. ---
+2026-06-27 18:51:34,190 - ERROR - Error inserting row 25: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:34,192 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                Lindsey Parker
+Job                                 Manager
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                10:00 AM - 02:30 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         4.5
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           14:30:00
+status                                    0
+Name: 25, dtype: object
+2026-06-27 18:51:34,193 - INFO - --------------------------------------------------
+2026-06-27 18:51:34,405 - INFO - --- No match found for CSV row 26. Attempting to insert. ---
+2026-06-27 18:51:34,609 - ERROR - Error inserting row 26: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:34,611 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/02/2026
+Employee Name                   Osbert Fernandez
+Job                     Clinical Leadership Team
+Schedule Status                          Working
+Work Center                          Hoboken, NJ
+Schedule                     03:00 PM - 07:00 PM
+Block Out Hours Paid                        4.00
+Scheduled Hours                              4.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              15:00:00
+end_time                                19:00:00
+status                                         0
+Name: 26, dtype: object
+2026-06-27 18:51:34,612 - INFO - --------------------------------------------------
+2026-06-27 18:51:34,816 - INFO - --- No match found for CSV row 27. Attempting to insert. ---
+2026-06-27 18:51:35,024 - ERROR - Error inserting row 27: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:35,026 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name               Scarlin Sanchez
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                11:00 AM - 07:00 PM
+Block Out Hours Paid                   1.50
+Scheduled Hours                         8.0
+Booked Hours                            5.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         11:00:00
+end_time                           19:00:00
+status                                    0
+Name: 27, dtype: object
+2026-06-27 18:51:35,026 - INFO - --------------------------------------------------
+2026-06-27 18:51:35,234 - INFO - --- No match found for CSV row 28. Attempting to insert. ---
+2026-06-27 18:51:35,441 - ERROR - Error inserting row 28: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:35,443 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                 Silvana Rivas
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                       5.416667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:25
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 28, dtype: object
+2026-06-27 18:51:35,443 - INFO - --------------------------------------------------
+2026-06-27 18:51:35,651 - INFO - --- No match found for CSV row 29. Attempting to insert. ---
+2026-06-27 18:51:35,858 - ERROR - Error inserting row 29: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:35,860 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name               Crystal Farinha
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Jersey City, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       7.416667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         7:25
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 29, dtype: object
+2026-06-27 18:51:35,860 - INFO - --------------------------------------------------
+2026-06-27 18:51:36,069 - INFO - --- No match found for CSV row 30. Attempting to insert. ---
+2026-06-27 18:51:36,276 - ERROR - Error inserting row 30: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:36,280 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name               Daylin Bastidas
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                 Jersey City, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       5.916667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:55
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 30, dtype: object
+2026-06-27 18:51:36,281 - INFO - --------------------------------------------------
+2026-06-27 18:51:36,490 - INFO - --- No match found for CSV row 31. Attempting to insert. ---
+2026-06-27 18:51:36,695 - ERROR - Error inserting row 31: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:36,697 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/02/2026
+Employee Name                Josephine Hernandez
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                      Jersey City, NJ
+Schedule                     10:00 AM - 06:00 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              8.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              10:00:00
+end_time                                18:00:00
+status                                         0
+Name: 31, dtype: object
+2026-06-27 18:51:36,697 - INFO - --------------------------------------------------
+2026-06-27 18:51:36,906 - INFO - --- No match found for CSV row 32. Attempting to insert. ---
+2026-06-27 18:51:37,112 - ERROR - Error inserting row 32: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:37,114 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/02/2026
+Employee Name                       Monique Snee
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                      Jersey City, NJ
+Schedule                     12:00 PM - 08:00 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              8.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              12:00:00
+end_time                                20:00:00
+status                                         0
+Name: 32, dtype: object
+2026-06-27 18:51:37,114 - INFO - --------------------------------------------------
+2026-06-27 18:51:37,322 - INFO - --- No match found for CSV row 33. Attempting to insert. ---
+2026-06-27 18:51:37,529 - ERROR - Error inserting row 33: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:37,529 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                  Paige Martin
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Jersey City, NJ
+Schedule                10:00 AM - 08:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                        10.0
+Booked Hours                          10.25
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                        10:15
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           20:00:00
+status                                    0
+Name: 33, dtype: object
+2026-06-27 18:51:37,530 - INFO - --------------------------------------------------
+2026-06-27 18:51:37,736 - INFO - --- No match found for CSV row 34. Attempting to insert. ---
+2026-06-27 18:51:37,944 - ERROR - Error inserting row 34: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:37,946 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                     Aysia Lee
+Job                                 Manager
+Schedule Status                     Working
+Work Center                   Montclair, NJ
+Schedule                10:00 AM - 05:30 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         7.5
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           17:30:00
+status                                    0
+Name: 34, dtype: object
+2026-06-27 18:51:37,946 - INFO - --------------------------------------------------
+2026-06-27 18:51:38,157 - INFO - --- No match found for CSV row 35. Attempting to insert. ---
+2026-06-27 18:51:38,364 - ERROR - Error inserting row 35: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:38,364 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name              Patricia Ashmore
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                   Montclair, NJ
+Schedule                10:00 AM - 05:00 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                         7.0
+Booked Hours                       4.083333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         4:05
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           17:00:00
+status                                    0
+Name: 35, dtype: object
+2026-06-27 18:51:38,365 - INFO - --------------------------------------------------
+2026-06-27 18:51:38,573 - INFO - --- No match found for CSV row 36. Attempting to insert. ---
+2026-06-27 18:51:38,781 - ERROR - Error inserting row 36: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:38,782 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                   Sujita Brar
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                   Montclair, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                           6.25
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:15
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 36, dtype: object
+2026-06-27 18:51:38,782 - INFO - --------------------------------------------------
+2026-06-27 18:51:38,989 - INFO - --- No match found for CSV row 37. Attempting to insert. ---
+2026-06-27 18:51:39,198 - ERROR - Error inserting row 37: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:39,200 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                  Alyssa Nicol
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                  Old Bridge, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       8.166667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         8:10
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 37, dtype: object
+2026-06-27 18:51:39,200 - INFO - --------------------------------------------------
+2026-06-27 18:51:39,412 - INFO - --- No match found for CSV row 38. Attempting to insert. ---
+2026-06-27 18:51:39,621 - ERROR - Error inserting row 38: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:39,623 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                   Alyssa Reed
+Job                                 Manager
+Schedule Status                     Working
+Work Center                  Old Bridge, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   1.33
+Scheduled Hours                         8.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 38, dtype: object
+2026-06-27 18:51:39,623 - INFO - --------------------------------------------------
+2026-06-27 18:51:39,834 - INFO - --- No match found for CSV row 39. Attempting to insert. ---
+2026-06-27 18:51:40,039 - ERROR - Error inserting row 39: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:40,041 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name              Domenica Fassari
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                  Old Bridge, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   6.50
+Scheduled Hours                         8.0
+Booked Hours                            1.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         1:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 39, dtype: object
+2026-06-27 18:51:40,042 - INFO - --------------------------------------------------
+2026-06-27 18:51:40,250 - INFO - --- No match found for CSV row 40. Attempting to insert. ---
+2026-06-27 18:51:40,457 - ERROR - Error inserting row 40: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:40,459 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name             Gabriella Campisi
+Job                                 Manager
+Schedule Status                     Working
+Work Center                    Red Bank, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 40, dtype: object
+2026-06-27 18:51:40,459 - INFO - --------------------------------------------------
+2026-06-27 18:51:40,671 - INFO - --- No match found for CSV row 41. Attempting to insert. ---
+2026-06-27 18:51:40,879 - ERROR - Error inserting row 41: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:40,882 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name               Kristina Giakas
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                    Red Bank, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                            7.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         7:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 41, dtype: object
+2026-06-27 18:51:40,883 - INFO - --------------------------------------------------
+2026-06-27 18:51:41,095 - INFO - --- No match found for CSV row 42. Attempting to insert. ---
+2026-06-27 18:51:41,300 - ERROR - Error inserting row 42: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:41,302 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name              Michelle Maddatu
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                    Red Bank, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       5.666667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:40
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 42, dtype: object
+2026-06-27 18:51:41,303 - INFO - --------------------------------------------------
+2026-06-27 18:51:41,514 - INFO - --- No match found for CSV row 43. Attempting to insert. ---
+2026-06-27 18:51:41,721 - ERROR - Error inserting row 43: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:41,723 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                Annette Webson
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                   Ridgewood, NJ
+Schedule                10:30 AM - 06:00 PM
+Block Out Hours Paid                   1.50
+Scheduled Hours                         7.5
+Booked Hours                           2.75
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         2:45
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:30:00
+end_time                           18:00:00
+status                                    0
+Name: 43, dtype: object
+2026-06-27 18:51:41,723 - INFO - --------------------------------------------------
+2026-06-27 18:51:41,936 - INFO - --- No match found for CSV row 44. Attempting to insert. ---
+2026-06-27 18:51:42,144 - ERROR - Error inserting row 44: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:42,146 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                   Ceyli Reyes
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                   Ridgewood, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                            6.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 44, dtype: object
+2026-06-27 18:51:42,147 - INFO - --------------------------------------------------
+2026-06-27 18:51:42,355 - INFO - --- No match found for CSV row 45. Attempting to insert. ---
+2026-06-27 18:51:42,561 - ERROR - Error inserting row 45: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:42,563 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                   Leigh Ortiz
+Job                                 Manager
+Schedule Status                     Working
+Work Center                   Ridgewood, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                         8.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 45, dtype: object
+2026-06-27 18:51:42,563 - INFO - --------------------------------------------------
+2026-06-27 18:51:42,770 - INFO - --- No match found for CSV row 46. Attempting to insert. ---
+2026-06-27 18:51:42,974 - ERROR - Error inserting row 46: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:42,976 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                  Allyson Koch
+Job                                 Manager
+Schedule Status                     Working
+Work Center                 Short Hills, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 46, dtype: object
+2026-06-27 18:51:42,976 - INFO - --------------------------------------------------
+2026-06-27 18:51:43,189 - INFO - --- No match found for CSV row 47. Attempting to insert. ---
+2026-06-27 18:51:43,396 - ERROR - Error inserting row 47: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:43,397 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name               Jessica Kestler
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Short Hills, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       8.583333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         8:35
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 47, dtype: object
+2026-06-27 18:51:43,397 - INFO - --------------------------------------------------
+2026-06-27 18:51:43,610 - INFO - --- No match found for CSV row 48. Attempting to insert. ---
+2026-06-27 18:51:43,814 - ERROR - Error inserting row 48: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:43,815 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                Karen Enriquez
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Short Hills, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       7.083333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         7:05
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 48, dtype: object
+2026-06-27 18:51:43,817 - INFO - --------------------------------------------------
+2026-06-27 18:51:44,024 - INFO - --- No match found for CSV row 49. Attempting to insert. ---
+2026-06-27 18:51:44,229 - ERROR - Error inserting row 49: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:44,230 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                Leah Roundtree
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                 Short Hills, NJ
+Schedule                12:00 PM - 08:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       4.416667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         4:25
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         12:00:00
+end_time                           20:00:00
+status                                    0
+Name: 49, dtype: object
+2026-06-27 18:51:44,231 - INFO - --------------------------------------------------
+2026-06-27 18:51:44,436 - INFO - --- No match found for CSV row 50. Attempting to insert. ---
+2026-06-27 18:51:44,641 - ERROR - Error inserting row 50: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:44,642 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                  Lana Patrick
+Job                                 Manager
+Schedule Status                     Working
+Work Center                     Tribeca, NY
+Schedule                10:00 AM - 05:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         7.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           17:00:00
+status                                    0
+Name: 50, dtype: object
+2026-06-27 18:51:44,642 - INFO - --------------------------------------------------
+2026-06-27 18:51:44,846 - INFO - --- No match found for CSV row 51. Attempting to insert. ---
+2026-06-27 18:51:45,048 - ERROR - Error inserting row 51: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:45,048 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                Sherin Panayil
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Tribeca, NY
+Schedule                10:00 AM - 07:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         9.0
+Booked Hours                            6.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           19:00:00
+status                                    0
+Name: 51, dtype: object
+2026-06-27 18:51:45,049 - INFO - --------------------------------------------------
+2026-06-27 18:51:45,257 - INFO - --- No match found for CSV row 52. Attempting to insert. ---
+2026-06-27 18:51:45,460 - ERROR - Error inserting row 52: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:45,461 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                 Breana Durrah
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Waldorf, MD
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       2.666667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         2:40
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 52, dtype: object
+2026-06-27 18:51:45,461 - INFO - --------------------------------------------------
+2026-06-27 18:51:45,669 - INFO - --- No match found for CSV row 53. Attempting to insert. ---
+2026-06-27 18:51:45,875 - ERROR - Error inserting row 53: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:45,876 - ERROR - Problematic Row Data for Insert: 
+Date                             06/02/2026
+Employee Name                  Tylisha Cobb
+Job                                 Manager
+Schedule Status                     Working
+Work Center                     Waldorf, MD
+Schedule                12:00 PM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         6.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         12:00:00
+end_time                           18:00:00
+status                                    0
+Name: 53, dtype: object
+2026-06-27 18:51:45,877 - INFO - --------------------------------------------------
+2026-06-27 18:51:46,084 - INFO - --- No match found for CSV row 54. Attempting to insert. ---
+2026-06-27 18:51:46,289 - ERROR - Error inserting row 54: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:46,291 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                 Brittany King
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                     Bel Air, MD
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                         8.0
+Booked Hours                            6.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 54, dtype: object
+2026-06-27 18:51:46,291 - INFO - --------------------------------------------------
+2026-06-27 18:51:46,496 - INFO - --- No match found for CSV row 55. Attempting to insert. ---
+2026-06-27 18:51:46,699 - ERROR - Error inserting row 55: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:46,700 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                Laura Cardinal
+Job                                 Manager
+Schedule Status                     Working
+Work Center                     Bel Air, MD
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                         8.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 55, dtype: object
+2026-06-27 18:51:46,701 - INFO - --------------------------------------------------
+2026-06-27 18:51:46,905 - INFO - --- No match found for CSV row 56. Attempting to insert. ---
+2026-06-27 18:51:47,109 - ERROR - Error inserting row 56: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:47,111 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                  Shanon Snead
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Bel Air, MD
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                         8.0
+Booked Hours                       7.166667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         7:10
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 56, dtype: object
+2026-06-27 18:51:47,111 - INFO - --------------------------------------------------
+2026-06-27 18:51:47,323 - INFO - --- No match found for CSV row 57. Attempting to insert. ---
+2026-06-27 18:51:47,530 - ERROR - Error inserting row 57: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:47,532 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                   Alyssa Reed
+Job                                 Manager
+Schedule Status                     Working
+Work Center                 Bridgewater, NJ
+Schedule                09:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         9.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         09:00:00
+end_time                           18:00:00
+status                                    0
+Name: 57, dtype: object
+2026-06-27 18:51:47,532 - INFO - --------------------------------------------------
+2026-06-27 18:51:47,737 - INFO - --- No match found for CSV row 58. Attempting to insert. ---
+2026-06-27 18:51:47,945 - ERROR - Error inserting row 58: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:47,946 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name            Macarena Silvestri
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Bridgewater, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                         8.0
+Booked Hours                       6.666667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:40
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 58, dtype: object
+2026-06-27 18:51:47,946 - INFO - --------------------------------------------------
+2026-06-27 18:51:48,157 - INFO - --- No match found for CSV row 59. Attempting to insert. ---
+2026-06-27 18:51:48,364 - ERROR - Error inserting row 59: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:48,366 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                 Joanna Machel
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                10:00 AM - 08:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                        10.0
+Booked Hours                            9.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         9:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           20:00:00
+status                                    0
+Name: 59, dtype: object
+2026-06-27 18:51:48,366 - INFO - --------------------------------------------------
+2026-06-27 18:51:48,577 - INFO - --- No match found for CSV row 60. Attempting to insert. ---
+2026-06-27 18:51:48,783 - ERROR - Error inserting row 60: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:48,784 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                  Kyra Jamison
+Job                                 Manager
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                12:00 PM - 08:00 PM
+Block Out Hours Paid                   0.25
+Scheduled Hours                         8.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         12:00:00
+end_time                           20:00:00
+status                                    0
+Name: 60, dtype: object
+2026-06-27 18:51:48,784 - INFO - --------------------------------------------------
+2026-06-27 18:51:48,990 - INFO - --- No match found for CSV row 61. Attempting to insert. ---
+2026-06-27 18:51:49,193 - ERROR - Error inserting row 61: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:49,194 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/03/2026
+Employee Name                       Lilian Joval
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                         Denville, NJ
+Schedule                     10:00 AM - 04:00 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              6.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              10:00:00
+end_time                                16:00:00
+status                                         0
+Name: 61, dtype: object
+2026-06-27 18:51:49,194 - INFO - --------------------------------------------------
+2026-06-27 18:51:49,405 - INFO - --- No match found for CSV row 62. Attempting to insert. ---
+2026-06-27 18:51:49,610 - ERROR - Error inserting row 62: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:49,610 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                    Lis Castro
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                           1.75
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         1:45
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 62, dtype: object
+2026-06-27 18:51:49,611 - INFO - --------------------------------------------------
+2026-06-27 18:51:49,818 - INFO - --- No match found for CSV row 63. Attempting to insert. ---
+2026-06-27 18:51:50,020 - ERROR - Error inserting row 63: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:50,022 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                   Carly Jones
+Job                                 Manager
+Schedule Status                     Working
+Work Center                   Frederick, MD
+Schedule                09:00 AM - 06:00 PM
+Block Out Hours Paid                   1.50
+Scheduled Hours                         9.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         09:00:00
+end_time                           18:00:00
+status                                    0
+Name: 63, dtype: object
+2026-06-27 18:51:50,022 - INFO - --------------------------------------------------
+2026-06-27 18:51:50,230 - INFO - --- No match found for CSV row 64. Attempting to insert. ---
+2026-06-27 18:51:50,437 - ERROR - Error inserting row 64: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:50,438 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name               Christine Eppes
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                   Frederick, MD
+Schedule                10:30 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         7.5
+Booked Hours                            5.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:30:00
+end_time                           18:00:00
+status                                    0
+Name: 64, dtype: object
+2026-06-27 18:51:50,438 - INFO - --------------------------------------------------
+2026-06-27 18:51:50,649 - INFO - --- No match found for CSV row 65. Attempting to insert. ---
+2026-06-27 18:51:50,856 - ERROR - Error inserting row 65: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:50,857 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                      Geri Gan
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                   Frederick, MD
+Schedule                09:00 AM - 04:30 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         7.5
+Booked Hours                           4.75
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         4:45
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         09:00:00
+end_time                           16:30:00
+status                                    0
+Name: 65, dtype: object
+2026-06-27 18:51:50,857 - INFO - --------------------------------------------------
+2026-06-27 18:51:51,067 - INFO - --- No match found for CSV row 66. Attempting to insert. ---
+2026-06-27 18:51:51,272 - ERROR - Error inserting row 66: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:51,273 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name               Caroline Swartz
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                10:00 AM - 08:00 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                        10.0
+Booked Hours                       6.333333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:20
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           20:00:00
+status                                    0
+Name: 66, dtype: object
+2026-06-27 18:51:51,274 - INFO - --------------------------------------------------
+2026-06-27 18:51:51,482 - INFO - --- No match found for CSV row 67. Attempting to insert. ---
+2026-06-27 18:51:51,688 - ERROR - Error inserting row 67: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:51,690 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                Deanna Dragone
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                12:00 PM - 07:30 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         7.5
+Booked Hours                       6.583333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:35
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         12:00:00
+end_time                           19:30:00
+status                                    0
+Name: 67, dtype: object
+2026-06-27 18:51:51,690 - INFO - --------------------------------------------------
+2026-06-27 18:51:51,901 - INFO - --- No match found for CSV row 68. Attempting to insert. ---
+2026-06-27 18:51:52,108 - ERROR - Error inserting row 68: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:52,110 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name            Giuliana Popolillo
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                10:00 AM - 08:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                        10.0
+Booked Hours                            6.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           20:00:00
+status                                    0
+Name: 68, dtype: object
+2026-06-27 18:51:52,111 - INFO - --------------------------------------------------
+2026-06-27 18:51:52,321 - INFO - --- No match found for CSV row 69. Attempting to insert. ---
+2026-06-27 18:51:52,524 - ERROR - Error inserting row 69: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:52,525 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/03/2026
+Employee Name                     Jasmin Mendoza
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                          Hoboken, NJ
+Schedule                     12:00 PM - 08:00 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              8.0
+Booked Hours                            0.083333
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:05
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              12:00:00
+end_time                                20:00:00
+status                                         0
+Name: 69, dtype: object
+2026-06-27 18:51:52,526 - INFO - --------------------------------------------------
+2026-06-27 18:51:52,734 - INFO - --- No match found for CSV row 70. Attempting to insert. ---
+2026-06-27 18:51:52,939 - ERROR - Error inserting row 70: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:52,939 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                Lindsey Parker
+Job                                 Manager
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                07:00 AM - 04:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         9.0
+Booked Hours                       0.166667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:10
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         07:00:00
+end_time                           16:00:00
+status                                    0
+Name: 70, dtype: object
+2026-06-27 18:51:52,940 - INFO - --------------------------------------------------
+2026-06-27 18:51:53,148 - INFO - --- No match found for CSV row 71. Attempting to insert. ---
+2026-06-27 18:51:53,354 - ERROR - Error inserting row 71: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:53,354 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                 Silvana Rivas
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                       6.166667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:10
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 71, dtype: object
+2026-06-27 18:51:53,354 - INFO - --------------------------------------------------
+2026-06-27 18:51:53,565 - INFO - --- No match found for CSV row 72. Attempting to insert. ---
+2026-06-27 18:51:53,774 - ERROR - Error inserting row 72: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:53,776 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/03/2026
+Employee Name               Austin Marie Jacobus
+Job                     Clinical Leadership Team
+Schedule Status                          Working
+Work Center                      Jersey City, NJ
+Schedule                     12:30 PM - 02:00 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              1.5
+Booked Hours                                 1.5
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              1:30
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              12:30:00
+end_time                                14:00:00
+status                                         0
+Name: 72, dtype: object
+2026-06-27 18:51:53,777 - INFO - --------------------------------------------------
+2026-06-27 18:51:53,984 - INFO - --- No match found for CSV row 73. Attempting to insert. ---
+2026-06-27 18:51:54,190 - ERROR - Error inserting row 73: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:54,192 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name               Crystal Farinha
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Jersey City, NJ
+Schedule                10:00 AM - 08:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                        10.0
+Booked Hours                      11.166667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                        11:10
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           20:00:00
+status                                    0
+Name: 73, dtype: object
+2026-06-27 18:51:54,192 - INFO - --------------------------------------------------
+2026-06-27 18:51:54,402 - INFO - --- No match found for CSV row 74. Attempting to insert. ---
+2026-06-27 18:51:54,610 - ERROR - Error inserting row 74: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:54,612 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name               Daylin Bastidas
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                 Jersey City, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                         8.0
+Booked Hours                            3.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         3:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 74, dtype: object
+2026-06-27 18:51:54,612 - INFO - --------------------------------------------------
+2026-06-27 18:51:54,822 - INFO - --- No match found for CSV row 75. Attempting to insert. ---
+2026-06-27 18:51:55,030 - ERROR - Error inserting row 75: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:55,032 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/03/2026
+Employee Name                Josephine Hernandez
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                      Jersey City, NJ
+Schedule                     09:00 AM - 05:00 PM
+Block Out Hours Paid                        1.00
+Scheduled Hours                              8.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              09:00:00
+end_time                                17:00:00
+status                                         0
+Name: 75, dtype: object
+2026-06-27 18:51:55,033 - INFO - --------------------------------------------------
+2026-06-27 18:51:55,242 - INFO - --- No match found for CSV row 76. Attempting to insert. ---
+2026-06-27 18:51:55,448 - ERROR - Error inserting row 76: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:55,450 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                Karen Enriquez
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Jersey City, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       6.666667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:40
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 76, dtype: object
+2026-06-27 18:51:55,450 - INFO - --------------------------------------------------
+2026-06-27 18:51:55,655 - INFO - --- No match found for CSV row 77. Attempting to insert. ---
+2026-06-27 18:51:55,860 - ERROR - Error inserting row 77: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:55,860 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/03/2026
+Employee Name                       Monique Snee
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                      Jersey City, NJ
+Schedule                     12:00 PM - 08:00 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              8.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              12:00:00
+end_time                                20:00:00
+status                                         0
+Name: 77, dtype: object
+2026-06-27 18:51:55,861 - INFO - --------------------------------------------------
+2026-06-27 18:51:56,072 - INFO - --- No match found for CSV row 78. Attempting to insert. ---
+2026-06-27 18:51:56,280 - ERROR - Error inserting row 78: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:56,281 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                  Jessa Brooks
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                   Lancaster, PA
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                           6.75
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:45
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 78, dtype: object
+2026-06-27 18:51:56,282 - INFO - --------------------------------------------------
+2026-06-27 18:51:56,494 - INFO - --- No match found for CSV row 79. Attempting to insert. ---
+2026-06-27 18:51:56,701 - ERROR - Error inserting row 79: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:56,704 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                     Aysia Lee
+Job                                 Manager
+Schedule Status                     Working
+Work Center                   Montclair, NJ
+Schedule                09:00 AM - 02:00 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                         5.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         09:00:00
+end_time                           14:00:00
+status                                    0
+Name: 79, dtype: object
+2026-06-27 18:51:56,704 - INFO - --------------------------------------------------
+2026-06-27 18:51:56,915 - INFO - --- No match found for CSV row 80. Attempting to insert. ---
+2026-06-27 18:51:57,124 - ERROR - Error inserting row 80: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:57,125 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                 Nicole Larsen
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                   Montclair, NJ
+Schedule                10:00 AM - 02:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         4.0
+Booked Hours                       2.833333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         2:50
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           14:00:00
+status                                    0
+Name: 80, dtype: object
+2026-06-27 18:51:57,126 - INFO - --------------------------------------------------
+2026-06-27 18:51:57,337 - INFO - --- No match found for CSV row 81. Attempting to insert. ---
+2026-06-27 18:51:57,544 - ERROR - Error inserting row 81: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:57,545 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                  Alyssa Nicol
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                  Old Bridge, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       8.416667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         8:25
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 81, dtype: object
+2026-06-27 18:51:57,546 - INFO - --------------------------------------------------
+2026-06-27 18:51:57,754 - INFO - --- No match found for CSV row 82. Attempting to insert. ---
+2026-06-27 18:51:57,963 - ERROR - Error inserting row 82: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:57,965 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                   Alyssa Reed
+Job                                 Manager
+Schedule Status                     Working
+Work Center                  Old Bridge, NJ
+Schedule                09:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         9.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         09:00:00
+end_time                           18:00:00
+status                                    0
+Name: 82, dtype: object
+2026-06-27 18:51:57,966 - INFO - --------------------------------------------------
+2026-06-27 18:51:58,176 - INFO - --- No match found for CSV row 83. Attempting to insert. ---
+2026-06-27 18:51:58,383 - ERROR - Error inserting row 83: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:58,384 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name              Domenica Fassari
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                  Old Bridge, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                         8.0
+Booked Hours                       1.583333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         1:35
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 83, dtype: object
+2026-06-27 18:51:58,385 - INFO - --------------------------------------------------
+2026-06-27 18:51:58,599 - INFO - --- No match found for CSV row 84. Attempting to insert. ---
+2026-06-27 18:51:58,807 - ERROR - Error inserting row 84: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:58,809 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/03/2026
+Employee Name                   Breana Ramsumair
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                         Red Bank, NJ
+Schedule                     10:00 AM - 06:00 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              8.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              10:00:00
+end_time                                18:00:00
+status                                         0
+Name: 84, dtype: object
+2026-06-27 18:51:58,810 - INFO - --------------------------------------------------
+2026-06-27 18:51:59,022 - INFO - --- No match found for CSV row 85. Attempting to insert. ---
+2026-06-27 18:51:59,230 - ERROR - Error inserting row 85: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:59,231 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name             Gabriella Campisi
+Job                                 Manager
+Schedule Status                     Working
+Work Center                    Red Bank, NJ
+Schedule                12:00 PM - 08:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         12:00:00
+end_time                           20:00:00
+status                                    0
+Name: 85, dtype: object
+2026-06-27 18:51:59,232 - INFO - --------------------------------------------------
+2026-06-27 18:51:59,444 - INFO - --- No match found for CSV row 86. Attempting to insert. ---
+2026-06-27 18:51:59,648 - ERROR - Error inserting row 86: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:51:59,649 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name               Kristina Giakas
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                    Red Bank, NJ
+Schedule                12:30 PM - 08:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         7.5
+Booked Hours                       6.833333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:50
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         12:30:00
+end_time                           20:00:00
+status                                    0
+Name: 86, dtype: object
+2026-06-27 18:51:59,650 - INFO - --------------------------------------------------
+2026-06-27 18:51:59,858 - INFO - --- No match found for CSV row 87. Attempting to insert. ---
+2026-06-27 18:52:00,064 - ERROR - Error inserting row 87: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:00,065 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                  Paige Martin
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                    Red Bank, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       7.083333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         7:05
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 87, dtype: object
+2026-06-27 18:52:00,065 - INFO - --------------------------------------------------
+2026-06-27 18:52:00,270 - INFO - --- No match found for CSV row 88. Attempting to insert. ---
+2026-06-27 18:52:00,478 - ERROR - Error inserting row 88: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:00,479 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                Annette Webson
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                   Ridgewood, NJ
+Schedule                11:00 AM - 05:30 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                         6.5
+Booked Hours                            2.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         2:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         11:00:00
+end_time                           17:30:00
+status                                    0
+Name: 88, dtype: object
+2026-06-27 18:52:00,480 - INFO - --------------------------------------------------
+2026-06-27 18:52:00,688 - INFO - --- No match found for CSV row 89. Attempting to insert. ---
+2026-06-27 18:52:00,889 - ERROR - Error inserting row 89: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:00,891 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                   Ceyli Reyes
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                   Ridgewood, NJ
+Schedule                10:00 AM - 05:30 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         7.5
+Booked Hours                           6.75
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:45
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           17:30:00
+status                                    0
+Name: 89, dtype: object
+2026-06-27 18:52:00,891 - INFO - --------------------------------------------------
+2026-06-27 18:52:01,100 - INFO - --- No match found for CSV row 90. Attempting to insert. ---
+2026-06-27 18:52:01,307 - ERROR - Error inserting row 90: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:01,307 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                   Leigh Ortiz
+Job                                 Manager
+Schedule Status                     Working
+Work Center                   Ridgewood, NJ
+Schedule                09:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         9.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         09:00:00
+end_time                           18:00:00
+status                                    0
+Name: 90, dtype: object
+2026-06-27 18:52:01,307 - INFO - --------------------------------------------------
+2026-06-27 18:52:01,518 - INFO - --- No match found for CSV row 91. Attempting to insert. ---
+2026-06-27 18:52:01,727 - ERROR - Error inserting row 91: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:01,729 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name              Patricia Ashmore
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                   Ridgewood, NJ
+Schedule                10:00 AM - 05:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         7.0
+Booked Hours                            6.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           17:00:00
+status                                    0
+Name: 91, dtype: object
+2026-06-27 18:52:01,729 - INFO - --------------------------------------------------
+2026-06-27 18:52:01,941 - INFO - --- No match found for CSV row 92. Attempting to insert. ---
+2026-06-27 18:52:02,144 - ERROR - Error inserting row 92: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:02,146 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name               Jessica Kestler
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Short Hills, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       7.166667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         7:10
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 92, dtype: object
+2026-06-27 18:52:02,146 - INFO - --------------------------------------------------
+2026-06-27 18:52:02,356 - INFO - --- No match found for CSV row 93. Attempting to insert. ---
+2026-06-27 18:52:02,563 - ERROR - Error inserting row 93: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:02,565 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/03/2026
+Employee Name                       Laila Chakib
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                      Short Hills, NJ
+Schedule                     10:00 AM - 08:00 PM
+Block Out Hours Paid                        0.17
+Scheduled Hours                             10.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              10:00:00
+end_time                                20:00:00
+status                                         0
+Name: 93, dtype: object
+2026-06-27 18:52:02,565 - INFO - --------------------------------------------------
+2026-06-27 18:52:02,776 - INFO - --- No match found for CSV row 94. Attempting to insert. ---
+2026-06-27 18:52:02,981 - ERROR - Error inserting row 94: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:02,982 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                Leah Roundtree
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                 Short Hills, NJ
+Schedule                12:00 PM - 08:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                            4.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         4:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         12:00:00
+end_time                           20:00:00
+status                                    0
+Name: 94, dtype: object
+2026-06-27 18:52:02,983 - INFO - --------------------------------------------------
+2026-06-27 18:52:03,195 - INFO - --- No match found for CSV row 95. Attempting to insert. ---
+2026-06-27 18:52:03,403 - ERROR - Error inserting row 95: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:03,404 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name              Michelle Maddatu
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Short Hills, NJ
+Schedule                10:00 AM - 08:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                        10.0
+Booked Hours                            9.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         9:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           20:00:00
+status                                    0
+Name: 95, dtype: object
+2026-06-27 18:52:03,404 - INFO - --------------------------------------------------
+2026-06-27 18:52:03,613 - INFO - --- No match found for CSV row 96. Attempting to insert. ---
+2026-06-27 18:52:03,819 - ERROR - Error inserting row 96: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:03,822 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                  Lana Patrick
+Job                                 Manager
+Schedule Status                     Working
+Work Center                     Tribeca, NY
+Schedule                12:00 PM - 08:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         12:00:00
+end_time                           20:00:00
+status                                    0
+Name: 96, dtype: object
+2026-06-27 18:52:03,822 - INFO - --------------------------------------------------
+2026-06-27 18:52:04,031 - INFO - --- No match found for CSV row 97. Attempting to insert. ---
+2026-06-27 18:52:04,235 - ERROR - Error inserting row 97: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:04,236 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                Sherin Panayil
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Tribeca, NY
+Schedule                10:00 AM - 07:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         9.0
+Booked Hours                       6.333333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:20
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           19:00:00
+status                                    0
+Name: 97, dtype: object
+2026-06-27 18:52:04,236 - INFO - --------------------------------------------------
+2026-06-27 18:52:04,443 - INFO - --- No match found for CSV row 98. Attempting to insert. ---
+2026-06-27 18:52:04,651 - ERROR - Error inserting row 98: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:04,653 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                 Breana Durrah
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Waldorf, MD
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   1.75
+Scheduled Hours                         8.0
+Booked Hours                       4.083333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         4:05
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 98, dtype: object
+2026-06-27 18:52:04,653 - INFO - --------------------------------------------------
+2026-06-27 18:52:04,862 - INFO - --- No match found for CSV row 99. Attempting to insert. ---
+2026-06-27 18:52:05,068 - ERROR - Error inserting row 99: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:05,070 - ERROR - Problematic Row Data for Insert: 
+Date                             06/03/2026
+Employee Name                  Tylisha Cobb
+Job                                 Manager
+Schedule Status                     Working
+Work Center                     Waldorf, MD
+Schedule                09:00 AM - 05:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         09:00:00
+end_time                           17:00:00
+status                                    0
+Name: 99, dtype: object
+2026-06-27 18:52:05,071 - INFO - --------------------------------------------------
+2026-06-27 18:52:05,280 - INFO - --- No match found for CSV row 100. Attempting to insert. ---
+2026-06-27 18:52:05,486 - ERROR - Error inserting row 100: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:05,489 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                 Brittany King
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                     Bel Air, MD
+Schedule                10:00 AM - 07:05 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                    9.083333
+Booked Hours                       5.083333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:05
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           19:05:00
+status                                    0
+Name: 100, dtype: object
+2026-06-27 18:52:05,489 - INFO - --------------------------------------------------
+2026-06-27 18:52:05,697 - INFO - --- No match found for CSV row 101. Attempting to insert. ---
+2026-06-27 18:52:05,903 - ERROR - Error inserting row 101: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:05,905 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                Laura Cardinal
+Job                                 Manager
+Schedule Status                     Working
+Work Center                     Bel Air, MD
+Schedule                10:00 AM - 07:15 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                        9.25
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           19:15:00
+status                                    0
+Name: 101, dtype: object
+2026-06-27 18:52:05,905 - INFO - --------------------------------------------------
+2026-06-27 18:52:06,113 - INFO - --- No match found for CSV row 102. Attempting to insert. ---
+2026-06-27 18:52:06,318 - ERROR - Error inserting row 102: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:06,320 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                  Shanon Snead
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Bel Air, MD
+Schedule                10:00 AM - 07:20 PM
+Block Out Hours Paid                   1.50
+Scheduled Hours                    9.333333
+Booked Hours                            6.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           19:20:00
+status                                    0
+Name: 102, dtype: object
+2026-06-27 18:52:06,321 - INFO - --------------------------------------------------
+2026-06-27 18:52:06,525 - INFO - --- No match found for CSV row 103. Attempting to insert. ---
+2026-06-27 18:52:06,727 - ERROR - Error inserting row 103: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:06,729 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                   Alyssa Reed
+Job                                 Manager
+Schedule Status                     Working
+Work Center                 Bridgewater, NJ
+Schedule                12:00 PM - 08:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         12:00:00
+end_time                           20:00:00
+status                                    0
+Name: 103, dtype: object
+2026-06-27 18:52:06,729 - INFO - --------------------------------------------------
+2026-06-27 18:52:06,935 - INFO - --- No match found for CSV row 104. Attempting to insert. ---
+2026-06-27 18:52:07,139 - ERROR - Error inserting row 104: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:07,140 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name               Jessica Kestler
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Bridgewater, NJ
+Schedule                12:00 PM - 08:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       4.916667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         4:55
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         12:00:00
+end_time                           20:00:00
+status                                    0
+Name: 104, dtype: object
+2026-06-27 18:52:07,140 - INFO - --------------------------------------------------
+2026-06-27 18:52:07,344 - INFO - --- No match found for CSV row 105. Attempting to insert. ---
+2026-06-27 18:52:07,551 - ERROR - Error inserting row 105: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:07,552 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                  Kyra Jamison
+Job                                 Manager
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                10:00 AM - 08:00 PM
+Block Out Hours Paid                   0.33
+Scheduled Hours                        10.0
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           20:00:00
+status                                    0
+Name: 105, dtype: object
+2026-06-27 18:52:07,553 - INFO - --------------------------------------------------
+2026-06-27 18:52:07,761 - INFO - --- No match found for CSV row 106. Attempting to insert. ---
+2026-06-27 18:52:07,970 - ERROR - Error inserting row 106: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:07,971 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                    Lis Castro
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                            6.5
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:30
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 106, dtype: object
+2026-06-27 18:52:07,971 - INFO - --------------------------------------------------
+2026-06-27 18:52:08,178 - INFO - --- No match found for CSV row 107. Attempting to insert. ---
+2026-06-27 18:52:08,384 - ERROR - Error inserting row 107: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:08,386 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                 Nicole Larsen
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                    Denville, NJ
+Schedule                10:00 AM - 08:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                        10.0
+Booked Hours                          10.75
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                        10:45
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           20:00:00
+status                                    0
+Name: 107, dtype: object
+2026-06-27 18:52:08,386 - INFO - --------------------------------------------------
+2026-06-27 18:52:08,591 - INFO - --- No match found for CSV row 108. Attempting to insert. ---
+2026-06-27 18:52:08,796 - ERROR - Error inserting row 108: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:08,797 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                   Carly Jones
+Job                                 Manager
+Schedule Status                     Working
+Work Center                   Frederick, MD
+Schedule                09:00 AM - 07:15 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                       10.25
+Booked Hours                            0.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         09:00:00
+end_time                           19:15:00
+status                                    0
+Name: 108, dtype: object
+2026-06-27 18:52:08,798 - INFO - --------------------------------------------------
+2026-06-27 18:52:09,006 - INFO - --- No match found for CSV row 109. Attempting to insert. ---
+2026-06-27 18:52:09,212 - ERROR - Error inserting row 109: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:09,214 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name               Christine Eppes
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                   Frederick, MD
+Schedule                10:30 AM - 08:00 PM
+Block Out Hours Paid                   0.92
+Scheduled Hours                         9.5
+Booked Hours                       7.333333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         7:20
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:30:00
+end_time                           20:00:00
+status                                    0
+Name: 109, dtype: object
+2026-06-27 18:52:09,215 - INFO - --------------------------------------------------
+2026-06-27 18:52:09,419 - INFO - --- No match found for CSV row 110. Attempting to insert. ---
+2026-06-27 18:52:09,626 - ERROR - Error inserting row 110: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:09,627 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                      Geri Gan
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                   Frederick, MD
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       6.583333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:35
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 110, dtype: object
+2026-06-27 18:52:09,627 - INFO - --------------------------------------------------
+2026-06-27 18:52:09,835 - INFO - --- No match found for CSV row 111. Attempting to insert. ---
+2026-06-27 18:52:10,040 - ERROR - Error inserting row 111: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:10,040 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name               Caroline Swartz
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       5.416667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:25
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 111, dtype: object
+2026-06-27 18:52:10,041 - INFO - --------------------------------------------------
+2026-06-27 18:52:10,244 - INFO - --- No match found for CSV row 112. Attempting to insert. ---
+2026-06-27 18:52:10,450 - ERROR - Error inserting row 112: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:10,450 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/04/2026
+Employee Name                     Jasmin Mendoza
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                          Hoboken, NJ
+Schedule                     10:00 AM - 06:00 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              8.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              10:00:00
+end_time                                18:00:00
+status                                         0
+Name: 112, dtype: object
+2026-06-27 18:52:10,451 - INFO - --------------------------------------------------
+2026-06-27 18:52:10,658 - INFO - --- No match found for CSV row 113. Attempting to insert. ---
+2026-06-27 18:52:10,863 - ERROR - Error inserting row 113: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:10,864 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                Lindsey Parker
+Job                                 Manager
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                11:00 AM - 08:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         9.0
+Booked Hours                       0.083333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         0:05
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         11:00:00
+end_time                           20:00:00
+status                                    0
+Name: 113, dtype: object
+2026-06-27 18:52:10,864 - INFO - --------------------------------------------------
+2026-06-27 18:52:11,072 - INFO - --- No match found for CSV row 114. Attempting to insert. ---
+2026-06-27 18:52:11,278 - ERROR - Error inserting row 114: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:11,278 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name               Scarlin Sanchez
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                12:00 PM - 08:00 PM
+Block Out Hours Paid                   1.00
+Scheduled Hours                         8.0
+Booked Hours                       3.666667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         3:40
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         12:00:00
+end_time                           20:00:00
+status                                    0
+Name: 114, dtype: object
+2026-06-27 18:52:11,279 - INFO - --------------------------------------------------
+2026-06-27 18:52:11,486 - INFO - --- No match found for CSV row 115. Attempting to insert. ---
+2026-06-27 18:52:11,692 - ERROR - Error inserting row 115: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:11,693 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                 Silvana Rivas
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                     Hoboken, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.00
+Scheduled Hours                         8.0
+Booked Hours                       6.916667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:55
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 115, dtype: object
+2026-06-27 18:52:11,695 - INFO - --------------------------------------------------
+2026-06-27 18:52:11,902 - INFO - --- No match found for CSV row 116. Attempting to insert. ---
+2026-06-27 18:52:12,105 - ERROR - Error inserting row 116: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:12,105 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name               Daylin Bastidas
+Job                             Esthetician
+Schedule Status                     Working
+Work Center                 Jersey City, NJ
+Schedule                10:00 AM - 06:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                            6.0
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         6:00
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           18:00:00
+status                                    0
+Name: 116, dtype: object
+2026-06-27 18:52:12,105 - INFO - --------------------------------------------------
+2026-06-27 18:52:12,315 - INFO - --- No match found for CSV row 117. Attempting to insert. ---
+2026-06-27 18:52:12,522 - ERROR - Error inserting row 117: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:12,524 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/04/2026
+Employee Name                Josephine Hernandez
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                      Jersey City, NJ
+Schedule                     10:00 AM - 06:00 PM
+Block Out Hours Paid                        0.50
+Scheduled Hours                              8.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              10:00:00
+end_time                                18:00:00
+status                                         0
+Name: 117, dtype: object
+2026-06-27 18:52:12,524 - INFO - --------------------------------------------------
+2026-06-27 18:52:12,727 - INFO - --- No match found for CSV row 118. Attempting to insert. ---
+2026-06-27 18:52:12,934 - ERROR - Error inserting row 118: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:12,935 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                Karen Enriquez
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Jersey City, NJ
+Schedule                12:00 PM - 08:00 PM
+Block Out Hours Paid                   0.50
+Scheduled Hours                         8.0
+Booked Hours                       5.416667
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         5:25
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         12:00:00
+end_time                           20:00:00
+status                                    0
+Name: 118, dtype: object
+2026-06-27 18:52:12,935 - INFO - --------------------------------------------------
+2026-06-27 18:52:13,144 - INFO - --- No match found for CSV row 119. Attempting to insert. ---
+2026-06-27 18:52:13,350 - ERROR - Error inserting row 119: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:13,352 - ERROR - Problematic Row Data for Insert: 
+Date                                  06/04/2026
+Employee Name                       Monique Snee
+Job                     Clinic DirectorConcierge
+Schedule Status                          Working
+Work Center                      Jersey City, NJ
+Schedule                     12:00 PM - 08:00 PM
+Block Out Hours Paid                        0.00
+Scheduled Hours                              8.0
+Booked Hours                                 0.0
+Actual Check-Ins                                
+Actual Hours                                0:00
+Serviced Hours                              0:00
+Missed Check-Ins                             Yes
+Missed Checkouts                              No
+Vacation Hours                              0:00
+Holiday Hours                               0:00
+start_time                              12:00:00
+end_time                                20:00:00
+status                                         0
+Name: 119, dtype: object
+2026-06-27 18:52:13,352 - INFO - --------------------------------------------------
+2026-06-27 18:52:13,557 - INFO - --- No match found for CSV row 120. Attempting to insert. ---
+2026-06-27 18:52:13,759 - ERROR - Error inserting row 120: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.BRONZE_ZENOTI_EMPLOYEE_SCHEDULES' with unique index 'UX_EMPLOYEE_SCHEDULES_SCHEDULE_ID'. The duplicate key value is (<NULL>). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+2026-06-27 18:52:13,759 - ERROR - Problematic Row Data for Insert: 
+Date                             06/04/2026
+Employee Name                  Paige Martin
+Job                      Treatment Provider
+Schedule Status                     Working
+Work Center                 Jersey City, NJ
+Schedule                10:00 AM - 08:00 PM
+Block Out Hours Paid                   0.33
+Scheduled Hours                        10.0
+Booked Hours                       9.583333
+Actual Check-Ins                           
+Actual Hours                           0:00
+Serviced Hours                         9:35
+Missed Check-Ins                        Yes
+Missed Checkouts                         No
+Vacation Hours                         0:00
+Holiday Hours                          0:00
+start_time                         10:00:00
+end_time                           20:00:00
+status                                    0
+Name: 120, dtype: object
+2026-06-27 18:52:13,760 - INFO - --------------------------------------------------
+2026-06-27 18:52:13,968 - INFO - --- No match found for CSV row 121. Attempting to insert. ---
