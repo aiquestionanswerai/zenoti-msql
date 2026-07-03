@@ -5,7 +5,7 @@ import requests
 from google.oauth2 import service_account
 from google.auth.transport.requests import Request
 
-SCOPES = ["https://www.googleapis.com/auth/drive.readonly"]
+SCOPES = ["https://www.googleapis.com/auth/drive"]
 DRIVE_API = "https://www.googleapis.com/drive/v3/files"
 
 
@@ -50,6 +50,47 @@ def _get_authed_session(credentials_json=None, credentials_file=None):
     session = requests.Session()
     session.headers["Authorization"] = f"Bearer {creds.token}"
     return session
+
+
+UPLOAD_API = "https://www.googleapis.com/upload/drive/v3/files"
+
+
+def upload_file_to_gdrive(local_path, folder_id, credentials_json=None, credentials_file=None):
+    """Upload a file to a Google Drive folder. Returns the file ID."""
+    if not folder_id:
+        raise ValueError("Google Drive folder ID is required for upload.")
+
+    session = _get_authed_session(
+        credentials_json=credentials_json, credentials_file=credentials_file
+    )
+
+    filename = os.path.basename(local_path)
+    metadata = {"name": filename, "parents": [folder_id]}
+
+    boundary = "zenoti_upload_boundary"
+    meta_json = json.dumps(metadata)
+
+    with open(local_path, "rb") as f:
+        file_content = f.read()
+
+    body = (
+        f"--{boundary}\r\n"
+        f"Content-Type: application/json; charset=UTF-8\r\n\r\n"
+        f"{meta_json}\r\n"
+        f"--{boundary}\r\n"
+        f"Content-Type: text/plain\r\n\r\n"
+    ).encode("utf-8") + file_content + f"\r\n--{boundary}--".encode("utf-8")
+
+    resp = session.post(
+        UPLOAD_API,
+        params={"uploadType": "multipart", "fields": "id,name"},
+        headers={"Content-Type": f"multipart/related; boundary={boundary}"},
+        data=body,
+    )
+    resp.raise_for_status()
+    result = resp.json()
+    print(f"Uploaded to Drive: {result['name']} (id: {result['id']})")
+    return result["id"]
 
 
 def list_csv_filenames(folder_id, credentials_json=None, credentials_file=None):

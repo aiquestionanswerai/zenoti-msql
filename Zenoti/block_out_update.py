@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import pyodbc
 import uuid
-import logging
 from dotenv import load_dotenv
 from decimal import Decimal, InvalidOperation
 from datetime import datetime
@@ -57,30 +56,14 @@ conn_str = (
     f"PWD={DB_PASSWORD};"
 )
 
-# ==================================
-# Setup Logging
-# ==================================
-log_dir = os.path.join(os.path.dirname(__file__), "logs")
-os.makedirs(log_dir, exist_ok=True)
-log_file_name = f"block_out_update_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
-log_file_path = os.path.join(log_dir, log_file_name)
-
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler(log_file_path),
-        logging.StreamHandler() # To also print to console
-    ]
-)
 
 # ==================================
 # Load and Process CSV
 # ==================================
 try:
     df = pd.read_csv(CSV_FILE, dtype=str, keep_default_na=False)
-    logging.info(f"Processing CSV: {CSV_FILE}")
-    logging.info(f"Found {len(df):,} rows in {os.path.basename(CSV_FILE)}")
+    print(f"Processing CSV: {CSV_FILE}")
+    print(f"Found {len(df):,} rows in {os.path.basename(CSV_FILE)}")
 except FileNotFoundError:
     raise FileNotFoundError(f"The specified CSV file was not found: {CSV_FILE}")
 
@@ -151,7 +134,7 @@ failed_rows = 0
 try:
     with pyodbc.connect(conn_str) as conn:
         cursor = conn.cursor()
-        logging.info("Successfully connected to the database.")
+        print("Successfully connected to the database.")
 
         # Iterate over each row in the DataFrame to perform updates
         for index, row in df.iterrows():
@@ -215,14 +198,14 @@ try:
                         cursor.execute(update_sql, update_params)
                         if cursor.rowcount > 0:
                             updated_rows += cursor.rowcount
-                            logging.info(f"SUCCESS: Updated row {index} for '{row['Employee Name']}' on {row['Date']}. Applied changes: {', '.join(set_parts)}.")
+                            print(f"SUCCESS: Updated row {index} for '{row['Employee Name']}' on {row['Date']}. Applied changes: {', '.join(set_parts)}.")
                         else:
-                            logging.info(f"SKIPPED: Row {index} for '{row['Employee Name']}' on {row['Date']} already had the needed values.")
+                            print(f"SKIPPED: Row {index} for '{row['Employee Name']}' on {row['Date']} already had the needed values.")
                     else:
-                        logging.info(f"SKIPPED: Row {index} for '{row['Employee Name']}' on {row['Date']} already had the needed values.")
+                        print(f"SKIPPED: Row {index} for '{row['Employee Name']}' on {row['Date']} already had the needed values.")
                 else:
                     # If no match is found, perform an INSERT
-                    logging.info(f"--- No match found for CSV row {index}. Attempting to insert. ---")
+                    print(f"--- No match found for CSV row {index}. Attempting to insert. ---")
                     
                     try:
                         insert_columns = [
@@ -250,21 +233,21 @@ try:
                         
                         cursor.execute(insert_sql, insert_values)
                         inserted_rows += cursor.rowcount
-                        logging.info(f"SUCCESS: Inserted new record for '{row['Employee Name']}' on {row['Date']}.")
+                        print(f"SUCCESS: Inserted new record for '{row['Employee Name']}' on {row['Date']}.")
                     
                     except pyodbc.Error as insert_ex:
                         failed_rows += 1
-                        logging.error(f"Error inserting row {index}: {insert_ex}")
-                        logging.error(f"Problematic Row Data for Insert: \n{row}")
+                        print(f"Error inserting row {index}: {insert_ex}")
+                        print(f"Problematic Row Data for Insert: \n{row}")
                     
-                    logging.info("-" * 50)
+                    print("-" * 50)
             except pyodbc.Error as ex:
                 failed_rows += 1
                 sqlstate = ex.args[0]
-                logging.error(f"Database error occurred for row {index}: {sqlstate}")
-                logging.error(f"Problematic Row Data: \n{row}")
-                logging.error(f"SQL: {update_sql}")
-                logging.error(f"Params: {update_params}")
+                print(f"Database error occurred for row {index}: {sqlstate}")
+                print(f"Problematic Row Data: \n{row}")
+                print(f"SQL: {update_sql}")
+                print(f"Params: {update_params}")
 
         # ==================================
         # Delete orphan DB records not in CSV (within CSV date range)
@@ -273,7 +256,7 @@ try:
 
         min_date = pd.to_datetime(df['Date'], format='%m/%d/%Y').min().strftime('%m/%d/%Y')
         max_date = pd.to_datetime(df['Date'], format='%m/%d/%Y').max().strftime('%m/%d/%Y')
-        logging.info(f"\nOrphan cleanup: scanning DB for records in date range {min_date} — {max_date} not found in CSV.")
+        print(f"\nOrphan cleanup: scanning DB for records in date range {min_date} — {max_date} not found in CSV.")
 
         csv_keys = set(
             (row["Date"], row["Employee Name"], row["Work Center"])
@@ -283,7 +266,7 @@ try:
         fetch_sql = f"SELECT [date], [employee_name], [center_name], [schedule_id] FROM {TABLE} WHERE [date] >= ? AND [date] <= ?"
         cursor.execute(fetch_sql, [min_date, max_date])
         db_rows = cursor.fetchall()
-        logging.info(f"Found {len(db_rows)} DB record(s) in date range.")
+        print(f"Found {len(db_rows)} DB record(s) in date range.")
 
         for db_row in db_rows:
             db_date_raw, db_employee, db_center, db_schedule_id = db_row
@@ -300,21 +283,21 @@ try:
                     delete_sql = f"DELETE FROM {TABLE} WHERE [schedule_id] = ?"
                     cursor.execute(delete_sql, [db_schedule_id])
                     deleted_rows += cursor.rowcount
-                    logging.info(f"DELETED: '{db_employee}' on {db_date} at '{db_center}' (schedule_id: {db_schedule_id})")
+                    print(f"DELETED: '{db_employee}' on {db_date} at '{db_center}' (schedule_id: {db_schedule_id})")
                 except pyodbc.Error as del_ex:
                     failed_rows += 1
-                    logging.error(f"Error deleting orphan record (schedule_id: {db_schedule_id}): {del_ex}")
+                    print(f"Error deleting orphan record (schedule_id: {db_schedule_id}): {del_ex}")
 
-        logging.info(f"Orphan cleanup complete. Total rows deleted: {deleted_rows}")
+        print(f"Orphan cleanup complete. Total rows deleted: {deleted_rows}")
 
         # Commit the transaction to make the changes permanent
         if updated_rows > 0 or inserted_rows > 0 or deleted_rows > 0:
             conn.commit()
-            logging.info(f"\nTransaction committed.")
+            print(f"\nTransaction committed.")
 
-        logging.info(f"Database update complete. Total rows updated: {updated_rows}, Total rows inserted: {inserted_rows}, Total rows deleted: {deleted_rows}")
+        print(f"Database update complete. Total rows updated: {updated_rows}, Total rows inserted: {inserted_rows}, Total rows deleted: {deleted_rows}")
 
 except pyodbc.Error as ex:
     sqlstate = ex.args[0]
-    logging.error(f"Database connection failed: {sqlstate}")
-    logging.error(f"Rows committed before failure — updated: {updated_rows}, inserted: {inserted_rows}, deleted: {deleted_rows if 'deleted_rows' in dir() else 'N/A'}, failed: {failed_rows}")
+    print(f"Database connection failed: {sqlstate}")
+    print(f"Rows committed before failure — updated: {updated_rows}, inserted: {inserted_rows}, deleted: {deleted_rows if 'deleted_rows' in dir() else 'N/A'}, failed: {failed_rows}")
