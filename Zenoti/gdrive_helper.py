@@ -52,6 +52,24 @@ def _get_authed_session(credentials_json=None, credentials_file=None):
     return session
 
 
+def list_csv_filenames(folder_id, credentials_json=None, credentials_file=None):
+    """Return list of CSV filenames in a Google Drive folder (no download)."""
+    if not folder_id:
+        return []
+
+    session = _get_authed_session(
+        credentials_json=credentials_json, credentials_file=credentials_file
+    )
+
+    query = f"'{folder_id}' in parents and mimeType='text/csv' and trashed=false"
+    resp = session.get(
+        DRIVE_API,
+        params={"q": query, "fields": "files(name)", "orderBy": "name"},
+    )
+    resp.raise_for_status()
+    return [f["name"] for f in resp.json().get("files", [])]
+
+
 def get_csv_from_gdrive(folder_id, credentials_json=None, credentials_file=None):
     """Download all CSV files from a Google Drive folder to a temp directory.
 

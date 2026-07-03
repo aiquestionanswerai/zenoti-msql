@@ -3,6 +3,7 @@ import sys
 import os
 
 SCRIPTS = [
+    "sql_helper.py",
     "appointments.py",
     "block_out_update.py",
     "cost_of_goods.py",
