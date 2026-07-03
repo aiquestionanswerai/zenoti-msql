@@ -62,8 +62,7 @@ conn_str = (
 # ==================================
 try:
     df = pd.read_csv(CSV_FILE, dtype=str, keep_default_na=False)
-    print(f"Processing CSV: {CSV_FILE}")
-    print(f"Found {len(df):,} rows in {os.path.basename(CSV_FILE)}")
+    print(f"Processing {len(df):,} rows from {os.path.basename(CSV_FILE)}")
 except FileNotFoundError:
     raise FileNotFoundError(f"The specified CSV file was not found: {CSV_FILE}")
 
@@ -134,9 +133,6 @@ failed_rows = 0
 try:
     with pyodbc.connect(conn_str) as conn:
         cursor = conn.cursor()
-        print("Successfully connected to the database.")
-
-        # Iterate over each row in the DataFrame to perform updates
         for index, row in df.iterrows():
             # Define the values for the WHERE clause from the CSV row
             where_conditions = {
@@ -164,7 +160,6 @@ try:
             key_where_clause = " AND ".join(key_where_parts)
 
             try:
-                # Check if a row exists by key columns
                 check_sql = f"SELECT TOP 1 [block_out_hours_paid], [job_name], [scheduled_hours], [booked_hours] FROM {TABLE} WHERE {key_where_clause}"
 
                 cursor.execute(check_sql, key_params)
@@ -198,22 +193,14 @@ try:
                         cursor.execute(update_sql, update_params)
                         if cursor.rowcount > 0:
                             updated_rows += cursor.rowcount
-                            print(f"SUCCESS: Updated row {index} for '{row['Employee Name']}' on {row['Date']}. Applied changes: {', '.join(set_parts)}.")
-                        else:
-                            print(f"SKIPPED: Row {index} for '{row['Employee Name']}' on {row['Date']} already had the needed values.")
-                    else:
-                        print(f"SKIPPED: Row {index} for '{row['Employee Name']}' on {row['Date']} already had the needed values.")
                 else:
-                    # If no match is found, perform an INSERT
-                    print(f"--- No match found for CSV row {index}. Attempting to insert. ---")
-                    
                     try:
                         insert_columns = [
                             "schedule_id", "date", "employee_name", "job_name", "status", "center_name",
                             "start_time", "end_time", "scheduled_hours", "booked_hours",
                             "block_out_hours_paid"
                         ]
-                        
+
                         insert_values = [
                             f"{str(uuid.uuid4())}esg",
                             row["Date"],
@@ -230,24 +217,18 @@ try:
 
                         placeholders = ", ".join(["?"] * len(insert_columns))
                         insert_sql = f"INSERT INTO {TABLE} ([{'], ['.join(insert_columns)}]) VALUES ({placeholders})"
-                        
+
                         cursor.execute(insert_sql, insert_values)
                         inserted_rows += cursor.rowcount
-                        print(f"SUCCESS: Inserted new record for '{row['Employee Name']}' on {row['Date']}.")
-                    
+
                     except pyodbc.Error as insert_ex:
                         failed_rows += 1
-                        print(f"Error inserting row {index}: {insert_ex}")
-                        print(f"Problematic Row Data for Insert: \n{row}")
-                    
-                    print("-" * 50)
+                        if failed_rows <= 3:
+                            print(f"Error inserting row {index}: {insert_ex}")
             except pyodbc.Error as ex:
                 failed_rows += 1
-                sqlstate = ex.args[0]
-                print(f"Database error occurred for row {index}: {sqlstate}")
-                print(f"Problematic Row Data: \n{row}")
-                print(f"SQL: {update_sql}")
-                print(f"Params: {update_params}")
+                if failed_rows <= 3:
+                    print(f"Database error for row {index}: {ex.args[0]}")
 
         # ==================================
         # Delete orphan DB records not in CSV (within CSV date range)
@@ -256,8 +237,6 @@ try:
 
         min_date = pd.to_datetime(df['Date'], format='%m/%d/%Y').min().strftime('%m/%d/%Y')
         max_date = pd.to_datetime(df['Date'], format='%m/%d/%Y').max().strftime('%m/%d/%Y')
-        print(f"\nOrphan cleanup: scanning DB for records in date range {min_date} — {max_date} not found in CSV.")
-
         csv_keys = set(
             (row["Date"], row["Employee Name"], row["Work Center"])
             for _, row in df.iterrows()
@@ -266,7 +245,6 @@ try:
         fetch_sql = f"SELECT [date], [employee_name], [center_name], [schedule_id] FROM {TABLE} WHERE [date] >= ? AND [date] <= ?"
         cursor.execute(fetch_sql, [min_date, max_date])
         db_rows = cursor.fetchall()
-        print(f"Found {len(db_rows)} DB record(s) in date range.")
 
         for db_row in db_rows:
             db_date_raw, db_employee, db_center, db_schedule_id = db_row
@@ -283,19 +261,15 @@ try:
                     delete_sql = f"DELETE FROM {TABLE} WHERE [schedule_id] = ?"
                     cursor.execute(delete_sql, [db_schedule_id])
                     deleted_rows += cursor.rowcount
-                    print(f"DELETED: '{db_employee}' on {db_date} at '{db_center}' (schedule_id: {db_schedule_id})")
                 except pyodbc.Error as del_ex:
                     failed_rows += 1
-                    print(f"Error deleting orphan record (schedule_id: {db_schedule_id}): {del_ex}")
+                    if failed_rows <= 3:
+                        print(f"Error deleting orphan (schedule_id: {db_schedule_id}): {del_ex}")
 
-        print(f"Orphan cleanup complete. Total rows deleted: {deleted_rows}")
-
-        # Commit the transaction to make the changes permanent
         if updated_rows > 0 or inserted_rows > 0 or deleted_rows > 0:
             conn.commit()
-            print(f"\nTransaction committed.")
 
-        print(f"Database update complete. Total rows updated: {updated_rows}, Total rows inserted: {inserted_rows}, Total rows deleted: {deleted_rows}")
+        print(f"Updated: {updated_rows}, Inserted: {inserted_rows}, Deleted: {deleted_rows}, Failed: {failed_rows}")
 
 except pyodbc.Error as ex:
     sqlstate = ex.args[0]

@@ -77,14 +77,12 @@ def delete_data_for_range(cursor, table, date_column, start_date, end_date):
 
 
 def main():
-    print(f"Database: {SERVER} / {DATABASE}")
-    print(f"CSV source: {CSV_SOURCE}")
+    print(f"Database: {SERVER} / {DATABASE} | CSV source: {CSV_SOURCE}")
 
     credentials_json = os.getenv("GDRIVE_CREDENTIALS_JSON")
     credentials_file = os.getenv("GDRIVE_CREDENTIALS_FILE", "service_account.json")
 
     conn = pyodbc.connect(conn_str)
-    print("Connected to database.")
     cursor = conn.cursor()
 
     total_deleted = 0
@@ -95,8 +93,6 @@ def main():
             print(f"  SKIP: {config['table_env']} not set")
             continue
 
-        print(f"\n  Table: {table} ({config['table_env']})")
-
         folder_id = os.getenv(config["folder_env"])
 
         if CSV_SOURCE == "gdrive" and folder_id:
@@ -105,7 +101,6 @@ def main():
                 credentials_json=credentials_json,
                 credentials_file=credentials_file,
             )
-            print(f"  GDrive files: {filenames}")
         else:
             csv_path = os.getenv(f"CSV_FILE_{config['table_env'].replace('TABLE_', '')}")
             if csv_path and os.path.isdir(csv_path):
@@ -115,7 +110,6 @@ def main():
             else:
                 print(f"  SKIP: No CSV source for {config['table_env']}")
                 continue
-            print(f"  Local files: {filenames}")
 
         start_date, end_date = extract_date_range(filenames, config["csv_prefix"])
 
@@ -123,17 +117,13 @@ def main():
             print(f"  SKIP: No date range in filenames for prefix '{config['csv_prefix']}'")
             continue
 
-        print(f"  Date range from filename: {start_date} → {end_date}")
-
         date_fmt = config["date_format"]
         start_date = datetime.strptime(start_date, "%Y-%m-%d").strftime(date_fmt)
         end_date = datetime.strptime(end_date, "%Y-%m-%d").strftime(date_fmt)
 
-        print(f"  Deleting where [{config['date_column']}] between {start_date} and {end_date}...")
-
         try:
             deleted = delete_data_for_range(cursor, table, config["date_column"], start_date, end_date)
-            print(f"  Deleted {deleted:,} rows from {table}.")
+            print(f"  {table}: deleted {deleted:,} rows ({start_date} to {end_date})")
             total_deleted += deleted
         except pyodbc.Error as e:
             print(f"  ERROR: DELETE failed for {table}: {e}")

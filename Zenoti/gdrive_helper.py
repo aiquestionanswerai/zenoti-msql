@@ -147,7 +147,7 @@ def get_csv_from_gdrive(folder_id, credentials_json=None, credentials_file=None)
         with open(local_path, "wb") as fh:
             for chunk in dl_resp.iter_content(chunk_size=8192):
                 fh.write(chunk)
-        print(f"Downloaded from Drive: {f['name']}")
+    print(f"Downloaded {len(files)} file(s) from Drive")
 
     if len(files) == 1:
         return os.path.join(download_dir, files[0]["name"])

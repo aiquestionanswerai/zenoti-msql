@@ -42,16 +42,11 @@ def log_raw(text):
         f.write(text)
 
 
-log(f"{'='*60}")
-log(f"Zenoti SQL Ingestion Pipeline")
-log(f"Started: {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
-log(f"{'='*60}")
+log(f"Zenoti SQL Ingestion Pipeline — {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
 
 for script in SCRIPTS:
     path = os.path.join(script_dir, script)
-    log("")
     log(f"[START] {script}")
-    log(f"{'-'*40}")
 
     script_start = datetime.now()
 
@@ -79,15 +74,11 @@ for script in SCRIPTS:
         log(f"[DONE] {script} ({elapsed:.1f}s)")
 
 total_elapsed = (datetime.now() - start_time).total_seconds()
-log("")
-log(f"{'='*60}")
 
 if all_passed:
-    log(f"All scripts completed successfully. Total time: {total_elapsed:.1f}s")
+    log(f"Pipeline complete. Total time: {total_elapsed:.1f}s")
 else:
     log(f"Pipeline stopped at {failed_script}. Total time: {total_elapsed:.1f}s")
-
-log(f"{'='*60}")
 
 # Upload log to Google Drive
 parent_folder = os.getenv("GDRIVE_PARENT_FOLDER")

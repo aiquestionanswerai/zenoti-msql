@@ -71,7 +71,6 @@ rows = cursor.fetchall()
 sql_columns = [row[0] for row in rows]
 identity_columns = {row[0] for row in rows if row[1] == 1}
 
-print(f"Found {len(sql_columns)} SQL columns (identity: {', '.join(identity_columns) if identity_columns else 'none'})")
 
 def normalize_col(col_name):
     return col_name.strip().strip('.,').replace(" ", "").replace("-", "").lower()
@@ -110,9 +109,8 @@ VALUES
 cursor.fast_executemany = True
 
 for csv_path in csv_paths:
-    print(f"\nProcessing CSV: {csv_path}")
     df = pd.read_csv(csv_path, dtype=str, keep_default_na=False)
-    print(f"Found {len(df):,} rows in {os.path.basename(csv_path)}")
+    print(f"Processing {len(df):,} rows from {os.path.basename(csv_path)}")
 
     # ==================================
     # Align CSV Columns with SQL Headers (per-file)
@@ -224,21 +222,19 @@ for csv_path in csv_paths:
         print(f"Data insertion failed for {os.path.basename(csv_path)}: {e}")
         conn.rollback()
 
-        print("Searching for the problematic row...")
+        print("Searching for problematic row...")
         cursor.fast_executemany = False
         for i, row in enumerate(data_to_insert):
             try:
                 cursor.execute(insert_sql, row)
             except (pyodbc.DataError, pyodbc.ProgrammingError) as row_e:
-                print(f"--- Error found in CSV {os.path.basename(csv_path)} row {i + 2} ---")
+                param_info = ""
                 if "Parameter" in str(row_e):
                     match = re.search(r"Parameter (\d+)", str(row_e))
                     if match:
                         param_idx = int(match.group(1)) - 1
-                        col_name = sql_columns[param_idx]
-                        print(f"Problematic Column: {col_name} (Index {param_idx})")
-                print(f"Data: {dict(zip(sql_columns, row))}")
-                print(f"Error Details: {row_e}")
+                        param_info = f" (column: {sql_columns[param_idx]})"
+                print(f"Error at {os.path.basename(csv_path)} row {i + 2}{param_info}: {row_e}")
                 break
         cursor.fast_executemany = True
 

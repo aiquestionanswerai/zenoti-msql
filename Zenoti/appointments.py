@@ -69,7 +69,6 @@ WHERE TABLE_NAME = '{TABLE}' AND COLUMNPROPERTY(OBJECT_ID(TABLE_SCHEMA + '.' + T
 cursor.execute(identity_sql)
 identity_columns = [row[0] for row in cursor.fetchall()]
 
-print(f"Found {len(sql_columns)} SQL columns (identity: {', '.join(identity_columns) if identity_columns else 'none'})")
 
 # ==================================
 # Load CSV
@@ -79,8 +78,7 @@ df = pd.read_csv(
     dtype=str,
     keep_default_na=False
 )
-print(f"Processing CSV: {CSV_FILE}")
-print(f"Found {len(df):,} rows in {os.path.basename(CSV_FILE)}")
+print(f"Processing {len(df):,} rows from {os.path.basename(CSV_FILE)}")
 
 # ==================================
 # Align CSV Columns with SQL Headers
@@ -262,23 +260,19 @@ except (pyodbc.DataError, pyodbc.ProgrammingError) as e:
     print(f"Data insertion failed: {e}")
     conn.rollback()
 
-    # Debugging: Loop through rows to find the exact record causing the overflow
-    print("Searching for the problematic row...")
+    print("Searching for problematic row...")
     cursor.fast_executemany = False
     for i, row in enumerate(data_to_insert):
         try:
             cursor.execute(insert_sql, row)
         except (pyodbc.DataError, pyodbc.ProgrammingError) as row_e:
-            print(f"--- Error found in CSV row {i + 2} ---")
+            param_info = ""
             if "Parameter" in str(row_e):
-                # Extract parameter index if present in error message
                 match = re.search(r"Parameter (\d+)", str(row_e))
                 if match:
                     param_idx = int(match.group(1)) - 1
-                    col_name = sql_columns[param_idx]
-                    print(f"Problematic Column: {col_name} (Index {param_idx})")
-            print(f"Data: {dict(zip(sql_columns, row))}")
-            print(f"Error Details: {row_e}")
+                    param_info = f" (column: {sql_columns[param_idx]})"
+            print(f"Error at CSV row {i + 2}{param_info}: {row_e}")
             break
 finally:
     cursor.close()
