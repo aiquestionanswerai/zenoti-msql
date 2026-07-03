@@ -11,7 +11,20 @@ DRIVE_API = "https://www.googleapis.com/drive/v3/files"
 
 def _get_authed_session(credentials_json=None, credentials_file=None):
     if credentials_json:
-        info = json.loads(credentials_json)
+        try:
+            info = json.loads(credentials_json)
+        except json.JSONDecodeError as e:
+            raise ValueError(
+                f"GDRIVE_CREDENTIALS_JSON is not valid JSON: {e}. "
+                f"First 50 chars: {credentials_json[:50]!r}"
+            )
+        required = {"client_email", "token_uri", "private_key", "type"}
+        missing = required - set(info.keys())
+        if missing:
+            raise ValueError(
+                f"GDRIVE_CREDENTIALS_JSON missing fields: {missing}. "
+                f"Keys found: {list(info.keys())}"
+            )
         creds = service_account.Credentials.from_service_account_info(
             info, scopes=SCOPES
         )
