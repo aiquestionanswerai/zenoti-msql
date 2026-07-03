@@ -1,3 +1,4 @@
+import json
 import os
 import tempfile
 import requests
@@ -8,26 +9,37 @@ SCOPES = ["https://www.googleapis.com/auth/drive.readonly"]
 DRIVE_API = "https://www.googleapis.com/drive/v3/files"
 
 
-def _get_authed_session(credentials_file):
-    creds_path = credentials_file
-    if not os.path.isabs(creds_path):
-        creds_path = os.path.join(os.path.dirname(__file__), creds_path)
+def _get_authed_session(credentials_json=None, credentials_file=None):
+    if credentials_json:
+        info = json.loads(credentials_json)
+        creds = service_account.Credentials.from_service_account_info(
+            info, scopes=SCOPES
+        )
+    elif credentials_file:
+        creds_path = credentials_file
+        if not os.path.isabs(creds_path):
+            creds_path = os.path.join(os.path.dirname(__file__), creds_path)
 
-    if not os.path.exists(creds_path):
-        raise FileNotFoundError(
-            f"Service account credentials file not found: {creds_path}"
+        if not os.path.exists(creds_path):
+            raise FileNotFoundError(
+                f"Service account credentials file not found: {creds_path}"
+            )
+
+        creds = service_account.Credentials.from_service_account_file(
+            creds_path, scopes=SCOPES
+        )
+    else:
+        raise ValueError(
+            "Provide GDRIVE_CREDENTIALS_JSON (JSON string) or GDRIVE_CREDENTIALS_FILE (file path)"
         )
 
-    creds = service_account.Credentials.from_service_account_file(
-        creds_path, scopes=SCOPES
-    )
     creds.refresh(Request())
     session = requests.Session()
     session.headers["Authorization"] = f"Bearer {creds.token}"
     return session
 
 
-def get_csv_from_gdrive(folder_id, credentials_file):
+def get_csv_from_gdrive(folder_id, credentials_json=None, credentials_file=None):
     """Download all CSV files from a Google Drive folder to a temp directory.
 
     Returns the temp directory path (or single file path if only one CSV).
@@ -35,7 +47,9 @@ def get_csv_from_gdrive(folder_id, credentials_file):
     if not folder_id:
         raise ValueError("Google Drive folder ID is not set. Check your .env file.")
 
-    session = _get_authed_session(credentials_file)
+    session = _get_authed_session(
+        credentials_json=credentials_json, credentials_file=credentials_file
+    )
 
     query = f"'{folder_id}' in parents and mimeType='text/csv' and trashed=false"
     resp = session.get(

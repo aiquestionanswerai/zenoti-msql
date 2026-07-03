@@ -27,7 +27,8 @@ if CSV_SOURCE == "gdrive":
     from gdrive_helper import get_csv_from_gdrive
     CSV_FILE = get_csv_from_gdrive(
         os.getenv("GDRIVE_FOLDER_BLOCK_OUT"),
-        os.getenv("GDRIVE_CREDENTIALS_FILE", "service_account.json")
+        credentials_json=os.getenv("GDRIVE_CREDENTIALS_JSON"),
+        credentials_file=os.getenv("GDRIVE_CREDENTIALS_FILE", "service_account.json"),
     )
 
 if not all([SERVER, DATABASE, TABLE, CSV_FILE, DB_USER, DB_PASSWORD]):
