@@ -87,6 +87,8 @@ def upload_file_to_gdrive(local_path, folder_id, credentials_json=None, credenti
         headers={"Content-Type": f"multipart/related; boundary={boundary}"},
         data=body,
     )
+    if resp.status_code != 200:
+        print(f"Upload failed ({resp.status_code}): {resp.text}")
     resp.raise_for_status()
     result = resp.json()
     print(f"Uploaded to Drive: {result['name']} (id: {result['id']})")
