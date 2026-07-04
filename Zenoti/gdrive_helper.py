@@ -66,7 +66,7 @@ def get_drive_service():
         return None
 
     creds_info = json.loads(token_json)
-    creds = Credentials.from_authorized_user_info(creds_info, SCOPES)
+    creds = Credentials.from_authorized_user_info(creds_info)
 
     if creds.expired and creds.refresh_token:
         print("Refreshing Google OAuth token...")
