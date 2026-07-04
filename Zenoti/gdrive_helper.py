@@ -177,9 +177,8 @@ def get_csv_from_gdrive(folder_id, credentials_json=None, credentials_file=None)
     files = resp.json().get("files", [])
 
     if not files:
-        raise FileNotFoundError(
-            f"No CSV files found in Google Drive folder: {folder_id}"
-        )
+        print(f"SKIP: No CSV files found in Google Drive folder: {folder_id}")
+        return None
 
     download_dir = tempfile.mkdtemp(prefix="zenoti_gdrive_")
 

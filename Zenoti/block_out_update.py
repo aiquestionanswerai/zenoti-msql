@@ -30,6 +30,10 @@ if CSV_SOURCE == "gdrive":
         credentials_file=os.getenv("GDRIVE_CREDENTIALS_FILE", "service_account.json"),
     )
 
+if not CSV_FILE:
+    print("SKIP: No CSV file available for block_out. Exiting.")
+    exit(0)
+
 if not all([SERVER, DATABASE, TABLE, CSV_FILE, DB_USER, DB_PASSWORD]):
     missing = [
         k
