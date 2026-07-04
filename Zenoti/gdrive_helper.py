@@ -3,7 +3,10 @@ import os
 import tempfile
 import requests
 from google.oauth2 import service_account
+from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
+from googleapiclient.discovery import build
+from googleapiclient.http import MediaFileUpload
 
 SCOPES = ["https://www.googleapis.com/auth/drive"]
 DRIVE_API = "https://www.googleapis.com/drive/v3/files"
@@ -55,6 +58,38 @@ def _get_authed_session(credentials_json=None, credentials_file=None):
 UPLOAD_API = "https://www.googleapis.com/upload/drive/v3/files"
 
 
+def get_drive_service():
+    """Get Drive service using OAuth user credentials (personal account fallback)."""
+    token_json = os.getenv("GOOGLE_TOKEN_JSON")
+    if not token_json:
+        print("GOOGLE_TOKEN_JSON not set. Skipping fallback upload.")
+        return None
+
+    creds_info = json.loads(token_json)
+    creds = Credentials.from_authorized_user_info(creds_info, SCOPES)
+
+    if creds.expired and creds.refresh_token:
+        print("Refreshing Google OAuth token...")
+        creds.refresh(Request())
+        print("Token refreshed.")
+
+    return build("drive", "v3", credentials=creds)
+
+
+def _upload_via_oauth(local_path, folder_id):
+    """Upload using personal OAuth credentials via googleapiclient."""
+    service = get_drive_service()
+    if not service:
+        return None
+
+    filename = os.path.basename(local_path)
+    metadata = {"name": filename, "parents": [folder_id]}
+    media = MediaFileUpload(local_path, resumable=True)
+    result = service.files().create(body=metadata, media_body=media, fields="id,name").execute()
+    print(f"Uploaded to Drive (OAuth fallback): {result['name']} (id: {result['id']})")
+    return result["id"]
+
+
 def upload_file_to_gdrive(local_path, folder_id, credentials_json=None, credentials_file=None):
     """Upload a file to a Google Drive folder. Returns the file ID."""
     if not folder_id:
@@ -87,6 +122,14 @@ def upload_file_to_gdrive(local_path, folder_id, credentials_json=None, credenti
         headers={"Content-Type": f"multipart/related; boundary={boundary}"},
         data=body,
     )
+
+    if resp.status_code == 403 or (resp.status_code != 200 and "storageQuota" in resp.text):
+        print(f"Service account upload failed (storage limit). Trying OAuth fallback...")
+        fallback_id = _upload_via_oauth(local_path, folder_id)
+        if fallback_id:
+            return fallback_id
+        print("OAuth fallback also failed.")
+
     if resp.status_code != 200:
         print(f"Upload failed ({resp.status_code}): {resp.text}")
     resp.raise_for_status()

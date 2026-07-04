@@ -101,6 +101,9 @@ def main():
                 credentials_json=credentials_json,
                 credentials_file=credentials_file,
             )
+            if not filenames:
+                print(f"  SKIP: No CSVs found in Google Drive folder for {config['table_env']}. No data will be deleted.")
+                continue
         else:
             csv_path = os.getenv(f"CSV_FILE_{config['table_env'].replace('TABLE_', '')}")
             if csv_path and os.path.isdir(csv_path):
