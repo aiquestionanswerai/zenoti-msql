@@ -1,16 +1,20 @@
-	select * from BRONZE_ZENOTI_SALES_ACCRUAL
-	where sale_date >= '2025-12-01' 
-		and sale_date < '2026-01-01'
-	order by sale_date asc
+	SELECT *
+  FROM [dbo].[BRONZE_ZENOTI_SALES_ACCRUAL]
+  where sale_date >= '2026-06-01'
+    and sale_date < '2026-07-04'
+    order by sale_date desc
 
-
-	SELECT 
+    	SELECT
+		SUM(qty) AS total_qty,
 		SUM(sales_exc_tax) AS total_sales_exc_tax,
+		SUM(tax) AS total_tax,
 		SUM(sales_inc_tax) AS total_sales_inc_tax,
-		SUM(qty) AS total_qty
+		SUM(redeemed) AS total_redeemed,
+		SUM(collected) AS total_collected
+		
 	FROM BRONZE_ZENOTI_SALES_ACCRUAL
-	where sale_date >= '2025-12-01' 
-		and sale_date < '2026-01-01'
+	where sale_date >= '2026-06-01'
+    and sale_date < '2026-07-04'
 
 
 #################################################################################################################
@@ -35,8 +39,8 @@ where sale_date >= '2026-06-01'
             CAST(LEFT(booked_hours, CHARINDEX(':', booked_hours) - 1) AS INT) * 60 +
             CAST(SUBSTRING(booked_hours, CHARINDEX(':', booked_hours) + 1, 2) AS INT) AS booked_mins
         FROM [dbo].[BRONZE_ZENOTI_EMPLOYEE_SCHEDULES]
-        where date >= '2026-04-01' and
-	          date < '2026-05-01'  
+         where date >= '2026-06-01' and
+	           date < '2026-07-05'    
     )
     SELECT 
         -- Formats to HHHH:MM
@@ -52,25 +56,25 @@ where sale_date >= '2026-06-01'
 
   select * 
   FROM [dbo].[BRONZE_ZENOTI_EMPLOYEE_SCHEDULES]
-  where date >= '2026-04-01' and
-	date < '2026-05-01'  
-	order by date desc
+  where date >= '2026-06-01' and
+	date < '2026-07-05'  
+ order by date desc
   
   
   #################################################################################################################
   
   select *
   FROM [dbo].[BRONZE_ZENOTI_COST_OF_GOODS]
-  where transaction_date >= '2026-05-01'
-  and transaction_date < '2026-06-01'
+  where transaction_date >= '2026-06-01'
+  and transaction_date < '2026-07-05'
   order by transaction_date desc
   
   SELECT 
     SUM(qty) AS total_qty,
     SUM(cost_of_goods) AS total_cost_of_goods
-FROM BRONZE_ZENOTI_COST_OF_GOODS
-where transaction_date >= '2026-05-01'
-  and transaction_date < '2026-06-01'
+	FROM BRONZE_ZENOTI_COST_OF_GOODS
+	where transaction_date >= '2026-06-01'
+	  and transaction_date < '2026-07-05'
 
 #################################################################################################################
 
@@ -78,25 +82,26 @@ where transaction_date >= '2026-05-01'
 
 SELECT *
   FROM [dbo].[BRONZE_ZENOTI_CASH_COLLECTIONS]
-  where payment_date >= '2026-05-01'
-  and payment_date < '2026-06-01'
+  where payment_date >= '2026-06-01'
+  and payment_date < '2026-07-05'
   order by payment_date desc
 
   SELECT 
     SUM(sales_collected_exc_tax) AS total_sales_collected_exc_tax,
     SUM(tax_collected) as total_tax_collected,
     SUM(sales_collected_inc_tax) AS total_sales_collected_inc_tax,
-    sum(redeemed) as total_redeemed
-FROM BRONZE_ZENOTI_CASH_COLLECTIONS
-  where payment_date >= '2026-05-01'
-  and payment_date < '2026-06-01'
+    sum(redeemed) as total_redeemed,
+    sum(collected) as total_collected
+	FROM BRONZE_ZENOTI_CASH_COLLECTIONS
+	  where payment_date >= '2026-06-01'
+	  and payment_date < '2026-07-05'
 
   
   
   SELECT *
   FROM [dbo].[BRONZE_ZENOTI_APPOINTMENTS]
   where appointment_date >= '2026-06-01'
-  and appointment_date < '2026-06-28'
+  and appointment_date < '2026-07-05'
   order by appointment_date desc
   
 
