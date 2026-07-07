@@ -49,3 +49,20 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# --- Unrelated to pipeline (run_all.py / sql_helper.py) ---
+Zenoti/miner.py
+Zenoti/sales_report.py
+Zenoti/block_types.py
+Zenoti/appointments.spec
+Zenoti/block_out_update_v1.txt
+Zenoti/block_out_update_v2.txt
+Zenoti/query_for_update.txt
+Zenoti/dashboard_load_error.png
+Zenoti/download.png
+Zenoti/old/
+Zenoti/logs/
+Zenoti/appointment/
+Zenoti/blocks/
+Zenoti/cash/
+Zenoti/cost_of_goods/

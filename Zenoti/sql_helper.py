@@ -56,6 +56,13 @@ TABLE_CONFIG = [
         "folder_env": "GDRIVE_FOLDER_BLOCK_OUT",
         "date_format": "%m/%d/%Y",
     },
+    {
+        "table_env": "TABLE_MEMBERSHIPS",
+        "date_column": "sale_date",
+        "csv_prefix": "memberships",
+        "folder_env": "GDRIVE_FOLDER_MEMBERSHIPS",
+        "date_format": "%Y/%m/%d",
+    },
 ]
 
 DATE_RANGE_PATTERN = re.compile(r"(\d{4}-\d{2}-\d{2})_to_(\d{4}-\d{2}-\d{2})")

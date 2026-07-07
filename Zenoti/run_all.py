@@ -14,6 +14,7 @@ SCRIPTS = [
     "block_out_update.py",
     "cost_of_goods.py",
     "cash.py",
+    "memberships.py",
 ]
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
