@@ -91,7 +91,13 @@ def _upload_via_oauth(local_path, folder_id):
 
 
 def upload_file_to_gdrive(local_path, folder_id, credentials_json=None, credentials_file=None):
-    """Upload a file to a Google Drive folder. Returns the file ID."""
+    """Upload a file to a Google Drive folder. Returns the file ID.
+
+    Attempts a service account upload first. If that fails with a 403 (storage
+    quota exceeded), falls back to an OAuth upload. Exactly one upload path is
+    taken per call — the function returns immediately after the first success so
+    duplicate files are never created in Google Drive.
+    """
     if not folder_id:
         raise ValueError("Google Drive folder ID is required for upload.")
 
@@ -116,6 +122,7 @@ def upload_file_to_gdrive(local_path, folder_id, credentials_json=None, credenti
         f"Content-Type: text/plain\r\n\r\n"
     ).encode("utf-8") + file_content + f"\r\n--{boundary}--".encode("utf-8")
 
+    print(f"Attempting service account upload for: {filename}")
     resp = session.post(
         UPLOAD_API,
         params={"uploadType": "multipart", "fields": "id,name"},
@@ -123,19 +130,32 @@ def upload_file_to_gdrive(local_path, folder_id, credentials_json=None, credenti
         data=body,
     )
 
-    if resp.status_code == 403 or (resp.status_code != 200 and "storageQuota" in resp.text):
-        print(f"Service account upload failed (storage limit). Trying OAuth fallback...")
+    # Service account upload succeeded — return immediately, no fallback needed.
+    if resp.status_code == 200:
+        result = resp.json()
+        print(f"Uploaded to Drive (service account): {result['name']} (id: {result['id']})")
+        return result["id"]
+
+    # Storage quota exceeded — fall back to OAuth upload exclusively.
+    if resp.status_code == 403 or "storageQuota" in resp.text:
+        print(
+            f"Service account upload failed with {resp.status_code} (storage quota). "
+            f"Trying OAuth fallback..."
+        )
         fallback_id = _upload_via_oauth(local_path, folder_id)
         if fallback_id:
             return fallback_id
-        print("OAuth fallback also failed.")
+        raise RuntimeError(
+            f"OAuth fallback upload also failed for {filename}. "
+            f"Service account error was {resp.status_code}: {resp.text}"
+        )
 
-    if resp.status_code != 200:
-        print(f"Upload failed ({resp.status_code}): {resp.text}")
+    # Any other non-200 response is a hard failure.
+    print(f"Service account upload failed ({resp.status_code}): {resp.text}")
     resp.raise_for_status()
-    result = resp.json()
-    print(f"Uploaded to Drive: {result['name']} (id: {result['id']})")
-    return result["id"]
+    # raise_for_status() will have raised above; this line is unreachable but
+    # satisfies type checkers that expect a return value on all paths.
+    return None  # pragma: no cover
 
 
 def list_csv_filenames(folder_id, credentials_json=None, credentials_file=None):
