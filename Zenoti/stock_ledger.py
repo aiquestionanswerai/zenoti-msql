@@ -25,8 +25,13 @@ if CSV_SOURCE == "gdrive":
     from gdrive_helper import get_csv_from_gdrive
     CSV_FILE = get_csv_from_gdrive(
         os.getenv("GDRIVE_FOLDER_STOCK_LEDGER"),
-        os.getenv("GDRIVE_CREDENTIALS_FILE", "service_account.json")
+        credentials_json=os.getenv("GDRIVE_CREDENTIALS_JSON"),
+        credentials_file=os.getenv("GDRIVE_CREDENTIALS_FILE", "service_account.json"),
     )
+
+if not CSV_FILE:
+    print("SKIP: No CSV file available for stock ledger. Exiting.")
+    exit(0)
 
 if not all([SERVER, DATABASE, DB_USER, DB_PASSWORD]):
     missing = [k for k, v in {"SERVER": SERVER, "DATABASE": DATABASE, "DB_USER": DB_USER, "DB_PASSWORD": DB_PASSWORD}.items() if not v]
