@@ -41,7 +41,7 @@ if not all([SERVER, DATABASE, DB_USER, DB_PASSWORD]):
 # Build Connection String
 # ==================================
 conn_str = (
-    f"DRIVER={{ODBC Driver 17 for SQL Server}};"
+    f"DRIVER={{ODBC Driver 18 for SQL Server}};"
     f"SERVER={SERVER};"
     f"DATABASE={DATABASE};"
     f"UID={DB_USER};"
@@ -258,7 +258,7 @@ for csv_path in csv_paths:
                         param_idx = int(match.group(1)) - 1
                         col_name = sql_columns[param_idx]
                         print(f"Problematic Column: {col_name} (Index {param_idx})")
-                print(f"Data: {dict(zip(sql_columns, row))}")
+                print(f"Data: {dict(zip(insert_columns, row))}")
                 print(f"Error Details: {row_e}")
                 break
 
