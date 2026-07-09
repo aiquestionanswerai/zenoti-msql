@@ -63,6 +63,13 @@ TABLE_CONFIG = [
         "folder_env": "GDRIVE_FOLDER_MEMBERSHIPS",
         "date_format": "%Y/%m/%d",
     },
+    {
+        "table_env": "TABLE_STOCK_LEDGER",
+        "date_column": "transaction_date",
+        "csv_prefix": "stock_ledger",
+        "folder_env": "GDRIVE_FOLDER_STOCK_LEDGER",
+        "date_format": "%Y/%m/%d",
+    },
 ]
 
 DATE_RANGE_PATTERN = re.compile(r"(\d{4}-\d{2}-\d{2})_to_(\d{4}-\d{2}-\d{2})")

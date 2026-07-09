@@ -15,6 +15,7 @@ SCRIPTS = [
     "cost_of_goods.py",
     "cash.py",
     "memberships.py",
+    "stock_ledger.py",
     "business_kpi.py",
 ]
 
